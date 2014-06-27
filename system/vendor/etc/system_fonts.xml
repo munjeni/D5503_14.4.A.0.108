@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Vendor System Fonts
+-->
+<familyset>
+    <family>
+        <nameset>
+            <name>sst</name>
+        </nameset>
+        <fileset>
+            <file>.SSTVietnamese-Roman.ttf</file>
+            <file>.SSTVietnamese-Bold.ttf</file>
+        </fileset>
+    </family>
+</familyset>

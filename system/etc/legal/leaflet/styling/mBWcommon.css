@@ -1,0 +1,164 @@
+/* Common styling for the mobile web guide - black and white screen */
+
+html, body, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, div, blockquote, table, caption {
+  font-family: arial, verdana, helvetica, mingliu, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+tt, code, span.system, pre, span.label {
+  font-weight: bold;
+}
+
+/* Styling for the notes image */
+td.image {
+  vertical-align: top;
+  text-align: center;
+}
+
+span.keep-together {
+  white-space: nowrap;
+}
+
+span.bold {
+  font-weight: bold;
+}
+
+div.breadcrumbs {
+  font-size: 18px;
+  color: white;
+}
+
+div.breadcrumbs a:visited, a:link {
+  color: white;
+}
+
+html, body, h5, h6, p, dl, dt, dd, div, blockquote, table, caption, pre.long, input {
+  font-size: 20px;
+}
+
+tt, code, span.system, pre {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  margin-top: 35px;
+  font-size: 21px;
+}
+
+h1.front {
+  color: yellow;
+}
+
+h3, h4 {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+h1.tasktitle, h2.tasktitle, h3.tasktitle, h4.tasktitle {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+em {
+  font-weight: inherit;
+}
+
+h1, h3, h4, h5, b, caption, th, th p, p.title {
+  font-weight: bold;
+}
+
+p.first_index_term {
+}
+
+td {
+  vertical-align: top;
+}
+
+td p {
+  margin: 2px;
+}
+
+table {
+  empty-cells: show;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  vertical-align: text-top;
+}
+
+div.prevnext {
+  margin-top: 30px;
+}
+
+html, body, h1, h2, h3, h4, h5, h6 {
+  display: block;
+}
+
+tt, i, b, em, code, a, img, span {
+  display: inline;
+}
+
+pre, pre.long {
+  white-space: pre;
+}
+
+img {
+  border-style: none;
+}
+
+em.uicontrol {
+  font-weight: normal;
+  font-style: italic;
+}
+
+hr {
+  margin: 0px 0 20px 0;
+  border: solid 0px black;
+}
+
+tr.odd {
+  background-color: #E3E4E4;
+}
+
+#tabs ul li {
+  margin: 1px;
+  padding: 0;
+  display: inline;
+  text-align: center;
+  list-style: none;
+}
+#tabs li a, #tabs li.active {
+  white-space: nowrap;
+  line-height: 200%;
+  color: black;
+  background-color: yellow;
+  border: 1px outset;
+  padding: 3px;
+  text-decoration: none;
+  display: inline;
+}
+#tabs li.active {
+  color: white;
+  background-color: green;
+}
+#tabs li a:hover {
+  color: white;
+  background-color: green;
+}
+
+a:visited, a:link {
+  color: orange;
+}
+
+a.result, span.current {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+div.result {
+  text-align: center;
+}

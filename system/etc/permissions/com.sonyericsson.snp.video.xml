@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sonyericsson.snp.video.api"
+        file="/system/framework/com.sonyericsson.snp.video_impl.jar"/>
+    <library name="com.sonyericsson.snp.video.api_3"
+        file="/system/framework/com.sonyericsson.snp.video_impl.jar"/>
+</permissions>
+

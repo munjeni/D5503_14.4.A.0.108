@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright (C) 2010-2012 Sony Ericsson Mobile Communications AB.
+ * Copyright (C) 2012 Sony Mobile Communications AB.
+ * All rights, including trade secret rights, reserved.
+ */
+-->
+<permissions>
+    <library name="qcsemcserviceif"
+             file="/system/framework/qcsemcserviceif.jar"/>
+</permissions>

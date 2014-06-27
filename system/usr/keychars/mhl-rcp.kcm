@@ -1,0 +1,28 @@
+# Copyright (C) 2013 Sony Mobile Communications AB.
+# All rights, including trade secret rights, reserved.
+#
+# This is a key character map file for a mhl device.
+# It defines fallback actions that enable the user to navigate
+# the user interface by pressing TV remote navigation keys.
+
+type SPECIAL_FUNCTION
+
+key VENDOR_TV_CENTER {
+    base:                               fallback DPAD_CENTER
+}
+
+key VENDOR_TV_UP {
+    base:                               fallback DPAD_UP
+}
+
+key VENDOR_TV_LEFT {
+    base:                               fallback DPAD_LEFT
+}
+
+key VENDOR_TV_RIGHT {
+    base:                               fallback DPAD_RIGHT
+}
+
+key VENDOR_TV_DOWN {
+    base:                               fallback DPAD_DOWN
+}

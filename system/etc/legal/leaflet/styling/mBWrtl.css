@@ -1,0 +1,67 @@
+/* Styling for right to left languages */
+
+span.italic {
+  font-weight: bold;
+}
+
+h4, h5, h6, i, em {
+  font-weight: bold;
+}
+
+p.secondary_index_term {
+  margin-right: 5mm;
+}
+
+img.float {
+  float: left;
+}
+
+img.start {
+  float: right;
+}
+
+ul, ol {
+  margin-bottom: 15px;
+  margin-right: 0;
+  padding-right: 30px;
+}
+
+/* Styling for navigation tabs */
+#tabs ul {
+  margin: 0;
+  padding-right: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  list-style-type: none;
+  font-size: 18px;
+}
+
+div a.subjectlink {
+  margin-right: 25px;
+}
+
+a.subjectlink {
+  display: list-item;
+  list-style-image: url(../images/arrow-rtl.png);
+  margin-right: 15px;
+  color: orange;
+  text-decoration: none;
+}
+
+a.subjectlink:hover, a.subjectlink:active {
+  display: list-item;
+  list-style-image: url(../images/arrow-red-rtl.png);
+  color: orange;
+  background-color: green;
+}
+
+div.touch-functionality {
+  border-right: 4px solid white;
+  padding-right: 10px;
+  margin-right: 3px;
+}
+
+div.touch-functionality div.touch-functionality {
+  border-right: 0;
+  padding-right: 0;
+}

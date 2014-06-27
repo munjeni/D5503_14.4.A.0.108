@@ -1,0 +1,289 @@
+/* Common styling for the mobile web guide */
+html,body,h1,h2,h3,h4,h5,h6,p,dl,dt,dd,div,blockquote,table,caption,.p {
+   font-family: 'Helvetica neue', Helvetica, Arial, Tahoma, Verdana,
+      sans-serif;
+}
+body {
+   margin-bottom: 30px;
+}
+div>a {
+   display: block;
+   margin-left: 8px;
+   border-top: 1px;
+   border-top-color: whitesmoke;
+   border-top-style: solid;
+   padding-top: 10px;
+   margin-top: 10px;
+   margin-left: 0px;
+   padding-left: 10px;
+   font-size: 16px;
+   color: black;
+   text-decoration: none;
+   font-size: 16px;
+   background-image: url(../images/toc_arrow.png);
+   background-repeat: no-repeat;
+   background-position-x: 95%;
+   background-position-y: 80%;
+   padding-right: 30px;
+   
+}
+
+html[dir="rtl"] div>a {
+   background-position-x: 5%;
+   padding-left: 40px;
+   padding-right: 10px;
+}
+
+html[dir="rtl"]>a {
+   /*background: whitesmoke;*/
+   
+}
+
+div>a:visited {
+   color: black;
+}
+
+div>a[href="no-title.html"] {
+   display: none;
+}
+a {
+   color: #2aabe4;
+}
+
+a:visited {
+   color: #2aabe4;
+}
+
+h1>img {
+   margin-right: 5px;
+   display: block;
+   float: left;
+   margin-top: 3px;
+}
+
+html[dir="rtl"] h1>img {
+   margin-left: 5px;
+   float: right;
+}
+
+ul {
+   padding-left: 18px;
+}
+
+html[dir="rtl"] ul {
+   padding-right: 18px;
+}
+
+span>img {
+   padding-right: 9px;
+   margin-top: 5px;
+   vertical-align: sub;
+}
+
+html[dir="rtl"] span>img {
+   padding-right: 0px;
+   padding-left: 9px;
+}
+
+div>p>img {
+   display: block;
+   float: left;
+   margin-right: 10px;
+}
+
+html[dir="rtl"] div>p>img {
+   display: block;
+   float: right;
+   margin-left: 10px;
+}
+
+tt,code,span.system,pre,span.label {
+   font-weight: bold;
+}
+
+/* Styling for the notes image */
+td.image {
+   vertical-align: top;
+   text-align: center;
+}
+
+span.keep-together {
+   white-space: nowrap;
+}
+
+span.bold {
+   font-weight: bold;
+}
+
+html,body,h5,h6,p,dl,dt,dd,div,blockquote,table,caption,pre.long,input {
+   font-size: 14px;
+   line-height: 17px;
+}
+
+.p {
+   margin-top: 15px;
+   margin-left: 8px;
+}
+
+tt,code,span.system,pre {
+   font-size: 20px;
+}
+
+p {
+   margin-left: 8px;
+}
+
+h1:before {
+   display: block;
+   background: black;
+   background-image: url(../images/sony_mobile.png);
+   background-repeat: no-repeat;
+   background-position-x: 20px;
+   background-position-y: 12px;
+   content: "";
+   height: 46px;
+   margin: -0.5em;
+   margin-bottom: 10px;
+}
+
+html[dir="rtl"] h1:before {
+  
+   background-position-x: 98%;
+}
+
+h1 { /*background-color: #505050;*/
+   margin: -8px;
+   margin-bottom: 1px;
+   font-size: 23px;
+   line-height: 33px;
+   padding: 0.5em;
+   padding-top: 10px;
+   padding-bottom: 0px;
+   padding-left: 0.5em;
+   padding-right: 0.5em;
+}
+
+h2 {
+   margin-top: 35px;
+   font-size: 21px;
+}
+
+h3,h4 {
+   margin-top: 30px;
+   font-size: 20px;
+}
+
+h1.tasktitle,h2.tasktitle,h3.tasktitle,h4.tasktitle {
+   margin-top: 30px;
+   font-size: 20px;
+}
+
+em {
+   font-weight: inherit;
+}
+
+b,caption,th,th p,p.title {
+   font-weight: bold;
+}
+
+p.first_index_term {
+   
+}
+
+td {
+   vertical-align: top;
+}
+
+td p {
+   margin: 2px;
+}
+
+table {
+   empty-cells: show;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   vertical-align: text-top;
+}
+
+div.prevnext {
+   margin-top: 30px;
+}
+
+html,body,h1,h2,h3,h4,h5,h6 {
+   display: block;
+}
+
+tt,i,b,em,code,a,img,span {
+   display: inline;
+}
+
+pre,pre.long {
+   white-space: pre;
+}
+
+img {
+   border-style: none;
+}
+
+em.uicontrol {
+   font-weight: normal;
+   font-style: italic;
+}
+
+hr {
+   margin: 0px 0 20px 0;
+   border: solid 0px black;
+}
+
+tr.odd {
+   background-color: #E3E4E4;
+}
+
+/* Navigation buttons */
+#tabs ul li {
+   padding: 0;
+   display: inline;
+   text-align: center;
+   list-style: none;
+}
+
+#tabs li a,#tabs li.active {
+   white-space: nowrap;
+   line-height: 200%;
+   color: black;
+   background-color: #E3E4E4;
+   border: 1px outset;
+   padding: 3px;
+   text-decoration: none;
+   display: inline;
+}
+
+#tabs li.active {
+   color: white;
+   background-color: black;
+}
+
+#tabs li a:hover {
+   color: white;
+   background-color: black;
+}
+
+a.result,span.current {
+   margin-left: 6px;
+   margin-right: 6px;
+}
+
+div.result {
+   text-align: center;
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 2) , all and
+      (min--moz-device-pixel-ratio: 2) , all and
+      (-o-min-device-pixel-ratio: 2/1) , all and
+      (min-device-pixel-ratio: 2) , all and (min-resolution: 192dpi) ,
+      all and (min-resolution: 2dppx) {
+   h1:before {
+      background-image: url(../images/sony_mobile@2x.png);
+      background-size: 73px 26px;
+   }
+}

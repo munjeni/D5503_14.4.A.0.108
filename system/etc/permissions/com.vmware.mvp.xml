@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This handset has been VMware Switch enabled -->
+<permissions>
+    <feature name="com.vmware.mvp"/>
+</permissions>

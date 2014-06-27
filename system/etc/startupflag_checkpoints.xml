@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+List of checkpoints for StartupFlag application
+
+The following attributes are applicable to all checkpoints:
+id       - ID of the checkpoint. More info at
+           https://wiki.sonyericsson.net/androiki/PLD_System_Core/Startup_Flag_Service#Checkpoints
+name     - Name of the checkpoint. More info at
+           https://wiki.sonyericsson.net/androiki/PLD_System_Core/Startup_Flag_Service#Checkpoints
+status   - Status of the checkpoint:
+           "disabled"    - checkpoint disabled and should not be reached;
+           "enabled"     - checkpoint enabled and should be reached;
+           "conditional" - checkpoint enabled, but can be disabled. For example if related hardware
+                           was not detected in the phone (NFC, Felica, etc.).
+
+The following attributes are only applicable to certain types of checkpoints:
+Checkpoint name:           Attribute:
+MEDIA_SCANNER_FINISHED     count - minimum count of media scanner finished intents, which triggers
+                                   checkpoint reached state.
+
+-->
+
+<Checkpoints>
+    <Checkpoint id="1" name="BOOT_COMPLETED" status="enabled"/>
+    <Checkpoint id="2" name="MEDIA_SCANNER_FINISHED" status="enabled" count="2"/>
+    <Checkpoint id="3" name="TOUCH_CONFIRMED" status="enabled"/>
+    <Checkpoint id="4" name="BATTERY_CAPACITY_CHARGED" status="enabled"/>
+    <Checkpoint id="5" name="NFC_CHIP_READY" status="conditional"/>
+    <Checkpoint id="6" name="EARLY_CRASH_DETECTION" status="enabled"/>
+    <Checkpoint id="7" name="ALL_MODEMS_OK" status="enabled"/>
+</Checkpoints>

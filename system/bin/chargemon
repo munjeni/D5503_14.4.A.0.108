@@ -1,0 +1,215 @@
+#!/system/bin/sh
+#
+# Recovery boot script for Xperia Z1 Compact by Munjeni @ 2014
+# Do not remove header, thanks & Enjoy!
+#
+
+set +x
+OLD_PATH="$PATH"
+export PATH="/system/xbin:/system/bin:/sbin"
+
+CHARGEMONLOG="/data/local/tmp/chargemon.log"
+
+TIMING_TRICK_FOR_RIC() {
+  echo "$*" >> ${CHARGEMONLOG}
+  $* 2>&1 >> ${CHARGEMONLOG}
+  _RET=$?
+  echo "RET=${_RET}" >> ${CHARGEMONLOG}
+  return ${_RET}
+}
+
+if [ ! -f /sbin/chargemon ]; then
+
+  # fix for system ro bug in CWM mode
+  /system/xbin/busybox blockdev --setrw /dev/block/platform/msm_sdcc.1/by-name/system
+
+  /system/xbin/busybox rm -rf ${CHARGEMONLOG}
+  
+  TIMING_TRICK_FOR_RIC /system/xbin/busybox mount -o remount,rw rootfs /
+  TIMING_TRICK_FOR_RIC /system/xbin/busybox mount -o remount,rw /system
+  
+  # copy busybox
+  /system/xbin/busybox cp -fr /system/xbin/busybox /sbin/busybox
+  /system/xbin/busybox chown root.root /sbin/busybox
+  /system/xbin/busybox chmod 4755 /sbin/busybox
+  
+  # check if ric is stock, if yes than rename ric to ric.bak & create new ric
+  if [ -f /sbin/ric ]; then
+    /sbin/busybox dd if=/sbin/ric of=/sbin/ric.bin bs=1 count=3 skip=1
+    [ "`/sbin/busybox cat /sbin/ric.bin`" = "ELF" ] && /sbin/busybox mv /sbin/ric /sbin/ric.bak
+    /sbin/busybox rm -rf /sbin/ric.bin
+  fi
+  
+  # create a new ric
+  /sbin/busybox echo "`/sbin/busybox printf '\x23\x21\x2F\x73\x79\x73\x74\x65\x6D\x2F\x62\x69\x6E\x2F\x73\x68'`" > /sbin/ric
+  /sbin/busybox echo "" >> /sbin/ric
+  /sbin/busybox echo 'while [ ! "`getprop init.svc.bootanim`" = "stopped" ]; do' >> /sbin/ric
+  /sbin/busybox echo "  echo 0 > /sys/kernel/security/sony_ric/enable" >> /sbin/ric
+  /sbin/busybox echo "done" >> /sbin/ric
+  
+  /sbin/busybox chmod 755 /sbin/ric
+  
+  # check if mr is stock, if yes than rename mr to mr.stock & create new mr
+  if [ -f /system/bin/mr ]; then
+    /sbin/busybox dd if=/system/bin/mr of=/sbin/mr.bin bs=1 count=3 skip=1
+    [ "`/sbin/busybox cat /sbin/mr.bin`" = "ELF" ] && /sbin/busybox mv /system/bin/mr /system/bin/mr.stock
+    /sbin/busybox rm -rf /sbin/mr.bin
+  fi
+  
+  # create a new mr
+  /sbin/busybox echo "`/sbin/busybox printf '\x23\x21\x2F\x73\x79\x73\x74\x65\x6D\x2F\x62\x69\x6E\x2F\x73\x68'`" > /system/bin/mr
+  /sbin/busybox echo "" >> /system/bin/mr
+  /sbin/busybox echo "# MR Wrapper, part of XZDualRecovery" >> /system/bin/mr
+  /sbin/busybox echo "# This will make sure the command file survives if it exists." >> /system/bin/mr
+  /sbin/busybox echo "# Patched to work by Tungstwenty from XDA, thanks bro!" >> /system/bin/mr
+  /sbin/busybox echo "" >> /system/bin/mr
+  /sbin/busybox echo 'if [ -f "/cache/recovery/command" ]; then' >> /system/bin/mr
+  /sbin/busybox echo "        /system/xbin/busybox cp -fr /cache/recovery/command /cache/recovery/command.xzdr" >> /system/bin/mr
+  /sbin/busybox echo "fi" >> /system/bin/mr
+  /sbin/busybox echo "" >> /system/bin/mr
+  /sbin/busybox echo "/system/bin/mr.stock" >> /system/bin/mr
+  /sbin/busybox echo 'ECOD=$?' >> /system/bin/mr
+  /sbin/busybox echo "" >> /system/bin/mr
+  /sbin/busybox echo 'if [ -f "/cache/recovery/command.xzdr" ] && [ ! -f "/cache/recovery/command" ]; then' >> /system/bin/mr
+  /sbin/busybox echo "        /system/xbin/busybox mv /cache/recovery/command.xzdr /cache/recovery/command" >> /system/bin/mr
+  /sbin/busybox echo "fi" >> /system/bin/mr
+  /sbin/busybox echo "" >> /system/bin/mr
+  /sbin/busybox echo 'exit $ECOD' >> /system/bin/mr
+  
+  /sbin/busybox chown root.shell /system/bin/mr
+  /sbin/busybox chmod 755 /system/bin/mr
+
+  # self copy our script and change /system/bin/sh /sbin/busybox sh since we need to umount system which will be bussy if script use sh from system partition!
+  /sbin/busybox cp -fr /system/bin/chargemon /sbin/chargemon
+  /sbin/busybox chmod 755 /sbin/chargemon
+  # replace string
+  /sbin/busybox sed -i 's/system\/bin\/sh/sbin\/busybox sh/g' /sbin/chargemon
+
+  # flag to indicate if copied cript is not executed
+  /sbin/busybox echo "" > /no_executed
+
+  export PATH="${OLD_PATH}"
+
+fi
+
+# execute self copied script | skip our call if called from self copied script to prevent loop
+if [ -f /sbin/chargemon ]; then
+  if [ -f /no_executed ]; then
+    /sbin/busybox rm -rf /no_executed
+    exec /sbin/chargemon
+    exit 0
+  fi
+fi
+
+setled() {
+  if [ "$1" = "blink" ]; then
+    a=0
+    while [ $a -lt 10 ]
+    do
+      /sbin/busybox echo "$2" > /sys/class/leds/led:rgb_red/brightness
+      /sbin/busybox echo "$3" > /sys/class/leds/led:rgb_green/brightness
+      /sbin/busybox echo "$4" > /sys/class/leds/led:rgb_blue/brightness
+      /sbin/busybox usleep 100000
+      /sbin/busybox echo 0 > /sys/class/leds/led:rgb_red/brightness
+      /sbin/busybox echo 0 > /sys/class/leds/led:rgb_green/brightness
+      /sbin/busybox echo 0 > /sys/class/leds/led:rgb_blue/brightness
+      /sbin/busybox usleep 100000
+      a=`/sbin/busybox expr $a + 1`
+    done
+  elif [ "$1" = "on" ]; then
+    /sbin/busybox echo "$2" > /sys/class/leds/led:rgb_red/brightness
+    /sbin/busybox echo "$3" > /sys/class/leds/led:rgb_green/brightness
+    /sbin/busybox echo "$4" > /sys/class/leds/led:rgb_blue/brightness
+    /sbin/busybox usleep 2000000
+  else
+    /sbin/busybox echo "0" > /sys/class/leds/led:rgb_red/brightness
+    /sbin/busybox echo "0" > /sys/class/leds/led:rgb_green/brightness
+    /sbin/busybox echo "0" > /sys/class/leds/led:rgb_blue/brightness
+  fi
+}
+
+# triger keys & blink blue
+/sbin/busybox cat /dev/input/event4 > /dev/keycheck &
+setled blink 0 0 255
+
+# trigger vibration
+/sbin/busybox echo '200' > /sys/class/timed_output/vibrator/enable
+
+/sbin/busybox usleep 500000
+killall -9 $!
+
+if [ -s /dev/keycheck ] || [ -f /cache/recovery/boot ] || [ -e /cache/recovery/command ]; then
+
+  /sbin/busybox rm -rf /cache/recovery/boot
+
+  # blue light to indicate we are booting into recovery
+  setled on 0 0 255
+  setled off
+
+	for SVCRUNNING in $(getprop | /sbin/busybox grep -E '^\[init\.svc\..*\]: \[running\]'); do
+		SVCNAME=$(/sbin/busybox expr ${SVCRUNNING} : '\[init\.svc\.\(.*\)\]:.*')
+		stop ${SVCNAME}
+	done
+
+  kill -9 $(ps | /sbin/busybox grep rmt_storage | /sbin/busybox grep -v "grep" | /sbin/busybox awk -F' ' '{print $2}')
+
+  ### debug - to check if there is no things runing from /system ; Note - if there is a thing from system our
+  ### script will not work corectly since system unmount will fail! If something fail simple uncoment lines and check ps.log for proccesses from system partition
+  # /sbin/busybox ps > /data/local/tmp/ps.log
+  # /sbin/busybox chmod 777 /data/local/tmp/ps.log 
+
+  /sbin/busybox umount -l /acct
+  /sbin/busybox umount -l /dev/cpuctl
+  /sbin/busybox umount -l /dev/pts
+  /sbin/busybox umount -l /mnt/asec
+  /sbin/busybox umount -l /mnt/obb
+  /sbin/busybox umount -l /mnt/qcks
+  /sbin/busybox umount -l /mnt/idd
+  /sbin/busybox umount -l /data/idd
+  /sbin/busybox umount -l /data
+  /sbin/busybox umount -l /lta-label
+  /sbin/busybox umount -l /storage/sdcard1
+  /sbin/busybox umount -l /cache
+  /sbin/busybox umount -l /proc
+  /sbin/busybox umount -l /sys
+
+  # copy recovery
+  /sbin/busybox mkdir /recovery
+  /sbin/busybox cp -fr /system/bin/recovery.munjeni.gz /recovery/recovery.munjeni.gz
+  cd /recovery
+
+  /sbin/busybox umount -l /system
+
+  /sbin/busybox gunzip < recovery.munjeni.gz | /sbin/busybox cpio -i -d
+  /sbin/busybox chroot /recovery /init
+
+fi
+
+#==========================================================================================================================
+# continue normal booting
+
+# create init.d folder if not exist
+[ ! -d /system/etc/init.d ] && /sbin/busybox mkdir /system/etc/init.d
+
+# disable sony ric security
+TIMING_TRICK_FOR_RIC /sbin/busybox mount -t securityfs securityfs -o nosuid,nodev,noexec /sys/kernel/security
+TIMING_TRICK_FOR_RIC /sbin/busybox mkdir -p /sys/kernel/security/sony_ric
+TIMING_TRICK_FOR_RIC /sbin/busybox chmod 755 /sys/kernel/security/sony_ric
+TIMING_TRICK_FOR_RIC /sbin/busybox echo 0 > /sys/kernel/security/sony_ric/enable
+
+# remount ro
+TIMING_TRICK_FOR_RIC /sbin/busybox mount -o remount,ro rootfs /
+TIMING_TRICK_FOR_RIC /sbin/busybox mount -o remount,ro /system
+
+# red light to indicate we are booting into android
+setled on 255 0 0
+setled off
+
+export PATH="${OLD_PATH}"
+
+# run init.d scripts
+/system/xbin/busybox run-parts /system/etc/init.d
+
+exec /system/bin/chargemon.stock
+
+exit 0
