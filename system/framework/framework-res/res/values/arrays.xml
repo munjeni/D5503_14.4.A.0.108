@@ -753,4 +753,23 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
+    <string-array name="reboot_options">
+        <item>@string/global_action_reboot_normal</item>
+        <item>@string/global_action_reboot_recovery</item>
+        <item>@string/global_action_reboot_bootloader</item>
+        <item>@string/global_action_reboot_flashmode</item>
+        <item>@string/safeMode</item>
+        <item>@string/global_action_reboot_emergency_download</item>
+    </string-array>
+    <string-array name="reboot_actions">
+        <item>normal</item>
+        <item>recovery</item>
+        <item>bootloader</item>
+        <item>oem-53</item>
+        <item>safemode</item>
+        <item>edl</item>
+    </string-array>
+    <string-array name="notification_light_package_mapping">
+        <item>com.google.android.gsf|com.google.android.talk</item>
+    </string-array>
 </resources>

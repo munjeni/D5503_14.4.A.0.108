@@ -30,7 +30,7 @@
     <bool name="config_unplugTurnsOnScreen">true</bool>
     <bool name="config_animateScreenLights">true</bool>
     <bool name="config_enableScreenshotChord">true</bool>
-    <bool name="config_allowAllRotations">false</bool>
+    <bool name="config_allowAllRotations">true</bool>
     <bool name="config_reverseDefaultRotation">false</bool>
     <bool name="config_deskDockEnablesAccelerometer">true</bool>
     <bool name="config_carDockEnablesAccelerometer">true</bool>
@@ -116,7 +116,7 @@
     <bool name="config_update_existing_applications_only">true</bool>
     <bool name="config_enable_glove_mode">true</bool>
     <bool name="config_wifi_use_iw_for_auto_regulatory_domain">true</bool>
-    <bool name="config_enable_data_failure_dialog">false</bool>
+    <bool name="config_enable_data_failure_dialog">true</bool>
     <bool name="config_rotationLockToggleSupported">false</bool>
     <bool name="config_deactivate_tether_after_sim_refresh_reset">false</bool>
     <bool name="lockscreen_isPortrait">true</bool>

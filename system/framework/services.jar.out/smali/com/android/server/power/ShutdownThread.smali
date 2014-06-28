@@ -250,7 +250,11 @@
 
     .line 237
     .local v1, "pd":Landroid/app/ProgressDialog;
-    const v2, 0x10400bf
+    sget-boolean v2, Lcom/android/server/power/ShutdownThread;->mReboot:Z
+
+    if-eqz v2, :cond_2
+
+    const v2, 0x104080f
 
     invoke-virtual {p0, v2}, Landroid/content/Context;->getText(I)Ljava/lang/CharSequence;
 
@@ -259,7 +263,7 @@
     invoke-virtual {v1, v2}, Landroid/app/AlertDialog;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 238
-    const v2, 0x10400c3
+    const v2, 0x1040810
 
     invoke-virtual {p0, v2}, Landroid/content/Context;->getText(I)Ljava/lang/CharSequence;
 
@@ -268,6 +272,7 @@
     invoke-virtual {v1, v2}, Landroid/app/ProgressDialog;->setMessage(Ljava/lang/CharSequence;)V
 
     .line 239
+    :goto_1
     invoke-virtual {v1, v5}, Landroid/app/ProgressDialog;->setIndeterminate(Z)V
 
     .line 240
@@ -345,7 +350,7 @@
     .catch Ljava/lang/SecurityException; {:try_start_1 .. :try_end_1} :catch_0
 
     .line 261
-    :goto_1
+    :goto_2
     sget-object v2, Lcom/android/server/power/ShutdownThread;->sInstance:Lcom/android/server/power/ShutdownThread;
 
     iput-object v6, v2, Lcom/android/server/power/ShutdownThread;->mScreenWakeLock:Landroid/os/PowerManager$WakeLock;
@@ -399,7 +404,7 @@
 
     .line 275
     :cond_1
-    :goto_2
+    :goto_3
     sget-object v2, Lcom/android/server/power/ShutdownThread;->sInstance:Lcom/android/server/power/ShutdownThread;
 
     new-instance v3, Lcom/android/server/power/ShutdownThread$2;
@@ -429,6 +434,25 @@
 
     .line 255
     .restart local v1    # "pd":Landroid/app/ProgressDialog;
+    :cond_2
+    const v2, 0x10400bf
+
+    invoke-virtual {p0, v2}, Landroid/content/Context;->getText(I)Ljava/lang/CharSequence;
+
+    move-result-object v2
+
+    invoke-virtual {v1, v2}, Landroid/app/AlertDialog;->setTitle(Ljava/lang/CharSequence;)V
+
+    const v2, 0x10400c3
+
+    invoke-virtual {p0, v2}, Landroid/content/Context;->getText(I)Ljava/lang/CharSequence;
+
+    move-result-object v2
+
+    invoke-virtual {v1, v2}, Landroid/app/ProgressDialog;->setMessage(Ljava/lang/CharSequence;)V
+
+    goto/16 :goto_1
+
     :catch_0
     move-exception v0
 
@@ -445,7 +469,7 @@
 
     iput-object v6, v2, Lcom/android/server/power/ShutdownThread;->mCpuWakeLock:Landroid/os/PowerManager$WakeLock;
 
-    goto :goto_1
+    goto :goto_2
 
     .line 268
     .end local v0    # "e":Ljava/lang/SecurityException;
@@ -465,7 +489,7 @@
 
     iput-object v6, v2, Lcom/android/server/power/ShutdownThread;->mScreenWakeLock:Landroid/os/PowerManager$WakeLock;
 
-    goto :goto_2
+    goto :goto_3
 .end method
 
 .method public static reboot(Landroid/content/Context;Ljava/lang/String;Z)V

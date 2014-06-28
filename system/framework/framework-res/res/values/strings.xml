@@ -1904,4 +1904,13 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="tethered_notification_title_wifi">Wi-Fi is turned off</string>
     <string name="somc_btn_on">@string/capital_on</string>
     <string name="somc_btn_off">@string/capital_off</string>
+    <string name="global_action_reboot_title">Reboot mode</string>
+    <string name="global_action_reboot_normal">Reboot</string>
+    <string name="global_action_reboot_softreboot">Soft reboot</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Fastboot</string>
+    <string name="global_action_reboot_flashmode">Flashmode</string>
+    <string name="global_action_reboot_emergency_download">Emergency Download</string>
+    <string name="reboot_system">Reboot phone</string>
+    <string name="reboot_progress">Rebooting…</string>
 </resources>
