@@ -4390,6 +4390,7 @@ set_perm(0, 0, 0644, "/system/priv-app/SomcSeamlessTethering.apk");
 set_perm(0, 0, 0644, "/system/priv-app/SomcWifiDisplay.apk");
 set_perm(0, 0, 0644, "/system/priv-app/SystemUI.apk");
 set_perm(0, 0, 0644, "/system/priv-app/Tag.apk");
+set_perm(0, 0, 0644, "/system/priv-app/TaskKiller.apk");
 set_perm(0, 0, 0644, "/system/priv-app/TimeShiftCamera.apk");
 set_perm(0, 0, 0644, "/system/priv-app/UpdateCenter.apk");
 set_perm(0, 0, 0644, "/system/priv-app/Velvet.apk");
