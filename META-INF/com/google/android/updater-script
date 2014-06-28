@@ -42,7 +42,7 @@ set_perm(0, 0, 0644, "/system/app/CameraAddonPermission.apk");
 set_perm(0, 0, 0644, "/system/app/CameraCommonPermission.apk");
 set_perm(0, 0, 0644, "/system/app/CameraExtensionPermission.apk");
 set_perm(0, 0, 0644, "/system/app/CertInstaller.apk");
-set_perm(0, 0, 0644, "/system/app/Chrome.apk");
+set_perm(0, 0, 0644, "/system/app/Browser.apk");
 set_perm(0, 0, 0644, "/system/app/ClockWidgets.apk");
 set_perm(0, 0, 0644, "/system/app/CloudPrint.apk");
 set_perm(0, 0, 0644, "/system/app/CrashMonitorSystem.apk");
