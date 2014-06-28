@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Разрешава на приложението да установи вашето точно местоположение с помощта на глобалната система за позициониране (GPS) или мрежови източници за установяване на местоположение, като например клетъчни кули и WLAN. Тези услуги за местоположение трябва да са включени и налични на вашето устройство, за да може да се използват от приложението. Приложенията може да използват това, за да установят къде се намирате, и е възможно да изразходват допълнителна енергия от батерията.</string>
+    <string name="permdesc_accessCoarseLocation">Разрешава на приложението да установи вашето приблизително местоположение. То се извлича от услугите за местоположение с помощта на мрежови източници за установяване на местоположение, като например клетъчни кули и WLAN. Услугите за местоположение трябва да са включени и налични за вашето устройство, за да може да се използват от приложението. Приложенията може да използват това, за да установят приблизително къде се намирате.</string>
+    <string name="permlab_configureWifiDisplay">конфигуриране на WLAN дисплеите</string>
+    <string name="permdesc_configureWifiDisplay">Разрешава на приложението да конфигурира и да се свързва с WLAN дисплеи.</string>
+    <string name="permlab_controlWifiDisplay">управляване на WLAN дисплеите</string>
+    <string name="permdesc_controlWifiDisplay">Разрешава на приложението да управлява функциите от ниско ниво на WLAN дисплеите.</string>
+    <string name="permlab_accessWifiState">преглед на WLAN връзките</string>
+    <string name="permdesc_accessWifiState">Разрешава на приложението да вижда информация за WLAN връзките, като например дали WLAN услугата е активирана и имената на свързаните към мрежата WLAN устройства.</string>
+    <string name="permlab_changeWifiState">установяване и прекратяване на WLAN връзки</string>
+    <string name="permdesc_changeWifiState">Разрешава на приложението да се свързва към WLAN точки за достъп и да прекратява връзката с тях, както и да извършва промени в конфигурацията на устройствата за WLAN мрежи.</string>
+    <string name="permlab_changeWifiMulticastState">разрешаване на приемането на WLAN мултикаст</string>
+    <string name="permdesc_changeWifiMulticastState">Разрешава на приложението да получава пакети, изпратени до всички устройства в WLAN мрежа посредством адреси за мултикаст, а не само до телефона ви. Консумира се повече енергия отколкото в режим без мултикаст.</string>
+    <string name="wifi_available_sign_in">Влизане в WLAN мрежа</string>
+    <string name="wifi_watchdog_network_disabled">Свързването с WLAN мрежа е неуспешно</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Стартиране на WLAN Direct. Това ще изключи клиентската програма/точката за достъп до WLAN.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct не можа да се стартира</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct е включен</string>
+    <string name="wifi_p2p_frequency_conflict_message">Телефонът временно ще прекрати връзката с WLAN, докато е свързан с %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN данните са забранени</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Лимитът на WLAN данните е превишен</string>
+    <string name="policylab_disableWifi">Забранява достъп до WLAN</string>
+    <string name="policydesc_disableWifi">Предотвратява WLAN връзки на устройството.</string>
+    <string name="wifi_disabled_notification_title">WLAN връзката е ограничена</string>
+    <string name="wifi_disabled_notification_message">"Правило за защита ограничава използването на WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Включен WLAN роуминг</string>
+    <string name="ct_cplusw_notification_text">"WLAN мр. на CT е свърз. За инф. за фактурир. се св. с 10000 или с лок. маг.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Връзка с WLAN на China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Ще се свържете с WLAN мрежата на China Telecom. За детайли относно таксуването се свържете с обслужването на клиенти на China Telecom. Желаете ли да продължите?</string>
+    <string name="wifi_nonconcurrency_message">Стартиране на WLAN клиента. Това ще прекъсне WLAN Direct връзката.</string>
+    <string name="wifi_noncuncurrency_message">Стартиране на WLAN клиента. Това ще прекъсне WLAN Direct връзката.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Това ще прекъсне всички съществуващи WLAN връзки</string>
+    <string name="wifi_p2p_nonconcurrency_message">Стартиране на WLAN Direct. Това ще прекъсне WLAN връзката.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Това ще прекъсне всички съществуващи WLAN връзки</string>
+    <string name="wifi_p2p_noncuncurrency_message">Стартиране на WLAN Direct. Това ще прекъсне WLAN връзката.</string>
+    <string name="tethered_notification_message_wifi">Изключете мобилния HotSpot, за да включите отново WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN връзката е изключена</string>
+</resources>

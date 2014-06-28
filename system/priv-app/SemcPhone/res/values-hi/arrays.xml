@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>नेटवर्क डिफॉल्ट</item>
+        <item>नंबर छुपाएँ</item>
+        <item>नंबर दिखाएँ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>वैश्विक</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>केवल EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo स्वतः</item>
+        <item>GSM / WCDMA स्वतः</item>
+        <item>केवल WCDMA</item>
+        <item>केवल GSM</item>
+        <item>GSM/WCDMA को वरीयता दी गई</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>अंग्रेज़ी</item>
+        <item>फ़्रेंच</item>
+        <item>स्पेनिश</item>
+        <item>जापानी</item>
+        <item>कोरियाई</item>
+        <item>चाइनीज़</item>
+        <item>हीब्रू</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (स्वतः मोड)</item>
+        <item>केवल WCDMA</item>
+        <item>केवल GSM</item>
+        <item>GSM/WCDMA (WCDMA प. कि.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>केवल होम</item>
+        <item>स्वचालित</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>केवल होम नेटवर्क</item>
+        <item>संबद्ध नेटवर्क</item>
+        <item>कोई भी नेटवर्क</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>केवल CDMA</item>
+        <item>केवल EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY बंद</item>
+        <item>TTY पूर्ण</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>सामान्य</item>
+        <item>लंबा</item>
+    </string-array>
+</resources>

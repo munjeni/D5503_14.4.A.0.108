@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">আপনি যদি না WLAN ব্যবহার করেন, সেক্ষেত্রে আপনি ইন্টারনেট, ইমেল বা অন্য অ্যাপ যাতে একটি ডেটা সংযোগের প্রয়োজন হয় সেগুলি আর ব্যবহার করতে পারবেন না। আপনি কি মোবাইলে ডেটা সংযোগ বন্ধ করতে চান?</string>
+    <string name="sip_call_options_wifi_only_title">ইন্টারনেট কলিং ব্যবহার করুন (কেবল WLAN)</string>
+    <string name="registration_status_no_wifi_data">কোনও WLAN সংযোগ নেই৷ অ্যাকাউন্ট নিবন্ধ করতে পারেনি৷</string>
+    <string name="no_wifi_available_title">কোনও WLAN সংযোগ নেই</string>
+    <string name="no_wifi_available">আপনি অবশ্যই ইন্টারনেট কলিংয়ের জন্য WLAN নেটওয়ার্ক সংযোগ করুন (সেটিংসে যান > ওয়্যারলেস ও নেটওয়ার্কস)৷</string>
+</resources>

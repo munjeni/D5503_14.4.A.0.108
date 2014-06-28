@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <CheckBoxPreference android:persistent="false" android:title="@string/manage_data_traffic_title_txt" android:key="button_askatpoweron_key" android:summary="@string/data_traffic_popup_askatpoweron_checkbox_txt" />
+</PreferenceScreen>

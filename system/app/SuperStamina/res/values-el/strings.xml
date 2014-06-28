@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Διαχείριση οικολογικής λειτουργ.</string>
+    <string name="dont_ask_me_again_txt">Να μην ερωτηθώ ξανά</string>
+    <string name="description_msg_txt">"Όταν η οθόνη είναι απενεργοποιημένη, το Wi-Fi και τα δεδομένα κινητής τηλεφωνίας θα απενεργοποιούνται προσωρινά και οι περισσότερες εφαρμογές θα είναι ανενεργές. Θα εξακολουθείτε να λαμβάνετε κλήσεις, μηνύματα SMS/MMS, ειδοποιήσεις ημερολογίου και ήχους ξυπνητηριού Sony™. Το music player και το ραδιόφωνο FM θα λειτουργούν, ενώ θα επιτρέπεται η ολοκλήρωση τυχόν λήψεων και αποστολών σε εξέλιξη.
+
+
+
+Όταν η οθόνη είναι ενεργοποιημένη, το τηλέφωνό σας θα λειτουργεί κανονικά.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Μόλις απενεργοποιηθεί η οθόνη, το Wi-Fi και τα δεδομένα κινητής τηλεφωνίας θα απενεργοποιηθούν προσωρινά και οι περισσότερες εφαρμογές θα είναι ανενεργές. Θα εξακολουθείτε να λαμβάνετε μηνύματα SMS/MMS, ειδοποιήσεις ημερολογίου Sony™ και ήχους ξυπνητηριού Sony™. Το music player και το ραδιόφωνο FM θα λειτουργούν, ενώ οι λήψεις και οι αποστολές που βρίσκονται σε εξέλιξη θα ολοκληρωθούν κανονικά.
+
+Μόλις η οθόνη ενεργοποιηθεί, η συσκευή σας θα λειτουργεί κανονικά."</string>
+    <string name="description_msg_no_telephony_txt">"Μόλις σβήσει η οθόνη, το Wi-Fi θα απενεργοποιηθεί προσωρινά και οι περισσότερες εφαρμογές θα είναι ανενεργές. Θα εξακολουθείτε να λαμβάνετε ειδοποιήσεις ημερολογίου Sony™ και ήχους ξυπνητηριού Sony™. Το music player και το ραδιόφωνο FM θα λειτουργούν, ενώ οι λήψεις και οι αποστολές που βρίσκονται σε εξέλιξη θα ολοκληρωθούν κανονικά.
+
+Μόλις η οθόνη ενεργοποιηθεί, η συσκευή σας θα λειτουργεί κανονικά."</string>
+    <string name="description_title_txt">Σημείωση!</string>
+    <string name="low_battery_mode_description_msg_txt">"Ενεργοποιήστε τη λειτουργία χαμηλής μπαταρίας ώστε να απενεργοποιηθούν λειτουργίες και ρυθμίσεις που καταναλώνουν ενέργεια όταν η διαθέσιμη μπαταρία βρίσκεται κάτω από το προκαθορισμένο επίπεδο. Πατήστε την επιλογή \"Λειτουργία χαμηλής μπαταρίας\" για να αλλάξετε ρυθμίσεις.
+"</string>
+    <string name="activate_txt">Ενεργοποίηση</string>
+    <string name="cancel_txt">Άκυρο</string>
+    <string name="xssm_blocker_detector_title">Συμβουλή διαχείρ. ενέργειας</string>
+    <string name="xssm_blocker_detector_msg">Η εφαρμογή %s εμποδίζει τη λειτουργία STAMINA να εξοικονομήσει ενέργεια στην κατάσταση αναμονής</string>
+    <string name="xssm_blocker_detector_long_msg">Αν χρησιμοποιείτε συχνά αυτήν την εφαρμογή, παραβλέψτε αυτήν την προειδοποίηση. Αν όχι, καταργήστε την εγκατάστασή της ή επιβάλετε τη διακοπή της εφαρμογής.</string>
+    <string name="xssm_blocker_detector_ignore">Κατάλαβα. Να μην εμφανιστεί ξανά.</string>
+    <string name="network_detector_msg">Η εφαρμογή %s αποστέλλει και λαμβάνει δεδομένα όσο η οθόνη είναι ανενεργή και προκαλεί την ταχύτερη εξάντληση της μπαταρίας.</string>
+    <string name="network_detector_long_msg">Η κατάργηση της εγκατάστασής της μπορεί να βελτιώσει την απόδοση της συσκευής και να αυξήσει το χρόνο της μπαταρίας.</string>
+    <string name="wakelock_detector_msg">Η εφαρμογή %s δεν έχει χρησιμοποιηθεί εδώ και αρκετές εβδομάδες.</string>
+    <string name="wakelock_detector_long_msg">Ενδέχεται να γίνει επαναφορά της συσκευής από την κατάσταση αναμονής. Με την κατάργηση της εγκατάστασης μπορεί να βελτιωθεί η απόδοση της συσκευής και να αυξηθεί ο χρόνος της μπαταρίας.</string>
+    <string name="notification_title_xssm">Συμβουλή διαχείρ. ενέργειας</string>
+    <string name="notification_text_xssm">Ενεργοποίηση λειτουργίας STAMINA</string>
+    <string name="notification_descr_xssm">Η συσκευή σας βρίσκεται συχνά σε κατάσταση αναμονής. Αυξήστε τη διάρκεια ζωής της μπαταρίας ενεργοποιώντας τη λειτουργία STAMINA.</string>
+    <string name="notification_dont_show_again">Κατάλαβα. Να μην εμφανιστεί ξανά.</string>
+    <string name="notification_title_ps">Συμβουλή διαχείρ. ενέργειας</string>
+    <string name="notification_text_ps">Ενεργοποίηση λειτ. χαμηλής μπαταρίας</string>
+    <string name="notification_descr_ps">Η λειτουργία χαμηλής μπαταρίας μπορεί να αυξήσει τη διάρκεια ζωής της μπαταρίας απενεργοποιώντας, για παράδειγμα, το Wi-Fi ή μειώνοντας τη φωτεινότητα της οθόνης όταν το επίπεδο της μπαταρίας είναι χαμηλό.</string>
+    <string name="notification_title_lbw">Συμβουλή διαχείρ. ενέργειας</string>
+    <string name="notification_text_lbw">Ενεργοποίηση Wi-Fi βάσει τοποθεσίας</string>
+    <string name="notification_descr_lbw">Το Wi-Fi είναι ενεργό αλλά δεν έχει χρησιμοποιηθεί εδώ και κάποιο διάστημα. Εξοικονομήστε ενέργεια ενεργοποιώντας τη δυνατότητα Wi-Fi βάσει τοποθεσίας.</string>
+    <string name="unused_application_title">Συμβουλή διαχείρισης ενέργειας</string>
+    <string name="unused_application_msg">Δεν έχετε χρησιμοποιήσει την εφαρμογή %s για αρκετό καιρό</string>
+    <string name="unused_application_long_msg">Αν θέλετε να κρατήσετε την εφαρμογή, αγνοήστε την προειδοποίηση. Αν όχι, καταργήστε την εγκατάστασή της.</string>
+    <string name="unused_application_ignore">Το κατάλαβα. Να μην εμφανιστεί ξανά.</string>
+    <string name="drain_dialog_title_txt">Η μπαταρία δεν φορτίζεται</string>
+    <string name="drain_dialog_text_usb_txt">Η συνδεδεμένη πηγή ρεύματος δεν είναι επαρκής. Η αποφόρτιση της μπαταρίας γίνεται πιο γρήγορα από τη φόρτισή της. Αλλάξτε φορτιστή AC.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Η συνδεδεμένη πηγή ρεύματος δεν είναι επαρκής. Η αποφόρτιση της μπαταρίας γίνεται πιο γρήγορα από τη φόρτισή της. Ελαχιστοποιήστε τη χρήση κατά τη διάρκεια της φόρτισης.</string>
+    <string name="extend_battery_tip_dialog_headar">Συμβουλή διαχείρισης ενέργειας</string>
+    <string name="location_based_wifi_tip_dialog">Το Wi-Fi είναι ενεργό αλλά δεν έχει χρησιμοποιηθεί εδώ και κάποιο διάστημα. Μπορείτε να εξοικονομήσετε ενέργεια ενεργοποιώντας το Wi-Fi βάσει τοποθεσίας. Ρύθμιση Wi-Fi βάσει τοποθεσίας;</string>
+    <string name="low_battery_mode_tip_dialog">Η λειτουργία χαμηλής μπαταρίας μπορεί να αυξήσει τη διάρκεια ζωής της μπαταρίας απενεργοποιώντας, για παράδειγμα, το Wi-Fi ή μειώνοντας τη φωτεινότητα της οθόνης όταν το επίπεδο της μπαταρίας είναι χαμηλό. Ρύθμιση λειτουργίας χαμηλής μπαταρίας;</string>
+    <string name="stamina_mode_tip_dialog">Η συσκευή σας βρίσκεται συχνά σε κατάσταση αναμονής. Αυξήστε τη διάρκεια ζωής της μπαταρίας ενεργοποιώντας τη λειτουργία STAMINA. Ρύθμιση της λειτουργίας STAMINA;</string>
+    <string name="bad_app_notification">Η ακόλουθη εφαρμ. εξαντλεί την μπαταρία:</string>
+    <string name="bad_standby_app_dialog">Η εφαρμογή %s εμποδίζει την εξοικονόμηση ενέργειας από τη λειτουργία STAMINA στην κατάσταση αναμονής. Αν χρησιμοποιείτε συχνά αυτήν την εφαρμογή, αγνοήστε την προειδοποίηση. Αν όχι, πατήστε το κουμπί \"Πληροφορίες εφαρμογής\" και καταργήστε την εγκατάσταση ή επιβάλετε τη διακοπή της εφαρμογής.</string>
+    <string name="ignore_dialog_action">Παράβλεψη</string>
+    <string name="app_info_dialog_action">Πληρ. εφαρμογής</string>
+    <string name="stamina_activation_notification">Ενεργ. η λειτουργία STAMINA</string>
+    <string name="lowbattery_trigger_level_notification">Το επίπ. μπαταρίας είναι χαμηλ. από %d%%</string>
+    <string name="lowbattery_activated_notification">Ενεργ. η λειτ. χαμηλής μπαταρίας</string>
+    <string name="app_not_used_notification">Η εφαρμ. δεν έχει χρησιμ. για αρκετό διάστ.:</string>
+    <string name="app_not_used_tip_dialog">Η εφαρμογή %s δεν έχει χρησιμοποιηθεί για αρκετό διάστημα. Συνιστάται να καταργήσετε την εγκατάσταση της εφαρμογής για να εξοικονομήσετε ενέργεια.</string>
+    <string name="no_action_dialog">Όχι</string>
+    <string name="yes_action_dialog">Ναι</string>
+    <string name="widget_remaining_battery_time">Εκτιμώμενη διάρκεια μπαταρίας</string>
+    <string name="widget_name">Λειτουργίας STAMINA</string>
+</resources>

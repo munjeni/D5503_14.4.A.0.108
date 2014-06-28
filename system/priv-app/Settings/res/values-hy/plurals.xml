@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Դուք այժմ %1$d քայլ եք հեռու ծրագրավորող կոչվելուց:</item>
+        <item quantity="one">Դուք այժմ ծրագրավորող դառնալուց հեռու եք %1$d քայլ:</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d տառ</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 տառ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d փոքրատառ գրանիշ</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 փոքրատառ գրանիշ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d մեծատառ գրանիշ</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 մեծատառ գրանիշ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d թվային գրանիշ</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 թվային գրանիշ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d հատուկ նշան</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 հատուկ նշան</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Գաղտնաբառը պետք է պարունակի առնվազն %d գրանիշ, որոնք տառ չեն</item>
+        <item quantity="one">Գաղտնաբառը պետք է պարունակի առնվազն 1 գրանիշ, որը տառ չէ</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d աշխատածրագրերը կարող են կարդալ ծանուցումները</item>
+        <item quantity="one">%d աշխատածրագիրը կարող է կարդալ ծանուցումները</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN կոդը սխալ է: Մնացել է %d փորձ:</item>
+        <item quantity="one">SIM PIN կոդը սխալ է: Մնացել է %d փորձ, որից հետո սարքն ապակողպելու համար դուք պետք է դիմեք ձեր օպերատորին:</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Գտնվել է %1$s տպիչ</item>
+        <item quantity="one">Գտնվել է %1$s տպիչ</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d գործադիրներ ցուցակում</item>
+        <item quantity="one">%1$d գործադիր ցուցակում</item>
+    </plurals>
+</resources>

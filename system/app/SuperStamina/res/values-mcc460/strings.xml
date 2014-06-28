@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"When the screen is off, WLAN and mobile data will be temporarily disabled, and most applications will be inactive. You will still receive phone calls, SMS/MMS messages and, Sony™calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your phone will function normally.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"When the screen is off, WLAN and mobile data will be temporarily disabled, and most applications will be inactive. You will still receive SMS/MMS messages, Sony™ calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your device will function normally."</string>
+    <string name="description_msg_no_telephony_txt">"When the screen is off, WLAN will be temporarily disabled, and most applications will be inactive. You will still receive Sony™calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your device will function normally."</string>
+    <string name="notification_descr_ps">Low battery mode can extend battery life by e.g. turning off WLAN or reducing screen brightness when battery is low.</string>
+    <string name="notification_text_lbw">Activate Location-based WLAN</string>
+    <string name="notification_descr_lbw">WLAN is on but has not been used for a while. Save power by activating Location-based WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN is on but has not been used for a while. You can save power by activating Location-based WLAN. Set up Location-based WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Low battery mode can extend battery life by e.g. turning off WLAN or reducing screen brightness when battery is low. Set up Low battery mode?</string>
+</resources>

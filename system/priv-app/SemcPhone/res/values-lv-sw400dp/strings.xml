@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Konferences zvana dalībnieki</string>
+    <string name="add_fdn_contact">Pievieno fiksēto numuru sastādīšanas kontaktu</string>
+    <string name="delete_fdn_contact">Dzēst fiksēto numuru sastādīšanas kontaktu</string>
+</resources>

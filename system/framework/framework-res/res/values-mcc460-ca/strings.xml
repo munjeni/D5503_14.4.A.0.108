@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">"Permet que l'aplicació obtingui la vostra ubicació precisa mitjançant un sistema de posicionament global (GPS) o fonts d'ubicació de xarxa, com ara torres de telefonia mòbil i WLAN. Aquests serveis d'ubicació s'han d'activar i han d'estar disponibles al dispositiu perquè l'aplicació els pugui fer servir. Les aplicacions poden utilitzar aquestes dades per determinar la vostra ubicació, i pot ser que consumeixin més bateria."</string>
+    <string name="permdesc_accessCoarseLocation">"Permet que l'aplicació obtingui la vostra ubicació aproximada. Aquesta ubicació prové dels serveis d'ubicació que utilitzen fonts d'ubicació de la xarxa, com ara torres de telefonia mòbil i WLAN. Aquests serveis d'ubicació s'han d'activar i han d'estar disponibles al dispositiu perquè l'aplicació els pugui fer servir. Les aplicacions poden utilitzar aquestes dades per determinar, de manera aproximada, on us trobeu."</string>
+    <string name="permlab_configureWifiDisplay">configuració de les pantalles WLAN</string>
+    <string name="permdesc_configureWifiDisplay">"Permet que l'aplicació es configuri i es connecti a les pantalles WLAN."</string>
+    <string name="permlab_controlWifiDisplay">control de les pantalles WLAN</string>
+    <string name="permdesc_controlWifiDisplay">"Permet que l'aplicació controli les característiques de nivell baix de les pantalles WLAN."</string>
+    <string name="permlab_accessWifiState">visualització de les connexions WLAN</string>
+    <string name="permdesc_accessWifiState">"Permet que l'aplicació visualitzi informació sobre les xarxes WLAN, com ara si la WLAN està activada i el nom dels dispositius WLAN connectats."</string>
+    <string name="permlab_changeWifiState">connexió i desconnexió de la WLAN</string>
+    <string name="permdesc_changeWifiState">"Permet que l'aplicació es connecti i es desconnecti de punts d'accés WLAN i que faci canvis a la configuració de les xarxes WLAN dels dispositius."</string>
+    <string name="permlab_changeWifiMulticastState">"permetre la recepció de multidifusió
+ WLAN"</string>
+    <string name="permdesc_changeWifiMulticastState">"Permet que l'aplicació rebi paquets enviats a tots els dispositius d'una xarxa WLAN mitjançant les adreces multidifusió, no només al vostre telèfon. Fa servir més energia que el mode que no és multidifusió."</string>
+    <string name="wifi_available_sign_in">Inicieu la sessió a la xarxa WLAN</string>
+    <string name="wifi_watchdog_network_disabled">"No s'ha pogut connectar a la xarxa WLAN"</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Inicieu WLAN Direct. Això desactivarà el client o la zona WLAN.</string>
+    <string name="wifi_p2p_failed_message">"No s'ha pogut iniciar WLAN Direct"</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct està activat</string>
+    <string name="wifi_p2p_frequency_conflict_message">El telèfon es desconnectarà temporalment de la WLAN mentre estigui connectat a %1$s</string>
+    <string name="data_usage_wifi_limit_title">Dades WLAN inhabilitades</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Límit de dades WLAN superat</string>
+    <string name="policylab_disableWifi">"Inhabilitació de l'accés a WLAN"</string>
+    <string name="policydesc_disableWifi">Impedeix les connexions WLAN al dispositiu.</string>
+    <string name="wifi_disabled_notification_title">Connexió WLAN restringida</string>
+    <string name="wifi_disabled_notification_message">"Una política de seguretat restringeix l'ús de WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Itinerància WLAN en curs</string>
+    <string name="ct_cplusw_notification_text">"Xarxa WLAN de CT connectada. Per info. facturació, contact. 10000 o botiga local.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Conn. WLAN de China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">"Se us connectarà a la xarxa WLAN de China Telecom. Si voleu obtenir més detalls sobre els càrrecs, contacteu amb el servei d'atenció al client de China Telecom. Voleu continuar?"</string>
+    <string name="wifi_nonconcurrency_message">"Ara s'iniciarà el client WLAN, la qual cosa desconnectarà WLAN Direct."</string>
+    <string name="wifi_noncuncurrency_message">"Ara s'iniciarà el client WLAN, la qual cosa desconnectarà WLAN Direct."</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Es desconnectarà qualsevol connexió WLAN existent</string>
+    <string name="wifi_p2p_nonconcurrency_message">"Ara s'iniciarà WLAN Direct, la qual cosa aturarà la connexió WLAN."</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">"S'aturarà qualsevol altra connexió WLAN que hi hagi activa"</string>
+    <string name="wifi_p2p_noncuncurrency_message">"Ara s'iniciarà WLAN Direct, la qual cosa aturarà la connexió WLAN."</string>
+    <string name="tethered_notification_message_wifi">Desactiveu HotSpot mòbil per tornar a activar la WLAN</string>
+    <string name="tethered_notification_title_wifi">La WLAN està desactivada</string>
+</resources>

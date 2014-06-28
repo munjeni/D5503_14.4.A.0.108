@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
+    <string name="permdesc_accessCoarseLocation">Ermöglicht der App, Ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
+    <string name="permlab_configureWifiDisplay">WLAN-Anzeigen konfigurieren</string>
+    <string name="permdesc_configureWifiDisplay">Erlaubt der App, WLAN-Anzeigen zu konfigurieren und eine Verbindung zu diesen herzustellen.</string>
+    <string name="permlab_controlWifiDisplay">WLAN-Anzeigen steuern</string>
+    <string name="permdesc_controlWifiDisplay">Erlaubt der App, untergeordnete Funktionen von WLAN-Anzeigen zu steuern.</string>
+    <string name="permlab_accessWifiState">WLAN-Verbindungen anzeigen</string>
+    <string name="permdesc_accessWifiState">Ermöglicht der App, Informationen zu WLANs abzurufen, etwa ob ein WLAN aktiviert ist, und den Namen verbundener WLAN-Geräte.</string>
+    <string name="permlab_changeWifiState">WLAN-Verbindungen herstellen und trennen</string>
+    <string name="permdesc_changeWifiState">Ermöglicht der App, eine Verbindung zu WLAN-Zugriffspunkten herzustellen und solche zu trennen und Änderungen an der Gerätekonfiguration für WLAN-Netzwerke vorzunehmen.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN-Multicast-Empfang zulassen</string>
+    <string name="permdesc_changeWifiMulticastState">Ermöglicht der App, Pakete zu empfangen, die mithilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Telefon. Dies kostet mehr Leistung als der Nicht-Multicast-Modus.</string>
+    <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
+    <string name="wifi_watchdog_network_disabled">Es konnte keine WLAN-Verbindung hergestellt werden.</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct-Betrieb starten. Hierdurch wird der WLAN-Client-/-Hotspot-Betrieb deaktiviert.</string>
+    <string name="wifi_p2p_failed_message">Starten von WLAN Direct nicht möglich</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct ist aktiviert.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Das Mobiltelefon wird vorübergehend vom WLAN getrennt, während eine Verbindung mit %1$s besteht.</string>
+    <string name="data_usage_wifi_limit_title">WLAN-Daten deaktiviert</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN-Datenlimit überschritten</string>
+    <string name="policylab_disableWifi">Zugriff auf WLAN deaktivieren</string>
+    <string name="policydesc_disableWifi">Herstellen von WLAN-Verbindungen auf dem Gerät verhindern</string>
+    <string name="wifi_disabled_notification_title">WLAN-Verbindung ist beschränkt</string>
+    <string name="wifi_disabled_notification_message">"Die WLAN-Nutzung ist durch eine Sicherheitsrichtlinie beschränkt. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN-Roaming wird ausgeführt</string>
+    <string name="ct_cplusw_notification_text">"Verbunden mit CT WLAN-Netzwerk. Zur Abrechnung: 10000 oder lokale Händler.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom – WLAN-Verbindung</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Es wird eine Verbindung zum WLAN-Netz von China Telecom hergestellt. Auskünfte zu den Gebühren gibt der Kundendienst von China Telecom. Möchten Sie fortfahren?</string>
+    <string name="wifi_nonconcurrency_message">WLAN-Client starten. Dadurch wird WLAN Direct getrennt.</string>
+    <string name="wifi_noncuncurrency_message">WLAN-Client starten. Dadurch wird WLAN Direct getrennt.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Alle bestehenden WLAN-Verbindungen werden getrennt.</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct starten. Dadurch wird die WLAN-Verbindung getrennt.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Hierdurch werden alle bestehenden WLAN-Verbindungen getrennt.</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct starten. Dadurch wird die WLAN-Verbindung getrennt.</string>
+    <string name="tethered_notification_message_wifi">Mobilen HotSpot deaktivieren, um WLAN wieder einzuschalten</string>
+    <string name="tethered_notification_title_wifi">WLAN ist deaktiviert</string>
+</resources>

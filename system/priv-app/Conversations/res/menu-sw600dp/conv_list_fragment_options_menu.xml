@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/semc_ic_menu_search_holo_light" android:id="@id/menu_search" android:title="@string/conversations_strings_conversationlist_menu_search_txt" android:showAsAction="collapseActionView" android:actionLayout="@layout/semc_conversation_search_view" />
+    <item android:icon="@drawable/conv_new_message" android:id="@id/menu_new_conversation" android:title="@string/conversations_strings_conversationlist_header_new_conversation_txt" android:showAsAction="ifRoom" />
+    <item android:id="@id/menu_cancel" android:title="@string/gui_cancel_draft_txt" android:showAsAction="ifRoom" />
+    <item android:id="@id/menu_starred_message" android:orderInCategory="1" android:title="@string/conversations_strings_conversationlist_menu_starredmessage_txt" />
+    <item android:id="@id/menu_delete_conversations" android:orderInCategory="3" android:title="@string/conversations_strings_conversationlist_menu_deleteconversations_txt" />
+    <item android:id="@id/menu_mark_read" android:title="@string/conversations_strings_conversationlist_menu_mark_read_txt" />
+    <item android:id="@id/menu_settings" android:orderInCategory="100" android:title="@string/conversations_strings_conversationlist_menu_settings_txt" />
+</menu>

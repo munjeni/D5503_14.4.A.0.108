@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Unless you use WLAN, you will no longer be able to use the Internet, Email or other apps that require a data connection. Turn off the mobile data connection?</string>
+</resources>

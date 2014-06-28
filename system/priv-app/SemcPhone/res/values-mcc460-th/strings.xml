@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นๆ ที่ต้องใช้การเชื่อมต่อข้อมูลได้เว้นแต่ว่าคุณจะใช้ WLAN ปิดการเชื่อมต่อข้อมูลโทรศัพท์เคลื่อนที่?</string>
+    <string name="sip_call_options_wifi_only_title">ใช้การโทรอินเทอร์เน็ต (เฉพาะ WLAN เท่านั้น)</string>
+    <string name="registration_status_no_wifi_data">ไม่มีการเชื่อมต่อ WLAN ลงทะเบียนบัญชีไม่ได้</string>
+    <string name="no_wifi_available_title">ไม่มีการเชื่อมต่อ WLAN</string>
+    <string name="no_wifi_available">คุณต้องเชื่อมต่อเครือข่าย WLAN สำหรับการโทรอินเทอร์เน็ต (ไปที่ การตั้งค่า > ไร้สายและเครือข่าย)</string>
+</resources>

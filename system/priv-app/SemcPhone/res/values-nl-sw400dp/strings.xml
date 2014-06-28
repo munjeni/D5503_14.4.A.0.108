@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Deelnemers telefonische vergadering</string>
+    <string name="call_barring_settings">Instellingen voor gespreksblokkering</string>
+</resources>

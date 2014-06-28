@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontroler modus ekonomis</string>
+    <string name="dont_ask_me_again_txt">Jangan tanya saya lagi</string>
+    <string name="description_msg_txt">"Saat layar dimatikan, Wi-Fi dan data seluler akan dinonaktifkan untuk sementara, dan sebagian besar aplikasi akan nonaktif. Anda masih tetap bisa menerima panggilan telepon, pesan SMS/MMS serta pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM akan tetap bekerja, dan unduhan serta unggahan yang sedang berlangsung akan dibiarkan berjalan hingga selesai. 
+
+
+
+Ketika layar dihidupkan, perangkat Anda akan berfungsi normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Jika layar mati, Wi-Fi dan data seluler akan dinonaktifkan sementara, dan sebagian besar aplikasi akan menjadi tidak aktif. Anda tetap akan menerima pesan SMS/MMS, pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM akan bekerja, dan unduhan dan unggahan yang sedang berjalan akan dibiarkan hingga selesai.
+
+Jika layar aktif, perangkat Anda akan berfungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Jika layar mati, Wi-Fi akan dinonaktifkan sementara, dan sebagian besar aplikasi akan menjadi tidak aktif. Anda tetap akan menerima pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM tetap bisa bekerja, dan unduhan dan unggahan yang sedang berjalan akan dibiarkan sampai selesai.
+
+Jika layar hidup, perangkat Anda akan berfungsi normal."</string>
+    <string name="description_title_txt">Catatan!</string>
+    <string name="low_battery_mode_description_msg_txt">"Izinkan Modus baterai lemah untuk mematikan fitur dan pengaturan yang boros daya saat baterai berada di bawah level pengaturan awal. Ketuk Modus baterai lemah untuk mengubah pengaturan.
+"</string>
+    <string name="activate_txt">Aktifkan</string>
+    <string name="cancel_txt">Batalkan</string>
+    <string name="xssm_blocker_detector_title">Tips pengelolaan daya</string>
+    <string name="xssm_blocker_detector_msg">%s mencegah modus STAMINA menghemat daya saat posisi siaga</string>
+    <string name="xssm_blocker_detector_long_msg">Jika Anda sering menggunakan aplikasi ini, abaikan peringatan ini. jika tidak, hapus program atau hentikan aplikasi secara paksa.</string>
+    <string name="xssm_blocker_detector_ignore">Mengerti Jangan muncul lagi.</string>
+    <string name="network_detector_msg">%s mengirim dan menerima data saat layar tidak aktif sehingga baterai terkuras.</string>
+    <string name="network_detector_long_msg">Menghapus instalasinya dapat meningkatkan kinerja perangkat dan memperpanjang waktu baterai.</string>
+    <string name="wakelock_detector_msg">%s belum digunakan dalam beberapa minggu.</string>
+    <string name="wakelock_detector_long_msg">Ini dapat mengaktifkan perangkat dari modus siaga. Menghapus instalasinya dapat meningkatkan kinerja perangkat dan memperpanjang waktu baterai.</string>
+    <string name="notification_title_xssm">Tips pengelolaan daya</string>
+    <string name="notification_text_xssm">Aktifkan modus STAMINA</string>
+    <string name="notification_descr_xssm">Perangkat Anda sering berada di modus siaga. Perpanjang waktu baterai dengan mengaktifkan modus STAMINA.</string>
+    <string name="notification_dont_show_again">Mengerti. Jangan munculkan lagi.</string>
+    <string name="notification_title_ps">Tip pengelolaan daya</string>
+    <string name="notification_text_ps">Aktifkan modus baterai lemah</string>
+    <string name="notification_descr_ps">Modus baterai lemah dapat memperpanjang daya baterai misalnya dengan cara mematikan Wi-Fi atau mengurangi kecerahan layar saat baterai lemah.</string>
+    <string name="notification_title_lbw">Tips pengelolaan daya</string>
+    <string name="notification_text_lbw">Aktifkan Wi-Fi berbasis lokasi</string>
+    <string name="notification_descr_lbw">Wi-Fi menyala tapi tidak sedang digunakan. Hemat daya dengan mengaktifkan Wi-Fi berdasarkan lokasi.</string>
+    <string name="unused_application_title">Tip manajemen daya</string>
+    <string name="unused_application_msg">%s tidak digunakan selama beberapa waktu</string>
+    <string name="unused_application_long_msg">Jika Anda ingin mempertahankan aplikasi ini, abaikan peringatan ini. Jika tidak, hapus instalan aplikasi.</string>
+    <string name="unused_application_ignore">Mengerti. Jangan tampilkan lagi.</string>
+    <string name="drain_dialog_title_txt">Baterai tidak terisi</string>
+    <string name="drain_dialog_text_usb_txt">Sumber daya yang tersambung tidak mencukupi. Pengosongan bateria lebih cepat dibandingkan pengisiannya. Harap ubah pengisi baterai AC Anda.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Sumber daya yang tersambung tidak mencukupi. Pengosongan bateria lebih cepat dibandingkan pengisiannya. Perkecil penggunaan perangkat Anda saat mengisi baterai.</string>
+    <string name="extend_battery_tip_dialog_headar">Tip pengelolaan daya</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi sudah aktif tetapi tidak digunakan untuk sementara waktu. Anda dapat menghemat daya dengan mengaktifkan Wi-Fi berbasis Lokasi. Persiapkan Wi-Fi berbasis lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Modus baterai lemah dapat memperpanjang masa baterai dengan misalnya mematikan Wi-Fi atau mengurangi kecerahan layar saat baterailemah. Persiapkan modus baterai Lemah?</string>
+    <string name="stamina_mode_tip_dialog">Perangkat Anda sering dalam modus siaga. Perpanjang masa baterai dengan mengaktifkan modus STAMINA. Persiapkan modus STAMINA?</string>
+    <string name="bad_app_notification">"Aplk berikut cpt m'habiskan daya baterai:"</string>
+    <string name="bad_standby_app_dialog">%s mencegah modus STAMINA untuk menghemat daya dalam modus siaga. Jika Anda sering menggunakan aplikasi ini, abaikan peringatan ini, ketuk tombol info Aplikasi dan hapus instalan atau hentikan aplikasi.</string>
+    <string name="ignore_dialog_action">Abaikan</string>
+    <string name="app_info_dialog_action">Info aplikasi</string>
+    <string name="stamina_activation_notification">Modus STAMINA diaktifkan</string>
+    <string name="lowbattery_trigger_level_notification">Tingkat baterai rendah %d%%</string>
+    <string name="lowbattery_activated_notification">Modus baterai lemah diaktifkan</string>
+    <string name="app_not_used_notification">Aplikasi ini sudah lama tidak digunakan:</string>
+    <string name="app_not_used_tip_dialog">%s sudah lama tidak digunakan. Kami sarankan Anda menghapus instalan aplikasi tersebut untuk menghemat daya.</string>
+    <string name="no_action_dialog">Tidak</string>
+    <string name="yes_action_dialog">Ya</string>
+    <string name="widget_remaining_battery_time">Perkiraan waktu baterai</string>
+    <string name="widget_name">Modus STAMINA</string>
+</resources>

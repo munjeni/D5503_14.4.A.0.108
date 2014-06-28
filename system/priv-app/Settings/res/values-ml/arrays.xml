@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>അമേരിക്ക</item>
+        <item>യൂറോപ്പ്</item>
+        <item>ആഫ്രിക്ക</item>
+        <item>ഏഷ്യ</item>
+        <item>ഓസ്ട്രേലിയ</item>
+        <item>പസഫിക്</item>
+        <item>എല്ലാം</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 സെക്കന്‍ഡ്</item>
+        <item>30 സെക്കന്‍ഡ്</item>
+        <item>1 മിനിറ്റ്</item>
+        <item>2 മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>ഒരിക്കലുമില്ല</item>
+        <item>15 സെക്കന്‍ഡ്</item>
+        <item>30 സെക്കന്‍ഡ്</item>
+        <item>1 മിനിറ്റ്</item>
+        <item>2 മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>ഉടനടി</item>
+        <item>5 സെക്കന്‍ഡ്</item>
+        <item>15 സെക്കന്‍ഡ്</item>
+        <item>30 സെക്കന്‍ഡ്</item>
+        <item>1 മിനിറ്റ്</item>
+        <item>2 മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>ചെറുത്</item>
+        <item>സാധാരണം</item>
+        <item>വലുത്</item>
+        <item>വളരെ വലുത്</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>വളരെ പതുക്കെ</item>
+        <item>പതുക്കെ</item>
+        <item>സാധാരണം</item>
+        <item>വേഗത്തില്‍</item>
+        <item>കൂടുതൽ വേഗത്തിൽ</item>
+        <item>വളരെ വേഗത്തില്‍</item>
+        <item>വേഗം</item>
+        <item>വളരെ വേഗം</item>
+        <item>അതിവേഗം</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>വളരെ താണത്</item>
+        <item>താണത്</item>
+        <item>സാധാരണം</item>
+        <item>ഉയര്‍ന്നത്</item>
+        <item>വളരെ ഉയര്‍ന്നത്</item>
+    </string-array>
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>സ്കാന്‍ ചെയ്യുന്നു...</item>
+        <item>കണക്ടുചെയ്യുന്നു...</item>
+        <item>ആധികാരികമാക്കുന്നു...</item>
+        <item>IP വിലാസം നേടുന്നു...</item>
+        <item>കണക്ടുചെയ്തു</item>
+        <item>സസ്പെന്‍ഡുചെയ്തു</item>
+        <item>വിച്ഛേദിക്കുന്നു...</item>
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പരാജയം</item>
+        <item>തടഞ്ഞു</item>
+        <item>മോശം കണക്ഷന്‍ താല്‍ക്കാലികമായി ഒഴിവാക്കുന്നു</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>സ്കാന്‍ ചെയ്യുന്നു...</item>
+        <item>%1$s -ല്‍ കണക്ടുചെയ്യുന്നു...</item>
+        <item>%1$s -മായി ആധികാരികമാക്...</item>
+        <item>%1$s -ല്‍ നിന്. IP വിലാ. നേടുന്നു...</item>
+        <item>%1$s -ല്‍ കണക്ടുചെയ്തു</item>
+        <item>സസ്പെന്‍ഡുചെയ്തു</item>
+        <item>%1$s -ല്‍ നിന്ന് വിച്ഛേദിക്കുന്നു...</item>
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പരാജയം</item>
+        <item>തടഞ്ഞു</item>
+        <item>മോശം കണക്ഷന്‍ താല്‍ക്കാലികമായി ഒഴിവാക്കുന്നു</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>പുഷ് ബട്ടണ്‍</item>
+        <item>പിയര്‍ ഉപകരണത്തില്‍ നിന്നുള്ള PIN</item>
+        <item>ഈ ഉപകരണത്തില്‍ നിന്നുള്ള PIN</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>കണക്ടുചെയ്തു</item>
+        <item>ക്ഷണിച്ചു</item>
+        <item>പരാജയം</item>
+        <item>ലഭ്യം</item>
+        <item>പരിധിക്കു പുറത്ത്</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>1 മണിക്കൂര്‍</item>
+        <item>ഒരിക്കലും സമയം കഴിയുന്നില്ല</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>മോശം</item>
+        <item>ഫെയര്‍</item>
+        <item>നല്ലത്</item>
+        <item>ഉഗ്രന്‍</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>എല്ലായ്‌പ്പോഴും</item>
+        <item>പ്ലഗിന്‍ ചെയ്തിരിക്കുമ. മാത്രം</item>
+        <item>ഒരിക്കലുമില്ല (ഡാറ്റ ഉപയോഗം കൂട്ടുന്നു)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>എല്ലായ്‌പ്പോഴും</item>
+        <item>പ്ലഗിന്‍ ചെയ്തിരിക്കുമ്പോള്‍ മാത്രം</item>
+        <item>ഒരിക്കലുമില്ല</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>യാന്ത്രികം</item>
+        <item>5 GHz മാത്രം</item>
+        <item>2.4 GHz മാത്രം</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>ഉപയോഗ സമയം</item>
+        <item>ലോഞ്ച് കൌണ്ട്</item>
+        <item>ആപ്ലിക്കേഷന്‍ പേര്</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>സ്റ്റാറ്റിസ്</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ഒന്നുമില്ല</item>
+        <item>കരകൃതം</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>ഓഫ്</item>
+        <item>മുന്നറിയിപ്പ്</item>
+        <item>വൈബ്രേറ്റ്</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP അല്ലെങ്കില്‍ CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>വ്യക്തമാക്കാത്തത്</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>ആന്തരിക ഉപ. സ്റ്റോറേജ്</item>
+        <item>നീക്കം ചെയ്യ. SD കാര്‍ഡ്</item>
+        <item>സിസ്റ്റം തീരുമാനിക്കട്ടെ</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>സ്ഥാനം</item>
+        <item>വ്യക്തിപരം</item>
+        <item>മെസേജിങ്</item>
+        <item>മീഡിയ</item>
+        <item>Device</item>
+        <item>Bootup</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>പരുക്കൻ സ്ഥാനം</item>
+        <item>നല്ല സ്ഥാനം</item>
+        <item>GPS</item>
+        <item>വൈബ്രേറ്റുചെയ്യുക</item>
+        <item>സമ്പർക്കങ്ങൾ വായിക്കുക</item>
+        <item>സമ്പർക്കങ്ങൾ പരിഷ്കരിക്കുക</item>
+        <item>കോൾ ലോഗ് വായിക്കുക</item>
+        <item>കോൾ ലോഗ് പരിഷ്കരിക്കുക</item>
+        <item>കലണ്ടർ വായിക്കുക</item>
+        <item>കലണ്ടർ പരിഷ്കരിക്കുക</item>
+        <item>Wi-Fi സ്കാൻ</item>
+        <item>അറിയിപ്പ്</item>
+        <item>സെൽ സ്കാൻ</item>
+        <item>ഫോൺ വിളിക്കുക</item>
+        <item>SMS വായിക്കുക</item>
+        <item>SMS എഴുതുക</item>
+        <item>SMS സ്വീകരിക്കുക</item>
+        <item>അടിയന്തിര SMS സ്വീകരിക്കുക</item>
+        <item>MMS സ്വീകരിക്കുക</item>
+        <item>WAP പുഷ് സ്വീകരിക്കുക</item>
+        <item>SMS അയയ്ക്കുക</item>
+        <item>ICC SMS വായിക്കുക</item>
+        <item>ICC SMS എഴുതുക</item>
+        <item>ക്രമീകരണം പരിഷ്കരിക്കുക</item>
+        <item>മുകളിൽ വരയ്ക്കുക</item>
+        <item>അറിയിപ്പുകൾ ആക്സസ് ചെയ്യുക</item>
+        <item>ക്യാമറ</item>
+        <item>ഓഡിയോ റെക്കൊർഡ് ചെയ്യുക</item>
+        <item>ഓഡിയോ പ്ലേ ചെയ്യുക</item>
+        <item>ക്ലിപ്ബോർഡ് വായിക്കുക</item>
+        <item>ക്ലിപ്‌ബോർഡ് പരിഷ്‌ക്കരിക്കുക</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>സ്ഥാനം</item>
+        <item>സ്ഥാനം</item>
+        <item>സ്ഥാനം</item>
+        <item>വൈബ്രേറ്റുചെയ്യുക</item>
+        <item>സമ്പർക്കങ്ങൾ വായിക്കുക</item>
+        <item>സമ്പർക്കങ്ങൾ പരിഷ്കരിക്കുക</item>
+        <item>കോൾ ലോഗ് വായിക്കുക</item>
+        <item>കോൾ ലോഗ് പരിഷ്കരിക്കുക</item>
+        <item>കലണ്ടർ വായിക്കുക</item>
+        <item>കലണ്ടർ പരിഷ്കരിക്കുക</item>
+        <item>സ്ഥാനം</item>
+        <item>അറിയിപ്പ് പോസ്റ്റുചെയ്യുക</item>
+        <item>സ്ഥാനം</item>
+        <item>ഫോൺ വിളിക്കുക</item>
+        <item>SMS/MMS വായിക്കുക</item>
+        <item>SMS/MMS എഴുതുക</item>
+        <item>SMS/MMS സ്വീകരിക്കുക</item>
+        <item>SMS/MMS സ്വീകരിക്കുക</item>
+        <item>SMS/MMS സ്വീകരിക്കുക</item>
+        <item>SMS/MMS സ്വീകരിക്കുക</item>
+        <item>SMS/MMS അയക്കുക</item>
+        <item>SMS/MMS വായിക്കുക</item>
+        <item>SMS/MMS എഴുതുക</item>
+        <item>ക്രമീകരണം പരിഷ്കരിക്കുക</item>
+        <item>മുകളിൽ വരയ്ക്കുക</item>
+        <item>അറിയിപ്പുകൾ ആക്സസ് ചെയ്യുക</item>
+        <item>ക്യാമറ</item>
+        <item>ഓഡിയോ റെക്കൊർഡ് ചെയ്യുക</item>
+        <item>ഓഡിയോ പ്ലേ ചെയ്യുക</item>
+        <item>ക്ലിപ്ബോർഡ് വായിക്കുക</item>
+        <item>ക്ലിപ്‌ബോർഡ് പരിഷ്‌ക്കരിക്കുക</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Wifi change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>ഹ്രസ്വം</item>
+        <item>ഇടത്തരം</item>
+        <item>നീണ്ടത്</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>ഡിഫോൾട്ട്</item>
+        <item>സാൻസ്-സെരിഫ്</item>
+        <item>സാൻസ്-സെരിഫ് കണ്ടൻസ്ഡ്</item>
+        <item>സെരിഫ്</item>
+        <item>മോണോസ്പേസ്</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>വളരെ ചെറുത്</item>
+        <item>ചെറുത്</item>
+        <item>സാധാരണം</item>
+        <item>വലുത്</item>
+        <item>വളരെ വലുത്</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>ഒന്നുമില്ല</item>
+        <item>ഔട്ട്‌ലൈൻ</item>
+        <item>ഡ്രോപ് ഷാഡോ</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>കറുപ്പിൽ വെള്ള</item>
+        <item>വെള്ളയിൽ കറുപ്പ്</item>
+        <item>കറുപ്പിൽ മഞ്ഞ</item>
+        <item>നീലയിൽ മഞ്ഞ</item>
+        <item>ഇച്ഛാനുസൃതമാക്കുക</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>ഡാൽവിക്</item>
+        <item>ART</item>
+        <item>ART (ഡീബഗ്)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>ഡാൽവിക് ഉപയോഗിക്കുക</item>
+        <item>ART ഉപയോഗിക്കുക</item>
+        <item>ART ഡീബഗ് ബിൽഡ് ഉപയോഗിക്കുക</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>ഒരിക്കലും പരിശോധിക്കരുത്</item>
+        <item>DRM ഉള്ളടക്കത്തിനായി മാത്രം പരിശോധിക്കുക</item>
+        <item>എല്ലായ്‌പ്പോഴും പരിശോധിക്കുക</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP ചെക്കിംഗ് ഒരിക്കലും ഉപയോഗിക്കരുത്</item>
+        <item>DRM ഉള്ളടക്കത്തിനായി മാത്രം HDCP ചെക്കിംഗ് ഉപയോഗിക്കുക</item>
+        <item>എല്ലായ്‌പ്പോഴും HDCP ചെക്കിംഗ് ഉപയോഗിക്കുക</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>അനിമേഷന്‍ ഓഫ്</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ .5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1.5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 2x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>അനിമേഷന്‍ ഓഫ്</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ .5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1.5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 2x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>അനിമേഷന്‍ ഓഫ്</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ .5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 1.5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 2x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 5x</item>
+        <item>അനിമേഷന്‍ സ്കെയില്‍ 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (സുരക്ഷിതം)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (സുരക്ഷിതം)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>Logcat</item>
+        <item>Systrace (ഗ്രാഫിക്സ്)</item>
+        <item>glGetError-ല്‍ കോള്‍ സ്റ്റാക്ക്</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>ഓഫ്</item>
+        <item>നീല നിറത്തിൽ സമകോണം അല്ലാത്ത ക്ലിപ്പ് പ്രദേശം വരയ്ക്കുക</item>
+        <item>ടെസ്റ്റുചെയ്ത വരയ്ക്കൽ കമാൻഡുകൾ പച്ച നിറത്തിൽ ഹൈലൈറ്റുചെയ്യുക</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>ഓഫ്</item>
+        <item>ബാറുകൾ പോലെ സ്ക്രീനിൽ</item>
+        <item>ലൈനുകൾ പോലെ സ്ക്രീനിൽ</item>
+        <item>adb ഷെൽ ഡംബ്‌സിസ് gfxinfo-യിൽ</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>ഓഫ്</item>
+        <item>ഓവർഡ്രോ ഏരിയ പ്രദർശിപ്പിക്കുക</item>
+        <item>ഡ്യൂറ്റർഅനമോലിക്കായുള്ള ഏരിയ പ്രദർശിപ്പിക്കുക</item>
+        <item>ഓവർഡ്രോ കൗണ്ടർ പ്രദർശിപ്പിക്കുക</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>സാധാരണ പരിധി</item>
+        <item>പശ്ചാത്തല പ്രോസസ്സുകള്‍ ഇല്ല</item>
+        <item>പരമാവധി 1 പ്രോസസ്സ്</item>
+        <item>പരമാവധി 2 പ്രോസസ്സുകള്‍</item>
+        <item>പരമാവധി 3 പ്രോസസ്സുകള്‍</item>
+        <item>പരമാവധി 4 പ്രോസസ്സുകള്‍</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>പ്രീ-ഷെയേര്‍ഡ് കീകളുമൊത്തുള്ള L2TP/IPSec VPN</item>
+        <item>സര്‍ട്ടിഫിക്കേറ്റുകളുമൊത്തുള്ള L2TP/IPSec VPN</item>
+        <item>പ്രീ-ഷെയേര്‍ഡ് കീകളും Xauth ആധികാരികമാക്കലുമൊത്തുള്ള IPSec VPN</item>
+        <item>സര്‍ട്ടിഫിക്കേറ്റുകളും Xauth ആധികാരികമാക്കലുമൊത്തുള്ള IPSec VPN</item>
+        <item>സര്‍ട്ടിഫിക്കേറ്റുകളും hybrid ആധികാരികമാക്കലുമൊത്തുള്ള IPSec VPN</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പ്രാരംഭപ്പെടുത്തുന്നു...</item>
+        <item>കണക്ടുചെയ്യുന്നു...</item>
+        <item>കണക്ടുചെയ്തു</item>
+        <item>സമയം കഴിഞ്ഞിരിക്കുന്നു</item>
+        <item>പരാജയം</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>ആവശ്യപ്പെടുക</item>
+        <item>ഒരിക്കലും അനുവദിക്കരുത്</item>
+        <item>എല്ലായ്പ്പോഴും അനുവദിക്കുക</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>സാധാരണം</item>
+        <item>മിതം</item>
+        <item>താഴ്ന്നത്</item>
+        <item>പ്രധാനം</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>സബ്സ്ക്രിപ്ഷന്‍ 1</item>
+        <item>സബ്സ്ക്രിപ്ഷന്‍ 2</item>
+        <item>വരിസംഖ്യ 3</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="styled_font_entries">
+        <item>ഡിഫോൾട്ട് ഫോണ്ട്</item>
+        <item>Serif font</item>
+    </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>ഒന്നുമില്ല</item>
+        <item>കരകൃതം</item>
+    </string-array>
+    <string-array name="wifi_status_with_sip_ppp">
+        <item></item>
+        <item>സ്കാനിംഗ്</item>
+        <item>കണക്ടുചെയ്യുന്നു</item>
+        <item>ആധികാരികമാക്കുന്നു</item>
+        <item>IP വിലാസം നേടുന്നു</item>
+        <item>കണക്ടുചെയ്തു</item>
+        <item>സസ്പെന്‍ഡുചെയ്തു</item>
+        <item>വിച്ഛേദിക്കുന്നു</item>
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പരാജയം</item>
+        <item></item>
+        <item>@string/sip_authenticating_text</item>
+        <item>@string/sip_authentication_failed_text</item>
+        <item>@string/sip_authentication_successful_text</item>
+        <item>@string/ppp_connecting_text</item>
+        <item>@string/ppp_connection_fail_text</item>
+        <item>@string/ct_wifi_connected_text</item>
+    </string-array>
+</resources>

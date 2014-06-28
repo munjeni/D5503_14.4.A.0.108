@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Når skjermen er av, er WLAN og mobildata midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta anrop, SMS-/MMS-meldinger og Sony™-kalendervarsler og -alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført. 
+
+Når skjermen er på, fungerer telefonen som normalt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Når skjermen er av, er WLAN og mobildata midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta SMS-/MMS-meldinger, Sony™-kalendervarsler og Sony™-alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført.
+
+Når skjermen er på, fungerer enheten som normalt."</string>
+    <string name="description_msg_no_telephony_txt">"Når skjermen er av, er WLAN midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta Sony™-kalendervarsler og Sony™-alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført.
+
+Når skjermen er på, fungerer enheten som normalt."</string>
+    <string name="notification_descr_ps">Lavt batterinivå-modusen kan forlenge batterilevetiden ved for eksempel å slå av WLAN eller redusere lysstyrken på skjermen når batterinivået er lavt.</string>
+    <string name="notification_text_lbw">Aktiver stedsbasert WLAN</string>
+    <string name="notification_descr_lbw">WLAN er på, men har ikke blitt brukt på en stund. Spar strøm ved å aktivere stedsbasert WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN er på, men har ikke vært i bruk på en stund. Du kan spare strøm ved å aktivere Stedsbasert WLAN. Konfigurere Stedsbasert WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Lavt batterinivå-modus kan forlenge batterilevetiden ved for eksempel å slå av WLAN eller redusere lysstyrken på skjermen når batterinivået er lavt. Konfigurere Lavt batterinivå-modus?</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>網路預設</item>
+        <item>隱藏號碼</item>
+        <item>顯示號碼</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>全球</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>僅限EvDo</item>
+        <item>CDMA (不具EvDo)</item>
+        <item>CDMA/EvDo自動切換</item>
+        <item>GSM/WCDMA自動切換</item>
+        <item>僅限WCDMA</item>
+        <item>僅限GSM</item>
+        <item>慣用GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>英文</item>
+        <item>法文</item>
+        <item>西班牙文</item>
+        <item>日文</item>
+        <item>韓文</item>
+        <item>中文</item>
+        <item>希伯來文</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA(自動模式)</item>
+        <item>僅限WCDMA</item>
+        <item>僅限GSM</item>
+        <item>GSM/WCDMA (慣用WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>僅用自家網路</item>
+        <item>自動</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>僅限主網路</item>
+        <item>聯盟網路</item>
+        <item>任何網路</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>僅限CDMA</item>
+        <item>僅限EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>關閉TTY</item>
+        <item>TTY全能</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>普通</item>
+        <item>長音</item>
+    </string-array>
+</resources>

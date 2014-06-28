@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Umožňuje aplikácii získať vaše presné miesto pomocou systému GPS (Global Positioning System) alebo zdrojov určovania miesta siete, napríklad vykrývačov a sietí WLAN. Tieto služby na určovanie miesta musia byť na vašom zariadení zapnuté a dostupné, inak ich aplikácia nebude môcť využívať. Aplikácie môžu tieto služby využívať na určenie vášho miesta. Tieto služby môžu zvýšiť spotrebu batérie.</string>
+    <string name="permdesc_accessCoarseLocation">Umožňuje aplikácii získať vaše približné miesto. Toto miesto je odvodené zo služieb určovania miesta pomocou zdrojov určenia miesta siete, napríklad vykrývačov a sietí WLAN. Tieto služby určovania miesta musia byť na vašom zariadení zapnuté a dostupné, inak ich aplikácia nebude môcť využívať. Aplikácie môžu tieto služby využívať na určenie vášho približného miesta.</string>
+    <string name="permlab_configureWifiDisplay">konfigurovať displeje WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Umožňuje aplikácii konfigurovať displeje WLAN a pripojiť sa k nim.</string>
+    <string name="permlab_controlWifiDisplay">ovládať displeje WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Umožňuje aplikácii ovládať základné funkcie displejov WLAN.</string>
+    <string name="permlab_accessWifiState">zobraziť pripojenia siete WLAN</string>
+    <string name="permdesc_accessWifiState">Povoľuje aplikácii zobraziť informácie o sieťach WLAN, napríklad o tom, či je sieť WLAN povolená alebo názvy pripojených zariadení WLAN.</string>
+    <string name="permlab_changeWifiState">pripojiť sa k sieti WLAN a odpojiť sa od nej</string>
+    <string name="permdesc_changeWifiState">Povoľuje aplikácii pripojiť sa k prístupovým bodom siete WLAN, odpojiť sa od nich a meniť konfiguráciu zariadení pre siete WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">povoliť príjem viacsmerového vysielania siete WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Povoľuje aplikácii prijímať pakety odoslané na všetky zariadenia v sieti WLAN pomocou viacsmerových adries, nielen pomocou vášho telefónu. Spotrebuje viac energie ako režim bez viacsmerového vysielania.</string>
+    <string name="wifi_available_sign_in">Prihlásenie sa do siete WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Nepodarilo sa pripojiť k sieti WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Spustiť WLAN Direct. Táto možnosť vypne sieť WLAN v režime klient alebo prístupový bod.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct sa nepodarilo spustiť</string>
+    <string name="wifi_p2p_enabled_notification_title">Mechanizmus WLAN Direct je zapnutý</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefón sa počas pripojenia k zariadeniu %1$s dočasne odpojí od siete WLAN</string>
+    <string name="data_usage_wifi_limit_title">Prenos dát cez WLAN – zakázaný</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Dát. limit WLAN bol prekročený</string>
+    <string name="policylab_disableWifi">Zakázanie prístupu k sieti WLAN</string>
+    <string name="policydesc_disableWifi">Zabránenie pripojeniu k sieti WLAN v zariadení.</string>
+    <string name="wifi_disabled_notification_title">Pripojenie WLAN je obmedzené</string>
+    <string name="wifi_disabled_notification_message">"Politika zabezpečenia obmedzuje používanie pripojenia WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Používa sa WLAN roaming</string>
+    <string name="ct_cplusw_notification_text">"Pripojila sa sieť CT WLAN. Inf. o fakturácii získate na čísle 10000 alebo v miest. pobočke CT. Keď sieť nepoužívate, odpojte ju.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom – WLAN pripojené</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Pripojíte sa k sieti WLAN spoločnosti China Telecom. Ak máte záujem o podrobnosti o poplatkoch, kontaktujte služby zákazníkom spoločnosti China Telecom. Pokračovať?</string>
+    <string name="wifi_nonconcurrency_message">Spustiť klienta WLAN. Odpojí sa mechanizmus WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Spustiť klienta WLAN. Odpojí sa mechanizmus WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Všetky existujúce pripojenia WLAN sa odpoja</string>
+    <string name="wifi_p2p_nonconcurrency_message">Spustiť mechanizmus WLAN Direct. Pripojenie WLAN sa odpojí.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Všetky existujúce pripojenia WLAN sa odpoja</string>
+    <string name="wifi_p2p_noncuncurrency_message">Spustiť mechanizmus WLAN Direct. Pripojenie WLAN sa odpojí.</string>
+    <string name="tethered_notification_message_wifi">Pripojenie WLAN môžete znova zapnúť po vypnutí mobilného prístupového bodu</string>
+    <string name="tethered_notification_title_wifi">Pripojenie WLAN je vypnuté</string>
+</resources>

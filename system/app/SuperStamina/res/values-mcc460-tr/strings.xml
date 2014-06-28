@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Ekran kapalı olduğunda WLAN ile mobil veri geçici olarak devre dışı bırakılır ve uygulamaların çoğu devre dışı olur. Telefon çağrısı, SMS/MMS mesajları, Sony™ takvim bildirimleri ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır ve devam eden indirme ve yükleme işlemlerinizin tamamlanmasına izin verilir.
+
+Ekran açıldığında telefonunuzu normal bir şekilde çalışır.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Ekran kapalı olduğunda, WLAN ve mobil veri geçici olarak devre dışı bırakılır ve çoğu uygulama devre dışı olur. SMS/MMS mesajlarını, Sony™ takvim bildirimlerini ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır; devam eden indirme ve karşıya yükleme işlemlerinin tamamlanmasına izin verilir.
+
+Ekran açıldığında, cihazınız normal şekilde çalışır."</string>
+    <string name="description_msg_no_telephony_txt">"Ekran kapalı olduğunda, WLAN geçici olarak devre dışı bırakılır ve çoğu uygulama devre dışı kalır. Sony™ takvim bildirimlerini ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır, devam eden indirme ve yükleme işlemlerinin tamamlanmasına izin verilir.
+
+Ekran açıldığında cihazınız normal şekilde çalışır."</string>
+    <string name="notification_descr_ps">Az pil modu, pil zayıfladığında örneğin WLAN fonksiyonunu kapatarak veya ekran parlaklığını azaltarak pil ömrünü uzatabilir.</string>
+    <string name="notification_text_lbw">"Konum tabanlı WLAN'yi aktif hale getir"</string>
+    <string name="notification_descr_lbw">WLAN açık, ancak bir süredir kullanılmıyor. Konum tabanlı WLAN işlevini aktif hale getirerek güç tasarrufu yapın.</string>
+    <string name="location_based_wifi_tip_dialog">"WLAN açık ancak bir süredir kullanılmıyor. Konum tabanlı WLAN'ı etkinleştirerek güç tasarrufu yapabilirsiniz. Konum tabanlı WLAN ayarlansın mı?"</string>
+    <string name="low_battery_mode_tip_dialog">"Az pil modu, pil düşük seviyedeyken WLAN'ı kapatarak veya ekran parlaklığını azaltarak pil ömrünü uzatabilir. Düşük pil modu ayarlansın mı?"</string>
+</resources>

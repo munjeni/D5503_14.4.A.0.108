@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">Urus WLAN, Bluetooth, mod pesawat, rangkaian mudah alih &amp; VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Hidupkan WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Tetapan WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Pilih WLAN</string>
+    <string name="wifi_starting">Menghidupkan WLAN…</string>
+    <string name="wifi_stopping">Mematikan WLAN…</string>
+    <string name="wifi_poor_network_detection_summary">Jangan gunakan rangkaian WLAN melainkan jika rangkaian itu mempunyai sambungan internet yang baik</string>
+    <string name="wifi_scan_always_available_summary">Benarkan perkhidmatan lokasi Google dan apl lain mengimbas rangkaian, walaupun semasa WLAN dimatikan</string>
+    <string name="wifi_scan_notify_text_location_on">Untuk memperbaik ketepatan lokasi dan untuk tujuan lain, Google dan apl lain mungkin mengimbas rangkaian berhampiran walaupun semasa WLAN dimatikan. Jika anda tidak mahu ini berlaku, pergi ke Terperinci > Pengimbasan sentiasa tersedia.</string>
+    <string name="wifi_scan_notify_text_location_off">Apl mungkin mengimbas rangkaian berhampiran, walaupun semasa WLAN dimatikan. Jika anda tidak mahu ini berlaku, pergi ke Terperinci > Pengimbasan sentiasa tersedia.</string>
+    <string name="wifi_setting_sleep_policy_title">Biarkan WLAN aktif semasa tidur</string>
+    <string name="wifi_suspend_optimizations">Pengoptimuman WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimumkan penggunaan bateri apabila WLAN dihidupkan</string>
+    <string name="wifi_access_points">Rangkaian WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Langsung</string>
+    <string name="wifi_empty_list_wifi_off">Untuk melihat rangkaian yang tersedia, hidupkan WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Mencari rangkaian WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Anda tiada kebenaran untuk menukar rangkaian WLAN.</string>
+    <string name="wifi_required_info_text">Untuk melengkapkan persediaan, tablet anda memerlukan akses ke WLAN. Selepas persediaan, anda boleh beralih antara data mudah alih dan WLAN.</string>
+    <string name="wifi_wps_setup_title">Persediaan WLAN Berkunci</string>
+    <string name="wifi_wps_onstart_pbc">Tekan butang Persediaan Terlindung WLAN di router anda. Namanya mungkin \"WPS\" atau mengandungi simbol ini:</string>
+    <string name="wifi_wps_onstart_pin">Masukkan pin %1$s pada penghala WLAN anda. Persediaan ini boleh mengambil masa sehingga dua minit untuk selesai.</string>
+    <string name="wifi_wps_connected">Disambungkan ke rangkaian WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Untuk memperbaik ketepatan lokasi dan untuk tujuan lain, %1$s ingin menghidupkan imbasan rangkaian, walaupun semasa WLAN dimatikan.
+
+Benarkan fungsi ini untuk semua apl yang ingin mengimbas?"</string>
+    <string name="wifi_connect_failed_message">Telefon tidak dapat menyambung ke rangkaian WLAN ini.</string>
+    <string name="wifi_advanced_titlebar">WLAN Lanjutan</string>
+    <string name="wifi_setting_frequency_band_title">Gelombang frekuensi WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Langsung</string>
+    <string name="wifi_tether_checkbox_text">Tempat liputan WLAN mudah alih</string>
+    <string name="wifi_tether_failed_subtext">Ralat tempat liputan WLAN mudah alih</string>
+    <string name="wifi_tether_configure_ap_text">Sediakan tempat liputan WLAN</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s tempat liputan WLAN mudah alih</string>
+    <string name="status_wifi_mac_address">Alamat MAC WLAN</string>
+    <string name="location_mode_high_accuracy_description">Gunakan GPS, WLAN dan rangkaian mudah alih untuk menentukan lokasi</string>
+    <string name="location_mode_battery_saving_description">Gunakan WLAN dan rangkaian mudah alih untuk menentukan lokasi</string>
+    <string name="location_network_based">Lokasi WLAN &amp; rangkaian mudah alih</string>
+    <string name="location_neighborhood_level">Biar apl guna perkhidmatan lokasi Google utk anggar lokasi lebih cepat. Data lokasi tanpa nama dikumpul dan dihantar kpd Google.</string>
+    <string name="location_neighborhood_level_wifi">Lokasi ditentukan oleh WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Masa hidup WLAN</string>
+    <string name="bluetooth_on_time">Masa hidup WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN berjalan</string>
+    <string name="usage_type_data_wifi_send">Data WLAN yang dihantar</string>
+    <string name="usage_type_data_wifi_recv">Data WLAN yang diterima</string>
+    <string name="battery_action_wifi">Tetapan WLAN</string>
+    <string name="battery_desc_wifi">Bateri yang digunakan oleh WLAN</string>
+    <string name="battery_sugg_wifi">Matikan WLAN apabila tidak menggunakannya atau apabila tidak tersedia</string>
+    <string name="gadget_toggle_wifi">Mengemas kini tetapan WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Sandarkan data apl, kata laluan WLAN dan tetapan lain ke pelayan Google</string>
+    <string name="backup_erase_dialog_message">Berhenti membuat sandaran kata laluan WLAN anda, penanda halaman, tetapan lain dan data apl serta padamkan semua salinan pada pelayan Google?</string>
+    <string name="wifi_setup_title">Persediaan WLAN</string>
+    <string name="wifi_setup_title_editing_network">Sambung ke rangkaian WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Menyambung ke rangkaian WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Disambungkan kepada rangkaian WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">"Anda tidak boleh mengkonfigurasi sambungan WLAN EAP semasa persediaan. Selepas persediaan, anda boleh berbuat demikian dalam Tetapan >  Wayarles &amp; rangkaian."</string>
+    <string name="wifi_setup_description_connected">Sentuh <b>Seterusnya</b>" untuk meneruskan dengan persediaan.
+
+Sentuh "<b>Kembali</b> untuk menyambung kepada rangkaian WLAN lain.</string>
+    <string name="data_usage_menu_show_wifi">Tunjukkan penggunaan WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Tetapkan had data WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Jika anda menghadkan data mudah alih latar belakang, beberapa apl dan perkhidmatan tidak akan berfungsi melainkan anda bersambung ke rangkaian WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jika anda mengehadkan data mudah alih latar belakang, sesetengah apl dan perkhidmatan tidak akan berfungsi melainkan anda bersambung ke rangkaian WLAN.
+
+Tetapan ini melibatkan semua pengguna pada telefon ini."</string>
+    <string name="data_usage_metered_body">Pilih rangkaian WLAN yang merupakan tempat liputan mudah alih. Apl boleh disekat daripada menggunakan rangkaian ini semasa berada di latar belakang. Apl juga boleh memberi amaran sebelum menggunakan rangkaian ini untuk muat turun yang besar.</string>
+    <string name="data_usage_metered_wifi">Rangkaian WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Untuk memilih tempat liputan mudah alih, hidupkan WLAN.</string>
+    <string name="user_add_user_message_long">"Anda boleh berkongsi peranti ini dengan orang lain dengan membuat pengguna tambahan. Setiap pengguna mempunyai ruang mereka sendiri yang boleh diperibadikan dengan apl mereka sendiri, kertas dinding dan sebagainya. Pengguna juga boleh melaraskan tetapan tablet seperti WLAN yang melibatkan semua orang.
+
+Selepas anda membuat pengguna baharu, orang itu perlu melalui proses persediaan.
+
+Mana-mana pengguna boleh meluluskan kebenaran kemas kini apl bagi pihak pengguna lain."</string>
+    <string name="restriction_wifi_config_title">WLAN dan Mudah Alih</string>
+    <string name="restriction_wifi_config_summary">Benarkan pengubahsuaian tetapan WLAN dan Mudah Alih</string>
+</resources>

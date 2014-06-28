@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Khi màn hình tắt, WLAN và dữ liệu di động sẽ tạm thời bị vô hiệu hoá và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được các cuộc gọi thoại, tin nhắn SMS/MMS cũng như âm báo thức và thông báo lịch Sony™. Trình phát nhạc và đài FM sẽ hoạt động và các quá trình tải xuống và tải lên đang diễn ra sẽ được phép hoàn tất.
+
+Khi màn hình được bật, điện thoại của bạn sẽ hoạt động bình thường.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Khi màn hình tắt, WLAN và dữ liệu di động sẽ tạm thời bị vô hiệu hoá, và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được tin nhắn SMS/MMS, thông báo lịch của Sony™ và tín hiệu báo thức của Sony™. Trình phát nhạc và đài FM sẽ hoạt động, đồng thời các bản tải xuống và tải lên đang diễn ra sẽ được phép hoàn thành.
+
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường."</string>
+    <string name="description_msg_no_telephony_txt">"Khi màn hình tắt, WLAN sẽ tạm thời bị vô hiệu hoá, và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được thông báo lịch của Sony™ và tín hiệu báo thức của Sony™. Trình phát nhạc và đài FM sẽ hoạt động, đồng thời các bản tải xuống và tải lên đang diễn ra sẽ được phép hoàn thành.
+
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường."</string>
+    <string name="notification_descr_ps">"Chế độ pin thấp có thể  kéo dài tuổi thọ pin bằng cách tắt WLAN hoặc giảm độ sáng màn hình khi pin thấp."</string>
+    <string name="notification_text_lbw">Kích hoạt WLAN dựa trên vị trí</string>
+    <string name="notification_descr_lbw">Wi-F đã bật nhưng chưa được sử dụng trong một thời gian. Tiết kiệm điện bằng cách kích hoạt WLAN dựa trên vị trí.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN bật nhưng không được sử dụng một lúc. Bạn có thể tiết kiệm điện bằng cách kích hoạt WLAN dựa trên Vị trí. Bạn muốn thiết lập WLAN dựa trên Vị trí không?</string>
+    <string name="low_battery_mode_tip_dialog">Chế độ pin yếu có thể kéo dài tuổi thọ pin bằng cách như tắt WLAN hoặc giảm độ sáng của màn hình khi pin yếu. Bạn muốn thiết lập chế độ pin Yếu không?</string>
+</resources>

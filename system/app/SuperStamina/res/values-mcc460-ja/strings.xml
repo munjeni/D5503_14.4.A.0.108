@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"画面がOFFの状態ではWLANとモバイルデータ通信が一時的に無効になり、多くのアプリも停止中の状態になります。なお、着信やメッセージ受信は可能で、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、携帯電話は通常の動作に戻ります。"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"画面がOFFの状態ではWLANとモバイルデータ通信が一時的に無効になり、多くのアプリも停止中の状態になります。なお、メッセージ受信は可能で、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、機器は通常の動作に戻ります。"</string>
+    <string name="description_msg_no_telephony_txt">"画面がOFFの状態ではWLANが一時的に無効になり、多くのアプリも停止中の状態になります。なお、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、機器は通常の動作に戻ります。"</string>
+    <string name="notification_descr_ps">低バッテリーモードでは、電池残量が少ない時に、例えばWLANをOFFにしたり、画面の明るさを下げたりして電力の消費を抑えます。</string>
+    <string name="notification_text_lbw">エリア連動WLANを有効にする</string>
+    <string name="notification_descr_lbw">WLANがONですが、しばらく利用されていません。エリア連動WLANを有効にすると電池を節約できます。</string>
+    <string name="location_based_wifi_tip_dialog">WLANがONですが、しばらく利用されていません。エリア連動WLANを有効にすると電池を節約できます。エリア連動WLANを設定しますか?</string>
+    <string name="low_battery_mode_tip_dialog">低バッテリーモードでは、電池残量が少ない時に、例えばWLANをOFFにしたり、画面の明るさを下げたりして電力の消費を抑えます。低バッテリーモードを設定しますか?</string>
+</resources>

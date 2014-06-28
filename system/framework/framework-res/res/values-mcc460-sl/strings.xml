@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Programu omogoča, da s sistemom GPS ali omrežnimi lokacijskimi viri, kot so bazne postaje mobilne telefonije ali WLAN, določi vašo natančno lokacijo. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite, da jih program lahko uporabi. Programi lahko na podlagi tega določijo vašo lokacijo in še dodatno izpraznijo baterijo.</string>
+    <string name="permdesc_accessCoarseLocation">Programu omogoča, da določi vašo približno lokacijo na podlagi lokacijskih storitev z omrežnimi lokacijskimi viri, kot so bazne postaje mobilne telefonije in WLAN. V napravi morajo biti te lokacijske storitve vklopljene in na voljo, če želite, da jih program uporablja. Programi lahko na podlagi tega določijo vašo približno lokacijo.</string>
+    <string name="permlab_configureWifiDisplay">konfiguriranje prikaza naprav WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Programu omogoča konfiguriranje zaslonov WLAN in povezovanje z njimi.</string>
+    <string name="permlab_controlWifiDisplay">nadzor prikaza naprav WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Programu omogoča nadzor osnovnih funkcij zaslonov WLAN.</string>
+    <string name="permlab_accessWifiState">prikaz povezav WLAN</string>
+    <string name="permdesc_accessWifiState">Programu omogoča ogled podatkov o omrežjih WLAN, na primer o tem, ali je WLAN omogočen, in imen povezanih naprav WLAN.</string>
+    <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem WLAN in prekinitev povezave z njim</string>
+    <string name="permdesc_changeWifiState">Programu omogoča, da vzpostavi povezavo z dostopnimi točkami WLAN in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">omogočanje sprejema večvrstnega oddajanja WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Programu omogoča prejemanje paketov, poslanih v vse naprave v omrežju WLAN z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
+    <string name="wifi_available_sign_in">Prijava v omrežje WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Z omrežjem WLAN se ni mogoče povezati</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Zaženite WLAN Direct. S tem boste izklopili odjemalca/vročo točko WLAN.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct ni mogoče zagnati</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct je vklopljen</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefon bo začasno prekinil povezavo z omrežjem WLAN, ko je povezan z napravo %1$s</string>
+    <string name="data_usage_wifi_limit_title">Uporaba podatkov WLAN je onemogočena</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Omejitev za podatke WLAN je presežena</string>
+    <string name="policylab_disableWifi">Onemogočanje dostopa do povezav WLAN</string>
+    <string name="policydesc_disableWifi">Onemogoči povezave WLAN v napravi.</string>
+    <string name="wifi_disabled_notification_title">Omejena uporaba povezave WLAN</string>
+    <string name="wifi_disabled_notification_message">"Varnostni pravilnik omejuje uporabo povezave WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Gostovanje WLAN</string>
+    <string name="ct_cplusw_notification_text">"Vzp. pov. z omr. WLAN dr. CT. Za info. o cen., pok. 10000 ali se obr. na pr. oper. CT.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Vzpost. pov. z brezž. omrežjem CT</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Vzpostavili boste povezavo z omrežjem WLAN operaterja China Telecom. Če želite izvedeti podrobnosti o cenah storitev, se obrnite na storitev za stranke operaterja China Telecom. Ali želite nadaljevati?</string>
+    <string name="wifi_nonconcurrency_message">Zaženi odjemalca za WLAN. S tem boste prekinili povezavo z WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Zaženi odjemalca za WLAN. S tem boste prekinili povezavo z WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">S tem boste prekinili obstoječe povezave WLAN</string>
+    <string name="wifi_p2p_nonconcurrency_message">Zaženi odjemalca za WLAN. S tem boste prekinili povezavo z WLAN Direct.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">S tem boste prekinili obstoječo povezavo WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Zaženi odjemalca za WLAN. S tem boste prekinili povezavo z WLAN Direct.</string>
+    <string name="tethered_notification_message_wifi">Če želite znova vklopiti WLAN, izklopite mobilno vročo točko</string>
+    <string name="tethered_notification_title_wifi">WLAN je izklopljen</string>
+</resources>

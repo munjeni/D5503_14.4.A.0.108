@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.ConversationMainViewLayout android:id="@id/conversation_location" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/conversation_location_actionbar_space" android:layout_width="fill_parent" android:layout_height="@dimen/conversation_actionbar_height" android:layout_alignParentTop="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/semc_location_edit_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" style="?android:attr/buttonBarStyle">
+        <Button android:id="@id/location_cancel" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/gui_cancel_txt" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        <Button android:id="@id/location_edit" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/conversations_strings_ssc_edit_txt" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        <Button android:id="@id/location_done" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/conversations_strings_editview_done_txt" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/semc_location_edit_input" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_above="@id/semc_location_edit_button" android:layout_alignWithParentIfMissing="true" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip">
+        <EditText android:id="@id/location_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/conversations_strings_location_input_hint_txt" android:singleLine="true" android:inputType="textCapSentences|textAutoCorrect" />
+        <EditText android:id="@id/location_address" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/conversations_strings_address_input_hint_txt" android:singleLine="true" android:inputType="textCapSentences|textAutoCorrect" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/semc_location_mapview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_above="@id/semc_location_edit_input" android:layout_below="@id/conversation_location_actionbar_space">
+        <TextView android:id="@id/location_caption" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/conversations_strings_action_select_current_location_txt" android:paddingStart="5.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/location_mapview" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.sonyericsson.conversations.ui.ConversationMainViewLayout>

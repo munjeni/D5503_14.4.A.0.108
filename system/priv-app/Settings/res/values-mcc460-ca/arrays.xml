@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ubicació aproximada</item>
+        <item>ubicació precisa</item>
+        <item>GPS</item>
+        <item>vibració</item>
+        <item>lectura de contactes</item>
+        <item>modifica els contactes</item>
+        <item>llegeix el registre de trucades</item>
+        <item>modifica el registre de trucades</item>
+        <item>lectura del calendari</item>
+        <item>modifica el calendari</item>
+        <item>exploració de WLAN</item>
+        <item>notificació</item>
+        <item>exploració de cel·la</item>
+        <item>trucada de telèfon</item>
+        <item>llegeix SMS</item>
+        <item>escriu SMS</item>
+        <item>rep SMS</item>
+        <item>"rep SMS d'emergència"</item>
+        <item>rep MMS</item>
+        <item>rep insercions WAP</item>
+        <item>envia SMS</item>
+        <item>llegeix SMS ICC</item>
+        <item>escriu SMS ICC</item>
+        <item>modifica la configuració</item>
+        <item>dibuixa a sobre</item>
+        <item>accedeix a les notificacions</item>
+        <item>càmera</item>
+        <item>"enregistra l'àudio"</item>
+        <item>"reprodueix l'àudio"</item>
+        <item>llegeix el porta-retalls</item>
+        <item>modifica el porta-retalls</item>
+        <item>botons multimèdia</item>
+        <item>"enfocament de l'àudio"</item>
+        <item>volum general</item>
+        <item>volum de la veu</item>
+        <item>volum del to</item>
+        <item>volum multimèdia</item>
+        <item>"volum de l'alarma"</item>
+        <item>volum de notificació</item>
+        <item>volum del Bluetooth</item>
+        <item>actiu</item>
+        <item>supervisa la ubicació</item>
+        <item>fes un seguiment de la precisió de la ubicació</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ubicació</item>
+        <item>Ubicació</item>
+        <item>Ubicació</item>
+        <item>Vibració</item>
+        <item>Lectura de contactes</item>
+        <item>Modifica els contactes</item>
+        <item>Llegeix el registre de trucades</item>
+        <item>Modifica el registre de trucades</item>
+        <item>Lectura del calendari</item>
+        <item>Modifica el calendari</item>
+        <item>Ubicació</item>
+        <item>Notificació de la publicació</item>
+        <item>Ubicació</item>
+        <item>Trucada de telèfon</item>
+        <item>"Llegeix l'SMS/MMS"</item>
+        <item>Escriu un SMS/MMS</item>
+        <item>Rep SMS/MMS</item>
+        <item>Rep SMS/MMS</item>
+        <item>Rep SMS/MMS</item>
+        <item>Rep SMS/MMS</item>
+        <item>Envia SMS/MMS</item>
+        <item>"Llegeix l'SMS/MMS"</item>
+        <item>Escriu un SMS/MMS</item>
+        <item>Modifica la configuració</item>
+        <item>Dibuixa a sobre</item>
+        <item>Accedeix a les notificacions</item>
+        <item>Càmera</item>
+        <item>"Enregistra l'àudio"</item>
+        <item>"Reprodueix l'àudio"</item>
+        <item>Llegeix el porta-retalls</item>
+        <item>Modifica el porta-retalls</item>
+        <item>Botons de multimèdia</item>
+        <item>"Enfocament de l'àudio"</item>
+        <item>Volum general</item>
+        <item>Volum de la veu</item>
+        <item>Volum del to</item>
+        <item>Volum de multimèdia</item>
+        <item>"Volum de l'alarma"</item>
+        <item>Volum de notificació</item>
+        <item>Volum de Bluetooth</item>
+        <item>Actiu</item>
+        <item>Ubicació</item>
+        <item>Ubicació</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

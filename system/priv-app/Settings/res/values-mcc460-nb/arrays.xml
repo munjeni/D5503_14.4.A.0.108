@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>anslått posisjon</item>
+        <item>nøyaktig posisjon</item>
+        <item>GPS</item>
+        <item>vibrer</item>
+        <item>lesing av kontakter</item>
+        <item>Endre kontaktene</item>
+        <item>Lese anropsloggen</item>
+        <item>Endre anropsloggen</item>
+        <item>lesing av kalender</item>
+        <item>Endre kalenderen</item>
+        <item>WLAN-skann</item>
+        <item>varsel</item>
+        <item>mobiltelefonskann</item>
+        <item>ring til telefon</item>
+        <item>Les SMS</item>
+        <item>Skriv SMS</item>
+        <item>Motta SMS</item>
+        <item>Motta nød-SMS</item>
+        <item>Motta MMS</item>
+        <item>Motta WAP-push</item>
+        <item>Send SMS</item>
+        <item>Les ICC SMS</item>
+        <item>Skriv ICC SMS</item>
+        <item>Endre innstillingene</item>
+        <item>tegn øverst</item>
+        <item>varseltilgang</item>
+        <item>kamera</item>
+        <item>spill inn lyd</item>
+        <item>spill av lyd</item>
+        <item>lesing av utklippstavlen</item>
+        <item>endring av utklippstavlen</item>
+        <item>medieknapper</item>
+        <item>audiofokus</item>
+        <item>hovedvolum</item>
+        <item>stemmevolum</item>
+        <item>ringevolum</item>
+        <item>medievolum</item>
+        <item>alarmvolum</item>
+        <item>varselvolum</item>
+        <item>bluetooth-volum</item>
+        <item>hold aktiv</item>
+        <item>overvåk posisjon</item>
+        <item>overvåk plassering med høyt strømforbruk</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Sted</item>
+        <item>Sted</item>
+        <item>Sted</item>
+        <item>Vibrer</item>
+        <item>Les kontakter</item>
+        <item>Endre kontakter</item>
+        <item>Les anropsliste</item>
+        <item>Endre anropsliste</item>
+        <item>Les kalender</item>
+        <item>Endre kalender</item>
+        <item>Sted</item>
+        <item>Send varsel</item>
+        <item>Sted</item>
+        <item>Ring til telefon</item>
+        <item>Les SMS/MMS</item>
+        <item>Skriv SMS/MMS</item>
+        <item>Motta SMS/MMS</item>
+        <item>Motta SMS/MMS</item>
+        <item>Motta SMS/MMS</item>
+        <item>Motta SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Les SMS/MMS</item>
+        <item>Skriv SMS/MMS</item>
+        <item>Endre innstillingene</item>
+        <item>Tegn øverst</item>
+        <item>Varseltilgang</item>
+        <item>Kamera</item>
+        <item>Spill inn lyd</item>
+        <item>Spill av lyd</item>
+        <item>Les utklippstavlen</item>
+        <item>Endre utklippstavlen</item>
+        <item>Medieknapper</item>
+        <item>Audiofokus</item>
+        <item>Hovedvolum</item>
+        <item>Stemmevolum</item>
+        <item>Ringevolum</item>
+        <item>Medievolum</item>
+        <item>Alarmvolum</item>
+        <item>Varselvolum</item>
+        <item>Bluetooth-volum</item>
+        <item>Hold aktiv</item>
+        <item>Posisjon</item>
+        <item>Sted</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

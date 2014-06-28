@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/conversationlist_content_area" android:background="@drawable/conv_list_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="500.0">
+        <LinearLayout android:id="@id/conversation_list_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+    <com.sonyericsson.conversations.ui.ConversationMainViewLayout android:id="@id/conversation_content_area" android:background="@color/conversations_list_tablet_content_area_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="309.0">
+        <LinearLayout android:id="@id/conversation_to_field_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignWithParentIfMissing="true" />
+        <LinearLayout android:id="@id/conversation_message_list_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/conversation_to_field_container" android:layout_alignWithParentIfMissing="true" />
+    </com.sonyericsson.conversations.ui.ConversationMainViewLayout>
+</LinearLayout>

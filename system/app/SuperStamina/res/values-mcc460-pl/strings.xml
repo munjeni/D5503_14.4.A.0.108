@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Przy wyłączonym ekranie transmisja danych w sieci komórkowej i sieć WLAN zostaną tymczasowo wyłączone, a większość aplikacji będzie nieaktywna. Nadal będą odbierane połączenia, wiadomości SMS/MMS, powiadomienia kalendarza Sony™ oraz sygnały alarmowe Sony™. Odtwarzacz muzyki i radio FM będą działać, a operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie telefon będzie działać normalnie.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Przy wyłączonym ekranie transmisja danych w sieci komórkowej i WLAN będą tymczasowo wyłączone, a większość aplikacji nie będzie działać. Nadal będą dostarczane wiadomości SMS/MMS, powiadomienia kalendarza Sony™ i sygnały alarmów Sony™. Odtwarzacz muzyki i radio FM będą działać, a trwające operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie urządzenie będzie działać normalnie."</string>
+    <string name="description_msg_no_telephony_txt">"Przy wyłączonym ekranie łączność z siecią WLAN będzie tymczasowo wyłączona, a większość aplikacji nie będzie działać. Nadal będą dostarczane powiadomienia kalendarza Sony™ i sygnały alarmów Sony™. Odtwarzacz muzyki i radio FM będą działać, a trwające operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie urządzenie będzie działać normalnie."</string>
+    <string name="notification_descr_ps">Tryb oszczędzania słabej baterii może przedłużyć żywotność baterii przez np. wyłączenie sieci WLAN lub zmniejszenie jasności ekranu, gdy bateria jest bliska rozładowania.</string>
+    <string name="notification_text_lbw">Włącz sieć WLAN zależną od lokalizacji</string>
+    <string name="notification_descr_lbw">Sieć WLAN jest włączona, ale nie była używana przez jakiś czas. Oszczędzaj energię, włączając sieć WLAN zależną od lokalizacji.</string>
+    <string name="location_based_wifi_tip_dialog">Sieć WLAN jest włączona, ale nie była używana przez jakiś czas. Możesz oszczędzać energię, włączając sieć WLAN zależną od lokalizacji. Skonfigurować sieć WLAN zależną od lokalizacji?</string>
+    <string name="low_battery_mode_tip_dialog">Tryb oszczędzania słabej baterii może przedłużyć czas pracy na baterii przez np. wyłączenie sieci WLAN lub zmniejszenie jasności ekranu, gdy bateria jest słaba. Skonfigurować tryb słabej baterii?</string>
+</resources>

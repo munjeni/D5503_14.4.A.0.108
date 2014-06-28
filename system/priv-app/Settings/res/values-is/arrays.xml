@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Ameríka</item>
+        <item>Evrópa</item>
+        <item>Afríka</item>
+        <item>Asía</item>
+        <item>Ástralía</item>
+        <item>Kyrrahaf</item>
+        <item>Öll</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekúndur</item>
+        <item>30 sekúndur</item>
+        <item>1 mínúta</item>
+        <item>2 mínútur</item>
+        <item>5 mínútur</item>
+        <item>10 mínútur</item>
+        <item>30 mínútur</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Aldrei</item>
+        <item>15 sekúndur</item>
+        <item>30 sekúndur</item>
+        <item>1 mínúta</item>
+        <item>2 mínútur</item>
+        <item>5 mínútur</item>
+        <item>10 mínútur</item>
+        <item>30 mínútur</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Senda strax</item>
+        <item>5 sekúndur</item>
+        <item>15 sekúndur</item>
+        <item>30 sekúndur</item>
+        <item>1 mínúta</item>
+        <item>2 mínútur</item>
+        <item>5 mínútur</item>
+        <item>10 mínútur</item>
+        <item>30 mínútur</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Lítið</item>
+        <item>Venjulegt</item>
+        <item>Stórt</item>
+        <item>Mjög stórt</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Mjög hægt</item>
+        <item>Hægt</item>
+        <item>Venjulegt</item>
+        <item>Hratt</item>
+        <item>Hraðar</item>
+        <item>Mjög hratt</item>
+        <item>Ört</item>
+        <item>Mjög ört</item>
+        <item>Hraðast</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Mjög lágur</item>
+        <item>Lágur</item>
+        <item>Venjulegur</item>
+        <item>Hár</item>
+        <item>Mjög há</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Leita...</item>
+        <item>Tengi…</item>
+        <item>Sannvotta...</item>
+        <item>Sæki IP-tölu...</item>
+        <item>Tenging er virk</item>
+        <item>Í bið</item>
+        <item>Aftengist...</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Lokað</item>
+        <item>Forðast slæmar tengingar tímabundið</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Leita...</item>
+        <item>Tengist við %1$s…</item>
+        <item>Sannvotta við %1$s…</item>
+        <item>Sæki IP-tölu frá %1$s…</item>
+        <item>Tengt við %1$s</item>
+        <item>Í bið</item>
+        <item>Aftengist %1$s…</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Lokað</item>
+        <item>Forðast slæmar tengingar tímabundið</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Ýttu á hnappinn</item>
+        <item>PIN-númer frá jafningjatæki</item>
+        <item>PIN-númer frá þessu tæki</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Tengt</item>
+        <item>Boðið</item>
+        <item>Mistókst</item>
+        <item>Til staðar</item>
+        <item>Utan svæðis</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 mínútur</item>
+        <item>5 mínútur</item>
+        <item>1 klst.</item>
+        <item>Slökkva aldrei</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Lélegur</item>
+        <item>Ágætur</item>
+        <item>Góður</item>
+        <item>Frábær</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Alltaf</item>
+        <item>Aðeins þegar tækið er í sambandi</item>
+        <item>Aldrei (eykur gagnanotkun)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Alltaf</item>
+        <item>Aðeins þegar tækið er í sambandi</item>
+        <item>Aldrei</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Sjálfvirkt</item>
+        <item>Aðeins 5 GHz</item>
+        <item>Aðeins 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Notkunartími</item>
+        <item>Fjöldi ræsinga</item>
+        <item>Heiti forrits</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ekkert</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ekkert</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Föst</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ekkert</item>
+        <item>Handvirkt</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Slökkt</item>
+        <item>Áminning</item>
+        <item>Titringur</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Engin</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP eða CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Ótilgreint</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ekkert</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Innri geymsla tækis</item>
+        <item>Laust SD-kort</item>
+        <item>Láta kerfið ákveða</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Staðsetning</item>
+        <item>Persónulegt</item>
+        <item>Skilaboð</item>
+        <item>Efni</item>
+        <item>Device</item>
+        <item>Bootup</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Gróf staðsetning</item>
+        <item>Fín staðsetning</item>
+        <item>GPS</item>
+        <item>Titra</item>
+        <item>Lesa tengiliði</item>
+        <item>Breyta tengiliðum</item>
+        <item>Lesa símtalaskrá</item>
+        <item>Breyta símtalaskrá</item>
+        <item>Lesa dagatal</item>
+        <item>Breyta dagatali</item>
+        <item>Wi-Fi skönnun</item>
+        <item>Tilkynning</item>
+        <item>Endurvarpaskönnun</item>
+        <item>Hringja í síma</item>
+        <item>Lesa skilaboð</item>
+        <item>Skrifa skilaboð</item>
+        <item>taka við skilaboðum</item>
+        <item>Taka við neyðarskilaboðum</item>
+        <item>Taka við MMS</item>
+        <item>Taka við WAP-vöktun</item>
+        <item>Senda skilaboð</item>
+        <item>Lesa ICC-skilaboð</item>
+        <item>Skrifa ICC-skilaboð</item>
+        <item>Breyta stillingum</item>
+        <item>Teikna ofan á</item>
+        <item>Opna tilkynningar</item>
+        <item>Myndavél</item>
+        <item>Taka upp hljóð</item>
+        <item>Spila hljóð</item>
+        <item>Lesa klippiborð</item>
+        <item>Breyta klippiborði</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Titra</item>
+        <item>Lesa tengiliði</item>
+        <item>Breyta tengiliðum</item>
+        <item>Lesa símtalaskrá</item>
+        <item>Breyta símtalaskrá</item>
+        <item>Lesa dagatal</item>
+        <item>Breyta dagatali</item>
+        <item>Staðsetning</item>
+        <item>Birta tilkynningu</item>
+        <item>Staðsetning</item>
+        <item>Hringja í síma</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Senda skilaboð/MMS</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Breyta stillingum</item>
+        <item>Teikna ofan á</item>
+        <item>Opna tilkynningar</item>
+        <item>Myndavél</item>
+        <item>Taka upp hljóð</item>
+        <item>Spila hljóð</item>
+        <item>Lesa klippiborð</item>
+        <item>Breyta klippiborði</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Wifi change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Stutt</item>
+        <item>Miðlungs</item>
+        <item>Langt</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Sjálfgefið</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif þétt</item>
+        <item>Serif</item>
+        <item>Eitt bil</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Mjög lítið</item>
+        <item>Lítið</item>
+        <item>Venjulegt</item>
+        <item>Stórt</item>
+        <item>Mjög stórt</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Ekkert</item>
+        <item>Útlínur</item>
+        <item>Felliskuggi</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Hvítt á svörtu</item>
+        <item>Svart á hvítu</item>
+        <item>Gult á svörtu</item>
+        <item>Gult á bláu</item>
+        <item>Sérstillt</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (kemba)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Nota Dalvik</item>
+        <item>Nota ART</item>
+        <item>Nota ART kembismíð</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Aldrei athuga</item>
+        <item>Athuga aðeina DRM-efni</item>
+        <item>Alltaf athuga</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Aldrei nota HDCP-athugun</item>
+        <item>Nota HDCP-athugun aðeins fyrir DRM-efni</item>
+        <item>Alltaf nota HDCP-athugun</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Slökkt á hreyfimyndum</item>
+        <item>Stærð hreyfimyndar .5x</item>
+        <item>Stærð hreyfimyndar 1x</item>
+        <item>Stærð hreyfimyndar 1.5x</item>
+        <item>Stærð hreyfimyndar 2x</item>
+        <item>Stærð hreyfimyndar 5x</item>
+        <item>Stærð hreyfimyndar 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Slökkt á hreyfimyndum</item>
+        <item>Stærð hreyfimyndar .5x</item>
+        <item>Stærð hreyfimyndar 1x</item>
+        <item>Stærð hreyfimyndar 1.5x</item>
+        <item>Stærð hreyfimyndar 2x</item>
+        <item>Stærð hreyfimyndar 5x</item>
+        <item>Stærð hreyfimyndar 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Slökkt á hreyfimyndum</item>
+        <item>Kvörðun hreyfimyndar 0,5x</item>
+        <item>Kvörðun hreyfimyndar 1x</item>
+        <item>Kvörðun hreyfimyndar 1,5x</item>
+        <item>Kvörðun hreyfimyndar 2x</item>
+        <item>Kvörðun hreyfimyndar 5x</item>
+        <item>Kvörðun hreyfimyndar 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Engar</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (öruggt)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (öruggt)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Engar</item>
+        <item>Logcat</item>
+        <item>Systrace (myndvinnsla)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Slökkt</item>
+        <item>Teikna klippisvæði sem ekki er rétthyrnt með bláu</item>
+        <item>Auðkenna prófaðar teikniskipanir með grænu</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Slökkt</item>
+        <item>Á skjánum sem stikur</item>
+        <item>Á skjánum sem línur</item>
+        <item>Í adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Slökkt</item>
+        <item>Sýna yfirdráttarsvæði</item>
+        <item>Sýna litblindusvæði</item>
+        <item>Sýna yfirdráttarteljara</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Staðlað hámark</item>
+        <item>Engin bakgrunnsvinnsla</item>
+        <item>Mest 1 vinnsla</item>
+        <item>Mest 2 vinnslur</item>
+        <item>Mest 3 vinnslur</item>
+        <item>Mest 4 vinnslur</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN með á samnýttum lyklum</item>
+        <item>L2TP/IPSec VPN með vottorðum</item>
+        <item>IPSec VPN með samnýttum lyklum og Xauth-sannvottun</item>
+        <item>IPSec VPN með vottorðum og Xauth-sannvottun</item>
+        <item>IPSec VPN með vottorðum og samsettri sannvottun</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Aftengt</item>
+        <item>Ræsi...</item>
+        <item>Tengist…</item>
+        <item>Tengt</item>
+        <item>Tímatakmörkun</item>
+        <item>Mistókst</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Spyrja</item>
+        <item>Leyfa aldrei</item>
+        <item>Leyfa alltaf</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>venjulegt</item>
+        <item>meðal</item>
+        <item>lítið</item>
+        <item>hættulegt</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Áskrift 1</item>
+        <item>Áskrift 2</item>
+        <item>Áskrift 3</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="password_timeout_entries_txt">
+        <item>30 sekúndur</item>
+        <item>1 mínúta</item>
+        <item>2 mínútur</item>
+        <item>10 mínútur</item>
+        <item>30 mínútur</item>
+        <item>60 mínútur</item>
+    </string-array>
+    <string-array name="styled_font_entries">
+        <item>Sjálfgefið letur</item>
+        <item>Serif-letur</item>
+    </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Engin</item>
+        <item>Handvirkt</item>
+    </string-array>
+    <string-array name="wifi_status_with_sip_ppp">
+        <item></item>
+        <item>Leita</item>
+        <item>Tengi</item>
+        <item>Sannvotta</item>
+        <item>Sæki IP tölu</item>
+        <item>Tengt</item>
+        <item>Í bið</item>
+        <item>Aftengi</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item></item>
+        <item>@string/sip_authenticating_text</item>
+        <item>@string/sip_authentication_failed_text</item>
+        <item>@string/sip_authentication_successful_text</item>
+        <item>@string/ppp_connecting_text</item>
+        <item>@string/ppp_connection_fail_text</item>
+        <item>@string/ct_wifi_connected_text</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Дозволяє програмі дізнаватися ваше точне розташування за допомогою системи глобального позиціонування (GPS) або мережевих джерел даних про розташування, як-от антен мобільного зв’язку та WLAN. Щоб програма могла використовувати служби визначення розташування, вони мають бути ввімкнені та доступні для вашого пристрою. Програми можуть використовувати це, щоб визначати, де ви перебуваєте, і додатково споживати заряд акумулятора.</string>
+    <string name="permdesc_accessCoarseLocation">Дозволяє програмі дізнаватися ваше приблизне розташування. Розташування визначається службами визначення розташування за допомогою мережевих джерел даних про розташування, як-от антен мобільного зв’язку та WLAN. Щоб програма могла використовувати служби визначення розташування, вони мають бути ввімкнені та доступні для вашого пристрою. Програми можуть використовувати це, щоб визначити ваше приблизне розташування.</string>
+    <string name="permlab_configureWifiDisplay">налаштування дисплеїв WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Дозволяє програмі налаштовувати дисплеї WLAN і підключатися до них.</string>
+    <string name="permlab_controlWifiDisplay">керування дисплеями WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Дозволяє програмі керувати низькорівневими функціями дисплеїв WLAN.</string>
+    <string name="permlab_accessWifiState">перегляд з’єднань WLAN</string>
+    <string name="permdesc_accessWifiState">Дозволяє програмі переглядати інформацію про використання мереж WLAN, як-от увімкнення чи вимкнення WLAN, а також назви підключених до WLAN пристроїв.</string>
+    <string name="permlab_changeWifiState">підключення до мережі WLAN і від’єднання від неї</string>
+    <string name="permdesc_changeWifiState">Дозволяє програмі підключатися точок доступу WLAN і від’єднуватися від них, а також вносити зміни в конфігурацію пристрою для мереж WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">дозволяти отримання багатоадресної передачі WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Дозволяє програмі отримувати пакети, надіслані за допомогою групової адресації на всі пристрої в мережі WLAN, а не лише на ваш телефон. Використовує більше заряду, ніж режим небагатоадресних пакетів.</string>
+    <string name="wifi_available_sign_in">Вхід у мережу WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Не вдалося підключитися до мережі WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Запустити WLAN Direct. Це вимкне клієнт/точку доступу WLAN.</string>
+    <string name="wifi_p2p_failed_message">Не вдалося запустити WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct увімкнено</string>
+    <string name="wifi_p2p_frequency_conflict_message">Під час підключення до пристрою %1$s телефон тимчасово від’єднається від мережі WLAN</string>
+    <string name="data_usage_wifi_limit_title">Дані WLAN вимкнено</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Перевищено ліміт даних WLAN</string>
+    <string name="policylab_disableWifi">Вимкнення доступу до WLAN</string>
+    <string name="policydesc_disableWifi">Запобігати з’єднанням WLAN на пристрої.</string>
+    <string name="wifi_disabled_notification_title">З’єднання WLAN заборонено</string>
+    <string name="wifi_disabled_notification_message">"Політика безпеки забороняє використання WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Триває роумінг WLAN</string>
+    <string name="ct_cplusw_notification_text">"Підключено мережу WLAN CT. Інф. про тарифи за ном. 10000 або у відділ. CT.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Підключено WLAN China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Вас буде підключено до мережі WLAN China Telecom. За інформацією про тарифи звертайтеся до сервісного центру China Telecom. Продовжити?</string>
+    <string name="wifi_nonconcurrency_message">Запустити клієнт WLAN. WLAN Direct буде від’єднано.</string>
+    <string name="wifi_noncuncurrency_message">Запустити клієнт WLAN. WLAN Direct буде від’єднано.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Ця дія від’єднає всі наявні з’єднання WLAN</string>
+    <string name="wifi_p2p_nonconcurrency_message">Запустити WLAN Direct. З’єднання WLAN буде від’єднано.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ця дія від’єднає всі наявні з’єднання WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Запустити WLAN Direct. З’єднання WLAN буде від’єднано.</string>
+    <string name="tethered_notification_message_wifi">Вимкніть Mobile HotSpot, щоб знову ввімкнути WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN вимкнуто</string>
+</resources>

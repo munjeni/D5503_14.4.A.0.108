@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">앱에서 GPS 또는 기지국 및 WLAN와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 내 정확한 위치를 알 수 있도록 합니다. 앱에서 이 기능을 사용하도록 하려면 장치에서 이러한 위치 서비스는 사용하도록 설정해야 합니다. 앱에서 위치 서비스를 사용하여 내 위치를 파악할 수 있으며 배터리 소모량이 증가할 수 있습니다.</string>
+    <string name="permdesc_accessCoarseLocation">앱에서 나의 대략적인 위치를 알 수 있으며 위치는 기지국 및 WLAN와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 알 수 있습니다. 앱에서 해당 서비스를 사용하려면 장치에서 이러한 위치 서비스를 사용하도록 설정해야 합니다. 앱에서 이 서비스를 사용하여 나의 대략적인 위치를 파악할 수 있습니다.</string>
+    <string name="permlab_configureWifiDisplay">WLAN 화면 구성</string>
+    <string name="permdesc_configureWifiDisplay">앱이 WLAN 화면을 구성하고 연결하도록 허용합니다.</string>
+    <string name="permlab_controlWifiDisplay">WLAN 화면 제어</string>
+    <string name="permdesc_controlWifiDisplay">앱이 WLAN 화면의 하위 수준 기능을 제어하도록 허용합니다.</string>
+    <string name="permlab_accessWifiState">WLAN 연결 보기</string>
+    <string name="permdesc_accessWifiState">앱에서 WLAN를 사용하도록 설정했는지나 연결된 WLAN 장치의 이름 등의 WLAN 네트워킹에 대한 정보를 볼 수 있도록 허용합니다.</string>
+    <string name="permlab_changeWifiState">WLAN 연결 및 연결 해제</string>
+    <string name="permdesc_changeWifiState">앱에서 WLAN 액세스 포인트에 연결하거나 연결을 해제하고, WLAN 네트워크의 장치 구성을 변경할 수 있도록 허용합니다.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN 멀티캐스트 수신 허용</string>
+    <string name="permdesc_changeWifiMulticastState">앱에서 사용자의 휴대폰뿐 아니라 멀티캐스트 주소를 사용하여 WLAN 네트워크에서 모든 장치로 전송된 패킷을 받을 수 있도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다.</string>
+    <string name="wifi_available_sign_in">WLAN 네트워크에 로그인</string>
+    <string name="wifi_watchdog_network_disabled">WLAN에 연결할 수 없음</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct 작업을 시작합니다. 이 작업을 하면 WLAN 클라이언트/핫스팟 작업이 중지됩니다.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct를 시작할 수 없습니다.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct 켜짐</string>
+    <string name="wifi_p2p_frequency_conflict_message">%1$s에 연결되어 있는 동안 일시적으로 휴대폰의 WLAN 연결이 해제됨</string>
+    <string name="data_usage_wifi_limit_title">WLAN 데이터 사용하지 않도록 설정</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN 데이터 한도 초과됨</string>
+    <string name="policylab_disableWifi">WLAN 접속을 사용하지 않도록 설정</string>
+    <string name="policydesc_disableWifi">장치에서 WLAN 연결을 방지합니다.</string>
+    <string name="wifi_disabled_notification_title">WLAN 연결이 제한됨</string>
+    <string name="wifi_disabled_notification_message">"보안 정책에 의해 WLAN의 사용이 제한됩니다. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN 로밍 진행 중</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN 네트워크에 접속됨. 결제정보는 10000 또는 로컬저장소에 문의하세요.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN에 연결됨</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">China Telecom의 WLAN 네트워크에 연결됩니다. 요금 상세 정보는 China Telecom 고객 서비스 센터로 문의하세요. 계속하시겠습니까?</string>
+    <string name="wifi_nonconcurrency_message">WLAN 클라이언트가 시작되고 WLAN Direct가 연결 해제됩니다.</string>
+    <string name="wifi_noncuncurrency_message">WLAN 클라이언트가 시작되고 WLAN Direct가 연결 해제됩니다.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">기존 WLAN 연결이 모두 해제됨</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct가 시작되고 현재 WLAN 연결이 해제됩니다.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">이렇게 하면 기존 WLAN 연결이 모두 해제됨</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct가 시작되고 현재 WLAN 연결이 해제됩니다.</string>
+    <string name="tethered_notification_message_wifi">WLAN를 다시 켜려면 모바일 HotSpot 끄기</string>
+    <string name="tethered_notification_title_wifi">WLAN가 꺼짐</string>
+</resources>

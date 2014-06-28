@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Ļauj lietotnei iegūt precīzu informāciju par jūsu atrašanās vietu, izmantojot globālo pozicionēšanas sistēmu (GPS) vai tīkla atrašanās vietas avotus, piemēram, mobilo sakaru torņus un WLAN. Lai lietotne varētu izmantot šos atrašanās vietas pakalpojumus, ierīcē tiem ir jābūt ieslēgtiem un pieejamiem. Lietotnes var to izmantot, lai noteiktu jūsu atrašanās vietu, un var patērēt papildu akumulatora enerģiju.</string>
+    <string name="permdesc_accessCoarseLocation">Ļauj lietotnei iegūt informāciju par jūsu aptuvenu atrašanās vietu. Tā tiek noteikta atrašanās vietas pakalpojumos, izmantojot tīkla atrašanās vietas avotus, piemēram, mobilo sakaru torņus un WLAN. Lai lietotne varētu izmantot šos atrašanās vietas pakalpojumus, ierīcē tiem ir jābūt ieslēgtiem un pieejamiem. Lietotnes to var izmantot, lai noteiktu aptuvenu jūsu atrašanās vietu.</string>
+    <string name="permlab_configureWifiDisplay">WLAN displeju konfigurēšana</string>
+    <string name="permdesc_configureWifiDisplay">Ļauj lietotnei konfigurēt WLAN displejus un veidot savienojumu ar tiem.</string>
+    <string name="permlab_controlWifiDisplay">WLAN displeju vadība</string>
+    <string name="permdesc_controlWifiDisplay">Ļauj lietotnei kontrolēt zema līmeņa funkcijas WLAN displejos.</string>
+    <string name="permlab_accessWifiState">skatīt WLAN savienojumus</string>
+    <string name="permdesc_accessWifiState">Ļauj lietotnei skatīt informāciju par WLAN tīklošanu, piemēram, par to, vai WLAN ir iespējots, kā arī pievienoto WLAN ierīču nosaukumus.</string>
+    <string name="permlab_changeWifiState">izveidot un pārtraukt WLAN savienojumu</string>
+    <string name="permdesc_changeWifiState">Ļauj lietotnei izveidot savienojumu ar WLAN piekļuves punktiem un pārtraukt savienojumus ar tiem, kā arī veikt izmaiņas ierīces WLAN tīklu konfigurācijā.</string>
+    <string name="permlab_changeWifiMulticastState">"WLAN multiraides
+ uztveršanas ļaušana"</string>
+    <string name="permdesc_changeWifiMulticastState">Ļauj lietotnei saņemt sūtījumus, kas sūtīti uz visām ierīcēm WLAN tīklā, izmantojot multiraides adreses, nevis tikai jūsu tālruni. Tādējādi tiek patērēts vairāk enerģijas nekā režīmā, kas nav multiraide.</string>
+    <string name="wifi_available_sign_in">Pierakstieties WLAN tīklā.</string>
+    <string name="wifi_watchdog_network_disabled">Nevarēja izveidot savienojumu ar WLAN.</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Palaist programmu WLAN Direct. Tādējādi tiks izslēgta WLAN klienta/tīklāja darbība.</string>
+    <string name="wifi_p2p_failed_message">Nevarēja startēt WLAN Direct.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct ir ieslēgts</string>
+    <string name="wifi_p2p_frequency_conflict_message">Tālrunis tiks īslaicīgi atvienots no WLAN tīkla, kamēr būs izveidots savienojums ar ierīci %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN dati ir atspējoti</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN datu ierobež. pārsniegts</string>
+    <string name="policylab_disableWifi">Atspējot WLAN piekļuvi</string>
+    <string name="policydesc_disableWifi">Novērsiet WLAN savienojumus ierīcē.</string>
+    <string name="wifi_disabled_notification_title">WLAN savienojums ir ierobežots</string>
+    <string name="wifi_disabled_notification_message">"Drošības politika ierobežo WLAN izmantošanu. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Notiek WLAN viesabonēšana</string>
+    <string name="ct_cplusw_notification_text">"Savienots ar CT WLAN tīklu. Norēķinu informāciju lūdziet 10000 vai veikalā.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN savienots</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Tiksit savienots ar China Telecom WLAN tīklu. Lai iegūtu informāciju par izmaksām, sazinieties ar China Telecom klientu apkalpošanas dienestu. Vai turpināt?</string>
+    <string name="wifi_nonconcurrency_message">Startēt WLAN klientu. Tiks atvienots WLAN Direct savienojums.</string>
+    <string name="wifi_noncuncurrency_message">Startēt WLAN klientu. Tiks atvienots WLAN Direct savienojums.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Tiks pārtraukti visi esošie WLAN savienojumi</string>
+    <string name="wifi_p2p_nonconcurrency_message">Startēt WLAN Direct. Tiks atvienots WLAN savienojums.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Tiks pārtraukti visi esošie WLAN savienojumi</string>
+    <string name="wifi_p2p_noncuncurrency_message">Startēt WLAN Direct. Tiks atvienots WLAN savienojums.</string>
+    <string name="tethered_notification_message_wifi">Izslēdziet Mobile HotSpot, lai atkal ieslēgtu WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN ir izslēgts</string>
+</resources>

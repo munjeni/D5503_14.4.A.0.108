@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>నెట్‌వర్క్ డీఫాల్ట్</item>
+        <item>నంబర్‌ను దాచు</item>
+        <item>నంబర్‌ను చూపు</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>గ్లోబల్</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo మాత్రమే</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo ఆటో</item>
+        <item>GSM / WCDMA ఆటో</item>
+        <item>WCDMA మాత్రమే</item>
+        <item>GSM మాత్రమే</item>
+        <item>GSM/WCDMA ప్రాధాన్యతను కలిగి ఉంది</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ఆంగ్లం</item>
+        <item>ఫ్రెంచ్</item>
+        <item>స్పానిష్</item>
+        <item>జపనీస్</item>
+        <item>కొరియన్</item>
+        <item>చైనీస్</item>
+        <item>హీబ్రూ</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (ఆటో మోడ్)</item>
+        <item>WCDMA మాత్రమే</item>
+        <item>GSM మాత్రమే</item>
+        <item>GSM/WCDMA (WCDMA ప్రాధాన్యత)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>హోమ్ మాత్రమే</item>
+        <item>ఆటోమేటిక్</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>హోమ్ నెట్‌వర్క్‌లు మాత్రమే</item>
+        <item>అనుబంధిత నెట్‌వర్క్‌లు</item>
+        <item>ఏదైనా నెట్‌వర్క్</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA మాత్రమే</item>
+        <item>EvDo మాత్రమే</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY ఆఫ్</item>
+        <item>TTY నిండింది</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>సాధారణం</item>
+        <item>పొడవు</item>
+    </string-array>
+</resources>

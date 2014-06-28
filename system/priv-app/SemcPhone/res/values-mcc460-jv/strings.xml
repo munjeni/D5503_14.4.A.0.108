@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Kejaba nganggo WLAN, sampeyan ora bakal bisa maneh nganggo Internet, Email, utawa aplikasi data liya sing kudu nganggo sambungan data. Pateni sambungan data seluler?</string>
+    <string name="sip_call_options_wifi_only_title">Gunakake panggilan Internet (mung WLAN)</string>
+    <string name="registration_status_no_wifi_data">Ora ana sambungan WLAN. Ora bisa ndhaptarake akun.</string>
+    <string name="no_wifi_available_title">Ora ana sambungan WLAN</string>
+    <string name="no_wifi_available">Sampeyan kudu nyambung menyang jaringan WLAN kanggo nelpon Internet (Bukak Setelan > Nirkabel &amp; jaringan).</string>
+</resources>

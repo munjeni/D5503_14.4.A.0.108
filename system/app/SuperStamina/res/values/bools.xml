@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="xssm_on_by_default">false</bool>
+    <bool name="xssm_hw_restriction_on_by_default">false</bool>
+    <bool name="powersaver_on_by_default">false</bool>
+    <bool name="gate_on_by_default">true</bool>
+</resources>

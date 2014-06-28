@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="widget_battery_time_text">false</item>
+    <item type="id" name="widget_stamina_on_off_button">false</item>
+    <item type="id" name="checkbox_with_description_scrollview">false</item>
+    <item type="id" name="checkbox_with_description_RelativeLayout">false</item>
+    <item type="id" name="checkbox_with_description_installation_description">false</item>
+    <item type="id" name="checkbox_with_description_checkbox">false</item>
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA ಮೋಡ್ ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ:
+
+• ವಿಸ್ತರಿತ ಸ್ಟ್ಯಾಂಡ್‌ಬೈ
+ಪರದೆ ಆಫ್ ಆಗಿರುವಾಗ ತಾತ್ಕಾಲಿಕವಾಗಿ WLAN ಮತ್ತು ಮೊಬೈಲ್ ಡೇಟಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ ವಿದ್ಯುತ್ ಉಳಿಸುತ್ತದೆ. ಹೆಚ್ಚಿನ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ನಿಷ್ಕ್ರಿಯವಾಗಿರುತ್ತವೆ.
+ಪರದೆ ಆನ್ ಆಗಿರುವಾಗ, ನಿಮ್ಮ ಫೋನ್ ಸಾಮಾನ್ಯವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.
+ವಿಸ್ತರಿತ ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಆನ್ ಆಗಿರುವಾಗ ಕೆಲವು ಆಪ್ಸ್ ಸಕ್ರಿಯವಾಗಿಡಲು ನೀವು ಬಯಸಿದರೆ, ಆಪ್‌ಗಳನ್ನು ಆಪ್ಸ್ ಆಕ್ಟಿವ್ ಇನ್ ಸ್ಟ್ಯಾಂಡ್‌ಬೈ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ.
+
+• ವಿಸ್ತರಿತ ಬಳಕೆ
+ನಿಮ್ಮ ಸಾಧನವು ಬಳಕೆಯಲ್ಲಿದ್ದಾಗ ಹಾರ್ಡ್‌ವೇರ್ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ನಿಯಂತ್ರಿಸುವ ಮೂಲಕ ವಿದ್ಯುತ್ ಉಳಿಸುತ್ತದೆ.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA ಶೈಲಿ ಎಂದರೇನು?</u>"
+STAMINA ಶೈಲಿ ಒಂದು Sony™ ವಿದ್ಯುತ್ ಉಳಿತಾಯ ಕಾರ್ಯವಾಗಿದೆ. ಇದು ಪರದೆ ಆಫ್ ಆಗಿದ್ದಾಗ ಕಾರ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ವಿಸ್ತರಿಸುತ್ತದೆ
+
+"<u>ಮೂಲಭೂತ ಬಳಕೆ </u>"
+STAMINA ಶೈಲಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಕೆಳಗಿನ ಬಟನ್ ಅನ್ನು ತಟ್ಟಿ. 
+ಪರದೆ ಆಫ್ ಆಗಿದ್ದಾಗ, ಎಲ್ಲ ನೆಟ್ ವರ್ಕ್ ದತ್ತಾಂಶವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ, ಹಾಗೂ ನಿಮ್ಮ ಬಹಳಷ್ಟು ಅಪ್ಲಿಕೇಷನ್ ಗಳು ಬ್ಯಾಟರಿ ಉಳಿಸಲು ನಿಷ್ಕ್ರಿಯಗೊಳ್ಳುತ್ತವೆ.
+ಪರದೆ ಆನ್ ಆಗಿದ್ದಾಗ, ನಿಮ್ಮ ಡಿವೈಸ್ ಸಹಜವಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತದೆ.
+
+"<u>ಮುಂದುವರಿದ ಬಳಕೆ</u>"
+ನೀವು ಪರದೆ ಆಫ್ ಆಗಿದ್ದಾಗ ಕೆಲವು ಆಪ್ ಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ಅವುಗಳನ್ನು ಆಪ್ಸ್ ಆಕ್ಟಿವ್ ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ.
+
+"<u>ಟಿಪ್ಪಣಿ</u>"
+ಸ್ಟ್ಯಾಂಡ್ ಬೈಯಲ್ಲಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಕೆಲವು ಅಪ್ಲಿಕೇಷನ್ ಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿರಬಹುದು. ಒಂದು ಅಪ್ಲಿಕೇಷನ್ ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿದ್ದಲ್ಲಿ ಅದನ್ನು ಆಪ್ಸ್ ಆಕ್ಟಿವ್ ಇನ್ ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ, ಅಥವಾ ಇದು ಕೆಲಸ ಮಾಡದಿದ್ದಲ್ಲಿ STAMINA ಶೈಲಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."</string>
+    <string name="location_based_wi_fi_label">ಸ್ಥಳ-ಆಧಾರಿತ WLAN</string>
+    <string name="location_based_wi_fi_descr">ಉಳಿಸಿದ WLAN ನೆಟ್ ವರ್ಕ್‌ಗೆ ಶ್ರೇಣಿಯಲ್ಲಿರುವಾಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ WLAN ಸಕ್ರಿಯಗೊಳ್ಳುತ್ತದೆ</string>
+    <string name="powersaver_feature_wifi">WLAN ಆಫ್</string>
+    <string name="install_wapi_certs">WLAN ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, ವಿಮಾನ ಮೋಡ್, ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಮತ್ತು VPN ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN ಆನ್ ಮಾಡಿ</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN ಸಂಯೋಜನೆಗಳು</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN ಆರಿಸಿ</string>
+    <string name="wifi_starting">WLAN ಆನ್ ಆಗುತ್ತಿದೆ…</string>
+    <string name="wifi_stopping">WLAN ಆಫ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="wifi_poor_network_detection_summary">ಉತ್ತಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಇಲ್ಲದಿರುವ WLAN ನೆಟ್‌ವರ್ಕ್ ಬಳಸುವುದು ಬೇಡ</string>
+    <string name="wifi_scan_always_available_summary">WLAN ಆಫ್ ಆಗಿದ್ದಾಗಲೂGoogle ನ ಸ್ಥಳ ಸೇವೆ ಹಾಗೂ ಇತರ ಆಪ್ ಗಳು ನೆಟ್ ವರ್ಕ್ ಗಳಿಗಾಗಿ ಶೋಧಿಸಲಿ</string>
+    <string name="wifi_scan_notify_text_location_on">ಸ್ಥಳ ನಿಖರತೆಗಳನ್ನು ಸುಧಾರಿಸಲು ಹಾಗೂ ಇತರ ಉದ್ದೇಶಗಳಿಗಾಗಿ, Google ಹಾಗೂ ಇತರ ಆಪ್ ಗಳು WLAN ಆಫ್ ಆಗಿದ್ದಾಗಲೂ ಹತ್ತಿರದ ನೆಟ್ ವರ್ಕ್ ಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಬಹುದು. ನೀವು ಇದಾಗಲು ಬಯಸದಿದ್ದಲ್ಲಿ, ಮುಂದುವರಿದ> ಸ್ಕ್ಯಾನಿಂಗ್ ಯಾವತ್ತೂ ಲಭ್ಯವಿದೆ ಎನ್ನುವುದಕ್ಕೆ ಹೋಗಿ</string>
+    <string name="wifi_scan_notify_text_location_off">ಆಪ್ ಗಳು WLAN ಆಫ್ ಆಗಿದ್ದಾಗಲೂ ಹತ್ತಿರದ ನೆಟ್ ವರ್ಕ್ ಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಬಹುದು. ನೀವು ಇದಾಗಲು ಬಯಸದಿದ್ದಲ್ಲಿ, ಮುಂದುವರಿದ> ಸ್ಕ್ಯಾನಿಂಗ್ ಯಾವತ್ತೂ ಲಭ್ಯವಿದೆ ಎನ್ನುವುದಕ್ಕೆ ಹೋಗಿ</string>
+    <string name="wifi_setting_sleep_policy_title">ನಿದ್ರೆಯ ವೇಳೆ WLAN ಆಫ್‌ನಲ್ಲಿರಿಸಿ</string>
+    <string name="wifi_suspend_optimizations">WLAN ಆಪ್ಟಿಮೈಜೇಶನ್</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ಆನ್ ಆಗಿರುವಾಗ ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸಿ</string>
+    <string name="wifi_access_points">WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳು</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">ಲಭ್ಯ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ನೋಡಲು, WLAN ಆನ್ ಮಾಡಿ.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತಿದೆ…</string>
+    <string name="wifi_empty_list_user_restricted">ನೀವು WLAN ನೆಟ್ ವರ್ಕ್ ಬದಲಿಸಲು ಅನುಮತಿ ಹೊಂದಿಲ್ಲ</string>
+    <string name="wifi_required_info_text">ಸೆಟಪ್ ಪೂರ್ಣಗೊಳಿಸಲು, WLAN ಗೆ ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿರಬೇಕಾಗುತ್ತದೆ. ಸೆಟಪ್ ನಂತರ, ನೀವು ಮೊಬೈಲ್ ಡೇಟಾ ಮತ್ತುWLAN ನಡುವೆ ಬದಲಾಯಿಸಬಹುದು.</string>
+    <string name="wifi_wps_setup_title">WLAN ಸುರಕ್ಷಿತ ಹೊಂದಾಣಿಕೆ</string>
+    <string name="wifi_wps_onstart_pbc">ನಿಮ್ಮ ರೂಟರ್‌ನಲ್ಲಿ WLAN ಸುರಕ್ಷಿತ ಹೊಂದಾಣಿಕೆ ಬಟನ್ ಒತ್ತಿರಿ. ಅದನ್ನು \"WPS\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ ಅಥವಾ ಈ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿರಬಹುದು:</string>
+    <string name="wifi_wps_onstart_pin">ನಿಮ್ಮ WLAN ರೂಟರ್‌ನಲ್ಲಿ %1$s PIN ನಮೂದಿಸಿ. ಹೊಂದಾಣಿಕೆಯು ಪೂರ್ಣಗೊಳ್ಳಲು ಸುಮಾರು ಎರಡು ನಿಮಿಷಗಳು ಬೇಕಾಗಬಹುದು.</string>
+    <string name="wifi_wps_connected">%s WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="wifi_scan_always_turnon_message">"ಸ್ಥಳ ನಿಖರತೆಗಳನ್ನು ಸುಧಾರಿಸಲು ಹಾಗೂ ಇತರ ಉದ್ದೇಶಗಳಿಗಾಗಿ, %1$s WLAN ಆಫ್ ಆಗಿದ್ದಾಗಲೂ ನೆಟ್ ವರ್ಕ್ ಸ್ಕ್ಯಾನಿಂಗ್ ಪ್ರಾರಂಭಿಸಬಯಸುತ್ತಿದೆ.
+
+ಇದನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಬಯಸುವ ಎಲ್ಲ ಆಪ್ ಗಳಿಗೂ ಅನುಮತಿಸಬೇಕೇ?"</string>
+    <string name="wifi_connect_failed_message">ಈ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಫೋನ್‌ಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="wifi_advanced_titlebar">ಆಧುನೀಕೃತ WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN ತರಂಗಾಂತರ ಬ್ಯಾಂಡ್</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">ಪೋರ್ಟೆಬಲ್ WLAN ಹಾಟ್‌ಸ್ಪಾಟ್</string>
+    <string name="wifi_tether_failed_subtext">ಪೋರ್ಟೆಬಲ್ WLAN ಹಾಟ್‌ಸ್ಪಾಟ್ ದೋಷ</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ಹಾಟ್‌ಸ್ಪಾಟ್ ಹೊಂದಿಸಿ</string>
+    <string name="wifi_tether_configure_subtext">"%1$s ಪೋರ್ಟೆಬಲ್ WLAN ಹಾಟ್‌ಸ್ಪಾಟ್.
+ಭದ್ರತೆ:  %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC ವಿಳಾಸ</string>
+    <string name="location_mode_high_accuracy_description">ಸ್ಥಳ ಅಂದಾಜಿಸಲು GPS, WLAN ಮತ್ತು ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="location_mode_battery_saving_description">ಸ್ಥಳ ಅಂದಾಜಿಸಲು WLAN ಮತ್ತು ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="location_neighborhood_level">ನಿಮ್ಮ ಅಂದಾಜು ಸ್ಥಳವನ್ನು ನಿರ್ಧರಿಸಲು WLAN ಮತ್ತು ಮೊಬೈಲ್ ನೆಟ್ ವರ್ಕ್‌ಗಳಂತಹ ಮೂಲಗಳಿಂದ ಡೇಟಾವನ್ನು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಬಳಸಲಿ</string>
+    <string name="location_neighborhood_level_wifi">WLAN ಮೂಲಕ ಕಂಡುಹಿಡಿದ ಸ್ಥಳ</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN ಆನ್ ಸಮಯ</string>
+    <string name="bluetooth_on_time">WLAN ಆನ್ ಸಮಯ</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN ಚಾಲನೆಯಲ್ಲಿದೆ</string>
+    <string name="usage_type_data_wifi_send">WLAN ಡೇಟಾ ಕಳಿಸಲಾಗಿದೆ</string>
+    <string name="usage_type_data_wifi_recv">WLAN ಡೇಟಾ ಪಡೆಯಲಾಗಿದೆ</string>
+    <string name="battery_action_wifi">WLAN ಸಂಯೋಜನೆಗಳು</string>
+    <string name="battery_desc_wifi">WLANಗೆ ಬಳಕೆಯಾಗುವ ಬ್ಯಾಟರಿ</string>
+    <string name="battery_sugg_wifi">WLAN ಬಳಸದೇ ಇರುವಾಗ ಅಥವಾ ಅದು ಲಭ್ಯ ಇಲ್ಲದಿರುವಾಗ ಅದನ್ನು ಆಫ್ ಮಾಡಿ</string>
+    <string name="gadget_toggle_wifi">WLAN ಸಂಯೋಜನೆ ನವೀಕರಿಸುತ್ತಿದೆ</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾ, WLAN ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಮತ್ತು ಇತರ ಸಂಯೋಜನೆಗಳನ್ನು Google ಸರ್ವರ್‌ಗಳಿಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಿ</string>
+    <string name="backup_erase_dialog_message">ನಿಮ್ಮ WLAN ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಪುಟಗುರುತುಗಳು, ಇತರ ಸಂಯೋಜನೆಗಳು, ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾ ಬ್ಯಾಕಪ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸುವುದೆ ಮತ್ತು Google ಸರ್ವರ್‌ಗಳಲ್ಲಿರುವ ಎಲ್ಲ ನಕಲುಗಳನ್ನು ಅಳಿಸುವುದೆ?</string>
+    <string name="wifi_setup_title">WLAN ಹೊಂದಿಸುವಿಕೆ</string>
+    <string name="wifi_setup_title_editing_network">%s WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸುತ್ತಿದೆ</string>
+    <string name="wifi_setup_title_connecting_network">%s WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸುತ್ತಿದೆ…</string>
+    <string name="wifi_setup_title_connected_network">%s WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="wifi_setup_eap_not_supported">ಹೊಂದಿಸುವಿಕೆಯ ವೇಳೆ ನೀವು EAP WLAN ಸಂಪರ್ಕವನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸುವುದು ಸಾಧ್ಯವಿಲ್ಲ. ಹೊಂದಿಸಿದ ನಂತರ, ನೀವು ಅದನ್ನು ಸಂಯೋಜನೆಗಳು > ವೈರ್‌ಲೆಸ್ ಮತ್ತು ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಮೂಲಕ ಮಾಡಬಹುದು.</string>
+    <string name="wifi_setup_description_connected">ಹೊಂದಿಸುವಿಕೆ ಮುಂದುವರಿಸಲು <b>ಮುಂದೆ</b>" ಮುಟ್ಟಿರಿ.
+
+ಬೇರೊಂದು WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು "<b>ಹಿಂದೆ</b> ಮುಟ್ಟಿರಿ.</string>
+    <string name="data_usage_menu_show_wifi">WLAN ಬಳಕೆ ತೋರಿಸಿ</string>
+    <string name="data_usage_disable_wifi_limit">WLAN ಡೇಟಾ ಮಿತಿ ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">ನೀವು ಹಿನ್ನೆಲೆ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ನಿರ್ಬಂಧಿಸಿದರೆ, ನೀವು WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸುವವರೆಗೂ ಕೆಲವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಅಥವಾ ಸೇವೆಗಳು ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ.</string>
+    <string name="data_usage_restrict_background_multiuser">"ನೀವು ಹಿನ್ನೆಲೆ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ನಿಯಂತ್ರಿಸಿದಾಗ, ಕೆಲವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಸೇವೆಗಳು ನೀವು WLAN  ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿತವಾಗದ ಹೊರತು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ.
+
+
+
+ಈ ಫೋನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬಳಕೆದಾರರಿಗೆ ಈ ಸಂಯೋಜನೆಯು ಪರಿಣಾಮ ಬೀರುತ್ತದೆ."</string>
+    <string name="data_usage_metered_body">ಮೊಬೈಲ್ ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗಳಾಗಿರುವ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಆರಿಸಿ. ಹಿನ್ನೆಲೆಯಲ್ಲಿರುವಾಗ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಈ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಬಳಸದಂತೆ ನಿರ್ಬಂಧಿಸಬಹುದಾಗಿದೆ. ಅಲ್ಲದೆ ದೊಡ್ಡ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗಾಗಿ ಈ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಬಳಸುವ ಮೊದಲು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಎಚ್ಚರಿಕೆಯನ್ನೂ ನೀಡಬಲ್ಲವು.</string>
+    <string name="data_usage_metered_wifi">WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳು</string>
+    <string name="data_usage_metered_wifi_disabled">ಮೊಬೈಲ್ ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು, WLAN ಆನ್ ಮಾಡಿ.</string>
+    <string name="user_add_user_message_long">"ಹೆಚ್ಚುವರಿ ಬಳಕೆದಾರರನ್ನು ರಚಿಸುವ ಮೂಲಕ ಈ ಸಾಧನವನ್ನು ಇತರ ಜನರೊಂದಿಗೆ ನೀವು ಹಂಚಿಕೊಳ್ಳಬಹುದು. ಪ್ರತಿ ಬಳಕೆದಾರರು ತಮ್ಮದೇ ಸ್ಥಳವನ್ನು ಹೊಂದಿರುತ್ತಾರೆ, ಅದನ್ನು ಅವರು ತಮ್ಮ ಸ್ವಂತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ವಾಲ್‌ಪೇಪರ್ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳೊಂದಿಗೆ ಕಸ್ಟಮೈಸ್ ಮಾಡಬಹುದು. ಬಳಕೆದಾರರು WLAN‌ನಂತಹ ಟ್ಯಾಬ್ಲೆಟ್ ಸಂಯೋಜನೆಗಳನ್ನು ಸಹ ಹೊಂದಿಸಬಹುದು ಮತ್ತು ಇದು ಪ್ರತಿಯೊಬ್ಬರಿಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ.
+
+
+
+ಹೊಸ ಬಳಕೆದಾರರನ್ನು ನೀವು ರಚಿಸಿದ ನಂತರ, ಆ ವ್ಯಕ್ತಿಯು ಸೆಟಪ್ ಪ್ರಕ್ರಿಯೆಯ ಮುಖಾಂತರ ಸಾಗಬೇಕಾಗುತ್ತದೆ.
+
+
+
+ಯಾವುದೇ ಬಳಕೆದಾರರು ಎಲ್ಲಾ ಇತರ ಬಳಕೆದಾರರ ಪರವಾಗಿ ನವೀಕರಿಸಿದ ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳನ್ನು ಸ್ವೀಕರಿಸಬಹುದು."</string>
+    <string name="restriction_wifi_config_title">WLAN ಹಾಗೂ ಮೊಬೈಲ್</string>
+    <string name="restriction_wifi_config_summary">WLAN ಹಾಗೂ ಮೊಬೈಲ್ ಅಳವಡಿಕೆಗಳ ತಿದ್ದುಪಡಿ ಅನುಮತಿಸಿ</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="cw_network_priority">"China Telecom WLAN  ಆದ್ಯತೆ"</string>
+    <string name="cw_network_priority_summary">ಸಂಪರ್ಕದಲ್ಲಿ ಇತರ WLAN ನೆಟ್ ವರ್ಕ್‌ಗಳಿಗಿಂತ China Telecom WLAN ನೆಟ್ ವರ್ಕ್‌ಗಳನ್ನು ಆದ್ಯತೆಯಾಗಿಸಲಾಗುವುದು</string>
+    <string name="location_based_wifi">ಸ್ಥಳ- ಆಧಾರಿತ WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗೆ ಸ್ವಯಂ ಸಂಪರ್ಕ</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN ಸ್ವಯಂ ಸಂಪರ್ಕ</string>
+    <string name="wifi_calling_mode_title">WLAN ಕರೆ ಮಾಡುವಿಕೆ</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ಬದಲಿಸು</string>
+    <string name="wifi_p2p_settings">"WLAN Direct  ಸಂಯೋಜನೆಗಳು"</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT ಜೊತೆಗೆ ಸುರಕ್ಷಿತವಾಗಿದೆ</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK ಜೊತೆಗೆ ಸುರಕ್ಷಿತವಾಗಿದೆ</string>
+    <string name="wifi_tether_explanation_dialog_text">"ನಿಮ್ಮ ಸಾಧನವನ್ನು ನೀವು ಮೊಬೈಲ್ ಹಾಟ್‌ಸ್ಪಾಟ್ ಆಗಿ ಬಳಸಬಹುದು. ಇದು ಇತರ ಸಾಧನಗಳಿಗೆ (ಗರಿಷ್ಠ 10) WLAN ನೆಟ್‌ವರ್ಕ್ ಮುಖಾಂತರ ಅದಕ್ಕೆ ಸಂಪರ್ಕಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಸಂಪರ್ಕಿತ ಸಾಧನಗಳು ನಿಮ್ಮ ಫೋನ್‌ನ ಮೊಬೈಲ್ ಸಂಪರ್ಕದ ಮುಖಾಂತರ ಇಂಟರ್ನೆಟ್‌ಗೆ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಮೊಬೈಲ್ ಹಾಟ್‌ಸ್ಪಾಟ್ ಬಳಸುತ್ತದೆ ಮತ್ತು ಇದು ಹೆಚ್ಚುವರಿ ದರಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು.
+
+ಹೆಚ್ಚು ಬ್ಯಾಟರಿಯನ್ನು ಮೊಬೈಲ್ ಹಾಟ್‌ಸ್ಪಾಟ್ ಬಳಸುತ್ತದೆ. ಬ್ಯಾಟರಿ ಜೀವಿತಾವಧಿಯನ್ನು ಹೆಚ್ಚಿಸಲು ಸಾಧನವನ್ನು ಔಟ್‌ಲೆಟ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ."</string>
+    <string name="wifi_tether_settings_subtext">ಪೋರ್ಟೇಬಲ್ WLAN ಹಾಟ್ ಸ್ಪಾಟ್ ಸ್ಥಾಪಿಸಿ ಹಾಗೂ ನಿರ್ವಹಿಸಿ</string>
+    <string name="wifi_tether_settings_text">ಪೋರ್ಟೇಬಲ್ WLAN ಹಾಟ್. ಸಂಯೋಜನೆ</string>
+    <string name="wifi_wps_category_title">WLAN ನೆಟ್ ವರ್ಕ್ ಸೆಟಪ್ ಮಾಡಿ</string>
+    <string name="cw_network_notification">CT WLAN ಸೂಚನೆ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="stamina_xssm_summary">ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗಿರುವಾಗ ಮೊಬೈಲ್ ಡೇಟಾ ಮತ್ತು WLAN ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ</string>
+    <string name="tethering_no_sim_warning_txt">ಮೊಬೈಲ್ WLAN ಹಾಟ್ ಸ್ಪಾಟ್ ಬಳಸಿ ನಿಮ್ಮ ಫೋನ್ ನ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಇತರ ಸಾಧನಗಳ ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಲು ದಯವಿಟ್ಟು SIM ಕಾರ್ಡ್ ಹಾಕಿ ಅಥವಾ ಇಂಟರ್ ನೆಟ್ ಪ್ರವೇಶಕ್ಕಾಗಿ ಯುಎಸ್ ಬಿ ಸಂಪರ್ಕವನ್ನು ಹಾಕಿ</string>
+    <string name="wifi_offload_checkbox_summary">ಆಪ್‌ಗಳನ್ನು ತೆರೆಯುವಾಗ, ಯಾವಾಗ WLAN ಲಭ್ಯವಿರುತ್ತದೆ ಎಂದು ನನಗೆ ತಿಳಿಸಿ</string>
+    <string name="wifi_offload_checkbox_title">WLAN ಪಾಪ್-ಅಪ್‌.</string>
+    <string name="wifi_offload_notify_available_networks">WLAN ಸೂಚನೆಗಳು</string>
+    <string name="wifi_offload_notify_available_networks_summary">ಯಾವಾಗ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಲಭ್ಯವಿರುತ್ತದೆಯೆಂದು ನನಗೆ ಸೂಚಿಸಿ</string>
+    <string name="wifi_offload_option_title">ಲಭ್ಯವಿರುವ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳು</string>
+</resources>

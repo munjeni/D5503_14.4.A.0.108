@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Allows the app to get your precise location using the Global Positioning System (GPS) or network location sources such as mobile phone masts and WLAN. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine where you are, and this may consume additional battery power.</string>
+    <string name="permdesc_accessCoarseLocation">Allows the app to get your approximate location. This location is derived by location services using network location sources such as mobile phone masts and WLAN. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine approximately where you are.</string>
+    <string name="permlab_configureWifiDisplay">configure WLAN displays</string>
+    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to WLAN displays.</string>
+    <string name="permlab_controlWifiDisplay">control WLAN displays</string>
+    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of WLAN displays.</string>
+    <string name="permlab_accessWifiState">view WLAN connections</string>
+    <string name="permdesc_accessWifiState">Allows the app to view information about WLAN networking, such as whether WLAN is enabled and names of connected WLAN devices.</string>
+    <string name="permlab_changeWifiState">connect and disconnect from WLAN</string>
+    <string name="permdesc_changeWifiState">Allows the app to connect to and disconnect from WLAN access points and to make changes to device configuration for WLAN networks.</string>
+    <string name="permlab_changeWifiMulticastState">allow WLAN Multicast reception</string>
+    <string name="permdesc_changeWifiMulticastState">Allows the app to receive packets sent to all devices on a WLAN network using multicast addresses, not just your phone. It uses more power than the non-multicast mode.</string>
+    <string name="wifi_available_sign_in">Sign in to WLAN network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to WLAN"</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Start WLAN Direct. This will turn off WLAN client/hotspot.</string>
+    <string name="wifi_p2p_failed_message">"Couldn't start WLAN Direct"</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct is on</string>
+    <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from WLAN while it's connected to %1$s"</string>
+    <string name="data_usage_wifi_limit_title">WLAN data disabled</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN data limit exceeded</string>
+    <string name="policylab_disableWifi">Disable access to WLAN</string>
+    <string name="policydesc_disableWifi">Prevent WLAN connections on the device.</string>
+    <string name="wifi_disabled_notification_title">WLAN connection is restricted</string>
+    <string name="wifi_disabled_notification_message">"A security policy is restricting the use of WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN roaming in progress</string>
+    <string name="ct_cplusw_notification_text">CT WLAN network connected. Contact 10000 or local shop for billing info.</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN connected</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">"You will be connected to China Telecom's WLAN network. For details of the charges, please contact China Telecom customer service. Proceed?"</string>
+    <string name="wifi_nonconcurrency_message">Start WLAN client. This will disconnect WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Start WLAN client. This will disconnect WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Any existing WLAN connection will be disconnected</string>
+    <string name="wifi_p2p_nonconcurrency_message">Start WLAN Direct. This will disconnect WLAN connection.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">This will disconnect any existing WLAN connection</string>
+    <string name="wifi_p2p_noncuncurrency_message">Start WLAN Direct. This will disconnect WLAN connection.</string>
+    <string name="tethered_notification_message_wifi">Turn off Mobile HotSpot to switch the WLAN back on</string>
+    <string name="tethered_notification_title_wifi">WLAN is turned off</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Umožňuje aplikaci zjistit vaši přesnou polohu pomocí systému GPS nebo síťových lokalizačních zdrojů, jako jsou vysílače mobilní sítě a sítě WLAN. Aby aplikace mohla služby určování polohy použít, musejí být zapnuté a musejí být v zařízení k dispozici. Aplikace pomocí těchto informací mohou určit vaši přesnou polohu a mohou spotřebovávat více energie z baterie.</string>
+    <string name="permdesc_accessCoarseLocation">Umožňuje aplikaci získat vaši přibližnou polohu. Polohu stanovují služby určování polohy pomocí síťových zdrojů, jako jsou vysílače mobilních sítí a sítě WLAN. Aby aplikace mohla služby určování polohy použít, musejí být zapnuté a musejí být ve vašem zařízení k dispozici. Aplikace na základě těchto informací mohou zjistit vaši přibližnou polohu.</string>
+    <string name="permlab_configureWifiDisplay">konfigurace displejů přes WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Povoluje aplikaci připojit a konfigurovat displeje přes WLAN.</string>
+    <string name="permlab_controlWifiDisplay">ovládání displejů přes WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Povoluje aplikaci ovládat základní funkce displejů přes WLAN.</string>
+    <string name="permlab_accessWifiState">zobrazení připojení WLAN</string>
+    <string name="permdesc_accessWifiState">Umožňuje aplikaci zobrazit informace o sítích WLAN, například o tom, zda je povoleno připojení WLAN, nebo název připojených zařízení WLAN.</string>
+    <string name="permlab_changeWifiState">připojení k síti WLAN a odpojení od sítě WLAN</string>
+    <string name="permdesc_changeWifiState">Umožňuje aplikaci připojit se k přístupovým bodům WLAN či se od nich odpojit a provádět změny konfigurace zařízení pro sítě WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">povolení příjmu WLAN Multicast</string>
+    <string name="permdesc_changeWifiMulticastState">Umožňuje aplikaci přijímat pakety odeslané do všech zařízení v síti WLAN nejen pomocí telefonu, ale i prostřednictvím adres vícesměrového vysílání. Spotřeba energie je vyšší než u režimu bez vícesměrového vysílání (multicast).</string>
+    <string name="wifi_available_sign_in">Přihlásit se k síti WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Připojení k síti WLAN se nezdařilo</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Spustit připojení WLAN Direct. Tato možnost vypne provoz sítě WLAN v režimu klient/hotspot.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct se nepodařilo spustit.</string>
+    <string name="wifi_p2p_enabled_notification_title">Funkce WLAN Direct zapnuta</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefon se při připojení k zařízení %1$s dočasně odpojí od sítě WLAN</string>
+    <string name="data_usage_wifi_limit_title">Přenos dat přes WLAN zakázán</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Datový limit WLAN byl překročen</string>
+    <string name="policylab_disableWifi">Zakázat přístup k WLAN</string>
+    <string name="policydesc_disableWifi">Zabraňuje připojení WLAN u zařízení.</string>
+    <string name="wifi_disabled_notification_title">Připojení WLAN je omezeno</string>
+    <string name="wifi_disabled_notification_message">"Zásady zabezpečení omezují použití WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Probíhá WLAN roaming</string>
+    <string name="ct_cplusw_notification_text">"Připojena síť WLAN CT. Info o účtování na čísle 10000 či v místním zastoupení.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Připojeno WLAN China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Budete připojení k síti WLAN společnosti China Telecom. Podrobnosti o poplatcích získáte od podpory zákazníků společnosti China Telecom. Chcete pokračovat?</string>
+    <string name="wifi_nonconcurrency_message">Spustí klienta WLAN. Tím se odpojí připojení WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Spustí klienta WLAN. Tím se odpojí připojení WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Touto akcí se odpojí všechna existující připojení WLAN.</string>
+    <string name="wifi_p2p_nonconcurrency_message">Spustí WLAN Direct. Tím se odpojí připojení WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Touto akcí se odpojí všechna existující připojení WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_message">Spustí WLAN Direct. Tím se odpojí připojení WLAN.</string>
+    <string name="tethered_notification_message_wifi">Vypněte mobilní přístupový bod a znovu zapněte WLAN</string>
+    <string name="tethered_notification_title_wifi">Funkce WLAN je vypnutá</string>
+</resources>

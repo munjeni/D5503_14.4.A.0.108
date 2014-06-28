@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contrôleur mode Éco</string>
+    <string name="dont_ask_me_again_txt">Ne plus me poser la question</string>
+    <string name="description_msg_txt">"Lorsque l'écran est éteint, le Wi-Fi et les données mobiles sont temporairement désactivés, et la plupart des applications sont inactives. Vous continuerez à recevoir des appels, des SMS/MMS et des notifications de calendrier Sony™ ainsi que des signaux d'alarme. Le lecteur de musique et la radio FM fonctionneront, et les téléchargements et transferts en cours pourront être achevés.
+
+
+
+Une fois l'écran allumé, votre téléphone fonctionnera normalement.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Avec l'écran éteint, le Wi-Fi et les données mobiles seront temporairement désactivés et la plupart des applications sont inactives. Vous continuerez de recevoir les SMS/MMS, les notifications du calendrier Sony™ et les alarmes Sony™. Le lecteur de musique et la radio fonctionneront, et les téléchargements et transferts en cours pourront se terminer.
+
+Votre appareil fonctionnera normalement avec l'écran allumé."</string>
+    <string name="description_msg_no_telephony_txt">"Avec l'écran éteint, le Wi-Fi sera temporairement désactivé et la plupart des applications, inactives. Vous continuerez de recevoir les notifications du calendrier Sony™ et les alarmes Sony™. Le lecteur de musique et la radio FM fonctionneront, et les téléchargements et transferts en cours pourront se terminer.
+
+Avec l'écran allumé, votre appareil fonctionnera normalement."</string>
+    <string name="description_title_txt">Remarque !</string>
+    <string name="low_battery_mode_description_msg_txt">"Activez le mode Batterie faible pour arrêter les fonctions et réglages consommateurs d'énergie lorsque le niveau de charge de la batterie chute en dessous d'un seuil prédéfini. Tapez sur le mode Batterie faible pour changer les réglages.
+"</string>
+    <string name="activate_txt">Activer</string>
+    <string name="cancel_txt">Annuler</string>
+    <string name="xssm_blocker_detector_title">"Conseils de gestion de l'alim."</string>
+    <string name="xssm_blocker_detector_msg">"%s empêche le mode STAMINA d'économiser de l'énergie pendant la veille"</string>
+    <string name="xssm_blocker_detector_long_msg">"Si vous utilisez souvent cette application, ignorez cet avertissement. Sinon, désinstallez ou forcez l'arrêt de l'application."</string>
+    <string name="xssm_blocker_detector_ignore">"J'ai compris. Ne plus afficher."</string>
+    <string name="network_detector_msg">"%s envoie et reçoit des données pendant que l'écran est éteint, ce qui accélère l'épuisement de la batterie."</string>
+    <string name="network_detector_long_msg">"Sa désinstallation peut améliorer les performances de l'appareil et prolonger la durée de vie de la batterie."</string>
+    <string name="wakelock_detector_msg">"%s n'a pas été utilisé depuis plusieurs semaines."</string>
+    <string name="wakelock_detector_long_msg">"Le mode Veille de l'appareil risque d'être désactivé. Sa désinstallation peut améliorer les performances de l'appareil et prolonger la durée de vie de la batterie."</string>
+    <string name="notification_title_xssm">"Conseils de gestion de l'alim"</string>
+    <string name="notification_text_xssm">Activer le mode STAMINA</string>
+    <string name="notification_descr_xssm">Votre appareil est souvent en veille. Prolongez la durée de vie de la batterie en activant le mode STAMINA.</string>
+    <string name="notification_dont_show_again">"J'ai compris. Ne plus afficher."</string>
+    <string name="notification_title_ps">"Conseils de gestion de l'alim"</string>
+    <string name="notification_text_ps">Activer le mode Batterie faible</string>
+    <string name="notification_descr_ps">"Le mode Batterie faible peut prolonger la durée de vie de la batterie en désactivant par exemple le Wi-Fi, ou en réduisant la luminosité de l'écran quand la batterie est faible."</string>
+    <string name="notification_title_lbw">"Conseils de gestion de l'alim"</string>
+    <string name="notification_text_lbw">Activer la géolocalisation Wi-Fi</string>
+    <string name="notification_descr_lbw">"Le Wi-Fi est activé, mais n'a pas été utilisé depuis un moment. Économisez de l'énergie en activant la géolocalisation Wi-Fi."</string>
+    <string name="unused_application_title">"Conseil de gestion de l'alim."</string>
+    <string name="unused_application_msg">"%s n'a pas été utilisée depuis longtemps"</string>
+    <string name="unused_application_long_msg">Ignorez cet avertissement si vous voulez conserver cette application. Dans le cas contraire, désinstallez-la.</string>
+    <string name="unused_application_ignore">"J'ai compris, ne plus afficher ce message."</string>
+    <string name="drain_dialog_title_txt">"La batterie n'est pas en charge"</string>
+    <string name="drain_dialog_text_usb_txt">"La source d'alimentation connectée ne suffit pas. La batterie se décharge plus vite qu'elle ne se recharge. Veuillez changer votre chargeur CA."</string>
+    <string name="drain_dialog_text_wallcharger_txt">"La source d'alimentation connectée ne suffit pas. La batterie se décharge plus vite qu'elle ne se recharge. Réduisez l'utilisation de votre appareil pendant le rechargement."</string>
+    <string name="extend_battery_tip_dialog_headar">"Conseil de gestion de l'alimentation"</string>
+    <string name="location_based_wifi_tip_dialog">"Le Wi-Fi est activé mais n'a pas été utilisé depuis longtemps. Vous pouvez économiser de l'énergie en activant la Géolocalisation Wi-Fi. Activer la Géolocalisation Wi-Fi ?"</string>
+    <string name="low_battery_mode_tip_dialog">"Le mode Batterie faible peut prolonger la durée de vie de la batterie par exemple en mettant le Wi-Fi hors fonction ou en réduisant la luminosité de l'écran lorsque la batterie est faible. Activer le mode Batterie faible ?"</string>
+    <string name="stamina_mode_tip_dialog">Votre appareil est souvent en mode Veille. Vous pouvez prolonger la durée de vie de la batterie en activant le mode STAMINA. Activer le mode STAMINA ?</string>
+    <string name="bad_app_notification">"L'appli suivante utilise bcp de batterie :"</string>
+    <string name="bad_standby_app_dialog">"%s empêche le mode STAMINA d'économiser de l'énergie en veille. Si vous utilisez souvent cette application, ignorez cet avertissement. Sinon, tapez sur le bouton Infos appli et désinstallez ou forcez l'arrêt de l'application."</string>
+    <string name="ignore_dialog_action">Ignorer</string>
+    <string name="app_info_dialog_action">Infos appli</string>
+    <string name="stamina_activation_notification">Mode STAMINA activé</string>
+    <string name="lowbattery_trigger_level_notification">Niveau de la batterie inférieur à %d%%</string>
+    <string name="lowbattery_activated_notification">Mode Batterie faible activé</string>
+    <string name="app_not_used_notification">"Cette appli n'a pas été utilisée depuis lgtps :"</string>
+    <string name="app_not_used_tip_dialog">"%s n'a pas été utilisé depuis longtemps. Nous vous recommandons de désinstaller l'application pour économiser de l'énergie."</string>
+    <string name="no_action_dialog">Non</string>
+    <string name="yes_action_dialog">Oui</string>
+    <string name="widget_remaining_battery_time">Durée de batterie estimée</string>
+    <string name="widget_name">Mode STAMINA</string>
+</resources>

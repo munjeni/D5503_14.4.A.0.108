@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dont_ask_me_again_txt">मला पुन्हा विचारू नका</string>
+    <string name="description_msg_txt">"पडदा बंद असेल, तेव्हा Wi-Fi आणि मोबाईल डेटा तात्पुरती अक्षम केली जाईल आणि बहुतेक अनुप्रयोग निष्क्रिय असतील. तरीही आपल्याला फोन कॉल्स, SMS/MMS संदेश, आणि Sony™ दिनदर्शिका सूचना आणि Sony™ गजर संकेत प्राप्त होतील. म्युझिक प्लेअर आणि एफएम रेडिओ काम करतील, आणि चालू असलेले डाऊनलोड्स आणि अपलोड्स समाप्त होऊ दिले जातील.
+
+पडदा चालू असेल, तेव्हा आपला फोन सामान्यपणे कार्य करील.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"जेव्हा स्क्रीन बंद असतो तेव्हा, Wi-Fi मोबाईल डेटा तात्पुरता अक्षम केला जाईल, आणि बरेचसे अनुप्रयोग निष्क्रिय असतील. मात्र आपल्याला SMS/MMS संदेश, Sony™ दिनदर्शिका सूचनापत्र आणि Sony™ गजर संकेत प्राप्त होत राहतील. म्युझिक प्लेयर आणि एफएम रेडिओ कार्य करेल, आणि चालू असणारे डाउनलोड आणि अपलोड समाप्त करण्याची परवानगी असेल.
+
+जेव्हा स्क्रीन चालू असेल तेव्हा, आपले उपकरण सामान्य तर्‍हेने कार्य करेल."</string>
+    <string name="description_msg_no_telephony_txt">"जेव्हा स्क्रीन बंद असेल तेव्हा, Wi-Fi तात्पुरते अक्षम केले जाईल, आणि बरेचसे अनुप्रयोग निष्क्रिय असतील. तरीही आपल्याला Sony™ दिनदर्शिका सूचनापत्र आणि Sony™ गजर संकेत प्राप्त होत राहील. म्युझिक प्लेयर आणिु FM रेडिओ कार्य करेल, आणि चालू असलेले डाउनलोड आणि अपलोड समाप्त करण्याची परवानगी असेल.
+
+जेव्हा स्क्रीन चालू असेल तेव्हा, आपले उपकरण सामान्य तर्‍हेने कार्य करेल."</string>
+    <string name="description_title_txt">नोट!</string>
+    <string name="low_battery_mode_description_msg_txt">"जेव्हा बॅटरी पूर्वरचित पातळीच्या खाली असेल तेव्हा वीज बचत वैशिष्ट्य आणि सेटिंग्ज बंद करण्यासाठी अल्प बॅटरी मोड सक्षम करा. सेटिंग्ज बदलण्यासाठी अल्प बॅटरी मोडवर टॅप करा.
+"</string>
+    <string name="activate_txt">सक्रीय करा</string>
+    <string name="cancel_txt">रद्द करा</string>
+    <string name="xssm_blocker_detector_title">ऊर्जा व्यवस्थापनासाठी उपयुक्त सूचना</string>
+    <string name="xssm_blocker_detector_msg">%s स्टॅंडबायमध्ये ऊर्जाबचत करण्यापासून STAMINA मोडला रोखत आहे</string>
+    <string name="xssm_blocker_detector_long_msg">तुम्ही हे ऍप्लिकेशन नेहमी वापरत असल्यास या इशार्‍याकडे दुर्लक्ष करा. नसल्यास ऍप्लिकेशन विस्थापित करा किंवा ते बळजबरीने थांबवा.</string>
+    <string name="xssm_blocker_detector_ignore">समजले. पुन्हा दाखवू नका.</string>
+    <string name="network_detector_msg">%s पडदा बंद असताना डेटा प्राप्त करत आहे आणि पाठवित आहे आणि बॅटरीचा लवकर निचरा करत आहे.</string>
+    <string name="network_detector_long_msg">प्रस्थापना रद्द केल्याने कदाचित उपकरणाची कामगिरी सुधारेल आणि बॅटरीची वेळ वाढेल.</string>
+    <string name="wakelock_detector_msg">काही आठवड्यांपासून %s वापरलेले नाही.</string>
+    <string name="wakelock_detector_long_msg">ते कदाचित राखीव मोड मधून उपकरणाला चालू करू शकते. प्रस्थापना रद्द केल्याने कदाचित उपकरणाची कामगिरी सुधारेल आणि बॅटरीची वेळ वाढेल.</string>
+    <string name="notification_title_xssm">ऊर्जा व्यवस्थापनासाठी उपयुक्त सूचना</string>
+    <string name="notification_text_xssm">STAMINA मोड सक्रिय करा</string>
+    <string name="notification_descr_xssm">तुमचे उपकरण अनेकदा स्टॅंडबाय मोडमध्ये असते. STAMINA मोड सक्रिय करून बॅटरीचा समय वाढवा.</string>
+    <string name="notification_dont_show_again">समजले. पुन्हा दाखवू नका.</string>
+    <string name="notification_title_ps">ऊर्जा व्यवस्थापनासाठी उपयुक्त सूचना</string>
+    <string name="notification_text_ps">कमी बॅटरीचा मोड सक्रिय करा</string>
+    <string name="notification_descr_ps">कमी बॅटरीचा मोड बॅटरीचे आयुष्यमान वाढवू शकतो, उदा. बॅटरी कमी असताना Wi-Fi बंद करुन किंवा पडद्याची प्रकाशमानता कमी करुन.</string>
+    <string name="notification_title_lbw">ऊर्जा व्यवस्थापनासाठी उपयुक्त सूचना</string>
+    <string name="notification_text_lbw">स्थान-आधारित Wi-Fi सक्रिय करा</string>
+    <string name="notification_descr_lbw">Wi-Fi सुरु आहे पण काही वेळात वापरले गेलेले नाही. स्थान-आधारित Wi-Fi सक्रिय करा आणि ऊर्जाबचत करा.</string>
+    <string name="unused_application_title">वीज व्यवस्थापन टीप</string>
+    <string name="unused_application_msg">%s चा उपयोग गेल्या काही काळापासून केलेला नाही</string>
+    <string name="unused_application_long_msg">आपल्याला जर हा अनुप्रयोग ठेवायचा असेल, तर या चेतावनी कडे दुर्लक्ष करा. नको असल्यास हा अनुप्रयोग अनइन्स्टॉल करा.</string>
+    <string name="unused_application_ignore">लक्षात आले. पुन्हा दाखवू नका.</string>
+    <string name="drain_dialog_title_txt">बॅटरी चार्ज होत नाही</string>
+    <string name="drain_dialog_text_usb_txt">जोडणी केलेला वीजपुरवठा स्रोत पर्याप्त नाही. बॅटरीच्या चार्ज होण्याच्या गतीपेक्षा डिस्चार्ज होण्याची गती अधिक आहे. कृपया आपल्या AC चार्जरवर बदली करा.</string>
+    <string name="drain_dialog_text_wallcharger_txt">जोडणी केलेला वीजपुरवठा स्रोत पर्याप्त नाही. बॅटरीच्या चार्ज होण्याच्या गतीपेक्षा डिस्चार्ज होण्याची गती अधिक आहे. चार्जिंग होत असताना आपल्या उपकरणाचा कमीतकमी वापर करा.</string>
+    <string name="extend_battery_tip_dialog_headar">ऊर्जा व्यवस्थापन टीप</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi चालू आहे पण ते थोड्यावेळ वापरता येणार नाही. स्थान-आधारित Wi-Fi सक्रीय करून तुम्ही वीज बचत करू शकता. स्थान-आधारित Wi-Fi सेट अप करायचा आहे?</string>
+    <string name="low_battery_mode_tip_dialog">Wi-Fi बंद करून किंवा विजेरी निम्न असताना पडदा प्रखरपणा कमी करून निम्न विजेरी मोड विजेरीचे आयुष्य वाढवू शकते. निम्न विजेरी मोडचा सेट अप करायचा आहे?</string>
+    <string name="stamina_mode_tip_dialog">बर्‍याचदा तुमचे उपकरण राखीव मोड मध्ये असते. STAMINA मोड सक्रीय करून विजेरीचे आयुष्य वाढवा. STAMINA मोडचा सेट अप करायचा आहे?</string>
+    <string name="bad_app_notification">खालील अनुप्रयोग विजेरीचे लवकर निस्सारण करतात:</string>
+    <string name="bad_standby_app_dialog">राखीव मध्ये वीज बचती पासून %s STAMINA ला प्रतिबंध करत आहे. जर युंही हा अनुप्रयोग कधी कधी वापरत असाल तर या चेतावनीकडे दुर्लक्ष करा. जार तसे नसेल तर अनुप्रयोग माहितीवर टॅप करा आणि एक तर त्याची प्रस्थापना काढून टाका किंवा जबरदस्तीने अनुप्रयोग बंद करा.</string>
+    <string name="ignore_dialog_action">दुर्लक्ष करा</string>
+    <string name="app_info_dialog_action">अनुप्रयोग माहिती</string>
+    <string name="stamina_activation_notification">STAMINA मोड सक्रीय केला आहे</string>
+    <string name="lowbattery_trigger_level_notification">बॅटरी पातळी %d%% च्या खाली आहे</string>
+    <string name="lowbattery_activated_notification">निम्न बॅटरी मोडेम सक्रीय केले आहे</string>
+    <string name="app_not_used_notification">थोड्यावेळ हे अनुप्रयोग वापरता येणार नाही:</string>
+    <string name="app_not_used_tip_dialog">%s हे थोड्या वेळ वापरते येऊ शकणार नाही. वीज बचत करण्यासाठी तो अनुप्रयोग प्रस्थापित करू नका अशी शिफारस आम्ही तुम्हाला करत आहोत.</string>
+    <string name="no_action_dialog">नाही</string>
+    <string name="yes_action_dialog">होय</string>
+    <string name="widget_remaining_battery_time">अदमासे बॅटरी टाइमर</string>
+    <string name="widget_name">STAMINA मोड</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>ഇന്ന്</item>
+        <item>ഇന്നലെ</item>
+        <item>ശനി</item>
+        <item>വെള്ളി</item>
+        <item>വ്യാഴം</item>
+        <item>ബുധന്‍</item>
+        <item>ചൊവ്വ</item>
+        <item>തിങ്കള്‍</item>
+        <item>ഞായര്‍</item>
+        <item>ഒരാഴ്ച മുമ്പ്</item>
+        <item>രണ്ടാഴ്ച മുമ്പ്</item>
+        <item>ഒരു മാസം മുമ്പ്</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 സെക്കന്‍ഡ്</item>
+        <item>2 സെക്കന്‍ഡ്</item>
+        <item>3 സെക്കന്‍ഡ്</item>
+        <item>4 സെക്കന്‍ഡ്</item>
+        <item>5 സെക്കന്‍ഡ്</item>
+        <item>6 സെക്കന്‍ഡ്</item>
+        <item>7 സെക്കന്‍ഡ്</item>
+        <item>8 സെക്കന്‍ഡ്</item>
+        <item>9 സെക്കന്‍ഡ്</item>
+        <item>10 സെക്കന്‍ഡ്</item>
+        <item>മറ്റുള്ളവ...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>നിങ്ങള്‍ എവിടെയാണ്?</item>
+        <item>നിങ്ങള്‍ എന്ത് ചെയ്യാന്‍ പോ.?</item>
+        <item>അടിയന്തരം! ദ. എ. പ. എ. മറ.</item>
+        <item>ക്ഷമിക്കണം, ഞാന്‍ ഇപ്. ഒ. മീ.</item>
+        <item>ഞാന്‍ നന്നായിരിക്കുന്നു. വ.</item>
+        <item>ഞാന്‍ വീട്ടിലേക്ക് മടങ്ങ. വഴ.</item>
+        <item>ഞാന്‍ നിങ്ങളെ തിരിച്ച് വിളി.</item>
+        <item>ഞാന്‍ അവിടെ എത്തിയിരിക.</item>
+        <item>ഇത് ഒന്നു പരിശോ. നോക്കൂ!</item>
+    </string-array>
+</resources>

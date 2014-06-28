@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Hiermee kan de app uw precieze locatie bepalen via GPS (Global Positioning System) of netwerklocatiebronnen zoals zendmasten en wifi. Deze locatieservices moeten zijn ingeschakeld en beschikbaar zijn op uw apparaat voordat de app ze kan gebruiken. Apps kunnen dit gebruiken om te bepalen waar u bent en verbruiken mogelijk extra batterijlading.</string>
+    <string name="permdesc_accessCoarseLocation">Hiermee kan de app beschikken over uw geschatte locatie. Deze locatie wordt afgeleid van locatieservices die gebruikmaken van netwerklocatiebronnen zoals zendmasten en wifi. Deze locatieservices moeten zijn ingeschakeld en beschikbaar zijn op uw apparaat voordat de app ze kan gebruiken. Apps kunnen dit gebruiken om bij benadering te bepalen waar u zich bevindt.</string>
+    <string name="permlab_configureWifiDisplay">wifi-schermen configureren</string>
+    <string name="permdesc_configureWifiDisplay">De app toestaan wifi-schermen te configureren en hiermee verbinding te maken.</string>
+    <string name="permlab_controlWifiDisplay">wifi-schermen beheren</string>
+    <string name="permdesc_controlWifiDisplay">De app toestaan minder belangrijke functies van wifi-schermen te beheren.</string>
+    <string name="permlab_accessWifiState">WLAN-verbindingen weergeven</string>
+    <string name="permdesc_accessWifiState">Hiermee kan de app informatie over WLAN-netwerken bekijken, bijvoorbeeld of WLAN is ingeschakeld en de naam van apparaten waarmee via WLAN verbinding is gemaakt.</string>
+    <string name="permlab_changeWifiState">WLAN-verbinding maken en verbreken</string>
+    <string name="permdesc_changeWifiState">Hiermee kan de app verbinding maken met WLAN-toegangspunten, de verbinding ermee verbreken en wijzigingen aanbrengen in de apparaatconfiguratie voor WLAN-netwerken.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN Multicast-ontvangst toestaan</string>
+    <string name="permdesc_changeWifiMulticastState">Hiermee kan de app pakketten ontvangen die via multicastadressen naar alle apparaten in een WLAN-netwerk worden verzonden, niet alleen naar uw telefoon. Het stroomgebruik ligt hierbij hoger dan in de niet-multicastmodus.</string>
+    <string name="wifi_available_sign_in">Aanmelden bij WLAN-netwerk</string>
+    <string name="wifi_watchdog_network_disabled">Kan geen verbinding maken met WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct starten. Hierdoor wordt WLAN-client/hotspot uitgeschakeld.</string>
+    <string name="wifi_p2p_failed_message">Kan WLAN Direct niet starten</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct is actief</string>
+    <string name="wifi_p2p_frequency_conflict_message">De verbinding met het WLAN-netwerk wordt tijdelijk uitgeschakeld terwijl de telefoon verbonden is met %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-data uitgeschakeld</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN-datalimiet overschreden</string>
+    <string name="policylab_disableWifi">WLAN-toegang uitschakelen</string>
+    <string name="policydesc_disableWifi">WLAN-verbindingen met het apparaat voorkomen.</string>
+    <string name="wifi_disabled_notification_title">WLAN-verbinding is beperkt</string>
+    <string name="wifi_disabled_notification_message">"Het gebruik van wifi is wegens beveiligingsbeleid beperkt. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Bezig met WLAN roaming</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN-netwerkverb. Neem contact op met de lokale CT-dealer voor fact.info.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN-verb. met China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">U wordt verbonden met het WLAN-netwerk van China Telecom. Voor meer informatie over de kosten kunt u contact opnemen met de klantenservice van China Telecom. Doorgaan?</string>
+    <string name="wifi_nonconcurrency_message">WLAN-client starten. Hierdoor wordt de verbinding met WLAN Direct verbroken.</string>
+    <string name="wifi_noncuncurrency_message">WLAN-client starten. Hierdoor wordt de verbinding met WLAN Direct verbroken.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Bestaande WLAN-verbindingen worden verbroken</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct starten. Hierdoor wordt de WLAN-verbinding verbroken.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Hierdoor worden eventuele bestaande WLAN-verbindingen verbroken</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct starten. Hierdoor wordt de WLAN-verbinding verbroken.</string>
+    <string name="tethered_notification_message_wifi">Mobiele HotSpot uitschakelen om WLAN opnieuw in te schakelen</string>
+    <string name="tethered_notification_title_wifi">WLAN is uitgeschakeld</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="incall_screen_button_row_margin_bottom">72</integer>
+    <integer name="incall_screen_rightpanelcover_alpha_value">100</integer>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Поставить фоновые данные в очередь</string>
+    <string name="wifi_tether_settings_text">Параметры портативной точки доступа Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">Приложения, активные в режиме ожидания</string>
+    <string name="auto_hide_notifications_title">Удалить просмотренные уведомления</string>
+</resources>

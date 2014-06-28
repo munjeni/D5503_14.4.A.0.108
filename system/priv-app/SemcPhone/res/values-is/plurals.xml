@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Engin gagnatenging í %s mín.</item>
+        <item quantity="one">Engin gagnateng. í %s mín.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Síminn verður stilltur á svarhringingu neyðarsímtala í %s mínútu. Á meðan er ekki hægt að nota forrit sem nota gagnatengingu. Viltu hætta núna?</item>
+        <item quantity="one">Síminn verður stilltur á svarhringingu neyðarsímtala í %s mínútur. Á meðan er ekki hægt að nota forrit sem nota gagnatengingu. Viltu hætta núna?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Það er ekki hægt að nota aðgerðina á meðan að svarhringing neyðarsímtala er virk. Síminn verður stilltur á hana í%s mínútur. Viltu hætta núna?</item>
+        <item quantity="one">Það er ekki hægt að nota aðgerðina á meðan að svarhringing neyðarsímtala er virk. Síminn verður stilltur á hana í%s mínútu. Viltu hætta núna?</item>
+    </plurals>
+</resources>

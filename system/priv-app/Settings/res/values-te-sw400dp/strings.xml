@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">స్వయంచాలక-సింక్</string>
+    <string name="stamina_xssm_add_applications_title">స్టాండ్‌బైలో సక్రియంలో ఉన్న అప్లికేషన్‌లు</string>
+    <string name="auto_hide_notifications_title">వీక్షించబడిన నోటిఫికేషన్‌లను తుడిచి వేయి</string>
+</resources>

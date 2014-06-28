@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dont_ask_me_again_txt">ನನ್ನನ್ನು ಮತ್ತೊಮ್ಮೆ ಕೇಳಬೇಡ</string>
+    <string name="description_msg_txt">"ಪರದೆ ಆಫ್ ಆಗಿರುವಾಗ, Wi-Fi ಮತ್ತು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚಿನ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ನಿಷ್ಕ್ರಿಯವಾಗಿರುತ್ತವೆ. ಆದರೂ ನೀವು ಫೋನ್ ಕರೆಗಳು, SMS/MMS ಸಂದೇಶಗಳು, ಮತ್ತು, Sony™ ಕ್ಯಾಲೆಂಡರ್ ಸೂಚನೆಗಳು ಹಾಗೂ Sony™ ಅಲಾರಂ ಸಂಕೇತಗಳನ್ನು ಸ್ವೀಕರಿಸುವಿರಿ. ಸಂಗೀತ ಚಾಲಕ ಮತ್ತು FM ರೇಡಿಯೊ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಮತ್ತು ಪ್ರಗತಿಯಲ್ಲಿರುವ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಹಾಗೂ ಅಪ್‌ಲೋಡ್‌ಗಳು ಪೂರ್ಣಗೊಳ್ಳಲು ಅನುಮತಿಸಲಾಗುತ್ತದೆ.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"ಪರದೆ ಆಫ್ ಆದಾಗ Wi-Fi ಹಾಗೂ ಮೊಬೈಲ್ ದತ್ತಾಂಶವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ, ಹಾಗೂ ಬಹಳಷ್ಟು ಅಪ್ಲಿಕೇಷನ್ ಗಳು ನಿಷ್ಕ್ರಿಯವಾಗಿರುತ್ತವೆ. ನೀವು ಈಗಲೂ SMS/MMS ಸಂದೇಶಗಳು Sony™ ಕ್ಯಾಲೆಂಡರ್ ಸೂಚನೆಗಳು ಹಾಗೂ Sony™ ಅಲಾರ್ಮ್ ಸಿಗ್ನಲ್ ಗಳನ್ನು  ಸ್ವೀಕರಿಸುತ್ತೀರಿ. ಮ್ಯೂಸಿಕ್ ಪ್ಲೇಯರ್ ಹಾಗೂ ಎಫ್ ಎಮ್ ರೇಡಿಯೋ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಹಾಗೂ ನಡೆಯುತ್ತಿರುವ ಡೌನ್ ಲೋಡ್ ಹಾಗೂ ಅಪ್ ಲೋಡ್ ಗಳು ಪೂರ್ಣಗೊಳ್ಳಲು ಅನುಮತಿಸಲಾಗುತ್ತದೆ.
+
+ಪರದೆ ಆನ್ ಆದಾಗ ನಿಮ್ಮ ಸಾಧನ ಸಹಜವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ."</string>
+    <string name="description_msg_no_telephony_txt">"ಪರದೆ ಆಫ್ ಆದಾಗ Wi-Fi ಅನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ, ಹಾಗೂ ಬಹಳಷ್ಟು ಅಪ್ಲಿಕೇಷನ್ ಗಳು ನಿಷ್ಕ್ರಿಯವಾಗಿರುತ್ತವೆ. ನೀವು ಈಗಲೂ Sony™ ಕ್ಯಾಲೆಂಡರ್ ಸೂಚನೆಗಳು ಹಾಗೂ Sony™ ಅಲಾರ್ಮ್ ಸಿಗ್ನಲ್ ಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಿ. ಮ್ಯೂಸಿಕ್ ಪ್ಲೇಯರ್ ಹಾಗೂ FM ರೇಡಿಯೋ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಹಾಗೂ ನಡೆಯುತ್ತಿರುವ ಡೌನ್ ಲೋಡ್ ಹಾಗೂ ಅಪ್ ಲೋಡ್ ಗಳು ಪೂರ್ಣಗೊಳ್ಳಲು ಅನುಮತಿಸಲಾಗುತ್ತದೆ.
+
+ಪರದೆ ಆನ್ ಆದಾಗ ನಿಮ್ಮ ಸಾಧನ ಸಹಜವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ."</string>
+    <string name="description_title_txt">ಗಮನಿಸಿ!</string>
+    <string name="low_battery_mode_description_msg_txt">"ಬ್ಯಾಟರಿ ಒಂದು ಪೂರ್ವ-ಅಳವಡಿತ ಮಟ್ಟಕ್ಕಿಂತ ಕಡಿಮೆಯಿದ್ದಾಗ ಶಕ್ತಿ ಬಳಸುವ ಲಕ್ಷಣಗಳು ಹಾಗೂ ಅಳವಡಿಕೆಗಳನ್ನು ಆಫ್ ಮಾಡಲು ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸಿ.
+"</string>
+    <string name="activate_txt">ಸಕ್ರಿಯಗೊಳಿಸು</string>
+    <string name="cancel_txt">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="xssm_blocker_detector_title">ವಿದ್ಯುತ್ ನಿರ್ವಹಣೆ ಸುಳಿವು</string>
+    <string name="xssm_blocker_detector_msg">%s ಇದು ಸ್ಟ್ಯಾಂಡ್‌ ಬೈನಲ್ಲಿ ವಿದ್ಯುತ್ ಉಳಿಸದಂತೆ STAMINA ಶೈಲಿಯನ್ನು ತಡೆಯುತ್ತಿದೆ</string>
+    <string name="xssm_blocker_detector_long_msg">ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಆಗಾಗ್ಗೆ ಬಳಸುತ್ತಿದ್ದರೆ, ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ. ಇಲ್ಲದಿದ್ದರೆ, ಅಸ್ಥಾಪನೆಗೊಳಿಸಿ ಅಥವಾ ಅಪ್ಲಿಕೇಶನ್ ನಿಲ್ಲುವುದಕ್ಕೆ ಒತ್ತಾಯಪಡಿಸಿ.</string>
+    <string name="xssm_blocker_detector_ignore">ಅರ್ಥವಾಯಿತು. ಮತ್ತೆ ತೋರಿಸಬೇಡ.</string>
+    <string name="network_detector_msg">%s ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗಿರುವಾಗ ಡೇಟಾ ಪಡೆಯುತ್ತಿದೆ ಹಾಗೂ ಕಳಿಸುತ್ತಿದೆ ಹಾಗೂ ಬ್ಯಾಟರಿ ಶೀಘ್ರ ಒಣಗುವಂತೆ ಮಾಡುತ್ತದೆ</string>
+    <string name="network_detector_long_msg">ಅದನ್ನು ಅನ್ ಇನ್ಸ್ ಸ್ಟಾಲ್ ಮಾಡುವುದು ಸಾಧನ ನಿರ್ವಹಣೆಯನ್ನು ಸುಧಾರಿಸಬಹುದು ಹಾಗೂ ವಿಸ್ತರಿತ ಬ್ಯಾಟರಿ ಸಮಯವನ್ನು ನೀಡಬಹುದು</string>
+    <string name="wakelock_detector_msg">%s ಅನೇಕ ವಾರಗಳಲ್ಲಿ ಬಳಸಲಾಗಿಲ್ಲ.</string>
+    <string name="wakelock_detector_long_msg">ಇದು ಸ್ಟ್ಯಾಡ್ ಬೈ ಶೈಲಿಯಿಂದ ಸಾಧನವನ್ನು ಎಚ್ಚರಿಸಬಹುದು. ಇದನ್ನು ಅನ್ ಇನ್ ಸ್ಟಾಲ್ ಮಾಡುವುದು ಸಾಧನ ನಿರ್ವಹಣೆಯನ್ನು ವಿಸ್ತರಿಸಬಹುದು ಹಾಗೂ ಬ್ಯಾಟರಿ ಸಮಯವನ್ನು ವಿಸ್ತರಿಸಬಹುದು</string>
+    <string name="notification_title_xssm">ವಿದ್ಯುತ್ ನಿರ್ವಹಣೆ ಸುಳಿವು</string>
+    <string name="notification_text_xssm">STAMINA ಶೈಲಿ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="notification_descr_xssm">ನಿಮ್ಮ ಸಾಧನವು ಆಗಾಗ್ಗೆ ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಮೋಡ್‌ನಲ್ಲಿರುತ್ತದೆ. STAMINA ಶೈಲಿ ಸಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ ಬ್ಯಾಟರಿ ಸಮಯವನ್ನು ವಿಸ್ತರಿಸಿ.</string>
+    <string name="notification_dont_show_again">ಅರ್ಥವಾಯಿತು. ಮತ್ತೆ ತೋರಿಸಬೇಡ.</string>
+    <string name="notification_title_ps">ವಿದ್ಯುತ್ ನಿರ್ವಹಣೆ ಸುಳಿವು</string>
+    <string name="notification_text_ps">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="notification_descr_ps">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಈ ಮುಂದಿನವುಗಳ ಮೂಲಕ ಬ್ಯಾಟರಿ ಜೀವಾವಧಿಯನ್ನು ವಿಸ್ತರಿಸಬಹುದು ಉದಾ. Wi-Fi ಆಫ್ ಮಾಡುವ ಮೂಲಕ ಅಥವಾ ಬ್ಯಾಟರಿ ಕಡಿಮೆಯಿರುವಾಗ ಪರದೆ ಪ್ರಖರತೆಯನ್ನು ಕುಗ್ಗಿಸುವ ಮೂಲಕ.</string>
+    <string name="notification_title_lbw">ವಿದ್ಯುತ್ ನಿರ್ವಹಣೆ ಸುಳಿವು</string>
+    <string name="notification_text_lbw">ಸ್ಥಳ-ಆಧಾರಿತ Wi-Fi ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="notification_descr_lbw">Wi-Fi ಆನ್ ಆಗಿದೆ ಆದರೆ ಕೆಲವು ಸಮಯದವರೆಗೆ ಅದನ್ನು ಬಳಸಲಾಗಿಲ್ಲ. ಸ್ಥಳ ಆಧಾರಿತ Wi-Fi ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ ವಿದ್ಯುತ್ ಉಳಿಸಿ.</string>
+    <string name="unused_application_title">ವಿದ್ಯುಚ್ಛಕ್ತಿ ನಿರ್ವಹಣೆ ಸಲಹೆ</string>
+    <string name="unused_application_msg">%s ಅನ್ನು ಕೆಲ ಕಾಲ ಬಳಸಲಾಗಿಲ್ಲ</string>
+    <string name="unused_application_long_msg">ನೀವು ಈ ಅಪ್ಲಿಕೇಷನ್ ಅನ್ನು ಇಡಬಯಸಿದಲ್ಲಿ, ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ಕಡೆಗಣಿಸಿ. ಇಲ್ಲದಿದ್ದಲ್ಲಿ, ಅಪ್ಲಿಕೇಷನ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ</string>
+    <string name="unused_application_ignore">ತಿಳಿಯಿತು. ಮತ್ತೊಮ್ಮೆ ತೋರಿಸಬೇಡಿ.</string>
+    <string name="drain_dialog_title_txt">ಬ್ಯಾಟರಿ ಚಾರ್ಜ್ ಆಗುತ್ತಿಲ್ಲ</string>
+    <string name="drain_dialog_text_usb_txt">ಸಂಪರ್ಕಿತ ವಿದ್ಯುಚ್ಛಕ್ತಿ ಮೂಲ ಸಾಕಷ್ಟಿಲ್ಲ. ಬ್ಯಾಟರಿ ಅದು ಚಾರ್ಜ್ ಆಗುವುದಕ್ಕಿಂತಲೂ ಬೇಗ ಡಿಸ್ ಚಾರ್ಜ್ ಆಗುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಎಸಿ ಚಾರ್ಜರ್ ಗೆ ಬದಲಾಗಿ.</string>
+    <string name="drain_dialog_text_wallcharger_txt">ಸಂಪರ್ಕಿತ ವಿದ್ಯುಚ್ಛಕ್ತಿ ಮೂಲ ಸಾಕಷ್ಟಿಲ್ಲ. ಬ್ಯಾಟರಿ ಅದು ಚಾರ್ಜ್ ಆಗುವುದಕ್ಕಿಂತಲೂ ಬೇಗ ಡಿಸ್ ಚಾರ್ಜ್ ಆಗುತ್ತಿದೆ. ಚಾರ್ಜ್ ಮಾಡುವಾಗ ಸಾಧನ ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ.</string>
+    <string name="extend_battery_tip_dialog_headar">ಪವರ್ ನಿರ್ವಹಣೆಯ ಸಲಹೆ</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi ಆನ್ ಇದ್ದರೂ ಸ್ವಲ್ಪ ಕಾಲ ಇದನ್ನು ಬಳಸಲಾಗಿಲ್ಲ. ನೀವು ಸ್ಥಳ ಆಧಾರಿತ Wi-Fi ಸಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ ಪವರ್ ಉಳಿಸಬಹುದು. ಸ್ಥಳ ಆಧಾರಿತ Wi-Fi ಸಂಯೋಜಿಸಬೇಕೇ?</string>
+    <string name="low_battery_mode_tip_dialog">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಇದರ ಮೂಲಕ ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಬಹುದು. ಉದಾ: ಬ್ಯಾಟರಿ ಕಡಿಮೆಯಿದ್ದಾಗ Wi-Fi ಆಫ್ ಮಾಡುವುದು ಅಥವಾ ಪರದೆಯ ಪ್ರಖರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು. ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಸಂಯೋಜಿಸಬೇಕೇ?</string>
+    <string name="stamina_mode_tip_dialog">ನಿಮ್ಮ ಸಾಧನ ಅನೇಕ ಬಾರಿ ಸ್ಟ್ಯಾಂಡ್ ಬೈ ಶೈಲಿಯಲ್ಲಿರುತ್ತದೆ. STAMINA ಶೈಲಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವ ಮೂಲಕ ಬ್ಯಾಟರಿ ಬಾಳಿಕೆ ಹೆಚ್ಚಿಸಿ. STAMINA ಶೈಲಿಯನ್ನು ಸಂಯೋಜಿಸಬೇಕೇ?</string>
+    <string name="bad_app_notification">ಈ ಕೆಳಗಿನ ಆಪ್ ಬ್ಯಾಟರಿಯನ್ನು ಒಣಗಿಸುತ್ತಿದೆ</string>
+    <string name="bad_standby_app_dialog">%s STAMINA ಶೈಲಿ ಸ್ಟ್ಯಾಂಡ್ ಬೈನಲ್ಲಿ ಪವರ್ ಉಳಿಸುವುದನ್ನು ತಡೆಯುತ್ತಿದೆ. ನೀವು ಈ ಅಪ್ಲಿಕೇಷನ್ ಅನ್ನು ಪದೇ ಪದೇ ಬಳಸುತ್ತಿದ್ದಲ್ಲಿ ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ. ಇಲ್ಲದಿದ್ದಲ್ಲಿ ಆಪ್ ಮಾಹಿತಿ ಬಟನ್ ತಟ್ಟಿ ಹಾಗೂ ಅಪ್ಲಿಕೇಷನ್ ಅನ್ನು ಒಂದೋ ತೆಗೆದುಹಾಕಿ ಅಥವಾ ಬಲವಂತವಾಗಿ ನಿಲ್ಲಿಸಿ</string>
+    <string name="ignore_dialog_action">ನಿರ್ಲಕ್ಷಿಸು</string>
+    <string name="app_info_dialog_action">ಅಪ್ಲಿಕೇಶನ್ ಮಾಹಿತಿ</string>
+    <string name="stamina_activation_notification">STAMINA ಶೈಲಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="lowbattery_trigger_level_notification">ಬ್ಯಾಟರಿ ಮಟ್ಟ ಇದರ ಕೆಳಗಿದೆ %d%%</string>
+    <string name="lowbattery_activated_notification">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಮೋಡ್ ಸಕ್ರಿಯ</string>
+    <string name="app_not_used_notification">ಈ ಆಪ್ ಅನ್ನು ಸ್ವಲ್ಪ ಕಾಲ ಬಳಸಲಾಗಿಲ್ಲ:</string>
+    <string name="app_not_used_tip_dialog">%s ಸ್ವಲ್ಪ ಕಾಲ ಬಳಸಲಾಗಿಲ್ಲ. ಪವರ್ ಉಳಿಸಲು ನೀವು ಅಪ್ಲಿಕೇಷನ್ ತೆಗೆದುಹಾಕಬೇಕೆಂದು ನಾವು ಶಿಫಾರಸ್ಸು ಮಾಡುತ್ತೇವೆ</string>
+    <string name="no_action_dialog">ಇಲ್ಲ</string>
+    <string name="yes_action_dialog">ಹೌದು</string>
+    <string name="widget_remaining_battery_time">ನಿರೀಕ್ಷಿತ ಬ್ಯಾಟರಿ ಸಮಯ</string>
+    <string name="widget_name">STAMINA ಶೈಲಿ</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="sequentially"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <set android:interpolator="@android:anim/decelerate_interpolator">
+        <objectAnimator android:duration="200" android:valueFrom="0" android:valueTo="1" android:propertyName="alpha" />
+        <objectAnimator android:duration="200" android:valueFrom="-100.0dip" android:valueTo="0.0dip" android:propertyName="translationX" />
+        <objectAnimator android:duration="200" android:valueFrom="0.5" android:valueTo="1.2" android:propertyName="scaleX" />
+        <objectAnimator android:duration="200" android:valueFrom="0.5" android:valueTo="1.2" android:propertyName="scaleY" />
+    </set>
+    <set android:interpolator="@android:anim/decelerate_interpolator">
+        <objectAnimator android:duration="130" android:valueFrom="1.2" android:valueTo="1" android:propertyName="scaleX" />
+        <objectAnimator android:duration="130" android:valueFrom="1.2" android:valueTo="1" android:propertyName="scaleY" />
+    </set>
+    <set android:interpolator="@android:anim/decelerate_interpolator">
+        <objectAnimator android:duration="110" android:valueFrom="1" android:valueTo="1.1" android:propertyName="scaleX" />
+        <objectAnimator android:duration="110" android:valueFrom="1" android:valueTo="1.1" android:propertyName="scaleY" />
+    </set>
+    <set android:interpolator="@android:anim/decelerate_interpolator">
+        <objectAnimator android:duration="90" android:valueFrom="1.1" android:valueTo="1" android:propertyName="scaleX" />
+        <objectAnimator android:duration="90" android:valueFrom="1.1" android:valueTo="1" android:propertyName="scaleY" />
+    </set>
+</set>

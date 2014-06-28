@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_emergency_enable_radio_dialog_title_txt">Chiamata di emergenza</string>
+    <string name="clh_large_manage_conference_participants">Partecipanti conferenza telefonica</string>
+    <string name="add_fdn_contact">Aggiungi contatto selezione fissa</string>
+</resources>

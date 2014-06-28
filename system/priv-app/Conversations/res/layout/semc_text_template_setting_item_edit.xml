@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/semc_text_template_input_edit_string" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/generic_top_margin" android:maxLines="10" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
+        <Button android:id="@id/text_template_cancel_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/gui_cancel_txt" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        <Button android:id="@id/text_template_done_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/conversations_strings_ssc_done_txt" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

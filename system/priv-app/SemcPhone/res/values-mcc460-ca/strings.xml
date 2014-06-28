@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Tret que utilitzeu WLAN, ja no podreu utilitzar Internet, el correu electrònic ni altres que requereixin una connexió de dades. Voleu desactivar la connexió de dades mòbils?</string>
+    <string name="sip_call_options_wifi_only_title">Ús de trucades per Internet (només WLAN)</string>
+    <string name="registration_status_no_wifi_data">"No s'ha pogut registrar el compte perquè no hi ha connexió WLAN."</string>
+    <string name="no_wifi_available_title">Sense connexió WLAN</string>
+    <string name="no_wifi_available">"Per fer trucades d'Internet, cal que us connecteu a una xarxa WLAN. Aneu a Paràmetres > Sense fil i xarxes."</string>
+</resources>

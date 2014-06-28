@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>নেটওয়ার্ক ডিফল্ট</item>
+        <item>নাম্বার লোকান</item>
+        <item>নাম্বার প্রদর্শন করুন</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>বিশ্বব্যাপী</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>শুধু EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo স্বয়ং</item>
+        <item>GSM / WCDMA স্বয়ং</item>
+        <item>শুধু WCDMA</item>
+        <item>শুধু GSM</item>
+        <item>GSM/WCDMA উপস্থাপিত করা</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ইংরাজী</item>
+        <item>ফরাসী</item>
+        <item>স্পেনীয়</item>
+        <item>জাপানী</item>
+        <item>কোরীয়</item>
+        <item>চীনা</item>
+        <item>হিব্রু</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (স্বয়ং মোড)</item>
+        <item>শুধু WCDMA</item>
+        <item>শুধু GSM</item>
+        <item>GSM/WCDMA (WCDMA পছন্দ)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>কেবলমাত্র বাড়িতে</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>কেবলমাত্র বাড়ির নেটওয়ার্ক</item>
+        <item>অনুমোদিত নেটওয়ার্ক</item>
+        <item>যেকোন নেটওয়ার্ক</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>শুধু CDMA</item>
+        <item>কেবলমাত্র EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY বন্ধ</item>
+        <item>TTY সম্পূর্ণ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>স্বাভাবিক</item>
+        <item>দীর্ঘ</item>
+    </string-array>
+</resources>

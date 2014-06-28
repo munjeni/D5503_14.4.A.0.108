@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/btnActivation" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip" style="@style/StaminaItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/labelTitleHint" android:text="@string/title_hint" style="@style/StaminaItemLabel" />
+    <TextView android:id="@id/labelDescriptionHint" android:text="@string/description_hint" android:layout_below="@id/labelTitleHint" style="@style/StaminaItemDescr" />
+</RelativeLayout>

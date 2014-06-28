@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kada je ekran isključen, WLAN i mobilni podaci će biti privremeno onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete primati telefonske pozive, SMS/MMS poruke i obavještenja Sony™ kalendara i signale Sony™ alarma. Muzički player i FM radio će funkcionirati, a preuzimanjima i otpremanjima koja su u toku će biti omogućeno da se završe.
+
+Kada je ekran uključen, telefon će funkcionirati normalno.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kada je ekran isključen, WLAN i mobilni podaci će biti privremeno onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete primati SMS/MMS poruke, obavještenja Sony™ kalendara i signale Sony™ alarma. Muzički player i FM radio će raditi, a preuzimanjima i prenosima koji su u toku će biti dopušteno da se završe.
+
+Kada je ekran uključen, uređaj će funkcionirati normalno."</string>
+    <string name="description_msg_no_telephony_txt">"Kada je ekran isključen, WLAN će biti privremeno onemogućen, a većina aplikacija će biti neaktivna. I dalje ćete primati obavještenja Sony™ kalendara i signale Sony™ alarma. Muzički player i FM radio će raditi, a preuzimanjima i prenosima koji su u toku će biti dopušteno da se završe.
+
+Kada je ekran uključen, uređaj će funkcionirati normalno."</string>
+    <string name="notification_descr_ps">Način rada za nisku napunjenost baterije može produžiti trajanje baterije npr. isključivanjem WLAN veze ili smanjivanjem osvjetljenja ekrana kada je napunjenost baterije niska.</string>
+    <string name="notification_text_lbw">Aktivirajte WLAN zasnovan na lokaciji</string>
+    <string name="notification_descr_lbw">WLAN je uključen, ali se ne koristi neko vrijeme. Štedite energiju aktiviranjem WLAN veze na osnovu lokacije.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN je uključen, ali nije korišten neko vrijeme. Možete uštediti energiju aktiviranjem WLAN veze zasnovane na lokaciji. Želite postaviti WLAN zasnovan na lokaciji?</string>
+    <string name="low_battery_mode_tip_dialog">Način rada za nisku napunjenost baterije može produžiti trajanje baterije npr. isključivanjem WLAN veze ili smanjivanjem osvjetljenja ekrana kada je baterija slabo napunjena. Želite postaviti način rada uz štednju baterije?</string>
+</resources>

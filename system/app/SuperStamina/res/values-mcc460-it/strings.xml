@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Quando lo schermo non è attivato, il WLAN e il traffico dati verranno momentaneamente disattivati e la maggior parte delle applicazioni saranno inattive. Si continuerà a ricevere telefonate, messaggi SMS/MMS e le suonerie allarme e le notifiche del calendario Sony™. Il lettore musicale e la radio FM funzioneranno e le operazioni di download e di caricamento in corso verranno fatte finire.
+
+
+
+Quando lo schermo è attivato, il telefono funzionerà normalmente.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Quando lo schermo è disattivato, il traffico dati e WLAN sono temporaneamente disattivati e molte applicazioni non saranno attive. I messaggi SMS/MMS, le notifiche del calendario Sony™ e le suonerie allarme Sony™ verranno comunque ricevuti. Il riproduttore musicale e la radio FM funzioneranno e sarà possibile terminare i download e gli upload in corso.
+
+Quando lo schermo è attivo, il dispositivo funziona normalmente."</string>
+    <string name="description_msg_no_telephony_txt">"Quando lo schermo è disattivato, i dati WLAN sono temporaneamente disattivati e molte applicazioni non saranno attive. Le notifiche del calendario Sony™ e le suonerie allarme Sony™ verranno comunque ricevuti. Il riproduttore musicale e la radio FM funzioneranno e sarà possibile terminare i download e gli upload in corso.
+
+Quando lo schermo è attivo, il dispositivo funziona normalmente."</string>
+    <string name="notification_descr_ps">La modalità risparmio energetico può aumentare la durata della batteria disattivando il WLAN o riducendo la luminosità dello schermo quando la batteria è scarica.</string>
+    <string name="notification_text_lbw">Attiva il WLAN basato su posizione</string>
+    <string name="notification_descr_lbw">Il WLAN è attivo ma non è stato utilizzato per diverso tempo. Risparmia energia attivando il WLAN basato su posizione.</string>
+    <string name="location_based_wifi_tip_dialog">"Il WLAN è attivo ma non viene utilizzato da un po' di tempo. È possibile risparmiare energia attivando il WLAN basato sull'ubicazione. Configurare il WLAN basato sull'ubicazione?"</string>
+    <string name="low_battery_mode_tip_dialog">La modalità risparmio energetico consente di prolungare la durata della batteria, ad esempio disattivando il WLAN o riducendo la luminosità dello schermo in caso di carica scarsa. Configurare la modalità Batteria scarica?</string>
+</resources>

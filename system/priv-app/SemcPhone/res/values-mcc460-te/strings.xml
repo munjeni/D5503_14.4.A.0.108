@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">మీరు WLAN ఉపయోగిస్తే మినహా, మీరు డేటా కనెక్షన్ అవసరమయ్యే ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు. మొబైల్ డేటా కనెక్షన్‌ను ఆపివేయాలా?</string>
+    <string name="sip_call_options_wifi_only_title">ఇంటర్నెట్ కాలి. ఉపయో. (WLAN మాత్రమే)</string>
+    <string name="registration_status_no_wifi_data">WLAN కనెక్షన్ లేదు. ఖాతాను నమోదు చేయలేరు.</string>
+    <string name="no_wifi_available_title">WLAN కనెక్షన్ లేదు</string>
+    <string name="no_wifi_available">ఇంటర్నెట్ కాల్ చేయడానికి మీరు తప్పక WLAN నెట్‌వర్క్‌కు కనెక్ట్ చేయాలి (సెట్టింగ్‌లు > వైర్‌లెస్ &amp; నెట్‌వర్క్‌లకు వెళ్లండి).</string>
+</resources>

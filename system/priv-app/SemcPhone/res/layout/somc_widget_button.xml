@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/widgetbutton" android:clickable="true" android:layout_width="0.0dip" android:layout_height="@dimen/somc_incall_screen_widget_menu_button_height" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/widgetbutton_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" />
+    <TextView android:textSize="@dimen/somc_incall_screen_widget_menu_text_size" android:layout_gravity="center" android:id="@id/widgetbutton_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

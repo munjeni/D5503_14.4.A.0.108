@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Қолданбаға GPS немесе ұялы телефон байланысының мұнаралары мен орналасқан жердегі WLAN байланысы сияқты желілік байланысты пайдалану арқылы нақты орналасқан жерді анықтауға мүмкіндік береді. Бұл орналасқан жердегі қызметтер қосылуы қажет және қолданбаны пайдалану үшін құрылғыда қол жетімді болуы қажет. Қолданбалар оны сіздің орналасқан жеріңізді анықтау үшін пайдалануы мүмкін және қосымша батарея қуатын тұтынуы мүмкін.</string>
+    <string name="permdesc_accessCoarseLocation">Қолданбаға нақты орналасқан жерді анықтауға мүмкіндік береді. Бұл орналасқан жер ұялы байланыс мұнаралары мен WLAN байланысы сияқты желілік байланысты пайдалану арқылы орналасу қызметтерінен алады. Бұл орналасу қызметтері қосылып тұруы қажет және қолданбаны пайдалану үшін құрылғыда қол жетімді болуы қажет. Қолданбалар оны сіздің нақты орналасқан жеріңізді анықтау үшін пайдалануы мүмкін.</string>
+    <string name="permlab_configureWifiDisplay">WLAN Display технологиясын конфигурациялау</string>
+    <string name="permdesc_configureWifiDisplay">Қолданбаға конфигурациялауға және көрсетілетін WLAN Display технологиясына қосылуға рұқсат береді.</string>
+    <string name="permlab_controlWifiDisplay">WLAN байланысының көрсетілуін басқару</string>
+    <string name="permdesc_controlWifiDisplay">Қолданбаға WLAN Display технологиясының төменгі деңгейдегі мүмкіндіктерін басқаруға мүмкіндік береді.</string>
+    <string name="permlab_accessWifiState">WLAN байланыстарын қарау</string>
+    <string name="permdesc_accessWifiState">"Қолданбаға WLAN  желілерінің қосылғаны және WLAN  құрылғыларының атауы сияқты WLAN  желілері туралы ақпаратты қарауға мүмкіндік береді."</string>
+    <string name="permlab_changeWifiState">WLAN байланысына қосылу және ажырау</string>
+    <string name="permdesc_changeWifiState">Қолданбаға WLAN қол жетімді нүктелеріне қосылуға және ажыратуа және WLAN желілерінде құрылғылар конфигурациясына өзгеріс енгізуге мүмкіндік береді.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN топтық қабылдауды қосу</string>
+    <string name="permdesc_changeWifiMulticastState">Тек телефон ғана емес, қолданбаға барлық көп мекенжайлы жіберу арқылы WLAN желілерінде жіберілген жиынтықтарды алуға мүмкіндік береді. Бұл көп мекенжайлы емес режимге қарағанда қуатты көбірек пайдаланады.</string>
+    <string name="wifi_available_sign_in">WLAN желісіне тіркеліңіз</string>
+    <string name="wifi_watchdog_network_disabled">WLAN желісіне қосылу мүмкін болмады</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct байланысын іске қосыңыз. Бұл WLAN клиент/гипернысанын өшіреді.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct іске қосу мүмкін болмады</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct қосулы</string>
+    <string name="wifi_p2p_frequency_conflict_message">%1$s қосулы кезде телефон WLAN желісінен уақытша ажыратылады</string>
+    <string name="data_usage_wifi_limit_title">WLAN деректері өшірілді</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN деректер шегі асырылды</string>
+    <string name="policylab_disableWifi">WLAN арқылы кіруді ажырату</string>
+    <string name="policydesc_disableWifi">Құрылғыдағы WLAN байланысын болдырмау.</string>
+    <string name="wifi_disabled_notification_title">WLAN байланысы шектелген.</string>
+    <string name="wifi_disabled_notification_message">"Қауіпсіздік саясаты WLAN байланысын пайдалануды шектейді. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN роумингі орындалуда</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN желісі қос-ған. Төлеу тур. ақп. алу үш. 10000 н/е жерг. дүк. хаб-ңыз.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN қосулы</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Қытай Телекомның WLAN желісіне байланысқан болуыңыз қажет. Ақылар туралы қосымша ақпарат алу үшін Қытай Телеком компаниясының тұтынушыларға қызмет көрсету бөліміне хабарласыңыз. Жалғастыру қажет пе?</string>
+    <string name="wifi_nonconcurrency_message">WLAN клиентін іске қосыңыз. Бұл WLAN Direct қызметін ажыратады.</string>
+    <string name="wifi_noncuncurrency_message">WLAN клиентін іске қосыңыз. Бұл WLAN Direct қызметін ажыратады.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Бұрыннан бар кез келген WLAN байланысы ажыратылады</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct қызметін іске қосыңыз. Бұл WLAN байланысын ажыратады.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Бұл бұрыннан бар кез келген WLAN байланысын жояды</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct қызметін іске қосыңыз. Бұл WLAN байланысын ажыратады.</string>
+    <string name="tethered_notification_message_wifi">WLAN функциясын қосу үшін Mobile HotSpot қосыңыз</string>
+    <string name="tethered_notification_title_wifi">WLAN өшірулі</string>
+</resources>

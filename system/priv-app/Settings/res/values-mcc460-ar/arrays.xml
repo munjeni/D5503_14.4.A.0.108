@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>الموقع التقريبي</item>
+        <item>الموقع الدقيق</item>
+        <item>GPS</item>
+        <item>اهتزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>فحص WLAN</item>
+        <item>إشعار</item>
+        <item>فحص الشبكة الخلوية</item>
+        <item>اتصال هاتفي</item>
+        <item>قراءة الرسائل القصيرة SMS</item>
+        <item>كتابة الرسائل القصيرة SMS</item>
+        <item>تلقي الرسائل القصيرة SMS</item>
+        <item>تلقي الرسائل القصيرة SMS في حالة الطوارئ</item>
+        <item>تلقي رسائل الوسائط المتعددة (MMS)</item>
+        <item>تلقي رسائل WAP push</item>
+        <item>إرسال رسائل قصيرة SMS</item>
+        <item>قراءة الرسائل القصيرة SMS لبطاقة ICC</item>
+        <item>كتابة الرسائل القصيرة SMS لبطاقة ICC</item>
+        <item>تعديل الإعدادات</item>
+        <item>رسم في الأعلى</item>
+        <item>إشعارات الدخول</item>
+        <item>الكاميرا</item>
+        <item>تسجيل الصوت</item>
+        <item>تشغيل الصوت</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز على الصوت</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى صوت الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>مستوى صوت المنبه</item>
+        <item>مستوى صوت الإشعار</item>
+        <item>مستوى صوت البلوتوث</item>
+        <item>البقاء في الوضع النشط</item>
+        <item>مراقبة الموقع</item>
+        <item>مراقبة موقع متميز</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>اهتزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>الموقع</item>
+        <item>نشر إشعار</item>
+        <item>الموقع</item>
+        <item>اتصال هاتفي</item>
+        <item>‏قراءة SMS/MMS</item>
+        <item>‏كتابة SMS/MMS</item>
+        <item>تلقي الرسائل القصيرة SMS/رسائل الوسائط المتعددة</item>
+        <item>تلقي الرسائل القصيرة SMS/رسائل الوسائط المتعددة</item>
+        <item>تلقي الرسائل القصيرة SMS/رسائل الوسائط المتعددة</item>
+        <item>تلقي الرسائل القصيرة SMS/رسائل الوسائط المتعددة</item>
+        <item>إرسال الرسائل القصيرة SMS/رسائل الوسائط المتعددة</item>
+        <item>‏قراءة SMS/MMS</item>
+        <item>‏كتابة SMS/MMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>رسم في الأعلى</item>
+        <item>إشعارات الدخول</item>
+        <item>الكاميرا</item>
+        <item>تسجيل الصوت</item>
+        <item>تشغيل الصوت</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز على الصوت</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى صوت الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>مستوى صوت المنبّه</item>
+        <item>مستوى صوت الإشعار</item>
+        <item>مستوى صوت البلوتوث</item>
+        <item>البقاء في الوضع النشط</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>‏WLAN ASCII</item>
+        <item>‏WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">WLAN желісін пайдаланбасаңыз, интернетті, электрондық поштаны немесе басқа деректер байланысын қажет ететін басқа қолданбаларды пайдалана алмайсыз. Мобильді деректер байланысын өшіру керек пе?</string>
+    <string name="sip_call_options_wifi_only_title">Инт-те қоң. ш-ды пайд. (тек WLAN)</string>
+    <string name="registration_status_no_wifi_data">WLAN байланысы жоқ. Есептік жазбаны тіркеу мүмкін болмады.</string>
+    <string name="no_wifi_available_title">WLAN байланысы жоқ</string>
+    <string name="no_wifi_available">Интернетте қоңырау шалу үшін WLAN желісіне қосылу керек (Параметрлер > Сымсыз желілер тармағына өтіңіз).</string>
+</resources>

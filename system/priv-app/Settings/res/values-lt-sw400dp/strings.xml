@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Automatinis sinchronizavimas</string>
+    <string name="wifi_tether_settings_text">Perkeliamo „Wi-Fi“ viešosios interneto prieigos taško nustatymai</string>
+    <string name="stamina_xssm_add_applications_title">Budėjimo režimu aktyvios programos</string>
+    <string name="auto_hide_notifications_title">Išvalyti peržiūrėtus pranešimus</string>
+</resources>

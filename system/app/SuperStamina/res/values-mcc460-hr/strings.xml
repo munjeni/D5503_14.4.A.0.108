@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kada se zaslon isključi, WLAN i mobilni podaci privremeno će se onemogućiti te većina aplikacija neće biti aktivna. I dalje ćete moći primati telefonske pozive, SMS/MMS poruke te obavijesti iz kalendara i zvuke alarma tvrtke Sony™. Funkcionirat će svirač glazbe i FM radio, a preuzimanja i slanja u tijeku moći će se dovršiti.
+
+Kada se zaslon uključi, telefon će normalno funkcionirati.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kada se zaslon isključi, WLAN i mobilni podaci privremeno će se onemogućiti te većina programa neće biti aktivna. I dalje ćete moći primati telefonske pozive, SMS/MMS poruke te obavijesti iz kalendara i zvuke alarma tvrtke Sony™. Funkcionirat će glazbeni reproduktor i FM radio, a preuzimanja i slanja u tijeku moći će se dovršiti.
+
+Kada se zaslon uključi, telefon će normalno funkcionirati."</string>
+    <string name="description_msg_no_telephony_txt">"Kada se zaslon isključi, WLAN će biti privremeno onemogućen i većina aplikacija neće biti aktivna. I dalje ćete moći primati obavijesti iz kalendara tvrtke Sony™ i zvuke alarma tvrtke Sony™. Funkcionirat će glazbeni reproduktor i FM radio, a preuzimanja i slanja u tijeku moći će se dovršiti.
+
+Kada se zaslon uključi, uređaj će normalno funkcionirati."</string>
+    <string name="notification_descr_ps">Način rada za slabu bateriju može produljiti trajanje baterije, primjerice isključivanjem WLAN veze ili smanjivanjem svjetline zaslona kad je baterija gotovo ispražnjena.</string>
+    <string name="notification_text_lbw">Aktivirajte lokacijski WLAN</string>
+    <string name="notification_descr_lbw">WLAN je uključen, ali već dulje vrijeme nije korišten. Uštedite energiju aktiviranjem lokacijske WLAN veze.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN je uključen, a već ga neko vrijeme ne koristite. Energiju možete uštedjeti tako da aktivirate lokacijski WLAN. Želite li ga postaviti?</string>
+    <string name="low_battery_mode_tip_dialog">U načinu rada za slabu bateriju možete produljiti trajanje baterije ako npr. isključite WLAN vezu ili smanjite svjetlinu zaslona kada je baterija pri kraju. Želite li postaviti taj način?</string>
+</resources>

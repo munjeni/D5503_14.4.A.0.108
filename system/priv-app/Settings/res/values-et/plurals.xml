@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">%d päev</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d sammu veel ja olete arendaja.</item>
+        <item quantity="one">%1$d sammu veel ja olete arendaja.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parool peab sisaldama vähemalt %d tähte</item>
+        <item quantity="one">Paroolis peab olema vähemalt üks täht</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parool peab sisaldama vähemalt %d väiketähte</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte väiketähte</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parool peab sisaldama vähemalt %d suurtähte</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte suurtähte</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parool peab sisaldama vähemalt %d numbrilist arvu</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte numbrilist arvu</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parool peab sisaldama vähemalt %d erimärki</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte erimärki</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parool peab sisaldama vähemalt %d mitte-tähelist märki</item>
+        <item quantity="one">Parool peab sisaldama vähemalt ühte mitte-tähelist märki</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d rakendust saavad märguandeid lugeda</item>
+        <item quantity="one">%d rakendus saab märguandeid lugeda</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM-kaardi vale PIN-kood. Saate proovida veel %d korda.</item>
+        <item quantity="one">SIM-kaardi vale PIN-kood. Saate proovida veel %d kord enne, kui peate seadme avamiseks operaatori poole pöörduma.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Leiti %1$s printerit</item>
+        <item quantity="one">Leiti %1$s printerit</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Loendis on %d rakendust</item>
+        <item quantity="one">Loendis on %1$d rakendus</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"화면이 꺼지면 WLAN와 모바일 데이터의 사용이 일시적으로 중지되고 대부분의 응용프로그램이 비활성화됩니다. 전화 통화, SMS/MMS 메시지, Sony™ 캘린더 알림 및 Sony™ 알람 신호음은 계속 수신됩니다. 음악 플레이어와 FM 라디오도 작동하며, 진행 중인 다운로드 및 업로드를 완료할 수 있습니다.
+
+화면이 켜지면 휴대폰은 정상적으로 작동합니다.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"화면이 꺼지면 WLAN 및 모바일 데이터가 일시적으로 사용하지 않도록 설정되고 대부분의 응용프로그램이 비활성화됩니다. SMS/MMS 메시지, Sony™ 캘린더 알림과 Sony™ 알람 신호는 계속해서 수신됩니다. 음악 플레이어 및 FM 라디오가 작동하고 진행 중인 다운로드와 업로드가 마치도록 허용됩니다.
+
+화면이 켜지면 장치가 정상적으로 작동합니다."</string>
+    <string name="description_msg_no_telephony_txt">"화면이 꺼지면 WLAN가 일시적으로 사용하지 않도록 설정되고 대부분의 응용프로그램이 비활성화됩니다. 하지만 Sony™ 캘린더 알림과 Sony™ 알람 신호는 계속해서 수신됩니다. 그리고 음악 플레이어 및 FM 라디오가 작동하고 진행 중인 다운로드와 업로드가 마치도록 허용됩니다.
+
+화면이 켜지면 장치는 정상적으로 작동합니다."</string>
+    <string name="notification_descr_ps">배터리 부족 모드를 활성화하면 배터리가 부족할 때 WLAN를 끄거나 화면 밝기를 줄이는 등의 기능이 사용되어 배터리 수명이 연장됩니다.</string>
+    <string name="notification_text_lbw">위치 기반 WLAN 활성화</string>
+    <string name="notification_descr_lbw">WLAN가 켜져 있지만 사용하지 않는 동안 위치 기반 WLAN를 활성화하여 전원을 절약할 수 있습니다.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN가 활성화되었지만 한동안 사용되지 않았습니다. 위치 기반 WLAN를 활성화하여 전원을 절약할 수 있습니다. 위치 기반 WLAN를 설정하시겠습니까?</string>
+    <string name="low_battery_mode_tip_dialog">배터리가 부족할 때 배터리 부족 모드(예: WLAN 끄기 또는 화면 밝기 낮춤)로 전환하면 배터리 수명을 연장할 수 있습니다. 배터리 부족 모드를 설정하시겠습니까?</string>
+</resources>

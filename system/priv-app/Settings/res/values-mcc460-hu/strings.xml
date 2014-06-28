@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"A STAMINA üzemmód magában foglalja a következőket:
+
+• Hosszabbított készenléti mód
+A képernyő kikapcsolásakor a WLAN és a mobilhálózati adatok ideiglenes letiltásával energiát takarít meg. A legtöbb alkalmazás inaktív lesz.
+A képernyő bekapcsolásakor a telefon a szokásos módon működik.
+Ha a Hosszabbított készenléti mód bekapcsolásakor néhány alkalmazást aktív állapotban szeretne tartani, vegye fel őket a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára.
+
+• Hosszabbított használat
+A hardver teljesítményének korlátozásával energiát takarít meg az eszköz használata során.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Mi az a STAMINA üzemmód?</u>"
+A STAMINA üzemmód a Sony™ energiatakarékos üzemmódja, amely a képernyő kikapcsolásakor a funkciók letiltásával megnöveli az akkumulátor üzemidejét.
+
+"<u>Alapszintű használat</u>"
+A STAMINA üzemmód a következő képernyőn található kapcsológombbal aktiválható.
+A képernyő kikapcsolásakor az akkumulátor kímélése végett az összes hálózati adat ideiglenesen letiltott és a legtöbb alkalmazás inaktív lesz.
+A képernyő bekapcsolásakor a készülék ismét rendeltetésszerűen fog működni.
+
+"<u>Haladó szintű használat</u>"
+Ha a képernyő kikapcsolásakor néhány alkalmazást aktív állapotban szeretne tartani, vegye fel őket a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára.
+
+"<u>Megjegyzés</u>"
+Előfordulhat, hogy egyes alkalmazások nem működnek megfelelően, ha készenléti módban le vannak tiltva. Ilyen esetben vegye fel az adott alkalmazást a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára, vagy ha ez sem segít, kapcsolja ki a STAMINA üzemmódot."</string>
+    <string name="location_based_wi_fi_label">Helyalapú WLAN</string>
+    <string name="location_based_wi_fi_descr">A WLAN automatikusan aktivált lesz, ha egy mentett WLAN hálózat tartományában van</string>
+    <string name="powersaver_feature_wifi">WLAN kikapcsolva</string>
+    <string name="install_wapi_certs">WLAN tanúsítv. telepítése</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, repülőgépes üzemmód, mobilhálózatok és VPN-ek kezelése</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN bekapcsolása</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-beállítások</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN hálózat kiválasztása</string>
+    <string name="wifi_starting">WLAN bekapcsolása</string>
+    <string name="wifi_stopping">WLAN kikapcsolása</string>
+    <string name="wifi_poor_network_detection_summary">Csak akkor használjon WLAN hálózatot, ha jó internetkapcsolatot tud biztosítani</string>
+    <string name="wifi_scan_always_available_summary">A Google helyszolgáltatása és más alkalmazások akkor is kereshetnek hálózatokat, ha a WLAN ki van kapcsolva</string>
+    <string name="wifi_scan_notify_text_location_on">A hely pontosságának javítása és egyéb célok érdekében a Google és más alkalmazások kereshetnek közeli hálózatokat még akkor is, ha a WLAN ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális > A keresés mindig elérhető beállítást.</string>
+    <string name="wifi_scan_notify_text_location_off">Az alkalmazások még akkor is megkereshetik a közeli hálózatokat, ha a WLAN ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális > A keresés mindig elérhető beállítást.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN fenntartása alvó állapotban</string>
+    <string name="wifi_suspend_optimizations">WLAN optimalizálása</string>
+    <string name="wifi_suspend_optimizations_summary">Az akkumulátorhasználat minimalizálása, ha a WLAN be van kapcsolva</string>
+    <string name="wifi_access_points">WLAN hálózatok</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Az elérhető hálózatokhoz kapcsolja be a WLAN-t.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN hálózatok keresése...</string>
+    <string name="wifi_empty_list_user_restricted">Nincs jogosultsága a WLAN hálózat módosítására.</string>
+    <string name="wifi_required_info_text">A telepítés befejezéséhez a táblagépnek WLAN hálózatra van szüksége. A beállítás után válthat a mobil adatforgalom és a WLAN között.</string>
+    <string name="wifi_wps_setup_title">WPS</string>
+    <string name="wifi_wps_onstart_pbc">Nyomja meg a WLAN Protected Setup gombot a routeren. Ennek elnevezése lehet \"WPS\" is, illetve a következő szimbólum is jelölheti:</string>
+    <string name="wifi_wps_onstart_pin">Írja be a WLAN routerének azonosítókódját (%1$s). A telepítés legfeljebb 2 percet vesz igénybe.</string>
+    <string name="wifi_wps_connected">Csatlakozva a(z) %s WLAN hálózathoz</string>
+    <string name="wifi_scan_always_turnon_message">"A helymeghatározás pontosságának javítása és egyéb célok érdekében a(z) %1$s szeretné engedélyezni a hálózatkeresést még kikapcsolt WLAN mellett is.
+
+Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
+    <string name="wifi_connect_failed_message">A telefon nem tudott csatlakozni ehhez a WLAN hálózathoz.</string>
+    <string name="wifi_advanced_titlebar">Speciális WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-frekvenciasáv</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Hordozható WLAN-csatl. pont</string>
+    <string name="wifi_tether_failed_subtext">Hordozható WLAN-csatlakozási pont hibája</string>
+    <string name="wifi_tether_configure_ap_text">WLAN hotspot beállítása</string>
+    <string name="wifi_tether_configure_subtext">"%1$s hordozható WLAN csatlakozási pont.
+Biztonság: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC-cím</string>
+    <string name="location_mode_high_accuracy_description">GPS, WLAN és mobilhálózatok használata helymeghatározáshoz</string>
+    <string name="location_mode_battery_saving_description">WLAN és mobilhálózatok használata helymeghatározáshoz</string>
+    <string name="location_neighborhood_level">Helyadatok anonim küldésének engedélyezése a Google számára. Az engedéllyel rendelkező alkalmazások WLAN és mobilhálózatok adatait is használhatják a hozzávetőleges helymeghatározáshoz.</string>
+    <string name="location_neighborhood_level_wifi">WLAN által meghatározott hely</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Bekapcsolt WLAN</string>
+    <string name="bluetooth_on_time">Bekapcsolt WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN működik</string>
+    <string name="usage_type_data_wifi_send">Küldött WLAN adat</string>
+    <string name="usage_type_data_wifi_recv">Fogadott WLAN adat</string>
+    <string name="battery_action_wifi">WLAN-beállítások</string>
+    <string name="battery_desc_wifi">A WLAN által felhasznált energia</string>
+    <string name="battery_sugg_wifi">Kapcsolja ki a WLAN-t, ha nem használja, vagy nem áll rendelkezésre</string>
+    <string name="gadget_toggle_wifi">WLAN-beállítások frissítése</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Alkalmazásadatok, WLAN-jelszavak és más beállítások biztonsági mentése a Google kiszolgálóin</string>
+    <string name="backup_erase_dialog_message">Leállítja a WLAN-jelszavak, könyvjelzők, egyéb beállítások és alkalmazásadatok biztonsági mentését, és törli a Google-kiszolgálókon lévő összes másolatot?</string>
+    <string name="wifi_setup_title">WLAN beállítása</string>
+    <string name="wifi_setup_title_editing_network">Csatlakozás a(z) %s WLAN hálózathoz</string>
+    <string name="wifi_setup_title_connecting_network">Csatlakozás a(z) %s WLAN hálózathoz…</string>
+    <string name="wifi_setup_title_connected_network">Csatlakozott a(z) %s WLAN hálózathoz</string>
+    <string name="wifi_setup_eap_not_supported">A beállítás során nem konfigurálhat EAP WLAN-kapcsolatot. Ezt a beállítás után a Beállítások > Vezeték nélküli és mobilhálózatok menüpontban teheti meg.</string>
+    <string name="wifi_setup_description_connected">Érintse meg a <b>Tovább</b>" gombot a telepítés folytatásához.
+
+Érintse meg a "<b>Vissza</b> gombot egy másik WLAN hálózathoz való csatlakozáshoz.</string>
+    <string name="data_usage_menu_show_wifi">WLAN haszn. megjelenít.</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-adatkorlát beállítása</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Ha korlátozza a háttérben történő mobil adatforgalmat, egyes alkalmazások és szolgáltatások csak akkor fognak működni, ha WLAN hálózathoz csatlakozik.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik WLAN hálózathoz.
+
+
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="data_usage_metered_body">Válassza ki azokat a WLAN hálózatokat, amelyek mobil hotspotok. A háttérben futó alkalmazásoknál letilthatja az ilyen hálózatok használatát. Az alkalmazások akár értesíthetik is Önt, mielőtt nagyméretű letöltésekre használnák az ilyen hálózatokat.</string>
+    <string name="data_usage_metered_wifi">WLAN hálózatok</string>
+    <string name="data_usage_metered_wifi_disabled">A mobil hotspotok kiválasztásához kapcsolja be a WLAN-t.</string>
+    <string name="user_add_user_message_long">"Ezt a készüléket további felhasználókat létrehozva megoszthatja más emberekkel. Minden felhasználó rendelkezik saját területtel, amelyet személyre szabhat saját alkalmazásaival, háttérképével stb. A felhasználók módosíthatják a táblagép olyan beállításait is, amelyek mindenkit érintenek, például a WLAN beállításait.
+
+ 
+
+Miután létrehoz egy új felhasználót, az adott személynek keresztül kell mennie egy telepítési folyamaton.
+
+ 
+
+Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az összes többi felhasználó nevében."</string>
+    <string name="restriction_wifi_config_title">WLAN és mobil</string>
+    <string name="restriction_wifi_config_summary">Lehetővé teszi a WLAN és mobilbeállítások módosítását.</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN csatlakozt.</string>
+    <string name="cw_network_priority">"Prioritás: China Telecom WLAN "</string>
+    <string name="cw_network_priority_summary">A kapcsolatban a China Telecom WLAN hálózatai prioritást élveznek a WLAN hálózataival szemben</string>
+    <string name="data_traffic_disabled_text">Az adatforgalom le van tiltva, ezért nem sikerült csatlakozni a China Telecom WLAN hálózataihoz. Engedélyezi az adatforgalmat?</string>
+    <string name="location_based_wifi">Helyalapú WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Autom. kapcsolódás az üzemeltető WLAN csatlakozási pontjához</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. kapcs.: üzem. WLAN</string>
+    <string name="wifi_calling_mode_title">WLAN hívás</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN tanúsítvány módosítása</string>
+    <string name="wifi_p2p_settings">WLAN Direct beállításai</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT-védelemmel ellátva</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK-védelemmel ellátva</string>
+    <string name="wifi_tether_explanation_dialog_text">"Eszközét mobil csatlakozási pontként használhatja. Így más eszközök (legfeljebb 10) csatlakozhatnak hozzá WLAN hálózaton keresztül. A csatlakoztatott eszközök a telefon mobilhálózati kapcsolatán keresztül férnek hozzá az internethez. A mobil csatlakozási pont mobiladatokat használ és további díjakat vonhat maga után.
+
+A mobil csatlakozási pont több energiát fogyaszt. Az akkumulátor üzemidejének meghosszabbításához csatlakoztassa az eszközt egy hálózati aljzathoz."</string>
+    <string name="wifi_tether_settings_subtext">Hordozható WLAN csatlakozási pont beállítása és kezelése</string>
+    <string name="wifi_tether_settings_text">Hord. WLAN csatl. pont beállításai</string>
+    <string name="wifi_wps_category_title">WLAN hálózat beállítása</string>
+    <string name="cw_network_notification">CT WLAN értesítés eng.</string>
+    <string name="stamina_xssm_summary">Mobilhálózati adatok és WLAN letiltása a képernyő kikapcsolásakor</string>
+    <string name="tethering_no_sim_warning_txt">Helyezze be a SIM kártyát, hogy megoszthassa adatkapcsolatát más készülékekkel mobil WLAN csatlakozási pont vagy USB internetmegosztás segítségével.</string>
+    <string name="wifi_offload_checkbox_summary">Az alkalmazások megnyitásakor jelezze, ha elérhető WLAN</string>
+    <string name="wifi_offload_checkbox_title">WLAN-üzenetek mutatása</string>
+    <string name="wifi_offload_notify_available_networks">WLAN-értesítések</string>
+    <string name="wifi_offload_notify_available_networks_summary">Értesítést kérek, ha WLAN hálózatok érhetők el</string>
+    <string name="wifi_offload_option_title">Elérhető WLAN hálózatok</string>
+</resources>

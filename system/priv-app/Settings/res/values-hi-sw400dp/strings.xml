@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">पृष्ठभूमि डेटा को कतारबद्ध करें</string>
+    <string name="auto_sync_text">स्वतः सिंक</string>
+    <string name="stamina_xssm_add_applications_title">स्टैंडबाई में सक्रिय अनुप्रयोग</string>
+    <string name="auto_hide_notifications_title">देखी गई सूचनाओं को साफ़ करें</string>
+</resources>

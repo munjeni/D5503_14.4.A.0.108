@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_fdn_contact">Ajouter un numéro de contact fixe</string>
+    <string name="delete_fdn_contact">Supprimer le numéro de contact fixe</string>
+</resources>

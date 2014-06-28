@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_margin_top">10.0dip</dimen>
+    <dimen name="display_margin_bottom">0.0dip</dimen>
+    <dimen name="display_text_size">50.0dip</dimen>
+    <dimen name="scale_margin_bottom">24.0dip</dimen>
+</resources>

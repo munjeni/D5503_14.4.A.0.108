@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">จัดคิวข้อมูลพื้นหลัง</string>
+    <string name="wifi_tether_settings_text">การตั้งค่าฮอตสปอตของ Wi-Fi พกพา</string>
+    <string name="stamina_xssm_add_applications_title">แอปพลิเคชันทำงานขณะเตรียมพร้อม</string>
+</resources>

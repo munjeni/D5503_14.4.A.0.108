@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Eco-moduscontroller "</string>
+    <string name="dont_ask_me_again_txt">Mij niet opnieuw vragen</string>
+    <string name="description_msg_txt">"Wanneer het scherm uit is, worden Wi-Fi en mobiele data tijdelijk uitgeschakeld en worden de meeste applicaties inactief. Telefonische oproepen, SMS/MMS-berichten, Sony™-kalenderherinneringen en Sony™-wekkersignalen blijft u gewoon ontvangen. De muziekspeler en FM-radio werken, en downloads en uploads die al zijn begonnen, worden afgemaakt.
+
+Wanneer het scherm aan is, functioneert de telefoon op normale wijze.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Als het scherm is uitgeschakeld, worden Wi-Fi en mobiele data tijdelijk uitgeschakeld en zijn de meeste applicaties inactief. U kunt nog steeds SMS- of MMS-berichten, Sony™-agendameldingen en Sony™-alarmsignalen ontvangen. De muziekplayer en de FM-radio functioneren, en downloads en uploads die aan de gang zijn, worden voltooid.
+
+Als het scherm is ingeschakeld, functioneert uw apparaat normaal."</string>
+    <string name="description_msg_no_telephony_txt">"Als het scherm is uitgeschakeld, wordt Wi-Fi tijdelijk uitgeschakeld en zijn de meeste applicaties inactief. U kunt nog steeds Sony™-agendameldingen en Sony™-alarmsignalen ontvangen. De muziekplayer en de FM-radio functioneren, en downloads en uploads die aan de gang zijn, worden voltooid.
+
+Als het scherm is ingeschakeld, functioneert uw apparaat normaal."</string>
+    <string name="description_title_txt">Let op!</string>
+    <string name="low_battery_mode_description_msg_txt">"Schakel Batterijbesparingsmodus in om stroom verbruikende functies en instellingen uit te schakelen als het batterijniveau lager dan een vooraf ingesteld niveau is. Tik op de modus Batterij leeg om de instellingen te wijzigen.
+"</string>
+    <string name="activate_txt">Activeren</string>
+    <string name="cancel_txt">Annuleren</string>
+    <string name="xssm_blocker_detector_title">Tip voor energiebeheer</string>
+    <string name="xssm_blocker_detector_msg">%s verhindert dat STAMINA-modus energie bespaart in stand-by</string>
+    <string name="xssm_blocker_detector_long_msg">Negeer deze waarschuwing als u deze applicatie vaak gebruikt. Zo niet, dan moet u de applicatie verwijderen of gedwongen stoppen.</string>
+    <string name="xssm_blocker_detector_ignore">Ik snap het. Niet meer weergeven.</string>
+    <string name="network_detector_msg">%s verstuurt en ontvangt gegevens terwijl het scherm uit is en zorgt ervoor dat de batterij sneller leegraakt.</string>
+    <string name="network_detector_long_msg">Het verwijderen van de app kan de prestaties van het apparaat verbeteren en de batterijduur verlengen.</string>
+    <string name="wakelock_detector_msg">%s is al enkele weken niet gebruikt.</string>
+    <string name="wakelock_detector_long_msg">De app kan het apparaat laten hervatten vanuit stand-bymodus. Het verwijderen van de app kan de prestaties van het apparaat verbeteren en de batterijduur verlengen.</string>
+    <string name="notification_title_xssm">Tip voor energiebeheer</string>
+    <string name="notification_text_xssm">STAMINA-modus activeren</string>
+    <string name="notification_descr_xssm">Uw apparaat staat vaak stand-by. Verleng de batterijduur door activering van STAMINA-modus.</string>
+    <string name="notification_dont_show_again">Ik snap het. Niet meer weergeven.</string>
+    <string name="notification_title_ps">Tip voor energiebeheer</string>
+    <string name="notification_text_ps">Batterijbesparingsmodus activeren</string>
+    <string name="notification_descr_ps">Batterijbesparingsmodus kan batterijduur verlengen door bijv. Wi-Fi uit te schakelen of helderheid van scherm te verlagen wanneer batterij bijna leeg is.</string>
+    <string name="notification_title_lbw">Tip voor energiebeheer</string>
+    <string name="notification_text_lbw">Wi-Fi op locatie activeren</string>
+    <string name="notification_descr_lbw">Wi-Fi staat aan maar is al enige tijd niet gebruikt. Bespaar energie door Wi-Fi op locatie te activeren.</string>
+    <string name="unused_application_title">Tip over energiebeheer</string>
+    <string name="unused_application_msg">%s is enige tijd niet gebruikt</string>
+    <string name="unused_application_long_msg">Als u deze applicatie wilt bewaren, negeert u deze waarschuwing. Zo niet, dan verwijdert u de applicatie.</string>
+    <string name="unused_application_ignore">Ik begrijp het. Niet meer weergeven.</string>
+    <string name="drain_dialog_title_txt">Batterij laadt niet op</string>
+    <string name="drain_dialog_text_usb_txt">De aangesloten energiebron is onvoldoende. De batterij raakt sneller leeg dan dat deze wordt opgeladen. Gebruik een wisselstroomlader.</string>
+    <string name="drain_dialog_text_wallcharger_txt">De aangesloten energiebron is onvoldoende. De batterij raakt sneller leeg dan dat deze wordt opgeladen. Ga tijdens het opladen spaarzaam met uw apparaat om.</string>
+    <string name="extend_battery_tip_dialog_headar">Tip voor energiebeheer</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi is ingeschakeld maar is al enige tijd niet gebruikt. U kunt stroom besparen door Wi-Fi op locatiebasis te activeren. Wi-Fi op locatiebasis instellen?</string>
+    <string name="low_battery_mode_tip_dialog">De batterijbesparingsmodus kan de batterijduur verlengen door bijvoorbeeld Wi-Fi uit te schakelen of de helderheid van het scherm te verlagen wanneer de batterij bijna leeg is. Batterijbesparingsmodus instellen?</string>
+    <string name="stamina_mode_tip_dialog">Uw apparaat staat vaak stand-by. Verleng de batterijduur door activering van STAMINA mode. STAMINA mode instellen?</string>
+    <string name="bad_app_notification">De volgende app verbruikt veel stroom:</string>
+    <string name="bad_standby_app_dialog">%s voorkomt dat de STAMINA mode stroom kan besparen in stand-by. Negeer deze waarschuwing als u deze applicatie vaak gebruikt. Anders tikt u op de knop Applicatie-info en verwijdert u de applicatie of laat u deze geforceerd stoppen.</string>
+    <string name="ignore_dialog_action">Negeren</string>
+    <string name="app_info_dialog_action">Applicatie-info</string>
+    <string name="stamina_activation_notification">STAMINA mode geactiveerd</string>
+    <string name="lowbattery_trigger_level_notification">Batterijniveau onder %d%%</string>
+    <string name="lowbattery_activated_notification">Batterijbesparingsmodus geactiv.</string>
+    <string name="app_not_used_notification">Deze app is al enige tijd niet gebruikt:</string>
+    <string name="app_not_used_tip_dialog">%s is al enige tijd niet gebruikt. Wij raden u aan de applicatie te verwijderen om stroom te besparen.</string>
+    <string name="no_action_dialog">Nee</string>
+    <string name="yes_action_dialog">Ja</string>
+    <string name="widget_remaining_battery_time">Geschatte levensduur batterij</string>
+    <string name="widget_name">STAMINA-modus</string>
+</resources>

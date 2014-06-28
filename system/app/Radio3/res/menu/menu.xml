@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_favorites_selector" android:id="@id/menu_favorites" android:orderInCategory="0" android:title="@string/fmradio_strings_menu_favorites_txt" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/trackid_button_selector" android:id="@id/menu_trackid" android:visible="false" android:orderInCategory="1" android:title="@string/fmradio_strings_menu_track_id_txt" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/facebook_like_button_selector" android:id="@id/menu_facebook_like" android:visible="false" android:orderInCategory="2" android:title="@string/description_facebook_like" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/icn_action_power" android:id="@id/menu_toggle_power" android:orderInCategory="3" android:title="@string/description_power" android:showAsAction="always" />
+    <item android:id="@id/menu_rescan" android:orderInCategory="3" android:title="@string/fmradio_strings_menu_rescan_radio_stations_ics_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_play_in_speaker" android:orderInCategory="4" android:title="@string/fmradio_strings_menu_play_in_speaker_ics_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_play_in_headphones" android:orderInCategory="4" android:title="@string/fmradio_strings_menu_play_in_headphones_ics_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_play_in_mono" android:orderInCategory="5" android:title="@string/fmradio_strings_menu_play_in_mono_ics_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_play_in_stereo" android:orderInCategory="5" android:title="@string/fmradio_strings_menu_play_in_stereo_ics_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_select_region" android:orderInCategory="6" android:title="@string/fmradio_strings_menu_set_radio_region_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_visualizer" android:orderInCategory="7" android:title="@string/fmradio_strings_menu_visualizer_txt" android:showAsAction="never" />
+    <item android:id="@id/menu_debug_toggle_frequency_precision" android:visible="false" android:orderInCategory="8" android:title="Change nbr decimals" android:showAsAction="never" />
+</menu>

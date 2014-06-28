@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Þú munt ekki geta notað netið, tölvupóst eða önnur forrit sem krefjast gagnatengingar nema með WLAN. Slökkva á gagnatengingu?</string>
+    <string name="sip_call_options_wifi_only_title">Nota netsímtöl (aðeins WLAN)</string>
+    <string name="registration_status_no_wifi_data">Engin WLAN tenging. Ekki tókst að skrá reikning.</string>
+    <string name="no_wifi_available_title">Engin WLAN tenging</string>
+    <string name="no_wifi_available">Tengjast verður WLAN neti til að hringja netsímtöl (farðu í Stillingar > Þráðlaust net).</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Hintergrunddaten in Warteschlange</string>
+    <string name="auto_sync_text">Autosync</string>
+    <string name="wifi_poor_network_detection">Schlechte Verbindungen vermeiden</string>
+    <string name="wifi_tether_settings_text">Einstellungen für den mobilen WLAN-Hotspot</string>
+    <string name="stamina_xssm_add_applications_title">Im Standby-Modus aktive Apps</string>
+    <string name="auto_hide_notifications_title">Angezeigte Benachrichtigungen entfernen</string>
+</resources>

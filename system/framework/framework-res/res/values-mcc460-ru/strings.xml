@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">"Разрешает приложению получать данные о вашем точном местоположении с помощью GPS, вышек сотовой связи и сетей WLAN. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать.  Приложения могут использовать эту функцию для определения вашего местоположения. Это может вести к дополнительному расходу заряда аккумулятора."</string>
+    <string name="permdesc_accessCoarseLocation">Разрешает приложению получать данные о вашем примерном местоположении с помощью служб определения местоположения, использующих вышки сотовой связи и сети WLAN. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать. Приложения могут использовать эту функцию для определения вашего примерного местоположения.</string>
+    <string name="permlab_configureWifiDisplay">настраивать дисплеи WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Разрешает приложению подключаться к дисплеям WLAN и настраивать их.</string>
+    <string name="permlab_controlWifiDisplay">управлять дисплеями WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Разрешает приложению управлять низкоуровневыми функциями дисплеев WLAN.</string>
+    <string name="permlab_accessWifiState">Просмотр подключений WLAN</string>
+    <string name="permdesc_accessWifiState">Приложение сможет просматривать информацию о сети WLAN: состояние сети и имена подключенных устройств.</string>
+    <string name="permlab_changeWifiState">Подключение/отключение от сети WLAN</string>
+    <string name="permdesc_changeWifiState">Приложение сможет подключаться к точкам доступа WLAN и отключаться от них, а также изменять конфигурацию сетей WLAN на устройстве.</string>
+    <string name="permlab_changeWifiMulticastState">разрешить принимать многоадресный сигнал WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Приложение сможет получать пакеты, отправленные всем устройствам в сети WLAN (не только вашему телефону) в многоадресной рассылке. При этом расходуется больше энергии, чем в одноадресном режиме.</string>
+    <string name="wifi_available_sign_in">Подключение к сети WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Начать соединение WLAN Direct. Это приведет к выключению клиента/точки доступа WLAN.</string>
+    <string name="wifi_p2p_failed_message">Не удалось запустить WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct: включено</string>
+    <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети WLAN</string>
+    <string name="data_usage_wifi_limit_title">Передача данных через WLAN выключена</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Превышено ограничение для передачи данных через WLAN</string>
+    <string name="policylab_disableWifi">Запрещать доступ к WLAN</string>
+    <string name="policydesc_disableWifi">Запрет подключений WLAN на устройстве.</string>
+    <string name="wifi_disabled_notification_title">Подключение WLAN запрещено</string>
+    <string name="wifi_disabled_notification_message">"Использование WLAN запрещено политикой безопасности. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Роуминг WLAN активен</string>
+    <string name="ct_cplusw_notification_text">"Подключено к сети WLAN CT. Сведения: по тел. 10000 или в отделении CT.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Вы будете подключены к сети WLAN компании China Telecom. Для получения сведений о ценах на услуги обратитесь в центр обслуживания China Telecom. Продолжить?</string>
+    <string name="wifi_nonconcurrency_message">Запуск клиента WLAN. Подключение WLAN Direct будет прервано.</string>
+    <string name="wifi_noncuncurrency_message">Запуск клиента WLAN. Подключение WLAN Direct будет прервано.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Любое текущее подключение WLAN будет прервано</string>
+    <string name="wifi_p2p_nonconcurrency_message">Запуск WLAN Direct. Подключение WLAN будет прервано.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Любое текущее подключение WLAN будет прервано</string>
+    <string name="wifi_p2p_noncuncurrency_message">Запуск WLAN Direct. Подключение WLAN будет прервано.</string>
+    <string name="tethered_notification_message_wifi">Выключите Mobile HotSpot, чтобы снова включить WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN выключена</string>
+</resources>

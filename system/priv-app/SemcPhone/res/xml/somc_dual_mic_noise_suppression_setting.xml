@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <CheckBoxPreference android:persistent="true" android:title="@string/phone_string_noise_suppression_title" android:key="dual_mic_noise_suppression_listpreference_key" android:summary="@string/phone_string_noise_suppression_description" />
+</PreferenceScreen>

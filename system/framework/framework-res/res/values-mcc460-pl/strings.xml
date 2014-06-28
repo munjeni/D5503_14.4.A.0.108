@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Zezwala aplikacji na określanie dokładnej lokalizacji dzięki sygnałowi GPS lub źródłom lokalizacji sieciowej, takim jak wieże sieci komórkowych i sieci WLAN. Te usługi lokalizacyjne muszą być włączone i dostępne dla urządzenia, by aplikacja mogła z nich korzystać. Gdy to uprawnienie jest aktywne, aplikacje mogą określać Twoje położenie. Pamiętaj jednak, że telefon zużywa wtedy więcej energii.</string>
+    <string name="permdesc_accessCoarseLocation">Zezwala aplikacji na określanie przybliżonej lokalizacji. Jest ona odczytywana z usług lokalizacyjnych wykorzystujących źródła lokalizacji sieciowej, takie jak wieże sieci komórkowych i sieci WLAN. Te usługi lokalizacyjne muszą być włączone i dostępne dla urządzenia, by aplikacja mogła z nich korzystać. Gdy to uprawnienie jest aktywne, aplikacje mogą określać Twoje przybliżone położenie.</string>
+    <string name="permlab_configureWifiDisplay">konfigurowanie wyświetlaczy WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Zezwala aplikacji na konfigurację wyświetlaczy WLAN i łączenie z nimi.</string>
+    <string name="permlab_controlWifiDisplay">zarządzanie wyświetlaczami WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Zezwala aplikacji na zarządzanie niskopoziomowymi funkcjami wyświetlaczy WLAN.</string>
+    <string name="permlab_accessWifiState">wyświetlanie połączeń WLAN</string>
+    <string name="permdesc_accessWifiState">Pozwala aplikacji na dostęp do informacji o połączeniach WLAN — np. na sprawdzenie, czy obsługa WLAN jest włączona, oraz odczytanie nazw podłączonych urządzeń WLAN.</string>
+    <string name="permlab_changeWifiState">łączenie się i rozłączanie z siecią WLAN</string>
+    <string name="permdesc_changeWifiState">Pozwala aplikacji na nawiązywanie i kończenie połączeń z punktami dostępowymi WLAN oraz na zmienianie konfiguracji sieci WLAN w urządzeniu.</string>
+    <string name="permlab_changeWifiMulticastState">zezwolenie na odbiór grupowych połączeń WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Pozwala aplikacji na odbieranie pakietów wysyłanych przez sieć WLAN do wszystkich urządzeń, a nie tylko do Twojego telefonu, przy użyciu adresów połączeń grupowych. Powoduje większe zapotrzebowanie na energię niż w trybie innym niż grupowy.</string>
+    <string name="wifi_available_sign_in">Zaloguj się do sieci WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Nie można połączyć z siecią WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Uruchom funkcję WLAN Direct. Spowoduje to wyłączenie klienta lub hotspotu WLAN.</string>
+    <string name="wifi_p2p_failed_message">Nie można uruchomić funkcji WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">Funkcja WLAN Direct jest włączona</string>
+    <string name="wifi_p2p_frequency_conflict_message">Na czas połączenia z urządzeniem %1$s telefon zostanie tymczasowo odłączony od sieci WLAN.</string>
+    <string name="data_usage_wifi_limit_title">Wyłączono transmisję danych WLAN</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Przekroczono limit transmisji danych WLAN</string>
+    <string name="policylab_disableWifi">Wyłączanie dostępu do sieci WLAN</string>
+    <string name="policydesc_disableWifi">Uniemożliwianie nawiązywania połączeń WLAN na urządzeniu.</string>
+    <string name="wifi_disabled_notification_title">Połączenie WLAN jest ograniczone</string>
+    <string name="wifi_disabled_notification_message">"Zasady zabezpieczeń ograniczają używanie sieci WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming WLAN w toku</string>
+    <string name="ct_cplusw_notification_text">"Połączono z siecią WLAN CT. Inf. o faktur.: pod nrem 10000 lub u lokaln. przedst.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Połączono z China Telecom WLAN</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Zostanie nawiązane połączenie z siecią WLAN China Telecom. Aby uzyskać informacje o opłatach, skontaktuj się z działem obsługi klienta China Telecom. Kontynuować?</string>
+    <string name="wifi_nonconcurrency_message">Uruchom klienta WLAN. Spowoduje to rozłączenie funkcji WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Uruchom klienta WLAN. Spowoduje to rozłączenie funkcji WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Spowoduje to rozłączenie wszelkich istniejących połączeń WLAN</string>
+    <string name="wifi_p2p_nonconcurrency_message">Uruchom funkcję WLAN Direct. Spowoduje to rozłączenie połączenia WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Spowoduje to rozłączenie wszelkich istniejących połączeń WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Uruchom funkcję WLAN Direct. Spowoduje to rozłączenie połączenia WLAN.</string>
+    <string name="tethered_notification_message_wifi">Aby włączyć ponownie funkcję WLAN, wyłącz funkcję Mobile HotSpot</string>
+    <string name="tethered_notification_title_wifi">Funkcja WLAN jest wyłączona</string>
+</resources>

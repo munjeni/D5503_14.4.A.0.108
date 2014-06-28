@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/rightPanel" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="locale" android:layout_marginStart="@dimen/incall_screen_main_panel_width"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <RelativeLayout android:id="@id/pluginview_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="locale" />
+    <RelativeLayout android:layout_gravity="center" android:id="@id/inCallButtonPanel_and_endCall" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layoutDirection="locale">
+        <include layout="@layout/somc_incallscreen_buttonpanel" />
+    </RelativeLayout>
+    <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/incall_screen_solid_shadow_height_size" android:src="@android:drawable/semc_ab_solid_shadow_holo_light" android:scaleType="fitXY" android:layout_alignTop="@id/inCallButtonPanel_and_endCall" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/rightPanelHeader" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:background="@color/somc_call_layout_header_bg" android:layout_width="fill_parent" android:layout_height="@dimen/incall_screen_header_height" android:layoutDirection="locale" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/incall_screen_solid_shadow_height_size" android:src="@android:drawable/semc_ab_solid_shadow_holo_light" android:scaleType="fitXY" />
+    </LinearLayout>
+    <ImageView android:id="@id/rightPanelCover" android:background="@drawable/semc_bg_light" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/inCallButtonPanel_and_endCall" />
+    <ViewStub android:id="@id/twelve_key_dialer_stub" android:layout="@layout/somc_incall_dialpad" android:layout_width="@dimen/twelve_key_dialer_width_size" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/twelve_key_dialer_margin_bottom" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:orientation="vertical" android:id="@id/bluetoothAndSpeaker" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/incall_screen_route_sound_popup_margin_left" android:layout_marginBottom="@dimen/twelve_key_dialer_margin_bottom" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <include layout="@layout/somc_incallscreen_route_sound_popup_dialog" />
+    </RelativeLayout>
+</RelativeLayout>

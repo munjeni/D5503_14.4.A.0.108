@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">"Consente all'applicazione di ottenere la tua posizione esatta utilizzando il sistema GPS (Global Positioning System) o fonti di localizzazione delle reti come ripetitori di telefonia mobile e WLAN. Questi servizi di localizzazione devono essere attivi e disponibili sul dispositivo per poter essere utilizzati dall'applicazione. Le applicazioni potrebbero utilizzare questa autorizzazione per stabilire la tua posizione e potrebbero consumare ulteriore batteria."</string>
+    <string name="permdesc_accessCoarseLocation">"Consente all'applicazione di ottenere la tua posizione approssimativa. Questa posizione viene ottenuta da servizi di localizzazione utilizzando fonti di localizzazione delle reti come ripetitori di telefonia mobile e WLAN. Questi servizi di localizzazione devono essere attivi e disponibili sul dispositivo per poter essere utilizzati dall'applicazione. Le applicazioni potrebbero utilizzare questa autorizzazione per stabilire la tua posizione approssimativa."</string>
+    <string name="permlab_configureWifiDisplay">configurazione di schermi WLAN</string>
+    <string name="permdesc_configureWifiDisplay">"Consente all'applicazione di configurare schermi WLAN e di collegarsi a essi."</string>
+    <string name="permlab_controlWifiDisplay">controllo di schermi WLAN</string>
+    <string name="permdesc_controlWifiDisplay">"Consente all'applicazione di controllare le funzioni di basso livello di schermi WLAN."</string>
+    <string name="permlab_accessWifiState">visualizzazione connessioni WLAN</string>
+    <string name="permdesc_accessWifiState">"Consente all'applicazione di visualizzare informazioni sulle reti WLAN, ad esempio di rilevare se il WLAN è abilitato e il nome dei dispositivi WLAN connessi."</string>
+    <string name="permlab_changeWifiState">connessione e disconnessione dal WLAN</string>
+    <string name="permdesc_changeWifiState">"Consente all'applicazione di connettersi/disconnettersi da punti di accesso WLAN e di apportare modifiche alla configurazione del dispositivo per le reti WLAN."</string>
+    <string name="permlab_changeWifiMulticastState">consenti ricezione multicast WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">"Consente all'applicazione di ricevere pacchetti inviati a tutti i dispositivi su una rete WLAN utilizzando indirizzi multicast, non solo il tuo telefono. Viene consumata più batteria rispetto alla modalità non multicast."</string>
+    <string name="wifi_available_sign_in">Accedi a rete WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Impossibile connettersi alla rete WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Avvia WLAN Direct. Verrà disattivato il client/hotspot WLAN.</string>
+    <string name="wifi_p2p_failed_message">Avvio di WLAN Direct non riuscito</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct è attivo</string>
+    <string name="wifi_p2p_frequency_conflict_message">Il telefono verrà momentaneamente scollegato dalla rete WLAN durante il collegamento a %1$s.</string>
+    <string name="data_usage_wifi_limit_title">Dati WLAN disattivati</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Limite dati WLAN superato</string>
+    <string name="policylab_disableWifi">"Disabilita l'accesso al WLAN"</string>
+    <string name="policydesc_disableWifi">Impedire le connessioni WLAN sul dispositivo.</string>
+    <string name="wifi_disabled_notification_title">Connessione WLAN limitata</string>
+    <string name="wifi_disabled_notification_message">"Un criterio di sicurezza limita l'utilizzo del WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming WLAN in corso</string>
+    <string name="ct_cplusw_notification_text">"Rete WLAN CT connessa. Per la fatturaz. contattare 10000 o la sede locale.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN Telecom Cina connesso</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Sarà stabilita una connessione alla rete WLAN di Telecom Cina. Per i dettagli delle tariffe contattare il servizio di assistenza clienti di Telecom Cina. Procedere?</string>
+    <string name="wifi_nonconcurrency_message">Avvia il client WLAN. WLAN Direct sarà disconnesso.</string>
+    <string name="wifi_noncuncurrency_message">Avvia il client WLAN. WLAN Direct sarà disconnesso.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Tutte le connessioni WLAN saranno disconnesse</string>
+    <string name="wifi_p2p_nonconcurrency_message">Avvia WLAN Direct. La connessione WLAN sarà disconnessa.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">La connessione WLAN sarà disconnessa</string>
+    <string name="wifi_p2p_noncuncurrency_message">Avvia WLAN Direct. La connessione WLAN sarà disconnessa.</string>
+    <string name="tethered_notification_message_wifi">Disattiva Mobile HotSpot per riattivare il WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN disattivato</string>
+</resources>

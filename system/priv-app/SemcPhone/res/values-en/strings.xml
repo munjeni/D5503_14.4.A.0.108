@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_cfb_forbidden">Your operator does not support disabling call-forwarding when your phone is busy.</string>
+    <string name="disable_cfnry_forbidden">"Your service provider does not support disabling call forwarding when your phone isn't answered."</string>
+    <string name="clh_no_vm_number_msg_txt">No voicemail number is stored on the SIM card.</string>
+    <string name="clh_callFailed_cb_enabled_txt">You cannot make outgoing calls while call barring is on.</string>
+    <string name="clh_incall_error_power_off_txt">Turn off Airplane mode to place a call</string>
+    <string name="fdn_edit_failed">Could not add/edit fixed dialling contact. Check PIN2 or SIM card storage capacity.</string>
+    <string name="phone_string_noise_suppression_popup_enabled">Note that microphone noise suppression works only when you talk directly into the phone, not when you use the speaker or a headset.</string>
+    <string name="phone_strings_puk2_locked_txt">PUK2 locked. Contact operator to unlock.</string>
+    <string name="phone_strings_fdn_delete_fail_txt">Could not delete fixed dialling contact</string>
+    <string name="phone_string_equalizer_title_txt">Equaliser</string>
+    <string name="call_barring_settings">Call barring settings</string>
+    <string name="labelCallBarring">Call barring</string>
+    <string name="call_barring_deactivate_all_description">Deactivate all call barring settings</string>
+    <string name="call_barring_deactivate_success">Call barring deactivated</string>
+    <string name="call_barring_change_pwd_description">Change call barring password</string>
+    <string name="call_barring_right_pwd_number">Type a password with 4 numbers</string>
+    <string name="global_strings_attention_dialog_title_txt">Attention</string>
+    <string name="reject_with_message_contextual_incall">"I'm on another call at the moment, I'll call you back later."</string>
+    <string name="reject_with_message_preset_1_txt">"I'm busy at the moment, I'll call you back later."</string>
+    <string name="reject_with_message_preset_2_txt">"I'm on another call at the moment, I'll call you back later."</string>
+    <string name="reject_with_message_preset_3_txt">"I'm in a meeting at the moment, I'll call you back later."</string>
+    <string name="reject_with_message_preset_4_txt">"I'm driving at the moment, I'll call you back later."</string>
+    <string name="reject_with_message_preset_6_txt">"I'm eating at the moment, I'll call you back later."</string>
+    <string name="phone_strings_ans_mach_greeting_alert_memory_full_txt">Max. number of greetings saved.</string>
+    <string name="phone_strings_ans_mach_activate_dialog_txt">"Answering Machine differs from the voicemail service provided by your operator. This feature picks up incoming calls for you, plays your specified greeting and records callers' messages on your Xperia™.
+
+*Answering Machine is unavailable when the device is in flight mode or out of network coverage.
+*At least one greeting must be recorded before use."</string>
+    <string name="phone_strings_ans_mach_activate_dialog_preset_txt">"Answering Machine differs from the voicemail service provided by your operator. This feature picks up incoming calls for you, plays your specified greeting and records callers' messages on your Xperia™.
+
+*Answering Machine is unavailable when the device is in flight mode or out of network coverage."</string>
+    <string name="phone_strings_ans_mach_auto_answer_dialog_txt">Depending on the ringing time you specify here, your voicemail may pick up incoming calls before Answering Machine.</string>
+    <string name="phone_strings_ans_mach_roaming_dialog_txt">Please be aware that using Answering Machine abroad may result in substantial roaming charges.</string>
+    <string name="phone_strings_ans_mach_roaming_sub_txt">Use Answering Machine when travelling abroad</string>
+    <string name="phone_strings_ans_mach_reminder_notification_title_txt">Enable answering machine?</string>
+    <string name="phone_strings_ans_mach_reminder_notification_msg_txt">You have a missed call. Did you know that there is a built-in Answering Machine in your Xperia™? Tap here to enable it.</string>
+    <string name="contactsFavoritesLabel">Favourites</string>
+    <string name="emergencyDialerIconLabel">Emergency Dialler</string>
+    <string name="fdnListLabel">Fixed dialling numbers</string>
+    <string name="callFailed_timedOut">No response, timed out.</string>
+    <string name="callFailed_fdn_only">Number not in fixed dialling no list</string>
+    <string name="callFailed_cb_enabled">No outgoing calls. Call barring is on.</string>
+    <string name="mmiCancelled">MMI code cancelled</string>
+    <string name="enter_input" formatted="false">USSD message must be between %d and %d characters in length. Please try again.</string>
+    <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
+    <string name="enterPin">Type PIN to unlock SIM</string>
+    <string name="verifyNewPin">Enter new SIM PIN again</string>
+    <string name="verifyFailed">The SIM PINs you typed do not match. Please try again.</string>
+    <string name="enterPuk">Enter PUK to unlock SIM</string>
+    <string name="badPuk">Incorrect PUK code!</string>
+    <string name="requesting_nw_subset_unlock">Requesting network subset unlock…</string>
+    <string name="requesting_sp_unlock">Requesting service provider unlock…</string>
+    <string name="requesting_corporate_unlock">Requesting corporate unlock…</string>
+    <string name="requesting_rnw1_unlock">Requesting RUIM network1 unlock…</string>
+    <string name="requesting_rnw2_unlock">Requesting RUIM network2 unlock…</string>
+    <string name="requesting_rhrpd_unlock">Requesting RUIM HRPD unlock…</string>
+    <string name="requesting_rsp_unlock">Requesting RUIM Service Provider unlock…</string>
+    <string name="requesting_rc_unlock">Requesting RUIM Corporate unlock…</string>
+    <string name="requesting_ruim_unlock">Requesting RUIM unlock…</string>
+    <string name="requesting_puk_unlock">Requesting PUK unlock…</string>
+    <string name="sp_unlock_failed">Service Provider unlock request unsuccessful.</string>
+    <string name="sp_unlock_success">Service Provider unlock successful.</string>
+    <string name="networks">Network operators</string>
+    <string name="sum_gsm_call_settings">More GSM only call settings</string>
+    <string name="sum_cdma_call_settings">More CDMA only call settings</string>
+    <string name="sum_default_caller_id">Use default operator settings to display my number in outgoing calls</string>
+    <string name="call_forwarding_settings">Call forwarding settings</string>
+    <string name="fdn_check_failure">Fixed dialling numbers setting is turned on. Some call-related features may not work.</string>
+    <string name="register_on_network">Registering on %s…</string>
+    <string name="not_allowed">Could not connect to the selected network. Make sure that the SIM card is inserted or the selected network is available.</string>
+    <string name="sum_carrier_select">Select a network operator</string>
+    <string name="throttle_settings_title">Operator data policy</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s period maximum
+Next period starts in %4$ddays (%5$s)"</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded
+Data rate reduced to %2$dKb/s"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
+Next period starts in %2$ddays (%3$s)"</string>
+    <string name="throttle_help_subtext">"More information about your operator's mobile network data use policy"</string>
+    <string name="cdma_roaming_mode_summary">Change CDMA roaming mode</string>
+    <string name="fdn">Fixed dialling numbers</string>
+    <string name="manage_fdn_list">Fixed dialling numbers</string>
+    <string name="fdn_activation">Activate fixed dialling</string>
+    <string name="fdn_enabled">Fixed dialling activated</string>
+    <string name="fdn_disabled">Fixed dialling deactivated</string>
+    <string name="enable_fdn">Activate fixed dialling</string>
+    <string name="disable_fdn">Deactivate fixed dialling</string>
+    <string name="enable_fdn_ok">Deactivate fixed dialling</string>
+    <string name="disable_fdn_ok">Activate fixed dialling</string>
+    <string name="sum_fdn">Manage fixed dialling numbers</string>
+    <string name="sum_fdn_change_pin">Change PIN for fixed dialling access</string>
+    <string name="add_fdn_contact">Add fixed dialling contact</string>
+    <string name="adding_fdn_contact">Adding fixed dialling contact</string>
+    <string name="fdn_contact_added">Fixed dialling contact added</string>
+    <string name="edit_fdn_contact">Edit fixed dialling contact</string>
+    <string name="updating_fdn_contact">Updating fixed dialling contact</string>
+    <string name="fdn_contact_updated">Fixed dialling contact updated</string>
+    <string name="delete_fdn_contact">Delete fixed dialling contact</string>
+    <string name="deleting_fdn_contact">Deleting fixed dialling contact</string>
+    <string name="fdn_contact_deleted">Fixed dialling contact deleted</string>
+    <string name="pin_failed">The PIN you typed was incorrect</string>
+    <string name="badPuk2">The PUK2 you typed is not correct. Please try again.</string>
+    <string name="badPin2">The old PIN2 you typed is not correct. Please try again.</string>
+    <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
+    <string name="invalidPuk2">Type a PUK2 that is 8 numbers.</string>
+    <string name="label_puk2_code">Type PUK2 code</string>
+    <string name="card_title_dialing">Dialling</string>
+    <string name="incall_error_power_off">To place a call, first turn off Airplane mode.</string>
+    <string name="managed_roaming_title">Managed roaming</string>
+    <string name="ota_successful">Your phone is now activated. It may take up to 15 minutes for service to start.</string>
+    <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Add one now?</string>
+    <string name="third_party_account_summary">In use by: %s</string>
+    <string name="empty_alert">%s Required field, cannot be empty.</string>
+</resources>

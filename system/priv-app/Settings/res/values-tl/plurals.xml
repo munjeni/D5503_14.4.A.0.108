@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d araw</item>
+        <item quantity="one">%d araw</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d oras</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d (na) hakbang na lang ang layo mo mula sa pagiging isang developer.</item>
+        <item quantity="one">%1$d (na) hakbang na lang ang layo mo mula sa pagiging isang developer.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) titik</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) lowercase na titik</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 lowercase na titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) uppercase na titik</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 uppercase na titik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) numerong digit</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 numerong digit</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) espesyal na simbolo</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 espesyal na simbolo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Dapat na maglaman ang password ng hindi bababa sa %d (na) hindi titik na charcter</item>
+        <item quantity="one">Dapat na maglaman ang password ng hindi bababa sa 1 hindi titik na charcter</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d (na) apps ang makakapagbasa ng mga notification</item>
+        <item quantity="one">%d app ang makakapagbasa ng mga notification</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Maling PIN code ng SIM, mayroon kang %d (na) natitirang pagsubok.</item>
+        <item quantity="one">Maling PIN code ng SIM, mayroon kang %d (na) natitirang pagsubok bago ka dapat makipag-ugnayan sa iyong carrier upang i-unlock ang iyong device.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Nakakita ng %1$s (na) printer</item>
+        <item quantity="one">Nakakita ng %1$s printer</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d (na) apps ang kasalukuyang nasa listahan</item>
+        <item quantity="one">%1$d app ang kasalukuyang nasa listahan</item>
+    </plurals>
+</resources>

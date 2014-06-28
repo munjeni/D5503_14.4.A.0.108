@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Saat layar dimatikan, WLAN dan data seluler akan dinonaktifkan untuk sementara, dan sebagian besar aplikasi akan nonaktif. Anda masih tetap bisa menerima panggilan telepon, pesan SMS/MMS serta pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM akan tetap bekerja, dan unduhan serta unggahan yang sedang berlangsung akan dibiarkan berjalan hingga selesai. 
+
+
+
+Ketika layar dihidupkan, perangkat Anda akan berfungsi normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Jika layar mati, WLAN dan data seluler akan dinonaktifkan sementara, dan sebagian besar aplikasi akan menjadi tidak aktif. Anda tetap akan menerima pesan SMS/MMS, pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM akan bekerja, dan unduhan dan unggahan yang sedang berjalan akan dibiarkan hingga selesai.
+
+Jika layar aktif, perangkat Anda akan berfungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Jika layar mati, WLAN akan dinonaktifkan sementara, dan sebagian besar aplikasi akan menjadi tidak aktif. Anda tetap akan menerima pemberitahuan kalender Sony™ dan sinyal alarm Sony™. Pemutar musik dan radio FM tetap bisa bekerja, dan unduhan dan unggahan yang sedang berjalan akan dibiarkan sampai selesai.
+
+Jika layar hidup, perangkat Anda akan berfungsi normal."</string>
+    <string name="notification_descr_ps">Modus baterai lemah dapat memperpanjang daya baterai misalnya dengan cara mematikan WLAN atau mengurangi kecerahan layar saat baterai lemah.</string>
+    <string name="notification_text_lbw">Aktifkan WLAN berbasis lokasi</string>
+    <string name="notification_descr_lbw">WLAN menyala tapi tidak sedang digunakan. Hemat daya dengan mengaktifkan WLAN berdasarkan lokasi.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN sudah aktif tetapi tidak digunakan untuk sementara waktu. Anda dapat menghemat daya dengan mengaktifkan WLAN berbasis Lokasi. Persiapkan WLAN berbasis lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Modus baterai lemah dapat memperpanjang masa baterai dengan misalnya mematikan WLAN atau mengurangi kecerahan layar saat baterailemah. Persiapkan modus baterai Lemah?</string>
+</resources>

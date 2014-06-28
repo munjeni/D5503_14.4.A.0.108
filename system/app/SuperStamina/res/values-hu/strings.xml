@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Öko mód vezérlő</string>
+    <string name="dont_ask_me_again_txt">Ne kérdezzen újra</string>
+    <string name="description_msg_txt">"A képernyő kikapcsolásakor a Wi-Fi és a mobilhálózati adatok ideiglenesen letiltottak, és a legtöbb alkalmazás inaktív lesz. Továbbra is fogad viszont telefonhívásokat, SMS/MMS-üzeneteket, valamint Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió nem működik, a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"A képernyő kikapcsolásakor a WiFi és a mobilhálózati adatok ideiglenesen letiltottak, és a legtöbb alkalmazás inaktív lesz. Továbbra is fogad viszont SMS/MMS-üzeneteket, Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió működik, és a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+
+A képernyő bekapcsolásakor az eszköz rendesen működik."</string>
+    <string name="description_msg_no_telephony_txt">"A képernyő kikapcsolásakor a Wi-Fi ideiglenesen letiltott, a legtöbb alkalmazás pedig inaktív lesz. Továbbra is fogad viszont Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió működik, és a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+
+A képernyő bekapcsolásakor az eszköz rendesen működik."</string>
+    <string name="description_title_txt">Megjegyzés!</string>
+    <string name="low_battery_mode_description_msg_txt">"Engedélyezze a Merülő akku módot az energiát fogyasztó funkciók és beállítások kikapcsolásához, amikor az akkumulátor töltöttsége egy előre megadott szint alá esik. A beállítások módosításához koppintson a Merülő akku mód elemre.
+"</string>
+    <string name="activate_txt">Aktiválás</string>
+    <string name="cancel_txt">Mégse</string>
+    <string name="xssm_blocker_detector_title">Energiagazdálkodási tipp</string>
+    <string name="xssm_blocker_detector_msg">%s megakadályozza, hogy a STAMINA üzemmód készenléti állapotban kevesebb energiát használjon</string>
+    <string name="xssm_blocker_detector_long_msg">Ha gyakran használja ezt az alkalmazást, hagyja figyelmen kívül ezt a figyelmeztetést. Ha nem, távolítsa el vagy zárja be az alkalmazást.</string>
+    <string name="xssm_blocker_detector_ignore">Rendben. Ne jelenjen meg újra.</string>
+    <string name="network_detector_msg">A(z) %s adatokat küld és fogad, miközben a képernyő ki van kapcsolva, így az akkumulátor gyorsabban lemerül.</string>
+    <string name="network_detector_long_msg">Az eltávolítása javíthatja az eszköz teljesítményét, és növeli az akkumulátor üzemidejét.</string>
+    <string name="wakelock_detector_msg">A(z) %s néhány hete nem volt használva.</string>
+    <string name="wakelock_detector_long_msg">Ez felébresztheti az eszközt a készenléti üzemmódból. Az eltávolítása javíthatja az eszköz teljesítményét, és növeli az akkumulátor üzemidejét.</string>
+    <string name="notification_title_xssm">Energiagazdálkodási tipp</string>
+    <string name="notification_text_xssm">STAMINA üzemmód aktiválása</string>
+    <string name="notification_descr_xssm">Eszköze gyakran készenléti állapotban van. Az akkumulátor üzemidejét megnövelheti a STAMINA üzemmód aktiválásával.</string>
+    <string name="notification_dont_show_again">Rendben. Ne jelenjen meg újra.</string>
+    <string name="notification_title_ps">Energiagazdálkodási tipp</string>
+    <string name="notification_text_ps">Merülő akku mód aktiválása</string>
+    <string name="notification_descr_ps">A Merülő akku mód megnövelheti az akkumulátor üzemidejét, ha alacsony töltöttség esetén lekapcsolja a Wi-Fi-t vagy csökkenti a képernyő fényerejét.</string>
+    <string name="notification_title_lbw">Energiagazdálkodási tipp</string>
+    <string name="notification_text_lbw">Helyalapú WiFi aktiválása</string>
+    <string name="notification_descr_lbw">A WiFi be van kapcsolva, de egy ideje már nincs használatban. A helyalapú WiFi aktiválásával energiát takaríthat meg.</string>
+    <string name="unused_application_title">Energiagazdálkodási tipp</string>
+    <string name="unused_application_msg">A(z) %s egy ideje nincs használatban</string>
+    <string name="unused_application_long_msg">Ha meg szeretné tartani ezt az alkalmazást, hagyja figyelmen kívül ezt az üzenetet. Ellenkező esetben távolítsa el az alkalmazást.</string>
+    <string name="unused_application_ignore">Rendben. Ne jelenjen meg újra.</string>
+    <string name="drain_dialog_title_txt">Az akkumulátor nem tölt</string>
+    <string name="drain_dialog_text_usb_txt">A csatlakoztatott áramforrás nem elegendő. Az akkumulátor gyorsabban merül le, mint ahogyan töltődik. Váltson AC-töltőre.</string>
+    <string name="drain_dialog_text_wallcharger_txt">A csatlakoztatott áramforrás nem elegendő. Az akkumulátor gyorsabban merül le, mint ahogyan töltődik. Csökkentse az eszköz használatát, amíg a töltés folyamatban van.</string>
+    <string name="extend_battery_tip_dialog_headar">Energiagazdálkodási tipp</string>
+    <string name="location_based_wifi_tip_dialog">A Wi-Fi be van kapcsolva, de egy ideje nem használja. Energiát takaríthat meg, ha bekapcsolja a helyalapú Wi-Fi-t. Beállítja a helyalapú Wi-Fi-t?</string>
+    <string name="low_battery_mode_tip_dialog">A Merülő akku mód megnövelheti az akkumulátor üzemidejét, ha alacsony töltöttség esetén lekapcsolja a Wi-Fi-t vagy csökkenti a képernyő fényerejét. Beállítja a Merülő akku módot?</string>
+    <string name="stamina_mode_tip_dialog">Eszköze gyakran készenléti állapotban van. Az akkumulátor üzemidejét megnövelheti a STAMINA üzemmód aktiválásával. Beállítja a STAMINA üzemmódot?</string>
+    <string name="bad_app_notification">A következő alkalmazás lemeríti az akkut:</string>
+    <string name="bad_standby_app_dialog">A(z) %s megakadályozza, hogy a STAMINA üzemmód készenléti módban energiát takarítson meg. Ha gyakran használja ezt az alkalmazást, hagyja figyelmen kívül ezt a figyelmeztetést. Ha nem, koppintson az Alkalmazásadatok gombra, és távolítsa el vagy állítsa le az alkalmazást.</string>
+    <string name="ignore_dialog_action">Mellőzés</string>
+    <string name="app_info_dialog_action">Alkalmazásadatok</string>
+    <string name="stamina_activation_notification">STAMINA üzemmód aktiválva</string>
+    <string name="lowbattery_trigger_level_notification">Az akkumulátorszint %d%% alatt van</string>
+    <string name="lowbattery_activated_notification">Merülő akku mód aktiválva</string>
+    <string name="app_not_used_notification">Az alkalmazás nincs használatban egy ideje:</string>
+    <string name="app_not_used_tip_dialog">A(z) %s nincs használatban egy ideje. Javasoljuk, hogy energiatakarékosság céljából távolítsa el az alkalmazást.</string>
+    <string name="no_action_dialog">Nem</string>
+    <string name="yes_action_dialog">Igen</string>
+    <string name="widget_remaining_battery_time">Az akkumulátor becsült üzemideje</string>
+    <string name="widget_name">STAMINA üzemmód</string>
+</resources>

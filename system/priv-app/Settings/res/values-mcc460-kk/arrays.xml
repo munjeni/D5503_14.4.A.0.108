@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Шамамен алынған орын</item>
+        <item>Дәл орын</item>
+        <item>GPS</item>
+        <item>Дірілдеу</item>
+        <item>Контактілерді оқу</item>
+        <item>Контактілерді өзгерту</item>
+        <item>Қоңыраулар журналын оқу</item>
+        <item>Қоңыраулар журналын өзгерту</item>
+        <item>Күнтізбені оқу</item>
+        <item>Күнтізбені өзгерту</item>
+        <item>WLAN тексеру</item>
+        <item>Хабарландыру</item>
+        <item>Ұялы телефондарды тексеру</item>
+        <item>Телефонға қоңырау шалу</item>
+        <item>SMS оқу</item>
+        <item>SMS жазу</item>
+        <item>SMS алу</item>
+        <item>Жедел SMS алу</item>
+        <item>MMS алу</item>
+        <item>WAP push хабарландыруларын алу</item>
+        <item>SMS жіберу</item>
+        <item>ICC SMS оқу</item>
+        <item>ICC SMS жазу</item>
+        <item>Параметрлерді өзгерту</item>
+        <item>Үстінде салу</item>
+        <item>Қатынасу туралы хабарландырулар</item>
+        <item>Камера</item>
+        <item>Дыбысты жазу</item>
+        <item>Дыбысты ойнату</item>
+        <item>Буферді оқу</item>
+        <item>Буферді өзгерту</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Орын</item>
+        <item>Орын</item>
+        <item>Орын</item>
+        <item>Дірілдеу</item>
+        <item>Контактілерді оқу</item>
+        <item>Контактілерді өзгерту</item>
+        <item>Қоңыраулар журналын оқу</item>
+        <item>Қоңыраулар журналын өзгерту</item>
+        <item>Күнтізбені оқу</item>
+        <item>Күнтізбені өзгерту</item>
+        <item>Орын</item>
+        <item>Хабарландыру жіберу</item>
+        <item>Орын</item>
+        <item>Телефонға қоңырау шалу</item>
+        <item>SMS/MMS оқу</item>
+        <item>SMS/MMS жазу</item>
+        <item>SMS/MMS алу</item>
+        <item>SMS/MMS алу</item>
+        <item>SMS/MMS алу</item>
+        <item>SMS/MMS алу</item>
+        <item>SMS/MMS жіберу</item>
+        <item>SMS/MMS оқу</item>
+        <item>SMS/MMS жазу</item>
+        <item>Параметрлерді өзгерту</item>
+        <item>Үстінде салу</item>
+        <item>Қатынасу туралы хабарландырулар</item>
+        <item>Камера</item>
+        <item>Дыбысты жазу</item>
+        <item>Дыбысты ойнату</item>
+        <item>Буферді оқу</item>
+        <item>Буферді өзгерту</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

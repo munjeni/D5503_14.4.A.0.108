@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/phone_strings_ans_mach_greetings_title_txt"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <PreferenceScreen android:persistent="false" android:title="@string/phone_strings_ans_mach_greeting_record_new_txt" android:key="key_am_record_new_greeting">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.am.SomcAmRecordGreetingActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

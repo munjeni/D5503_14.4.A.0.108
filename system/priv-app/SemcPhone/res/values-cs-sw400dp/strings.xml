@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Účastníci konferenčního hovoru</string>
+    <string name="add_fdn_contact">Přidat kontakt pro pevné vytáčení</string>
+    <string name="delete_fdn_contact">Odstranit kontakt pro pevné vytáčení</string>
+</resources>

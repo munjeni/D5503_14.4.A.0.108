@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Gawan jaringan</item>
+        <item>Dhelikake nomer</item>
+        <item>Tuduhake nomer</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Mung EvDo</item>
+        <item>CDMA tanpa EvDo</item>
+        <item>CDMA/EvDo otomatis</item>
+        <item>GSM/WCDMA otomatis</item>
+        <item>Mung WCDMA</item>
+        <item>Mung GSM</item>
+        <item>GSM/WCDMA preferensi</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inggris</item>
+        <item>Prancis</item>
+        <item>Spanyol</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+        <item>China</item>
+        <item>Ibrani</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (mode otom.)</item>
+        <item>Mung WCDMA</item>
+        <item>Mung GSM</item>
+        <item>GSM/WCDMA (WCDMA pref.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Mung asal</item>
+        <item>Otomatis</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Mung Jaringan Asal</item>
+        <item>Jaringan Afiliasi</item>
+        <item>Sembarang Jaringan</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Mung CDMA</item>
+        <item>Mung EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY OFF</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Suwe</item>
+    </string-array>
+</resources>

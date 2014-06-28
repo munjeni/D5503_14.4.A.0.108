@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_xssm_add_applications_title">Aplikasi aktif saat siaga</string>
+    <string name="auto_hide_notifications_title">Hapus pemberitahuan sudah dilihat</string>
+</resources>

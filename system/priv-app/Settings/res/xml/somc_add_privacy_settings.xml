@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="settingsreset" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.settings.reset" android:targetClass="com.sonymobile.settings.reset.MasterReset" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

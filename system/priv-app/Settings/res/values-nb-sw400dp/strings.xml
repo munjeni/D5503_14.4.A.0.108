@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_settings_text">Innstillinger for flyttbart Wi-Fi-tilkoblingspunkt</string>
+    <string name="auto_hide_notifications_title">Fjern viste varsler</string>
+</resources>

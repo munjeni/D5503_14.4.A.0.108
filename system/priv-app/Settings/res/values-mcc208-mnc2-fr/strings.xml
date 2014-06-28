@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nfc_quick_toggle_summary">Utiliser le NFC pour lire des tags et utiliser les services Cityzi</string>
+</resources>

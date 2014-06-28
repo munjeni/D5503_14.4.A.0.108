@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="true" android:title="@string/phone_string_speaker_voice_enhancement_title_txt" android:key="speaker_voice_enhancement_listpreference_key" android:summary="@string/phone_string_speaker_voice_enhancement_summary_txt" />
+</PreferenceScreen>

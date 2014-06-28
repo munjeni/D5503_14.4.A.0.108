@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Поставяне на фоновите данни в опашка</string>
+    <string name="auto_sync_text">Автоматично синхронизиране</string>
+    <string name="wifi_tether_settings_text">Настройки на преносимата Wi-Fi точка за достъп</string>
+    <string name="stamina_xssm_add_applications_title">Активни приложения в режим на готовност</string>
+    <string name="auto_hide_notifications_title">Изчистване на прегледаните известия</string>
+</resources>

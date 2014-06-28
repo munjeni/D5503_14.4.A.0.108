@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Permite a la aplicación obtener tu ubicación precisa mediante el Sistema de Posicionamiento Global (GPS) o las fuentes de ubicación de red, como las torres de celulares y WLAN. Estos servicios de ubicación deben estar encendidos y disponibles en tu dispositivo para que los use la aplicación. Las aplicaciones pueden usarlo para determinar tu ubicación, lo cual puede consumir más batería.</string>
+    <string name="permdesc_accessCoarseLocation">Permite a la aplicación obtener tu ubicación aproximada. Esta ubicación deriva de los servicios de ubicación que usan fuentes de ubicación de red, como torres de celulares y WLAN. Estos servicios de ubicación deben estar encendidos y disponibles en tu dispositivo para que los use la aplicación. Las aplicaciones pueden usarlo para determinar tu ubicación aproximada.</string>
+    <string name="permlab_configureWifiDisplay">configurar pantallas WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Permite que la aplicación configure y se conecte a pantallas WLAN.</string>
+    <string name="permlab_controlWifiDisplay">controlar pantallas WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Permite que la aplicación controle funciones de bajo nivel de las pantallas WLAN.</string>
+    <string name="permlab_accessWifiState">ver conexiones WLAN</string>
+    <string name="permdesc_accessWifiState">Permite que la aplicación vea información sobre la conexión a redes WLAN, por ejemplo, si la conexión WLAN está activada y cuál es el nombre de los dispositivos WLAN conectados.</string>
+    <string name="permlab_changeWifiState">conectarse y desconectarse de la red WLAN</string>
+    <string name="permdesc_changeWifiState">Permite que la aplicación se conecte a puntos de acceso WLAN y se desconecte de ellos, y que realice modificaciones en la configuración de las redes WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">permitir recepción de multidifusión WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos de una red WLAN que utilicen direcciones de multidifusión, no solo a tu dispositivo. Utiliza más batería que el modo que no es de multidifusión.</string>
+    <string name="wifi_available_sign_in">Accede a una red WLAN.</string>
+    <string name="wifi_watchdog_network_disabled">No se pudo conectar a la red WLAN.</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Iniciar WLAN Direct. Se desactivará el funcionamiento de la zona o del cliente WLAN.</string>
+    <string name="wifi_p2p_failed_message">No se pudo iniciar WLAN Direct.</string>
+    <string name="wifi_p2p_enabled_notification_title">Se activó WLAN Direct.</string>
+    <string name="wifi_p2p_frequency_conflict_message">El dispositivo se desconectará temporalmente de la red WLAN mientras esté conectado a %1$s.</string>
+    <string name="data_usage_wifi_limit_title">Datos WLAN desactivados</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Límite de datos WLAN superado</string>
+</resources>

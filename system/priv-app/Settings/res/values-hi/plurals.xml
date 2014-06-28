@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटा</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">अब आप डेवलपर बनने से %1$d चरण दूर हैं.</item>
+        <item quantity="one">अब आप डेवलपर बनने से %1$d चरण दूर हैं</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">पासवर्ड में कम से कम %d अक्षर होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 अक्षर होना चाहिए</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">पासवर्ड में कम से कम %d छोटे अक्षर होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 छोटा अक्षर होना चाहिए</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">पासवर्ड में कम से कम %d बड़े अक्षर होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 बड़ा अक्षर होना चाहिए</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">पासवर्ड में कम से कम %d संख्यात्मक वर्ण होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 संख्यात्मक अंक होना चाहिए</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">पासवर्ड में कम से कम %d विशेष प्रतीक होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 विशेष प्रतीक होना चाहिए</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">पासवर्ड में कम से कम %d गैर-अक्षर वर्ण होने चाहिए</item>
+        <item quantity="one">पासवर्ड में कम से कम 1 गैर-अक्षर वर्ण होना चाहिए</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d एप्लिकेशन, सूचनाओं को पढ़ सकते हैं</item>
+        <item quantity="one">%d एप्लिकेशन, सूचनाओं को पढ़ सकता है</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">गलत सिम PIN कोड, आपके पास %d प्रयत्न शेष हैं.</item>
+        <item quantity="one">गलत सिम PIN कोड, अपने डिवाइस को अनलॉक करने के लिए अपने वाहक से संपर्क करने से पहले आपके पास %d प्रयत्न शेष हैं.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s प्रिंटर मिले</item>
+        <item quantity="one">%1$s प्रिंटर मिला</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d वर्तमान में अनुप्रयोग सूची में हैं</item>
+        <item quantity="one">%1$d वर्तमान में अनुप्रयोग सूची में है</item>
+    </plurals>
+</resources>

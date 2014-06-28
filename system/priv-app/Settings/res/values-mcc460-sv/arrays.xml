@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ungefärlig plats</item>
+        <item>exakt plats</item>
+        <item>GPS</item>
+        <item>vibration</item>
+        <item>läsa kontakter</item>
+        <item>ändra kontakter</item>
+        <item>läsa samtalslogg</item>
+        <item>ändra samtalslogg</item>
+        <item>läsa kalender</item>
+        <item>ändra kalender</item>
+        <item>WLAN-skanning</item>
+        <item>meddelande</item>
+        <item>mobilskanning</item>
+        <item>ringa samtal</item>
+        <item>läsa SMS</item>
+        <item>skriva SMS</item>
+        <item>ta emot SMS</item>
+        <item>ta emot nöd-SMS</item>
+        <item>ta emot MMS</item>
+        <item>ta emot WAP-push</item>
+        <item>skicka SMS</item>
+        <item>läsa ICC-SMS</item>
+        <item>skriva ICC-SMS</item>
+        <item>ändra inställningar</item>
+        <item>Rita högst upp</item>
+        <item>få åtkomst till meddelanden</item>
+        <item>kamera</item>
+        <item>spela in ljud</item>
+        <item>spela upp ljud</item>
+        <item>läs Urklipp</item>
+        <item>ändra Urklipp</item>
+        <item>medieknappar</item>
+        <item>ljudinställning</item>
+        <item>mastervolym</item>
+        <item>röstvolym</item>
+        <item>ringvolym</item>
+        <item>medievolym</item>
+        <item>alarmvolym</item>
+        <item>meddelandevolym</item>
+        <item>bluetooth-volym</item>
+        <item>behåll aktiv</item>
+        <item>övervaka plats</item>
+        <item>övervaka batterikrävande plats</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Plats</item>
+        <item>Plats</item>
+        <item>Plats</item>
+        <item>Vibrera</item>
+        <item>Läsa kontakter</item>
+        <item>Ändra kontakter</item>
+        <item>Läsa samtalslogg</item>
+        <item>Ändra samtalslogg</item>
+        <item>Läsa kalender</item>
+        <item>Ändra kalender</item>
+        <item>Plats</item>
+        <item>Lägga upp meddelande</item>
+        <item>Plats</item>
+        <item>Ringa samtal</item>
+        <item>Läs SMS/MMS</item>
+        <item>Skriv SMS/MMS</item>
+        <item>Ta emot SMS/MMS</item>
+        <item>Ta emot SMS/MMS</item>
+        <item>Ta emot SMS/MMS</item>
+        <item>Ta emot SMS/MMS</item>
+        <item>Skicka SMS/MMS</item>
+        <item>Läs SMS/MMS</item>
+        <item>Skriv SMS/MMS</item>
+        <item>Ändra inställningar</item>
+        <item>Rita högst upp</item>
+        <item>Få åtkomst till meddelanden</item>
+        <item>Kamera</item>
+        <item>Spela in ljud</item>
+        <item>Spela upp ljud</item>
+        <item>Läsa Urklipp</item>
+        <item>Ändra Urklipp</item>
+        <item>Medieknappar</item>
+        <item>Ljudinställning</item>
+        <item>Huvudvolym</item>
+        <item>Röstvolym</item>
+        <item>Ringvolym</item>
+        <item>Medievolym</item>
+        <item>Alarmvolym</item>
+        <item>Meddelandevolym</item>
+        <item>Bluetooth-volym</item>
+        <item>Behåll aktiv</item>
+        <item>Plats</item>
+        <item>Plats</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

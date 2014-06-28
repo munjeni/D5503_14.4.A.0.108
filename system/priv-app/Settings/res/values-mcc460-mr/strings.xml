@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA मोड मध्ये खालील गोष्टींचा समावेश होतो:
+
+• विस्तारित राखीव
+पडदा बंद असताना WLAN आणि मोबाईल डेटा तात्पुरता निष्क्रिय करून वीज बचतीचे कार्य करतो. बहुतांश अनुप्रयोग निष्क्रिय राहतील.
+स्क्रीन चालू झाल्यावर, आपले उपकरण सामान्यपणे कार्य करेल.
+विस्तारित राखीव चालू असताना आपल्याला जर काही अनुप्रयोग सक्रिय ठेवायचे असतील तर, त्यांना राखीव मध्ये सक्रिय अनुप्रयोग यादीमध्ये सामील करा.
+
+• विस्तारित वापर
+आपले उपकरण वापरात असताना हार्डवेअर कामगिरीवर निर्बंध घालून वीजबचत करतो.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA मोड म्हणजे काय?</u>"
+STAMINA मोड हे Sony™ वीज बचत कार्य आहे. हे कार्य, स्क्रीन बंद असताना कार्यक्षमता अक्षम करून बॅटरी जीवनकाल वाढवते.
+
+"<u>मूलभूत वापर</u>"
+STAMINA मोड सक्रिय करण्यासाठी, पुढील स्क्रीन वरील स्विच ऑन बटण वापरा.
+जेव्हा स्क्रीन बंद असेल, तेव्हा बॅटरीची बचत करण्यासाठी सर्व नेटवर्क डेटा तात्पुरता अक्षम केला जाईल, आणि आपले बहुतांशी अनुप्रयोग निष्क्रिय राहतील.
+स्क्रीन चालू झाल्यावर, आपले उपकरण सामान्यपणे कार्य करेल.
+
+"<u>प्रगत वापर</u>"
+स्क्रीन बंद असताना आपल्याला जर काही अनुप्रयोग सक्रिय ठेवायचे असतील तर, त्यांना APPS ACTIVE IN STANDBY यादीमध्ये जोडा.
+
+"<u>सूचना</u>"
+काही अनुप्रयोग राखीव मध्ये अक्षम केल्यास कदाचित योग्य पद्धतीने काम करणार नाहीत. जर एखादा अनुप्रयोग योग्य पद्धतीने काम करत नसेल तर, त्यास APPS ACTIVE IN STANDBY यादीमध्ये जोडा, किंवा जर याद्वारे काम झाले नाही तर, STAMINA मोड निष्क्रिय करा."</string>
+    <string name="location_based_wi_fi_label">स्थान-आधारित WLAN</string>
+    <string name="location_based_wi_fi_descr">WLAN नेटवर्कच्या जतन केलेल्या सीमेमध्ये असताना WLAN स्वयंचलितरीत्या सक्रिय केले जाते</string>
+    <string name="powersaver_feature_wifi">WLAN बंद</string>
+    <string name="install_wapi_certs">WLAN प्रमाणपत्र इनस्टॉल करा</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, ब्लूटूथ, एयरप्लेन मोड, मोबाईल नेटवर्क्स आणि VPNs यांचे व्यवस्थापन करा</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN चालू करा</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN सेटिंग्ज</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN निवडा</string>
+    <string name="wifi_starting">WLAN चालू करत आहे…</string>
+    <string name="wifi_stopping">WLAN बंद करत आहे…</string>
+    <string name="wifi_poor_network_detection_summary">"चांगली इंटरनेट जोडणी असल्याशिवाय,  WLAN नेटवर्क वापरू नका"</string>
+    <string name="wifi_scan_always_available_summary">जरी WLAN बंद आहे, तरीही नेटवर्कसाठी Google ची स्थान सेवा आणि इतर अनुप्रयोग स्कॅन करूयात.</string>
+    <string name="wifi_scan_notify_text_location_on">स्थान अचूकता सुधारण्यासाठी आणि इतर प्रयोजनांसाठी, जरी WLAN बंद आहे तरीही जवळील नेटवर्कसाठी, Google आणि इतर अनुप्रयोग स्कॅन करू शकता. आपल्याला हे घडू द्यायचे नसेल, तर प्रगत> स्कॅनिंग नेहमी उपलब्ध यावर जा.</string>
+    <string name="wifi_scan_notify_text_location_off">जरी WLAN बंद आहे, तरीही जवळील नेटवर्कसाठी आपण अनुप्रयोग स्कॅन करू शकता. आपल्याला हे घडू द्यायचे नसेल, तर प्रगत> स्कॅनिंग नेहमी उपलब्ध यावर जा.</string>
+    <string name="wifi_setting_sleep_policy_title">निद्रेदरम्यान WLAN चालू ठेवा</string>
+    <string name="wifi_suspend_optimizations">WLAN इष्टतमीकरण</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN चालू असताना बॅटरीचा वापर कमी करा</string>
+    <string name="wifi_access_points">WLAN नेटवर्क्स</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">उपलब्ध नेटवर्क पाहण्यासाठी WLAN चालू करा.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN नेटवर्क्सचा शोध घेत आहे...</string>
+    <string name="wifi_empty_list_user_restricted">आपल्याला WLAN नेटवर्क बदलण्याची परवानगी नाही</string>
+    <string name="wifi_required_info_text">सेटअप पूर्ण करण्यासाठी आपल्या टॅबलेटला WLAN चे ऍक्सेस हवे. सेटअप पूर्ण झाल्यावर आपण मोबाईल डेटा व WLAN दोघांमध्ये बदलू शकता.</string>
+    <string name="wifi_wps_setup_title">WLAN संरक्षित सेटअप</string>
+    <string name="wifi_wps_onstart_pbc">ऐपल्या राऊटरवरील WLAN सुरक्षित सेटअप बटण दाबा. त्याला \"WPS\" असे म्हटले जाईल किंवा त्यात हे चिन्ह असेल:</string>
+    <string name="wifi_wps_onstart_pin">"आपल्या WLAN  राऊटरवरील %1$s ही पिन प्रविष्ट करा. सेटअप पूर्ण होण्यास दोन मिनिटांपर्यंत वेळ लागू शकतो."</string>
+    <string name="wifi_wps_connected">WLAN network %s ला जोडले</string>
+    <string name="wifi_scan_always_turnon_message">"स्थान अचूकता सुधारण्यासाठी आणि इतर प्रयोजनांसाठी, जरी WLAN बंद आहे तरीही %1$s नेटवर्क स्कॅनिंग चालू करू इच्छितात.
+
+स्कॅन करण्यास इच्छुक असलेल्या सर्व आनुप्रयोगांना यासाठी परवानगी द्यायची?"</string>
+    <string name="wifi_connect_failed_message">फोन ह्या WLAN नेटवर्कला जोडू शकला नाही.</string>
+    <string name="wifi_advanced_titlebar">प्रगत WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN फ्रिक्वेन्सी बँड</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">पोर्टेबल WLAN हॉटस्पॉट</string>
+    <string name="wifi_tether_failed_subtext">पोर्टेबल WLAN हॉटस्पॉटमध्ये चूक</string>
+    <string name="wifi_tether_configure_ap_text">WLAN हटस्पॉट सेट अप करा</string>
+    <string name="wifi_tether_configure_subtext">"%1$s पोर्टेबल WLAN हॉटस्पॉट.
+सुरक्षा: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC पत्ता</string>
+    <string name="location_mode_high_accuracy_description">स्थानाचा निश्चित करण्यासाठी GPS, WLAN आणि मोबाईल नेटवर्क वापरा</string>
+    <string name="location_mode_battery_saving_description">स्थान निश्चित करण्यासाठी WLAN आणि मोबाईल नेटवर्क वापरा</string>
+    <string name="location_neighborhood_level">अनुप्रयोगांना WLAN आणि मोबाइल नेटवर्क सारख्या स्रोतांकडून आपले अंदाजे स्थान ठरवण्यासाठी डेटा वापरू द्या</string>
+    <string name="location_neighborhood_level_wifi">स्थान WLAN ने निर्धारित केले</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN वेळेवर</string>
+    <string name="bluetooth_on_time">WLAN वेळेवर</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">"WLAN  चालू आहे"</string>
+    <string name="usage_type_data_wifi_send">WLAN डेटा पाठविला</string>
+    <string name="usage_type_data_wifi_recv">WLAN डेटा प्राप्त झाला</string>
+    <string name="battery_action_wifi">WLAN सेटिंग्ज</string>
+    <string name="battery_desc_wifi">बॅटरी WLAN ने वापरली</string>
+    <string name="battery_sugg_wifi">आपण वापरत नसाल किंवा उपलब्ध नसेल तेव्हा WLAN बंद करा</string>
+    <string name="gadget_toggle_wifi">WLAN सेटिंग अपलोड करीत आहे</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">अनुप्र. डेटा, WLAN पासवर्डस्, आणि इतर सेटिंग्जचा Google सर्व्हर्समध्ये बॅक अप घ्या</string>
+    <string name="backup_erase_dialog_message">आपले WLAN पासवर्डस्, बुकमार्क, इतर सेटिंग्ज, आणि अनुप्र. डेटा, शिवाय सर्व कॉपीज Google सर्व्हरवरून खोडून टाकू का?</string>
+    <string name="wifi_setup_title">WLAN सेटअप</string>
+    <string name="wifi_setup_title_editing_network">%s या WLAN नेटवर्कला जोडा</string>
+    <string name="wifi_setup_title_connecting_network">%s या WLAN नेटवर्कला जोडले...</string>
+    <string name="wifi_setup_title_connected_network">%s WLAN नेटवर्कला ला जोडले</string>
+    <string name="wifi_setup_eap_not_supported">सेटअप चालू असताना आपण EAP WLAN जोडणीची जुळणी करू शकत नाही. सेटअपनंतर, आपण सेटिंग्ज > बिनतारी व नेटवर्क्स द्वारा ती करू शकता.</string>
+    <string name="wifi_setup_description_connected">सेट अप पुढे चालू ठेवण्यासाठी <b>Next</b>" ला स्पर्श करा.
+
+वेगळ्या WLAN  नेटवर्कला जोडण्यासाठी "<b>Back</b> ला स्पर्श करा.</string>
+    <string name="data_usage_menu_show_wifi">"WLAN  वापर दाखवा"</string>
+    <string name="data_usage_disable_wifi_limit">WLAN डेटा मर्यादा सेट करा</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">आपण पार्श्वभूमी मोबाइल डेटा निर्बंधित केला, तर आपण WLAN नेटवर्कला जोडले नसल्यास काही अनुप्र. आणि सेवा काम करणार नाहीत.</string>
+    <string name="data_usage_restrict_background_multiuser">"आपण जर पार्श्वभूमि मोबाईल डेटा निरबंधित कराल काही अनुप्रयोग व सेवा कार्य करणार नाही जो पर्यंत आपण WLAN नेटवर्कशी जोडले जाणार नाही.
+
+
+
+ह्या फोनवरच्या सर्व उपभोक्त्यांना ह्या सेटिंगचा परिणाम होतो."</string>
+    <string name="data_usage_metered_body">WLAN नेटवर्क्स निवडा जी मोबाइल हॉटस्पॉट्स आहेत. अनुप्र.ना ही नेटवर्क्स पार्श्वभूमीत असताना वापरण्यास निर्बंधित करणे शक्य आहे. मोठ्या डाऊनलोड्ससाठी ही नेटवर्क्स वापरण्यापूर्वी अनुप्र. कदाचित इशारासुद्धा देतील.</string>
+    <string name="data_usage_metered_wifi">WLAN नेटवर्क्स</string>
+    <string name="data_usage_metered_wifi_disabled">मोबाइल हॉटस्पॉट्स निवडण्यापूर्वी, WLAN चालू करा.</string>
+    <string name="user_add_user_message_long">"आपण अधिक उपभोक्ता तयार करून हे उपकरण इतरांबरोबर शेअर करू शकता. प्रत्येक उपभोक्त्याला आपली स्वताची जागा असेल, ज्यात ते आपले स्वतःचे अनुप्रयोग, वॉलपेपर व इतर WLAN वापरू शकतात.
+
+
+
+आपण नवीन उपभोक्ता बनवल्या नंतर, त्याला सेटअप प्रक्रिया करावी लागते.
+
+
+
+इतर सर्व उपभोकत्याच्या वतीने कोणताही उपभोक्ता अद्यतन अनुप्रयोगाची परवानगी स्विकारू शकतो."</string>
+    <string name="restriction_wifi_config_title">WLAN आणि मोबाईल</string>
+    <string name="restriction_wifi_config_summary">WLAN आणि मोबाईल सेटिंग्जमध्ये परिवर्तन करण्याची परवानगी देतो</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN जोडले</string>
+    <string name="cw_network_priority">China Telecom WLAN ला प्राधान्य द्या</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN नेटवर्क्सना जोडणीतील इतर WLAN नेटवर्क्सपेक्षा अधिक प्राधान्य दिले जाईल</string>
+    <string name="location_based_wifi">स्थान-आधारित WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN सोय स्थळास स्वयंचलित जोडा</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN स्वयंचलित जोड</string>
+    <string name="wifi_calling_mode_title">WLAN कॉलिंग</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN प्रमाणपत्र बदला</string>
+    <string name="wifi_p2p_settings">WLAN Direct सेटींग</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT ने सुरक्षित केलेले</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK ने सुरक्षित केलेले</string>
+    <string name="wifi_tether_explanation_dialog_text">"आपल्या उपकरणाचा वापर आपण मोबाईल सोय-स्थळ म्हणून करू शकता. यामुळे इतर उपकरणांची (कमाल 10) WLAN नेटवर्कद्वारे त्यावर जोडणी करण्याची परवानगी देते. जोडणी केलेल्या उपकरणांना आपल्या फोनच्या मोबाईल नेटवर्क जोडणीद्वारे इंटरनेट प्रवेश असेल. मोबाईल सोय-स्थळाद्वारे मोबाइल डेटाचा वापर होत असून परिणामी अतिरिक्त शुल्क लागू होऊ शकते. 
+
+मोबाईल सोय-स्थळामुळे अधिक बॅटरी वापरली जाते. बॅटरी आयुष्य वाढवायचे असल्यास उपकरणाची एका आउटलेटसह जोडणी करा."</string>
+    <string name="wifi_tether_settings_subtext">पोर्टेबल WLAN सोय-स्थळ सेट अप करा आणि व्यवस्थापन करा</string>
+    <string name="wifi_tether_settings_text">पोर्टेबल WLAN सोय-स्थळ सेटिंग</string>
+    <string name="wifi_wps_category_title">WLAN नेटवर्क सेट अप करा</string>
+    <string name="cw_network_notification">CT WLAN सूचनापत्र सक्षम करा</string>
+    <string name="stamina_xssm_summary">पडदा बंद असताना मोबाईल डेटा आणि WLAN अक्षम करतो</string>
+    <string name="tethering_no_sim_warning_txt">तुमच्या भ्रमणध्वनी फोनची डेटा जोडणी इतर उपकरणासोबत इंटरनेट प्रवेशासाठी मोबाईल WLAN सोय-स्थळ किंवा टेदर करत आहे यांचा उपयोग करून शेअर करण्यासाठी कृपया SIM कार्ड इन्सर्ट करा.</string>
+    <string name="wifi_offload_checkbox_summary">अनुप्रयोग उघडताना, WLAN उपलब्ध असेल तेव्हा मला सांगा</string>
+    <string name="wifi_offload_checkbox_title">WLAN पॉप-अप्स दाखवा</string>
+    <string name="wifi_offload_notify_available_networks">WLAN सूचनापत्रे</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN नेटवर्क्स उपलब्ध असेल तेव्हा मला सूचना द्या</string>
+    <string name="wifi_offload_option_title">उपलब्ध WLAN नेटवर्क्स</string>
+</resources>

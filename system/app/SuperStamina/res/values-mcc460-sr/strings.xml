@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kada se ekran isključi, WLAN i mobilni podaci će privremeno biti onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete dobijati telefonske pozive, SMS/MMS poruke i Sony™obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremenja koja su u toku će moći da se završe. 
+
+Kada se ekran uključi, telefon normalno funkcioniše.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kada se ekran isključi, WLAN i mobilni podaci privremeno će biti onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete dobijati SMS/MMS poruke i Sony™ obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremanja koja su u toku moći će da se završe.
+
+Kada se ekran uključi, uređaj će normalno funkcionisati."</string>
+    <string name="description_msg_no_telephony_txt">"Kada se ekran isključi, WLAN će privremeno biti onemogućen, a većina aplikacija će biti neaktivna. I dalje ćete dobijati Sony™ obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremanja koja su u toku moći će da se završeh.
+
+Kada se ekran uključi, uređaj će normalno funkcionisati."</string>
+    <string name="notification_descr_ps">Režim baterije na izmaku može da produži trajanje baterije tako što npr. isključi WLAN ili smanji svetlinu ekrana kada je baterija na izmaku.</string>
+    <string name="notification_text_lbw">Aktiviraj WLAN vezu zasnovanu na lokaciji</string>
+    <string name="notification_descr_lbw">WLAN je uključen, ali nije korišćen neko vreme. Uštedite energiju tako što ćete aktivirati WLAN vezu zasnovanu na lokaciji.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN je uključen, ali se ne koristi već neko vreme. Možete uštedeti energiju aktiviranjem opcije „WLAN zasnovan na lokaciji“. Podesiti WLAN zasnovan na lokaciji?</string>
+    <string name="low_battery_mode_tip_dialog">Režim baterije na izmaku može produžiti trajanje baterije npr. isključivanjem WLAN mreže ili smanjenjem svetline ekrana kada je baterija na izmaku. Podesiti režim baterije na izmaku?</string>
+</resources>

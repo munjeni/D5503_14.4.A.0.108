@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Automaattinen synkronointi</string>
+    <string name="wifi_tether_settings_text">Siirrettävän Wi-Fi-WLAN-alueen asetukset</string>
+    <string name="stamina_xssm_add_applications_title">Valmiustilassa aktiiviset sovellukset</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d Std.</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
+        <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Das Kennwort muss mindestens %d Buchstaben enthalten.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Buchstaben enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Das Kennwort muss mindestens %d Kleinbuchstaben enthalten.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Kleinbuchstaben enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Das Kennwort muss mindestens %d Großbuchstaben enthalten.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Großbuchstaben enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Das Kennwort muss mindestens %d Ziffern enthalten.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Ziffer enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Das Kennwort muss mindestens %d Symbole enthalten.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Symbol enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Das Kennwort muss mindestens %d Zeichen enthalten, die keine Buchstaben sind.</item>
+        <item quantity="one">Das Kennwort muss mindestens 1 Zeichen enthalten, das kein Buchstabe ist.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
+        <item quantity="one">%d App kann Benachrichtigungen lesen</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuche.</item>
+        <item quantity="one">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuch, bevor Sie sich zum Entsperren des Geräts an Ihren Mobilfunkanbieter wenden müssen.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s Drucker gefunden</item>
+        <item quantity="one">%1$s Drucker gefunden</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d Anwendungen derzeit aufgelistet</item>
+        <item quantity="one">%1$d Anwendung derzeit aufgelistet</item>
+    </plurals>
+</resources>

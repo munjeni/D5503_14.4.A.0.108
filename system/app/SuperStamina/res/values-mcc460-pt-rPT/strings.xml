@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Com o ecrã desligado, o WLAN e os dados móveis ficarão temporariamente desativados, bem como a maioria das aplicações ficará inativa. Continuará porém a receber chamadas, mensagens SMS/MMS e sinais de alarme e notificações de calendário Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+
+
+Com o ecrã ligado, o telemóvel funcionará normalmente.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Com o ecrã desligado, o WLAN e os dados móveis ficarão temporariamente desativados e a maioria das aplicações inativa. Continuará, no entanto, a receber mensagens SMS/MMS, notificações de calendário Sony™ e toques do despertador Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+Com o ecrã ligado, o dispositivo funcionará normalmente."</string>
+    <string name="description_msg_no_telephony_txt">"Com o ecrã desligado, o WLAN ficará temporariamente desativado e a maioria das aplicações inativa. Continuará, no entanto, a receber notificações de calendário Sony™ e toques do despertador Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+Com o ecrã ligado, o dispositivo funcionará normalmente."</string>
+    <string name="notification_descr_ps">O modo de bateria fraca pode prolongar a duração da bateria ao, por exemplo, desativar o WLAN ou reduzir o brilho do ecrã quando a bateria estiver fraca.</string>
+    <string name="notification_text_lbw">Ativar o WLAN baseado na localização</string>
+    <string name="notification_descr_lbw">WLAN está ligado mas não foi utilizado durante algum tempo. Poupe energia ao ativar o WLAN baseado na localização.</string>
+    <string name="location_based_wifi_tip_dialog">"O WLAN está ativado mas não tem sido utilizado. Pode poupar energia ativando a opção WLAN baseado na localização.  Configurar WLAN baseado na localização?"</string>
+    <string name="low_battery_mode_tip_dialog">O modo de bateria fraca pode prolongar a autonomia da bateria, por exemplo, desativando o WLAN ou reduzindo o brilho do ecrã quando a bateria está fraca. Configurar modo de bateria fraca?</string>
+</resources>

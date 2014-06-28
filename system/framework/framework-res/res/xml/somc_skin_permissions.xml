@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay-resources>
+    <filter-group group="action-bar">
+        <filter type="type" value="nine-patch, bitmap" />
+        <filter type="size" minWidth="1dp" maxWidth="360dp" minHeight="1dp" maxHeight="48dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_ab_solid_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_stacked_solid_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_bottom_solid_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_transparent_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_stacked_transparent_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_bottom_transparent_dark_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_solid_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_stacked_solid_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_bottom_solid_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_transparent_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_stacked_transparent_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_bottom_transparent_light_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_solid_inverse_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_stacked_solid_inverse_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_ab_bottom_solid_inverse_holo" filters="action-bar" />
+    <overlay id="@drawable/semc_cab_background_top_holo_dark" filters="action-bar" />
+    <overlay id="@drawable/semc_cab_background_bottom_holo_dark" filters="action-bar" />
+    <overlay id="@drawable/semc_cab_background_top_holo_light" filters="action-bar" />
+    <overlay id="@drawable/semc_cab_background_bottom_holo_light" filters="action-bar" />
+    <filter-group group="footer">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="310dp" maxWidth="330dp" minHeight="38dp" maxHeight="58dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_bottom_bar_holo_dark" filters="footer" />
+    <overlay id="@drawable/semc_bottom_bar_holo_light" filters="footer" />
+    <filter-group group="button">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="20dp" maxWidth="32dp" minHeight="20dp" maxHeight="32dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_btn_default_normal_holo_dark" filters="button" />
+    <overlay id="@drawable/semc_btn_default_pressed_holo_dark" filters="button" />
+    <overlay id="@drawable/semc_btn_default_focused_holo_dark" filters="button" />
+    <overlay id="@drawable/semc_btn_default_disabled_holo_dark" filters="button" />
+    <overlay id="@drawable/semc_btn_default_disabled_focused_holo_dark" filters="button" />
+    <overlay id="@drawable/semc_btn_default_normal_holo_light" filters="button" />
+    <overlay id="@drawable/semc_btn_default_pressed_holo_light" filters="button" />
+    <overlay id="@drawable/semc_btn_default_focused_holo_light" filters="button" />
+    <overlay id="@drawable/semc_btn_default_disabled_holo_light" filters="button" />
+    <overlay id="@drawable/semc_btn_default_disabled_focused_holo_light" filters="button" />
+    <filter-group group="checkbox">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="26dp" maxWidth="32dp" minHeight="26dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="checkbox-selector">
+        <filter type="type" value="selector">
+            <filter type="included" value="false" />
+        </filter>
+        <filter type="type" value="bitmap">
+            <filter type="included" value="true" />
+        </filter>
+        <filter type="size" minWidth="26dp" maxWidth="32dp" minHeight="26dp" maxHeight="32dp">
+            <filter type="type" value="bitmap" />
+        </filter>
+    </filter-group>
+    <overlay id="@drawable/semc_btn_check_holo_dark" filters="checkbox-selector" />
+    <overlay id="@drawable/semc_btn_check_holo_light" filters="checkbox-selector" />
+    <overlay id="@drawable/semc_btn_check_off_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_pressed_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_focused_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_disabled_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_disabled_focused_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_pressed_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_focused_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_focused_holo_dark" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_pressed_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_focused_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_disabled_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_disabled_focused_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_pressed_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_focused_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_focused_holo_light" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_off_holo_light_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_disabled_holo_light_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_check_on_holo_light_indicator" filters="checkbox" />
+    <filter-group group="radio">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="26dp" maxWidth="32dp" minHeight="26dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="radio-selector">
+        <filter type="type" value="selector">
+            <filter type="included" value="false" />
+        </filter>
+        <filter type="type" value="bitmap">
+            <filter type="included" value="true" />
+        </filter>
+        <filter type="size" minWidth="26dp" maxWidth="32dp" minHeight="26dp" maxHeight="32dp">
+            <filter type="type" value="bitmap" />
+        </filter>
+    </filter-group>
+    <overlay id="@drawable/semc_btn_radio_holo_dark" filters="radio-selector" />
+    <overlay id="@drawable/semc_btn_radio_holo_dark_no_animation" filters="radio-selector" />
+    <overlay id="@drawable/semc_btn_radio_holo_light" filters="radio-selector" />
+    <overlay id="@drawable/semc_btn_radio_holo_light_no_animation" filters="radio-selector" />
+    <overlay id="@drawable/semc_btn_radio_off_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_pressed_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_focused_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_disabled_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_disabled_focused_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_radio_on_holo_dark_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_radio_on_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_pressed_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_focused_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_focused_holo_dark" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_pressed_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_focused_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_disabled_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_disabled_focused_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_pressed_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_focused_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_focused_holo_light" filters="radio" />
+    <overlay id="@drawable/semc_btn_radio_off_holo_light_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_radio_on_disabled_holo_light_indicator" filters="checkbox" />
+    <overlay id="@drawable/semc_btn_radio_on_holo_light_indicator" filters="checkbox" />
+    <filter-group group="toggle">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="12dp" maxWidth="32dp" minHeight="12dp" maxHeight="32dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_btn_toggle_off_normal_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_pressed_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_focused_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_disabled_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_disabled_focused_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_normal_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_pressed_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_focused_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_disabled_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_disabled_focused_holo_dark" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_normal_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_pressed_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_focused_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_disabled_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_off_disabled_focused_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_normal_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_pressed_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_focused_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_disabled_holo_light" filters="toggle" />
+    <overlay id="@drawable/semc_btn_toggle_on_disabled_focused_holo_light" filters="toggle" />
+    <filter-group group="switch-background">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="8dp" maxWidth="28dp" minHeight="8dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="switch-thumb">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="8dp" maxWidth="28dp" minHeight="8dp" maxHeight="32dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_switch_bg_off_holo_dark" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_off_disabled_holo_dark" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_on_holo_dark" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_on_disabled_holo_dark" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_off_holo_light" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_off_disabled_holo_light" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_on_holo_light" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_bg_on_disabled_holo_light" filters="switch-background" />
+    <overlay id="@drawable/semc_switch_thumb_activated_holo_dark" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_pressed_holo_dark" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_focused_holo_dark" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_disabled_holo_dark" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_disabled_focused_holo_dark" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_activated_holo_light" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_pressed_holo_light" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_focused_holo_light" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_disabled_holo_light" filters="switch-thumb" />
+    <overlay id="@drawable/semc_switch_thumb_disabled_focused_holo_light" filters="switch-thumb" />
+    <filter-group group="spinner-button">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="20dp" maxWidth="32dp" minHeight="32dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="spinner-ab-button">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="20dp" maxWidth="32dp" minHeight="32dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="curtain-menu">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="32dp" maxWidth="64dp" minHeight="16dp" maxHeight="40dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_spinner_default_holo_dark" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_pressed_holo_dark" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_focused_holo_dark" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_disabled_holo_dark" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_default_holo_light" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_pressed_holo_light" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_focused_holo_light" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_disabled_holo_light" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_ab_default_holo_dark" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_pressed_holo_dark" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_focused_holo_dark" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_disabled_holo_dark" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_default_holo_light" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_pressed_holo_light" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_focused_holo_light" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_disabled_holo_light" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_default_holo_dark_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_pressed_holo_dark_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_focused_holo_dark_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_disabled_holo_dark_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_default_holo_light_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_pressed_holo_light_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_focused_holo_light_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_disabled_holo_light_am" filters="spinner-button" />
+    <overlay id="@drawable/semc_spinner_ab_default_holo_dark_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_pressed_holo_dark_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_focused_holo_dark_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_disabled_holo_dark_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_default_holo_light_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_pressed_holo_light_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_focused_holo_light_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_spinner_ab_disabled_holo_light_am" filters="spinner-ab-button" />
+    <overlay id="@drawable/semc_menu_dropdown_panel_up_holo_dark" filters="curtain-menu" />
+    <overlay id="@drawable/semc_menu_dropdown_panel_down_holo_dark" filters="curtain-menu" />
+    <overlay id="@drawable/semc_menu_dropdown_panel_up_holo_light" filters="curtain-menu" />
+    <overlay id="@drawable/semc_menu_dropdown_panel_down_holo_light" filters="curtain-menu" />
+    <filter-group group="dialog-panel">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="96dp" minHeight="20dp" maxHeight="80dp" />
+    </filter-group>
+    <filter-group group="dialog-top">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="96dp" minHeight="4dp" maxHeight="30dp" />
+    </filter-group>
+    <filter-group group="dialog-middle">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="96dp" minHeight="4dp" maxHeight="30dp" />
+    </filter-group>
+    <filter-group group="dialog-bottom">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="96dp" minHeight="4dp" maxHeight="30dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_dialog_full_holo_dark" filters="dialog-panel" />
+    <overlay id="@drawable/semc_dialog_top_holo_dark" filters="dialog-top" />
+    <overlay id="@drawable/semc_dialog_middle_holo_dark" filters="dialog-middle" />
+    <overlay id="@drawable/semc_dialog_bottom_holo_dark" filters="dialog-bottom" />
+    <overlay id="@drawable/semc_dialog_full_holo_light" filters="dialog-panel" />
+    <overlay id="@drawable/semc_dialog_top_holo_light" filters="dialog-top" />
+    <overlay id="@drawable/semc_dialog_middle_holo_light" filters="dialog-middle" />
+    <overlay id="@drawable/semc_dialog_bottom_holo_light" filters="dialog-bottom" />
+    <filter-group group="toast">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="96dp" minHeight="10dp" maxHeight="44dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_toast_frame_holo_dark" filters="toast" />
+    <overlay id="@drawable/semc_toast_frame_holo_light" filters="toast" />
+    <filter-group group="generic-state">
+        <filter type="type" value="nine-patch,bitmap" />
+        <filter type="size" minWidth="1px" maxWidth="10dp" minHeight="1px" maxHeight="10dp" />
+    </filter-group>
+    <filter-group group="panel-bg">
+        <filter type="type" value="bitmap,nine-patch" />
+        <filter type="size" minWidth="1px" maxWidth="200dp" minHeight="1px" maxHeight="200dp" />
+    </filter-group>
+    <filter-group group="fastscroll-label">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="1px" maxWidth="55dp" minHeight="1px" maxHeight="55dp" />
+    </filter-group>
+    <filter-group group="contact-picture">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="1px" maxWidth="128dp" minHeight="1px" maxHeight="128dp" />
+    </filter-group>
+    <filter-group group="progress-bar">
+        <filter type="type" value="animation-list">
+            <filter type="included" value="false" />
+        </filter>
+        <filter type="type" value="nine-patch">
+            <filter type="included" value="true" />
+        </filter>
+    </filter-group>
+    <overlay id="@drawable/semc_list_pressed_holo_dark" filters="generic-state" />
+    <overlay id="@drawable/semc_list_focused_holo_dark" filters="generic-state" />
+    <overlay id="@drawable/semc_list_selector_disabled_holo_dark" filters="generic-state" />
+    <overlay id="@drawable/semc_list_activated_holo_dark" filters="generic-state" />
+    <overlay id="@drawable/semc_panel_bg_holo_dark" filters="panel-bg" />
+    <overlay id="@drawable/semc_fastscroll_label_left_holo_dark" filters="fastscroll-label" />
+    <overlay id="@drawable/semc_fastscroll_label_right_holo_dark" filters="fastscroll-label" />
+    <overlay id="@drawable/semc_list_pressed_holo_light" filters="generic-state" />
+    <overlay id="@drawable/semc_list_focused_holo_light" filters="generic-state" />
+    <overlay id="@drawable/semc_list_selector_disabled_holo_light" filters="generic-state" />
+    <overlay id="@drawable/semc_list_activated_holo_light" filters="generic-state" />
+    <overlay id="@drawable/semc_panel_bg_holo_light" filters="panel-bg" />
+    <overlay id="@drawable/semc_fastscroll_label_left_holo_light" filters="fastscroll-label" />
+    <overlay id="@drawable/semc_fastscroll_label_right_holo_light" filters="fastscroll-label" />
+    <overlay id="@drawable/semc_ic_contact_picture_normal" filters="contact-picture" />
+    <overlay id="@drawable/semc_ic_contact_picture_colored" filters="contact-picture" />
+    <overlay id="@drawable/semc_progress_small_holo" filters="progress-bar">
+        <filter type="size" minWidth="8dp" maxWidth="16dp" minHeight="8dp" maxHeight="16dp">
+            <filter type="included" value="true" />
+        </filter>
+    </overlay>
+    <overlay id="@drawable/semc_progress_medium_holo" filters="progress-bar">
+        <filter type="size" minWidth="24dp" maxWidth="48dp" minHeight="24dp" maxHeight="48dp">
+            <filter type="included" value="true" />
+        </filter>
+    </overlay>
+    <overlay id="@drawable/semc_progress_large_holo" filters="progress-bar">
+        <filter type="size" minWidth="38dp" maxWidth="76dp" minHeight="38dp" maxHeight="76dp">
+            <filter type="included" value="true" />
+        </filter>
+    </overlay>
+    <overlay id="@drawable/semc_progress_actionbar_holo" filters="progress-bar">
+        <filter type="size" minWidth="24dp" maxWidth="48dp" minHeight="24dp" maxHeight="48dp">
+            <filter type="included" value="true" />
+        </filter>
+    </overlay>
+    <filter-group group="progress">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="1dp" maxWidth="23dp" minHeight="10dp" maxHeight="16dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_progress_bg_holo_dark" filters="progress" />
+    <overlay id="@drawable/semc_progress_secondary_holo_dark" filters="progress" />
+    <overlay id="@drawable/semc_progress_primary_holo_dark" filters="progress" />
+    <overlay id="@drawable/semc_progress_bg_holo_light" filters="progress" />
+    <overlay id="@drawable/semc_progress_secondary_holo_light" filters="progress" />
+    <overlay id="@drawable/semc_progress_primary_holo_light" filters="progress" />
+    <filter-group group="scrubber-background">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minHeight="8dp" maxHeight="12dp" minWidth="5dp" maxWidth="20dp" />
+    </filter-group>
+    <filter-group group="scrubber-thumb">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minHeight="20dp" maxHeight="32dp" minWidth="20dp" maxWidth="32dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_scrubber_track_holo_dark" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_secondary_holo_dark" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_primary_holo_dark" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_track_holo_light" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_secondary_holo_light" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_primary_holo_light" filters="scrubber-background" />
+    <overlay id="@drawable/semc_scrubber_control_normal_holo_dark" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_focused_holo_dark" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_pressed_holo_dark" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_disabled_holo_dark" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_normal_holo_light" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_focused_holo_light" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_pressed_holo_light" filters="scrubber-thumb" />
+    <overlay id="@drawable/semc_scrubber_control_disabled_holo_light" filters="scrubber-thumb" />
+    <filter-group group="rate-star-button">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="26dp" maxWidth="32dp" minHeight="26dp" maxHeight="32dp" />
+    </filter-group>
+    <filter-group group="interactive-rate-bar">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="42dp" maxWidth="50dp" minHeight="42dp" maxHeight="50dp" />
+    </filter-group>
+    <filter-group group="static-rate-bar-small">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="12dp" maxWidth="16dp" minHeight="12dp" maxHeight="16dp" />
+    </filter-group>
+    <filter-group group="static-rate-bar-large">
+        <filter type="type" value="bitmap" />
+        <filter type="size" minWidth="32dp" maxWidth="35dp" minHeight="32dp" maxHeight="35dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_btn_star_off_normal_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_pressed_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_focused_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_disabled_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_disabled_focused_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_normal_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_pressed_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_focused_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_disabled_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_disabled_focused_holo_dark" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_normal_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_pressed_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_focused_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_disabled_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_off_disabled_focused_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_normal_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_pressed_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_focused_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_disabled_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_btn_star_on_disabled_focused_holo_light" filters="rate-star-button" />
+    <overlay id="@drawable/semc_rate_star_small_off_holo_dark" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_small_half_holo_dark" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_small_on_holo_dark" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_small_off_holo_light" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_small_half_holo_light" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_small_on_holo_light" filters="static-rate-bar-small" />
+    <overlay id="@drawable/semc_rate_star_big_off_holo_dark" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_rate_star_big_half_holo_dark" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_rate_star_big_on_holo_dark" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_rate_star_big_off_holo_light" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_rate_star_big_half_holo_light" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_rate_star_big_on_holo_light" filters="static-rate-bar-large" />
+    <overlay id="@drawable/semc_btn_rating_star_off_normal_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_off_pressed_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_off_focused_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_normal_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_pressed_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_focused_holo_dark" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_off_normal_holo_light" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_off_pressed_holo_light" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_off_focused_holo_light" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_normal_holo_light" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_pressed_holo_light" filters="interactive-rate-bar" />
+    <overlay id="@drawable/semc_btn_rating_star_on_focused_holo_light" filters="interactive-rate-bar" />
+    <filter-group group="tab">
+        <filter type="type" value="nine-patch, bitmap" />
+        <filter type="size" minWidth="1dp" maxWidth="40dp" minHeight="1dp" maxHeight="40dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_tab_unselected_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_unselected_pressed_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_unselected_focused_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_pressed_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_focused_holo_dark" filters="tab" />
+    <overlay id="@drawable/semc_tab_unselected_holo_light" filters="tab" />
+    <overlay id="@drawable/semc_tab_unselected_pressed_holo_light" filters="tab" />
+    <overlay id="@drawable/semc_tab_unselected_focused_holo_light" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_holo_light" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_pressed_holo_light" filters="tab" />
+    <overlay id="@drawable/semc_tab_selected_focused_holo_light" filters="tab" />
+    <filter-group group="textfield">
+        <filter type="type" value="nine-patch" />
+        <filter type="size" minWidth="10dp" maxWidth="32dp" minHeight="10dp" maxHeight="32dp" />
+    </filter-group>
+    <overlay id="@drawable/semc_textfield_default_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_activated_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_focused_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_disabled_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_disabled_focused_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_default_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_activated_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_focused_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_disabled_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_disabled_focused_holo_dark" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_default_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_activated_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_focused_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_disabled_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_disabled_focused_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_default_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_activated_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_focused_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_disabled_holo_light" filters="textfield" />
+    <overlay id="@drawable/semc_textfield_multiline_disabled_focused_holo_light" filters="textfield" />
+    <filter-group group="app-bg">
+        <filter type="type" value="bitmap,color,nine-patch" />
+        <filter type="size" maxWidth="1920px" minWidth="1px" maxHeight="1920px" minHeight="1px">
+            <filter type="type" value="bitmap,nine-patch" />
+        </filter>
+    </filter-group>
+    <overlay id="@drawable/semc_bg" filters="app-bg" />
+    <overlay id="@drawable/semc_bg_light" filters="app-bg" />
+    <overlay id="@color/semc_edittext_color_dark" />
+    <overlay id="@color/semc_switch_text_color" />
+    <overlay id="@color/semc_widget_text_color_dark" />
+    <overlay id="@color/semc_widget_text_color_light" />
+    <overlay id="@color/semc_widget_text_color_secondary_light" />
+    <overlay id="@color/semc_widget_text_color_tabs_dark" />
+    <overlay id="@color/semc_widget_text_color_tabs_light" />
+</overlay-resources>

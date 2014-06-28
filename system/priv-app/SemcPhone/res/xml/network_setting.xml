@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/mobile_networks"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <CheckBoxPreference android:persistent="false" android:title="@string/data_enabled" android:key="button_data_enabled_key" android:summary="@string/data_enable_summary" />
+    <ListPreference android:entries="@array/national_data_roaming_options_array" android:title="@string/roaming" android:key="national_data_roaming_key" android:dialogTitle="@string/roaming" android:entryValues="@array/national_data_roaming_option_values" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/roaming" android:key="button_roaming_key" android:summaryOn="@string/roaming_enable" android:summaryOff="@string/roaming_disable" />
+    <ListPreference android:entries="@array/clh_preferred_network_mode_choices" android:title="@string/preferred_network_mode_title" android:key="preferred_network_mode_key" android:summary="@string/preferred_network_mode_summary" android:dialogTitle="@string/preferred_network_mode_dialogtitle" android:entryValues="@array/clh_preferred_network_mode_values" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/prefer_2g" android:key="button_prefer_2g_key" android:summary="@string/prefer_2g_summary" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/use_3g_only_txt" android:key="button_use_3g_only_key" android:summary="@string/use_3g_only_summary_txt" />
+    <PreferenceScreen android:persistent="false" android:title="@string/apn_settings" android:key="button_apn_key">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.ApnSettings" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/networks" android:key="button_carrier_sel_key" android:summary="@string/sum_carrier_select">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.NetworkSetting" />
+    </PreferenceScreen>
+</PreferenceScreen>

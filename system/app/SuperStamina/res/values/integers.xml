@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="min_led_intensity">64</integer>
+    <integer name="power_state_timeout">60000</integer>
+    <integer name="default_xssm_battery_threshold">100</integer>
+    <integer name="default_ps_battery_threshold">19</integer>
+    <integer name="default_gate_battery_threshold">100</integer>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Permite que a aplicação obtenha a sua localização exata através do Sistema de Posicionamento Global (GPS) ou das fontes de localização da rede, tais como torres de telemóvel e WLAN. Estes serviços de localização têm de estar ativados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização e poderão consumir mais energia da bateria.</string>
+    <string name="permdesc_accessCoarseLocation">Permite que a aplicação obtenha a sua localização aproximada. Esta localização é gerada pelos serviços de localização, que utilizam fontes de localização da rede, tais como torres de telemóvel e WLAN. Estes serviços de localização têm de estar ativados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização aproximada.</string>
+    <string name="permlab_configureWifiDisplay">configurar visores WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Permite que a aplicação se configure e se ligue a visores WLAN.</string>
+    <string name="permlab_controlWifiDisplay">controlar visores WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Permite que a aplicação controle funcionalidades de baixo nível em visores WLAN.</string>
+    <string name="permlab_accessWifiState">ver ligações WLAN</string>
+    <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes WLAN como, por exemplo, se o WLAN está ativado e o nome dos dispositivos WLAN ligados.</string>
+    <string name="permlab_changeWifiState">ligar e desligar de redes WLAN</string>
+    <string name="permdesc_changeWifiState">Permite que a aplicação se ligue e desligue de pontos de acesso WLAN e que efetue alterações à configuração do dispositivo para redes WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">permitir recepção Multicast WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede WLAN através de endereços multicast, não apenas para o telemóvel. Utiliza mais energia do que o modo não multicast.</string>
+    <string name="wifi_available_sign_in">Iniciar sessão na rede WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Não foi possível ligar a WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Iniciar o WLAN Direct. Esta opção desativará o cliente/zona WLAN.</string>
+    <string name="wifi_p2p_failed_message">Não foi possível iniciar o WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">O WLAN Direct está ligado</string>
+    <string name="wifi_p2p_frequency_conflict_message">O telemóvel irá desligar-se temporariamente da rede WLAN enquanto está ligado a %1$s</string>
+    <string name="data_usage_wifi_limit_title">Dados WLAN desativados</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Limite de dados WLAN excedido</string>
+    <string name="policylab_disableWifi">Desativar o acesso a WLAN</string>
+    <string name="policydesc_disableWifi">Evitar a ligação a redes WLAN no dispositivo.</string>
+    <string name="wifi_disabled_notification_title">A ligação WLAN está restringida</string>
+    <string name="wifi_disabled_notification_message">"Uma política de segurança restringe a utilização de WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming em WLAN em curso</string>
+    <string name="ct_cplusw_notification_text">"Rede WLAN de CT ligada. Para info. de faturação, contacte 10 000 ou a loja local.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom ligada por WLAN</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Ficará ligado à rede WLAN da China Telecom. Para obter detalhes acerca das cobranças, contacte o serviço de apoio ao cliente da China Telecom. Continuar?</string>
+    <string name="wifi_nonconcurrency_message">Iniciar cliente WLAN. O WLAN Direct será desligado.</string>
+    <string name="wifi_noncuncurrency_message">Iniciar cliente WLAN. O WLAN Direct será desligado.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Qualquer ligação WLAN existente será desligada</string>
+    <string name="wifi_p2p_nonconcurrency_message">Iniciar WLAN Direct. A ligação WLAN será desligada.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Qualquer ligação WLAN existente será desligada</string>
+    <string name="wifi_p2p_noncuncurrency_message">Iniciar WLAN Direct. A ligação WLAN será desligada.</string>
+    <string name="tethered_notification_message_wifi">Desligue o HotSpot móvel para voltar a ativar o WLAN</string>
+    <string name="tethered_notification_title_wifi">O WLAN está ativado</string>
+</resources>

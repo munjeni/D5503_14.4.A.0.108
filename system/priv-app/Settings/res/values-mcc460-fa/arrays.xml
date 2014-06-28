@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>موقعیت مکانی غیردقیق</item>
+        <item>موقعیت مکانی دقیق</item>
+        <item>GPS</item>
+        <item>لرزش</item>
+        <item>خواندن مخاطبین</item>
+        <item>اصلاح مخاطبین</item>
+        <item>خواندن گزارش تماس</item>
+        <item>اصلاح گزارش تماس</item>
+        <item>خواندن تقویم</item>
+        <item>اصلاح تقویم</item>
+        <item>اسکن کردن شبکه WLAN</item>
+        <item>اعلان</item>
+        <item>جستجوی شبکه سلولی</item>
+        <item>تماس تلفنی</item>
+        <item>خواندن پیامک</item>
+        <item>نوشتن پیامک</item>
+        <item>دریافت پیامک</item>
+        <item>دریافت پیامک‌های اضطراری</item>
+        <item>دریافت MMS</item>
+        <item>دریافت پیام ارسال داده WAP</item>
+        <item>ارسال پیامک</item>
+        <item>خواندن پیامک ICC</item>
+        <item>نوشتن پیامک ICC</item>
+        <item>اصلاح تنظیمات</item>
+        <item>در بالا طراحی کنید</item>
+        <item>اعلان‌های دسترسی</item>
+        <item>دوربین</item>
+        <item>ضبط صدا</item>
+        <item>پخش صدا</item>
+        <item>خواندن کلیپ بورد</item>
+        <item>اصلاح کلیپ‌بورد</item>
+        <item>دکمه‌های رسانه‌ای</item>
+        <item>فوکوس صدا</item>
+        <item>میزان کنترل</item>
+        <item>میزان صدا</item>
+        <item>حجم حلقه</item>
+        <item>میزان صدای رسانه</item>
+        <item>میزان صدای زنگ هشدار</item>
+        <item>میزان صدای اعلان</item>
+        <item>میزان صدای بلوتوث</item>
+        <item>بیدار باش</item>
+        <item>کنترل موقعیت مکانی</item>
+        <item>کنترل مکان پرقدرت</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>موقعیت مکانی</item>
+        <item>موقعیت مکانی</item>
+        <item>موقعیت مکانی</item>
+        <item>لرزش</item>
+        <item>خواندن مخاطبین</item>
+        <item>اصلاح مخاطبین</item>
+        <item>خواندن گزارش تماس</item>
+        <item>اصلاح گزارش تماس</item>
+        <item>خواندن تقویم</item>
+        <item>اصلاح تقویم</item>
+        <item>موقعیت مکانی</item>
+        <item>اعلان پست</item>
+        <item>موقعیت مکانی</item>
+        <item>تماس تلفنی</item>
+        <item>‏خواندن پیامک/MMS</item>
+        <item>‏نوشتن پیامک/MMS</item>
+        <item>دریافت پیامک/MMS</item>
+        <item>دریافت پیامک/MMS</item>
+        <item>دریافت پیامک/MMS</item>
+        <item>دریافت پیامک/MMS</item>
+        <item>ارسال پیامک/MMS</item>
+        <item>‏خواندن پیامک/MMS</item>
+        <item>‏نوشتن پیامک/MMS</item>
+        <item>تغییر تنظیمات</item>
+        <item>در بالا طراحی کنید</item>
+        <item>دسترسی به اعلان‌ها</item>
+        <item>دوربین</item>
+        <item>ضبط صدا</item>
+        <item>پخش صدا</item>
+        <item>خواندن کلیپ بورد</item>
+        <item>اصلاح کردن کلیپ بورد</item>
+        <item>دکمه‌های رسانه‌</item>
+        <item>فوکوس صدا</item>
+        <item>میزان صدای اصلی</item>
+        <item>میزان صدای مکالمه</item>
+        <item>میزان صدای زنگ</item>
+        <item>میزان صدای رسانه</item>
+        <item>میزان صدای زنگ هشدار</item>
+        <item>میزان صدای اعلان</item>
+        <item>میزان صدای بلوتوث</item>
+        <item>بیدار باش</item>
+        <item>موقعیت مکانی</item>
+        <item>مکان</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>‏WLAN ASCII</item>
+        <item>‏WLAN hexadecimal</item>
+    </string-array>
+</resources>

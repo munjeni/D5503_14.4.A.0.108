@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_clean_up_connections_before_lte">true</bool>
+</resources>

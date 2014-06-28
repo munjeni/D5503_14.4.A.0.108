@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"När skärmen är avstängd inaktiveras WLAN och mobildata tillfälligt och de flesta appar är inaktiva. Du kan fortfarande ta emot samtal, SMS-/MMS-meddelanden, Sony™-kalendermeddelanden och alarmsignaler. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar telefonen normalt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"När skärmen är avstängd inaktiveras WLAN och mobildata tillfälligt, och de flesta appar inaktiveras. Du kan fortfarande ta emot SMS-/MMS-meddelanden och Sony™-kalendermeddelanden, och Sony™-alarmsignaler hörs. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar enheten som normalt."</string>
+    <string name="description_msg_no_telephony_txt">"När skärmen är avstängd inaktiveras WLAN tillfälligt, och de flesta program inaktiveras. Du kan fortfarande ta emot Sony™-kalendermeddelanden, och Sony™-alarmsignaler hörs. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar enheten som normalt."</string>
+    <string name="notification_descr_ps">Läge för låg batterinivå kan utöka batterilivslängden genom att stänga av WLAN eller minska skärmljusstyrkan när batterinivån är låg.</string>
+    <string name="notification_text_lbw">Aktivera Platsbaserad WLAN</string>
+    <string name="notification_descr_lbw">WLAN är på men inte har använts på ett tag. Spara ström genom att aktivera Platsbaserad WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN är på men har inte använts på ett tag. Du kan spara ström genom att aktivera platsbaserad WLAN. Ställa in platsbaserad WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Läget Låg batterinivå kan förlänga batteritiden genom att t.ex. stänga av WLAN eller minska skärmens ljusstyrka när batterinivån är låg. Ställa in läget Låg batterinivå?</string>
+</resources>

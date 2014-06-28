@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Switch android:gravity="center_vertical" android:id="@id/toggle" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/StaminaItemSwitch"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

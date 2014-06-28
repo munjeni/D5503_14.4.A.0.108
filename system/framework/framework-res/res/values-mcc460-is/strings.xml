@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Leyfir forritinu að staðsetja þig nákvæmlega með því að nota GPS-staðsetningarkerfi eða netveitur eins og möstur eða WLAN. Þessar staðsetningveitur þurfa að vera virkar og tiltækar fyrir tækið þitt til að forritið geti notað þær. Forrit geta notað þetta til að ákvarða staðsetninguna þína og það getur tæmt raflöðuna hraðar.</string>
+    <string name="permdesc_accessCoarseLocation">Leyfir forritinu að áætla staðsetningu þína. Þessi staðsetning er fengin frá staðsetningarveitu með neti frá t.d. farsímamastri eða WLAN. Þessi staðsetningarþjónusta þarf að vera virk og tiltæk fyrir þitt tæki til að forritið geti notað hana. Forrit geta notað þetta til að áætla staðsetninguna þína.</string>
+    <string name="permlab_configureWifiDisplay">stilla WLAN skjái</string>
+    <string name="permdesc_configureWifiDisplay">Leyfir forritinu að stilla sig og tengjast WLAN skjám.</string>
+    <string name="permlab_controlWifiDisplay">stjórna WLAN skjám</string>
+    <string name="permdesc_controlWifiDisplay">Leyfir forritinu að stjórna eiginleikum á lágu stigi á WLAN skjám.</string>
+    <string name="permlab_accessWifiState">skoða WLAN tengingar</string>
+    <string name="permdesc_accessWifiState">Gerir forritinu kleift að skoða upplýsingar um WLAN-net, eins og hvort kveikt sé á WLAN og um heiti tengdra WLAN-tækja.</string>
+    <string name="permlab_changeWifiState">tengjast og aftengjast WLAN</string>
+    <string name="permdesc_changeWifiState">Gerir forritinu kleift að tengjast við og slíta tengingu við WLAN-aðgangsstað og breyta tækjastillingu fyrir WLAN-net.</string>
+    <string name="permlab_changeWifiMulticastState">"leyfa móttöku á WLAN
+ margvarpi"</string>
+    <string name="permdesc_changeWifiMulticastState">Gerir forritinu kleift að taka við pökkum sem sendir eru á öll tæki á WLAN-neti með því að nota margvarps-netföng, en ekki eingöngu á þinn síma. Það notar meiri orku en stilling án margvarps.</string>
+    <string name="wifi_available_sign_in">Skráðu þig inn á WLAN net</string>
+    <string name="wifi_watchdog_network_disabled">Tókst ekki að tengjast við WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Hefja WLAN Direct. Þetta mun slökkva á WLAN biðlara/heitum reit.</string>
+    <string name="wifi_p2p_failed_message">Tókst ekki að ræsa WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct er kveikt</string>
+    <string name="wifi_p2p_frequency_conflict_message">Síminn mun aftengjast WLAN tímabundið á meðan hann er tengdur við %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-fögn óvirk</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Hámarki WLAN-gagna náð</string>
+    <string name="policylab_disableWifi">Slökkva á aðgangi að þráðlausu neti</string>
+    <string name="policydesc_disableWifi">Hindra þráðlausar nettengingar við tækið.</string>
+    <string name="wifi_disabled_notification_title">Tenging við WLAN er takmörkuð</string>
+    <string name="wifi_disabled_notification_message">"Öryggisregla takmarkar notkun á þráðlausu neti. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN reiki í gangi</string>
+    <string name="ct_cplusw_notification_text">"Tengt við WLAN net CT. Hafðu samb. við 10000 eða verslun varðandi greiðsluuppl.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN tengt</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Þú verður tengdur við WLAN netkerfi China Telecom. Til að fá upplýsingar um gjöld skaltu hafa samband við þjónustuver China Telecom. Viltu halda áfram?</string>
+    <string name="wifi_nonconcurrency_message">Ræsa WLAN biðlara. Þetta mun aftengja WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Ræsa WLAN biðlara. Þetta mun aftengja WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Þetta mun aftengja allar núverandi WLAN tengingar</string>
+    <string name="wifi_p2p_nonconcurrency_message">Ræsa WLAN Direct. Þetta mun aftengja WLAN tenginguna.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Þetta mun aftengja allar núverandi WLAN tengingar</string>
+    <string name="wifi_p2p_noncuncurrency_message">Ræsa WLAN Direct. Þetta mun aftengja WLAN tenginguna.</string>
+    <string name="tethered_notification_message_wifi">Slökktu á Mobile HotSpot til að kveikja aftur á WLAN</string>
+    <string name="tethered_notification_title_wifi">Slökkt er á WLAN</string>
+</resources>

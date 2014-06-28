@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Interneta, e-pošte in drugih programov, ki zahtevajo podatkovno povezavo, ne boste mogli uporabljati, razen če nimate vzpostavljene povezave z omrežjem WLAN. Želite izklopiti mobilno podatkovno povezavo?</string>
+    <string name="sip_call_options_wifi_only_title">Uporabi internetno klicanje (le WLAN)</string>
+    <string name="registration_status_no_wifi_data">Ni povezave WLAN. Računa ni bilo mogoče registrirati.</string>
+    <string name="no_wifi_available_title">Ni povezave z omrežjem WLAN</string>
+    <string name="no_wifi_available">Za internetno klicanje vzpostavite povezavo z omrežjem WLAN (pojdite v »Nastavitve« > »Brezžična omrežja«).</string>
+</resources>

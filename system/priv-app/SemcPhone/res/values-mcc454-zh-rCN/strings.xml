@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_cfb_forbidden">网络响应异常。</string>
+    <string name="disable_cfnry_forbidden">网络响应异常。</string>
+    <string name="disable_cfnrc_forbidden">网络响应异常。</string>
+</resources>

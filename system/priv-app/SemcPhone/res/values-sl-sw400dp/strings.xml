@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Udeleženci konferenčnega klica</string>
+    <string name="data_enabled">Prenos podatkov prek mobilnih omrežij</string>
+    <string name="add_fdn_contact">Dodajanje stika za predpisane klice</string>
+    <string name="delete_fdn_contact">Izbriši osebo v imeniku predpisanih klicev</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" semc:directionality="leftToRight"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp">
+    <ImageView android:id="@id/large_icon" android:layout_width="64.0dip" android:layout_height="64.0dip" android:src="@drawable/radio_stat_icon" android:scaleType="centerInside" />
+    <RelativeLayout android:layout_gravity="center_vertical" android:paddingLeft="12.0dip" android:paddingRight="12.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent.Title" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fmradio_strings_notification_txt" android:singleLine="true" android:layout_alignParentLeft="true" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/title" android:layout_alignParentLeft="true">
+            <ImageView android:id="@id/favorite_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_scale_favorite_indicator" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent" android:ellipsize="end" android:id="@id/rds" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:singleLine="true" android:layout_toRightOf="@id/favorite_indicator" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/buttons" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:id="@id/prev" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_notification_previous" android:layout_weight="1.0" android:contentDescription="@string/description_prev_station" />
+        <ImageView android:id="@id/next" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_notification_next" android:layout_weight="1.0" android:contentDescription="@string/description_next_station" />
+        <ImageView android:id="@id/shutDown" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_notification_power" android:layout_weight="1.0" android:contentDescription="@string/description_power" android:paddingStart="4.0dip" android:paddingEnd="4.0dip" />
+    </LinearLayout>
+</LinearLayout>

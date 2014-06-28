@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Konferentziako parte hartzaileak</string>
+    <string name="add_fdn_contact">Gehitu markatze finkoko kontaktua</string>
+    <string name="delete_fdn_contact">Ezabatu markatze finkoko kontaktua</string>
+</resources>

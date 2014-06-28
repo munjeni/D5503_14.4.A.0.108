@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="widget_remaining_time_format_days">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+    </plurals>
+    <plurals name="widget_remaining_time_format_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+    </plurals>
+</resources>

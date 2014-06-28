@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radio_power_off_background">#98000000</color>
+    <color name="radio_frequency_display_text_color">#ffbbbbbb</color>
+    <color name="radio_frequency_display_rds_color">#ffffffff</color>
+    <color name="radio_frequency_scale_favorite_text_color">#ffffffff</color>
+    <color name="radio_frequency_scale_frequency_text_color">#ffffffff</color>
+    <color name="radio_frequency_scale_bg_color">#ff3c3c3c</color>
+    <color name="radio_power_off_visualizer_bg_color">#f0000000</color>
+    <color name="radio_visualizer_animal_theme_bg_color">#78000000</color>
+    <color name="radio_visualizer_gate_theme_bg_color">#9c000000</color>
+    <color name="radio_visualizer_glow_theme_bg_color">#58000000</color>
+    <color name="radio_visualizer_balloon_theme_bg_color">#40000000</color>
+</resources>

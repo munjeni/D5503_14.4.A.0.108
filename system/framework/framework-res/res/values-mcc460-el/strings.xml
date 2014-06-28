@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Επιτρέπει στην εφαρμογή να λαμβάνει την ακριβή θέση σας με τη χρήση του Παγκόσμιου Συστήματος Εντοπισμού (GPS) ή πηγών τοποθεσίας δικτύου, όπως κεραίες κινητής τηλεφωνίας και WLAN. Αυτές οι υπηρεσίες τοποθεσίας πρέπει να είναι ενεργοποιημένες και διαθέσιμες στην συσκευή σας, ώστε να μπορούν να χρησιμοποιηθούν από την εφαρμογή. Οι εφαρμογές ενδέχεται να τις χρησιμοποιήσουν για να προσδιορίσουν τη θέση σας και ενδέχεται να καταναλώσουν επιπλέον ισχύ μπαταρίας.</string>
+    <string name="permdesc_accessCoarseLocation">Επιτρέπει στην εφαρμογή τη λήψη της κατά προσέγγιση τοποθεσίας σας. Αυτή η τοποθεσία προκύπτει από τις υπηρεσίες τοποθεσίας με τη χρήση πηγών τοποθεσίας δικτύου, όπως κεραίες κινητής τηλεφωνίας και WLAN. Αυτές οι υπηρεσίες τοποθεσίας πρέπει να είναι ενεργοποιημένες και διαθέσιμες στην συσκευή σας, ώστε να μπορούν να χρησιμοποιηθούν από την εφαρμογή. Οι εφαρμογές ενδέχεται να τις χρησιμοποιήσουν για να προσδιορίσουν κατά προσέγγιση τη θέση σας.</string>
+    <string name="permlab_configureWifiDisplay">διαμόρφωση οθονών WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Επιτρέπει τη διαμόρφωση και τη σύνδεση σε οθόνες WLAN από την εφαρμογή.</string>
+    <string name="permlab_controlWifiDisplay">έλεγχος οθονών WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Επιτρέπει στην εφαρμογή τον έλεγχο των λειτουργιών χαμηλού επιπέδου των οθονών WLAN.</string>
+    <string name="permlab_accessWifiState">προβολή συνδέσεων WLAN</string>
+    <string name="permdesc_accessWifiState">Επιτρέπει στην εφαρμογή την προβολή πληροφοριών σχετικά με τη δικτύωση WLAN, όπως εάν το WLAN είναι ενεργοποιημένο και τα ονόματα των συνδεδεμένων συσκευών WLAN.</string>
+    <string name="permlab_changeWifiState">σύνδεση και αποσύνδεση από το WLAN</string>
+    <string name="permdesc_changeWifiState">Επιτρέπει στην εφαρμογή τη σύνδεση σε σημεία πρόσβασης WLAN και την αποσύνδεση από αυτά, καθώς και την πραγματοποίηση αλλαγών σε διαμόρφωση συσκευών για δίκτυα WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">να επιτρέπεται η λήψη πολλαπλής διανομής WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">Επιτρέπει στην εφαρμογή τη λήψη πακέτων που αποστέλλονται σε όλες τις συσκευές σε ένα δίκτυο WLAN, με χρήση διευθύνσεων πολλαπλής διανομής και όχι απλώς στο τηλέφωνό σας. Χρησιμοποιεί περισσότερη ενέργεια σε σχέση με τη λειτουργία χωρίς πολλαπλή διανομή.</string>
+    <string name="wifi_available_sign_in">Σύνδεση στο δίκτυο WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Δεν είναι δυνατή η σύνδεση στο WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Ξεκινήστε τη λειτουργία WLAN Direct. Θα απενεργοποιηθεί η λειτουργία πελάτη/φορητού σημείου πρόσβασης WLAN.</string>
+    <string name="wifi_p2p_failed_message">Δεν ήταν δυνατή η εκκίνηση του WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">Το WLAN Direct έχει ενεργοποιηθεί</string>
+    <string name="wifi_p2p_frequency_conflict_message">Το τηλέφωνο θα αποσυνδεθεί προσωρινά από το δίκτυο WLAN όσο είναι συνδεδεμένο στη συσκευή %1$s</string>
+    <string name="data_usage_wifi_limit_title">Τα δεδομένα WLAN απενεργοποιήθηκαν</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Υπέρβ. ορίου δεδομένων WLAN</string>
+    <string name="policylab_disableWifi">Απενεργοποίηση πρόσβασης σε WLAN</string>
+    <string name="policydesc_disableWifi">Αποτρέπει τις συνδέσεις WLAN στη συσκευή.</string>
+    <string name="wifi_disabled_notification_title">Δεν επιτρ. η σύνδεση WLAN</string>
+    <string name="wifi_disabled_notification_message">"Μια πολιτική ασφάλειας απαγορεύει τη χρήση WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Περιαγωγή WLAN σε εξέλιξη</string>
+    <string name="ct_cplusw_notification_text">"Σύνδεση με CT WLAN. Για στοιχ. χρέωσης, επικ. με το 10000 ή με ένα τοπ. κατάστ.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Σύνδεση WLAN China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Θα συνδεθείτε στο δίκτυο WLAN της China Telecom. Για λεπτομέρειες σχετικά με τις χρεώσεις, επικοινωνήστε με το τμήμα εξυπηρέτησης πελατών της China Telecom. Συνέχεια;</string>
+    <string name="wifi_nonconcurrency_message">Εκκίνηση προγράμματος-πελάτη WLAN. Αυτή ενέργεια θα απενεργοποιήσει το WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Εκκίνηση προγράμματος-πελάτη WLAN. Αυτή ενέργεια θα απενεργοποιήσει το WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Θα αποσυνδεθούν όλες οι υπάρχουσες συνδέσεις WLAN</string>
+    <string name="wifi_p2p_nonconcurrency_message">Εκκίνηση WLAN Direct. Αυτή η ενέργεια θα αποσυνδέσει τη σύνδεση WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Αυτή η ενέργεια θα αποσυνδέσει τις υπάρχουσες συνδέσεις WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Εκκίνηση WLAN Direct. Αυτή η ενέργεια θα αποσυνδέσει τη σύνδεση WLAN.</string>
+    <string name="tethered_notification_message_wifi">Απενεργοποιήστε το Mobile HotSpot, για να ενεργοποιήσετε ξανά το WLAN</string>
+    <string name="tethered_notification_title_wifi">Το WLAN απενεργοποιήθηκε</string>
+</resources>

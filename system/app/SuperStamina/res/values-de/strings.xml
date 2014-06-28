@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eco-Moduscontroller</string>
+    <string name="dont_ask_me_again_txt">Nicht mehr nachfragen</string>
+    <string name="description_msg_txt">"Wenn der Bildschirm ausgeschaltet ist, werden Wi-Fi und mobiler Datenzugriff vorübergehend deaktiviert, und die meisten Apps sind inaktiv. Sie erhalten weiterhin Telefonanrufe, SMS/MMS-Nachrichten, Sony™-Kalenderbenachrichtigungen und Sony™-Wecksignale. Der Musikplayer und das UKW-Radio funktionieren, und stattfindende Down- und Uploads können abgeschlossen werden.
+
+Wenn der Bildschirm eingeschaltet ist, funktioniert das Telefon normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Bei ausgeschaltetem Bildschirm werden Wi-Fi und mobile Daten vorübergehend deaktiviert. Außerdem sind die meisten Anwendungen inaktiv. Sie empfangen nach wie vor SMS/MMS sowie Sony™-Kalenderbenachrichtigungen und Sony™-Alarmsignale. Der Musikplayer und das UKW-Radio funktionieren weiterhin, und laufende Down- und Uploads werden abgeschlossen.
+
+Bei eingeschaltetem Bildschirm funktioniert Ihr Gerät normal."</string>
+    <string name="description_msg_no_telephony_txt">"Bei ausgeschaltetem Bildschirm wird Wi-Fi vorübergehend deaktiviert. Außerdem sind die meisten Anwendungen inaktiv. Sie empfangen nach wie vor Sony™-Kalenderbenachrichtigungen und Sony™-Alarmsignale. Der Musikplayer und das UKW-Radio funktionieren weiterhin, und laufende Down- und Uploads werden abgeschlossen.
+
+Bei eingeschaltetem Bildschirm funktioniert Ihr Gerät normal."</string>
+    <string name="description_title_txt">Hinweis!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktivieren Sie den Niedrigen Akkumodus, um Funktionen und Einstellungen auszuschalten, die Strom verbrauchen, wenn der Akkustand unter eine voreingestellte Grenze sinkt. Tippen Sie auf „Niedriger Akkumodus“, um die Einstellungen zu ändern.
+"</string>
+    <string name="activate_txt">Aktivieren</string>
+    <string name="cancel_txt">Abbrechen</string>
+    <string name="xssm_blocker_detector_title">Energiemanagement: Tipp</string>
+    <string name="xssm_blocker_detector_msg">%s verhindert Energieeinsparung durch den STAMINA-Modus im Standby</string>
+    <string name="xssm_blocker_detector_long_msg">Wenn Sie diese Anwendung häufig verwenden, ignorieren Sie diese Warnung. Andernfalls deinstallieren Sie die Anwendung, oder beenden Sie sie zwangsweise.</string>
+    <string name="xssm_blocker_detector_ignore">Verstanden. Nicht wieder anzeigen.</string>
+    <string name="network_detector_msg">%s sendet und empfängt Daten bei ausgeschaltetem Bildschirm und entlädt so verstärkt den Akku.</string>
+    <string name="network_detector_long_msg">Wenn Sie diese Anwendung deinstallieren, können Sie die Leistung des Geräts steigern und die Akkulaufzeit verlängern.</string>
+    <string name="wakelock_detector_msg">%s wurde seit mehreren Wochen nicht mehr verwendet.</string>
+    <string name="wakelock_detector_long_msg">Möglicherweise wird der Standby-Modus des Geräts dadurch aufgehoben. Wenn Sie diese Anwendung deinstallieren, können Sie die Leistung des Geräts steigern und die Akkulaufzeit verlängern.</string>
+    <string name="notification_title_xssm">Energiemanagement: Tipp</string>
+    <string name="notification_text_xssm">STAMINA-Modus aktivieren</string>
+    <string name="notification_descr_xssm">Ihr Gerät ist häufig im Standbymodus. Verlängern Sie die Akkulaufzeit, indem Sie den STAMINA-Modus aktivieren.</string>
+    <string name="notification_dont_show_again">Verstanden. Nicht wieder anzeigen.</string>
+    <string name="notification_title_ps">Energiemanagement: Tipp</string>
+    <string name="notification_text_ps">Akkuschonmodus aktivieren</string>
+    <string name="notification_descr_ps">Der Modus für niedrigen Akkustand kann die Akkulaufzeit verlängern, z. B. durch Abschalten von Wi-Fi oder Verringern der Bildschirmhelligkeit bei niedrigem Akkustand.</string>
+    <string name="notification_title_lbw">Energiemanagement: Tipp</string>
+    <string name="notification_text_lbw">Ortsbezogenes Wi-Fi aktivieren</string>
+    <string name="notification_descr_lbw">Wi-Fi ist aktiviert, wurde aber seit einiger Zeit nicht verwendet. Sparen Sie Energie, indem Sie ortsbezogenes Wi-Fi aktivieren.</string>
+    <string name="unused_application_title">Tipp zu den Energieoptionen</string>
+    <string name="unused_application_msg">%s wurde seit einiger Zeit nicht verwendet.</string>
+    <string name="unused_application_long_msg">Wenn Sie diese Anwendung behalten möchten, ignorieren Sie diese Warnung. Andernfalls deinstallieren Sie sie.</string>
+    <string name="unused_application_ignore">Okay. Meldung nicht wieder anzeigen.</string>
+    <string name="drain_dialog_title_txt">Akku wird nicht aufgeladen</string>
+    <string name="drain_dialog_text_usb_txt">Die angeschlossene Stromquelle ist unzureichend. Der Akku entlädt sich schneller, als er aufgeladen wird. Verwenden Sie Ihr AC-Ladegerät.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Die angeschlossene Stromquelle ist unzureichend. Der Akku entlädt sich schneller, als er aufgeladen wird. Verringern Sie die Auslastung des Geräts während des Ladevorgangs.</string>
+    <string name="extend_battery_tip_dialog_headar">Leistungsmanagementtipp</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi ist eingeschaltet, wurde jedoch eine Zeit lang nicht benutzt. Sie können Akkuleistung sparen, indem Sie ortsbezogenes Wi-Fi aktivieren. Ortsbezogenes Wi-Fi einrichten?</string>
+    <string name="low_battery_mode_tip_dialog">Im Akkuschonmodus kann die Akkulebensdauer verlängert werden, indem Sie z. B. Wi-Fi ausschalten oder die Bildschirmhelligkeit verringern. Möchten Sie den Akkuschonmodus einrichten?</string>
+    <string name="stamina_mode_tip_dialog">Ihr Gerät befindet sich häufig im Standby-Modus. Verlängern Sie die Akkulaufzeit, indem Sie den STAMINA-Modus aktivieren. STAMINA-Modus einrichten?</string>
+    <string name="bad_app_notification">Folgende App beansprucht den Akku:</string>
+    <string name="bad_standby_app_dialog">%s hindert den STAMINA-Modus im Standby am Energie sparen. Wenn Sie die Anwendung häufig verwenden, ignorieren Sie diese Warnung. Wenn nicht, tippen Sie auf die App-Info-Schaltfläche und deinstallieren oder stoppen Sie die Anwendung.</string>
+    <string name="ignore_dialog_action">Ignorieren</string>
+    <string name="app_info_dialog_action">App-Info</string>
+    <string name="stamina_activation_notification">STAMINA-Modus aktiviert</string>
+    <string name="lowbattery_trigger_level_notification">Akkustand unter %d%%</string>
+    <string name="lowbattery_activated_notification">Akkuschonmodus aktiviert</string>
+    <string name="app_not_used_notification">Diese App wurde länger nicht verwendet:</string>
+    <string name="app_not_used_tip_dialog">%s wurde eine Zeit lang nicht verwendet. Wir empfehlen die Deinstallation der Anwendung, um Energie zu sparen.</string>
+    <string name="no_action_dialog">Nein</string>
+    <string name="yes_action_dialog">Ja</string>
+    <string name="widget_remaining_battery_time">Geschätzte Akkulaufzeit</string>
+    <string name="widget_name">STAMINA-Modus</string>
+</resources>

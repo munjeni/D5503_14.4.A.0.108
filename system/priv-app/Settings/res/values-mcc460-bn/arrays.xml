@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>অসূক্ষ্ম অবস্থান</item>
+        <item>সূক্ষ্ম অবস্থান</item>
+        <item>GPS</item>
+        <item>কম্পনসহ সতর্কীকরণ</item>
+        <item>পরিচিতি পড়ুন</item>
+        <item>পরিচিতি সংশোধন করুন</item>
+        <item>কল লগ পড়ুন</item>
+        <item>কল লগ সংশোধন করুন</item>
+        <item>ক্যালেন্ডার পড়ুন</item>
+        <item>ক্যালেন্ডার সংশোধন করুন</item>
+        <item>WLAN স্ক্যান</item>
+        <item>ঘোষণা</item>
+        <item>সেল স্ক্যান করা</item>
+        <item>ফোন কল</item>
+        <item>SMS পড়ুন</item>
+        <item>SMS লিখুন</item>
+        <item>SMS গ্রহণ করুন</item>
+        <item>জরুরি SMS গ্রহণ করুন</item>
+        <item>MMS গ্রহণ করুন</item>
+        <item>WAP পুশ গ্রহণ করুন</item>
+        <item>SMS প্রেরণ করুন</item>
+        <item>ICC SMS পড়ুন</item>
+        <item>ICC SMS লিখুন</item>
+        <item>সেটিং সংশোধন করুন</item>
+        <item>শীর্ষে যান</item>
+        <item>অ্যাক্সেসের ঘোষণা</item>
+        <item>ক্যামেরা</item>
+        <item>অডিও রেকর্ড করুন</item>
+        <item>অডিও বাজান</item>
+        <item>ক্লিপবোর্ড পড়ুন</item>
+        <item>ক্লিপবোর্ড সংশোধন করুন</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>অবস্থান</item>
+        <item>অবস্থান</item>
+        <item>অবস্থান</item>
+        <item>কম্পনসহ সতর্কীকরণ</item>
+        <item>পরিচিতি পড়ুন</item>
+        <item>পরিচিতি সংশোধন করুন</item>
+        <item>কল লগ পড়ুন</item>
+        <item>কল লগ সংশোধন করুন</item>
+        <item>ক্যালেন্ডার পড়ুন</item>
+        <item>ক্যালেন্ডার সংশোধন করুন</item>
+        <item>অবস্থান</item>
+        <item>ঘোষণার পরে</item>
+        <item>অবস্থান</item>
+        <item>ফোন কল</item>
+        <item>SMS/MMS পড়ুন</item>
+        <item>SMS/MMS লিখুন</item>
+        <item>SMS/MMS গ্রহণ করুন</item>
+        <item>SMS/MMS গ্রহণ করুন</item>
+        <item>SMS/MMS গ্রহণ করুন</item>
+        <item>SMS/MMS গ্রহণ করুন</item>
+        <item>SMS/MMS প্রেরণ করুন</item>
+        <item>SMS/MMS পড়ুন</item>
+        <item>SMS/MMS লিখুন</item>
+        <item>সেটিং সংশোধন করুন</item>
+        <item>শীর্ষে যান</item>
+        <item>অ্যাক্সেসের ঘোষণা</item>
+        <item>ক্যামেরা</item>
+        <item>অডিও রেকর্ড করুন</item>
+        <item>অডিও বাজান</item>
+        <item>ক্লিপবোর্ড পড়ুন</item>
+        <item>ক্লিপবোর্ড সংশোধন করুন</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

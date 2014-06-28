@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Apabila skrin dimatikan, WLAN dan data mudah alih akan dinyahdayakan untuk sementara waktu, dan kebanyakan aplikasi menjadi tidak aktif. Anda masih dapat menerima panggilan telefon, mesej SMS/MMS dan pemberitahuan kalendar Sony™ serta isyarat penggera Sony™. Pemain muzik dan radio FM masih berfungsi dan proses muat turun serta muat naik yang sedang berjalan akan dibenarkan untuk selesai.
+
+Apabila skrin dihidupkan, telefon anda akan berfungsi seperti biasa.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Apabila skrin mati, WLAN dan data mudah alih akan dinyahdayakan buat sementara waktu dan kebanyakan aplikasi akan menjadi tidak aktif. Anda masih akan menerima mesej SMS/MMS, pemberitahuan kalendar Sony™ dan isyarat penggera Sony™. Pemain muzik dan radio FM akan berfungsi serta muat turun dan muat naik yang sedang berlangsung akan dibenarkan untuk selesai.
+
+Apabila skrin hidup, peranti anda akan berfungsi seperti biasa."</string>
+    <string name="description_msg_no_telephony_txt">"Apabila skrin mati, WLAN akan dinyahdayakan buat sementara waktu dan kebanyakan aplikasi akan menjadi tidak aktif. Anda masih akan menerima pemberitahuan kalendar Sony™ dan isyarat penggera Sony™. Pemain muzik dan radio FM akan berfungsi serta muat turun dan muat naik yang sedang berlangsung akan dibenarkan untuk selesai.
+
+Apabila skrin hidup, peranti anda akan berfungsi seperti biasa."</string>
+    <string name="notification_descr_ps">Mod bateri lemah dapat memanjangkan hayat bateri dengan misalnya, mematikan WLAN atau mengurangkan kecerahan skrin semasa bateri lemah.</string>
+    <string name="notification_text_lbw">Aktifkan WLAN Berasaskan Lokasi</string>
+    <string name="notification_descr_lbw">WLAN dihidupkan tetapi sudah lama tidak digunakan. Jimatkan kuasa dengan mengaktifkan WLAN Berasaskan Lokasi.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN dihidupkan tetapi telah agak lama tidak digunakan. Anda boleh menjimatkan kuasa dengan mengaktifkan WLAN berdasarkan Lokasi. Sediakan WLAN berdasarkan Lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Mod bateri lemah boleh memanjangkan hayat bateri dengan misalnya, mematikan WLAN atau mengurangkan kecerahan skrin semasa bateri lemah. Sediakan Mod bateri lemah?</string>
+</resources>

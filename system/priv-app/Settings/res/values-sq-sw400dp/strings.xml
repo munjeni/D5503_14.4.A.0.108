@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_settings_text">Cilësimet e zonës portative të internetit me valë Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">Aplikacionet aktive në gjendje gatishmërie</string>
+</resources>

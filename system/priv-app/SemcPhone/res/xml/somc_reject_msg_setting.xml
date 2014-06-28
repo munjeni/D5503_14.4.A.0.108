@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/reject_with_message_settings_title_txt"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_1" android:defaultValue="@string/reject_with_message_preset_1_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_2" android:defaultValue="@string/reject_with_message_preset_2_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_3" android:defaultValue="@string/reject_with_message_preset_3_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_4" android:defaultValue="@string/reject_with_message_preset_4_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_5" android:defaultValue="@string/reject_with_message_preset_5_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+    <com.android.phone.MultiLineTitleEditTextPreference android:maxLength="1000" android:key="key_reject_msg_preference_6" android:defaultValue="@string/reject_with_message_preset_6_txt" android:dialogTitle="@string/reject_with_message_edit_title_txt" />
+</PreferenceScreen>

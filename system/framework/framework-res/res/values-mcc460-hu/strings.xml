@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Lehetővé teszi az alkalmazás számára a pontos tartózkodási helyének lekérését a GPS és a hálózati helyforrások, így például az adótornyok és a WLAN hálózatok adatainak felhasználásával. A helyszolgáltatásokat be kell kapcsolni, és az adatoknak elérhetőknek kell lenniük az eszközén ahhoz, hogy az alkalmazás használhassa őket. Használatukkal az alkalmazások meghatározhatják az Ön tartózkodási helyét, és az akkumulátort is fokozottan fogyaszthatják.</string>
+    <string name="permdesc_accessCoarseLocation">Lehetővé teszi az alkalmazás számára a körülbelüli tartózkodási helyének lekérését. A helymeghatározás a hálózati helyforrások, így például az adótornyok és a WLAN hálózatok adatainak felhasználásával történik. A helyszolgáltatásokat be kell kapcsolni, és az adatoknak elérhetőknek kell lenniük az eszközén ahhoz, hogy az alkalmazás használhassa őket. Használatukkal az alkalmazások meghatározhatják az Ön hozzávetőleges tartózkodási helyét.</string>
+    <string name="permlab_configureWifiDisplay">WLAN kijelzők konfigurálása</string>
+    <string name="permdesc_configureWifiDisplay">Lehetővé teszi, hogy az alkalmazás WLAN kijelzőket konfiguráljon, és csatlakozzon hozzájuk.</string>
+    <string name="permlab_controlWifiDisplay">WLAN kijelzők irányítása</string>
+    <string name="permdesc_controlWifiDisplay">Lehetővé teszi, hogy az alkalmazás irányítsa a WLAN kijelzők alacsonyabb szintű funkcióit.</string>
+    <string name="permlab_accessWifiState">WLAN-kapcsolatok megnézése</string>
+    <string name="permdesc_accessWifiState">Lehetővé teszi az alkalmazás számára, hogy hozzáférjen WLAN-hálózati információkhoz (például, hogy engedélyezve van-e a WLAN), valamint a csatlakoztatott WLAN-eszközök nevéhez.</string>
+    <string name="permlab_changeWifiState">kapcsolódás WLAN-hez és a kapcsolat bontása</string>
+    <string name="permdesc_changeWifiState">Lehetővé teszi az alkalmazás számára, hogy kapcsolódjon WLAN-hozzáférési pontokhoz, illetve megszüntesse a kapcsolatot velük, valamint hogy módosítsa az egyes eszközök WLAN-beállításait.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN csoportos küldésű adatok fogadásának engedélyezése</string>
+    <string name="permdesc_changeWifiMulticastState">Lehetővé teszi az alkalmazás számára, hogy olyan csomagokat fogadjon, amelyeket nem csak a telefonjának, hanem egy WLAN hálózat minden eszközének elküldtek csoportos címek használatával. Több energiát használ, mint a nem csoportos üzemmód.</string>
+    <string name="wifi_available_sign_in">Bejelentkezés WLAN hálózatba</string>
+    <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a WLAN hálózathoz</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct elindítása. A WLAN-ügyfél/hotspot működése ettől leáll.</string>
+    <string name="wifi_p2p_failed_message">Nem sikerült elindítani a WLAN Direct kapcsolatot</string>
+    <string name="wifi_p2p_enabled_notification_title">A WLAN Direct be van kapcsolva</string>
+    <string name="wifi_p2p_frequency_conflict_message">A telefon ideiglenesen lecsatlakozik a WLAN hálózatról, míg a(z) %1$s eszközhöz csatlakozik</string>
+    <string name="data_usage_wifi_limit_title">WLAN-adatok letiltva</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Elérte a WLAN-adatkorlátot</string>
+    <string name="policylab_disableWifi">WLAN hozzáférésének letiltása</string>
+    <string name="policydesc_disableWifi">WLAN kapcsolatok megakadályozása az eszközön.</string>
+    <string name="wifi_disabled_notification_title">A WLAN kapcsolat korlátozva van</string>
+    <string name="wifi_disabled_notification_message">"A WLAN használatát biztonsági házirend korlátozza. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN barangolás folyamatban</string>
+    <string name="ct_cplusw_notification_text">"A CT WLAN hálózatához csatlakozott. Számlázási információ: 10000 vagy bolt.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN csatlakoztatva</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">A China Telecom WLAN hálózatához készül csatlakozni. A díjakkal kapcsolatos információkért a China Telecom ügyfélszolgálatához fordulhat. Folytatja?</string>
+    <string name="wifi_nonconcurrency_message">Indítsa el a WLAN ügyfelet. Ezzel leválasztja a WLAN Direct-et.</string>
+    <string name="wifi_noncuncurrency_message">Indítsa el a WLAN ügyfelet. Ezzel leválasztja a WLAN Direct-et.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Ezzel megszakít minden meglévő WLAN kapcsolatot</string>
+    <string name="wifi_p2p_nonconcurrency_message">Indítsa el a WLAN Direct-et. A WLAN kapcsolat megszakad.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ezzel megszakít minden meglévő WLAN kapcsolatot</string>
+    <string name="wifi_p2p_noncuncurrency_message">Indítsa el a WLAN Direct-et. A WLAN kapcsolat megszakad.</string>
+    <string name="tethered_notification_message_wifi">Kapcsolja ki a Mobile HotSpotot a WLAN visszakapcsolásához</string>
+    <string name="tethered_notification_title_wifi">A WLAN ki van kapcsolva</string>
+</resources>

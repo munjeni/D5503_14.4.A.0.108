@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d ದಿನಗಳು</item>
+        <item quantity="one">%d ದಿನ</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ಗಂಟೆಗಳು</item>
+        <item quantity="one">%d ಗಂಟೆ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ ಒಂದು ಅಕ್ಷರವನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ಸಣ್ಣ ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ 1 ಸಣ್ಣ ಅಕ್ಷರವನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ದೊಡ್ಡ ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ 1 ದೊಡ್ಡ ಅಕ್ಷರವನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ಸಂಖ್ಯಾತ್ಮಕ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ 1 ಸಂಖ್ಯಾತ್ಮಕ ಸಂಖ್ಯೆಯನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ವಿಶೇಷ ಚಿಹ್ನೆಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ 1 ವಿಶೇಷ ಚಿಹ್ನೆಯನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ %d ಅಕ್ಷರೇತರ ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+        <item quantity="one">ಪಾಸ್ ವರ್ಡ್ ಕನಿಷ್ಠ ಸಣ್ಣ ಅಕ್ಷರಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ಆಪ್ ಗಳು ಸೂಚನೆಗಳನ್ನು ಓದಬಹುದು</item>
+        <item quantity="one">%d ಆಪ್ ಸೂಚನೆ ಓದಬಹುದು</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನಗಳಿವೆ.</item>
+        <item quantity="one">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನವಿದ್ದು ಈ ಮೊದಲು ನೀವು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಕ್ಯಾರಿಯರ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಬೇಕು.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s ಪ್ರಿಂಟರ್ ಗಳು ಕಂಡಿವೆ</item>
+        <item quantity="one">%1$s ಪ್ರಿಂಟರ್ ಕಂಡಿದೆ</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d ಪ್ರಸ್ತುತ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಆಪ್ ಗಳು</item>
+        <item quantity="one">%1$d ಪ್ರಸ್ತುತ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಆಪ್ ಗಳು</item>
+    </plurals>
+</resources>

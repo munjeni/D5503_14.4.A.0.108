@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Binibigyang-daan ang app na makuha ang iyong tumpak na lokasyon gamit ang Global Positioning System (GPS) o mga mapagkukunan ng lokasyon ng network gaya ng mga cell tower at WLAN. Dapat ay naka-on ang mga serbisyo ng lokasyon na ito at available sa iyong device upang magamit ng app ang mga ito. Maaari itong gamitin ng mga app upang matukoy kung nasaan ka, at maaaring gumamit ng karagdagang power ng baterya.</string>
+    <string name="permdesc_accessCoarseLocation">Binibigyang-daan ang app na makuha ang iyong tinatayang lokasyon. Nakuha ang lokasyong ito ng mga serbisyo ng lokasyon gamit ang mga mapagkukunan ng lokasyon ng network gaya ng mga cell tower at WLAN. Dapat ay naka-on ang mga serbisyo ng lokasyon na ito at available sa iyong device upang magamit ng app ang mga ito. Maaari itong gamitin ng apps upang matukoy ang tinatayang lokasyon na kinaroroonan mo.</string>
+    <string name="permlab_configureWifiDisplay">i-configure ang mga WLAN display</string>
+    <string name="permdesc_configureWifiDisplay">Binibigyang-daan ang app na mag-configure at kumonekta sa mga display ng WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kontrolin ang mga WLAN na display</string>
+    <string name="permdesc_controlWifiDisplay">Binibigyang-daan ang app na kontrolin ang mga tampok na may mababang antas ng mga dispay ng WLAN.</string>
+    <string name="permlab_accessWifiState">tingnan ang mga koneksyon sa WLAN</string>
+    <string name="permdesc_accessWifiState">Pinapayagan ang app na tumingin ng impormasyon tungkol sa WLAN networking, gaya ng kung pinapagana ang WLAN at pangalan ng mga nakakonektang WLAN device.</string>
+    <string name="permlab_changeWifiState">kumonekta at magdiskonekta mula sa WLAN</string>
+    <string name="permdesc_changeWifiState">Pinapayagan ang app na kumonekta sa at magdiskonekta mula sa mga WLAN access point at gumawa ng mga pagbabago sa configuration ng device para sa mga WLAN network.</string>
+    <string name="permlab_changeWifiMulticastState">payagan ang WLAN Multicast reception</string>
+    <string name="permdesc_changeWifiMulticastState">Pinapayagan ang app na tumanggap ng mga packet na ipinapadala sa lahat ng device sa isang WLAN network gamit ang mga multicast na address, hindi lang sa iyong telepono. Gumagamit ito ng higit na power kaysa sa mode na hindi multicast.</string>
+    <string name="wifi_available_sign_in">Mag-sign in sa WLAN network</string>
+    <string name="wifi_watchdog_network_disabled">Hindi makakonekta sa WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Simulan ang WLAN Direct. I-o-off nito ang client/hotspot ng WLAN.</string>
+    <string name="wifi_p2p_failed_message">Hindi masimulan ang WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">Naka-on ang WLAN Direct</string>
+    <string name="wifi_p2p_frequency_conflict_message">Pansamantalang madidiskoneta ang telepono sa WLAN habang nakakonekta ito sa %1$s</string>
+    <string name="data_usage_wifi_limit_title">Hindi pinagana ang data ng WLAN</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Lumampas sa limitasyon ng data ng WLAN</string>
+    <string name="policylab_disableWifi">I-disable ang access sa WLAN</string>
+    <string name="policydesc_disableWifi">Pigilan ang mga koneksyon sa WLAN sa device.</string>
+    <string name="wifi_disabled_notification_title">Hinihigpitan koneksyon sa WLAN</string>
+    <string name="wifi_disabled_notification_message">"Pinaghihigpitan ng isang patakaran sa seguridad ang paggamit ng WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Isinasagawa ang WLAN roaming</string>
+    <string name="ct_cplusw_notification_text">"Konektado CT WLAN network.Tawag sa 10000 o lokal tindahan para impo singil.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Konektado China Telecom WLAN</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Ikokonekta ka sa WLAN network ng China Telecom. Para sa mga detalye ng mga singil, mangyaring makipag-contact sa serbisyo sa customer ng China Telecom. Magpatuloy?</string>
+    <string name="wifi_nonconcurrency_message">Simulan ang WLAN client. Ididiskonekta nito ang WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Simulan ang WLAN client. Ididiskonekta nito ang WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Madidiskonekta ang anumang umiiral nang koneksyon sa WLAN</string>
+    <string name="wifi_p2p_nonconcurrency_message">Simulan ang WLAN Direct. Ididiskonekta nito ang koneksyon ng WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ididiskonekta nito ang anumang umiiral nang koneksyon ng WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Simulan ang WLAN Direct. Ididiskonekta nito ang koneksyon ng WLAN.</string>
+    <string name="tethered_notification_message_wifi">I-off ang Mobile HotSpot para muling i-on ang WLAN</string>
+    <string name="tethered_notification_title_wifi">Naka-off ang WLAN</string>
+</resources>

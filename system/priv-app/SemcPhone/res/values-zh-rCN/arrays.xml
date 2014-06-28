@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>网络默认设置</item>
+        <item>隐藏号码</item>
+        <item>显示号码</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>全球</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>仅EvDo</item>
+        <item>CDMA，无EvDo功能</item>
+        <item>CDMA/EvDo自动</item>
+        <item>GSM/WCDMA自动</item>
+        <item>仅WCDMA</item>
+        <item>仅GSM</item>
+        <item>首选GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>英语</item>
+        <item>法语</item>
+        <item>西班牙语</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>中文</item>
+        <item>希伯来语</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA（自动模式）</item>
+        <item>仅WCDMA</item>
+        <item>仅GSM</item>
+        <item>GSM/WCDMA（首选WCDMA）</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>仅本网</item>
+        <item>自动</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>仅本地网络</item>
+        <item>附属网络</item>
+        <item>任何网络</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>仅CDMA</item>
+        <item>仅 EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY已关闭</item>
+        <item>TTY已满</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>正常</item>
+        <item>长</item>
+    </string-array>
+</resources>

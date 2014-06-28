@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d (de) zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d (de) ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) litere</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) litere mici</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă mică</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) litere mari</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o literă mare</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) cifre</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin o cifră</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) simboluri speciale</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin un simbol special</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d (de) caractere care nu sunt litere</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin un caracter care nu este literă</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicaţii pot citi notificările</item>
+        <item quantity="one">%d aplicaţie poate citi notificările</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cartela SIM este incorect. Mai aveţi %d încercări.</item>
+        <item quantity="one">Codul PIN pentru cartela SIM este incorect. Mai aveţi %d încercare, după care va trebui să contactaţi operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s imprimante găsite</item>
+        <item quantity="one">%1$s imprimantă găsită</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d (de) aplicaţii momentan în listă</item>
+        <item quantity="one">%1$d aplicaţie momentan în listă</item>
+    </plurals>
+</resources>

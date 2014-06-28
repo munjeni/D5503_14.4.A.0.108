@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>přibližná poloha</item>
+        <item>přesná poloha</item>
+        <item>GPS</item>
+        <item>vibrace</item>
+        <item>čtení kontaktů</item>
+        <item>úprava kontaktů</item>
+        <item>čtení seznamu hovorů</item>
+        <item>úprava seznamu hovorů</item>
+        <item>čtení kalendáře</item>
+        <item>úprava kalendáře</item>
+        <item>vyhledání sítí WLAN</item>
+        <item>oznámení</item>
+        <item>vyhledání vysílače mobilní sítě</item>
+        <item>volání na telefon</item>
+        <item>čtení zpráv SMS</item>
+        <item>psaní zpráv SMS</item>
+        <item>příjem zpráv SMS</item>
+        <item>příjem nouzových SMS</item>
+        <item>příjem zpráv MMS</item>
+        <item>příjem zpráv WAP push</item>
+        <item>odesílání zpráv SMS</item>
+        <item>čtení ICC SMS</item>
+        <item>psaní ICC SMS</item>
+        <item>úprava nastavení</item>
+        <item>vykreslení navrch</item>
+        <item>přístup k oznámením</item>
+        <item>fotoaparát</item>
+        <item>nahrávání zvuku</item>
+        <item>přehrávání zvuku</item>
+        <item>číst obsah schránky</item>
+        <item>upravit obsah schránky</item>
+        <item>tlačítka médií</item>
+        <item>zaměření zvuku</item>
+        <item>hlavní hlasitost</item>
+        <item>hlasitost hlasu</item>
+        <item>hlasitost vyzvánění</item>
+        <item>hlasitost médií</item>
+        <item>hlasitost budíku</item>
+        <item>hlasitost oznámení</item>
+        <item>hlasitost Bluetooth</item>
+        <item>Zakázat režim spánku</item>
+        <item>sledovat polohu</item>
+        <item>sledování energeticky náročného určování polohy</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrace</item>
+        <item>Čtení kontaktů</item>
+        <item>Úprava kontaktů</item>
+        <item>Čtení seznamu hovorů</item>
+        <item>Úprava seznamu hovorů</item>
+        <item>Čtení kalendáře</item>
+        <item>Úprava kalendáře</item>
+        <item>Poloha</item>
+        <item>Přidání oznámení</item>
+        <item>Poloha</item>
+        <item>Volání na telefon</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Příjem SMS/MMS</item>
+        <item>Odesílání SMS/MMS</item>
+        <item>Čtení SMS/MMS</item>
+        <item>Psaní SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslení navrch</item>
+        <item>Přístup k oznámením</item>
+        <item>Fotoaparát</item>
+        <item>Nahrávání zvuku</item>
+        <item>Přehrávání zvuku</item>
+        <item>Čtení obsahu schránky</item>
+        <item>Úprava obsahu schránky</item>
+        <item>Tlačítka médií</item>
+        <item>Zaměření zvuku</item>
+        <item>Hlavní hlasitost</item>
+        <item>Hlasitost hlasu</item>
+        <item>Hlasitost vyzvánění</item>
+        <item>Hlasitost médií</item>
+        <item>Hlasitost budíku</item>
+        <item>Hlasitost oznámení</item>
+        <item>Hlasitost Bluetooth</item>
+        <item>Zakázat režim spánku</item>
+        <item>Poloha</item>
+        <item>Určování polohy</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

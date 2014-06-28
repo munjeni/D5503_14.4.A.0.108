@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Režimo STAMINA funkcijos:
+
+• Išplėstinis budėjimo režimas
+Kai ekranas išjungtas, taupo energiją laikinai išjungdamas „WLAN“ ir mobiliuosius duomenis. Dauguma programų bus neaktyvios.
+Įjungus ekraną, telefonas veiks įprastai.
+Jei norite, kad veikiant išplėstiniu budėjimo režimu dalis programų būtų aktyvios, įtraukite jas į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS.
+
+• Išplėstinis naudojimas
+Kai prietaisas naudojamas, taupo energiją apribodamas aparatūros veikimą.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Kas yra STAMINA režimas?</u>"
+STAMINA režimas – tai „Sony™“ energijos taupymo funkcija. Ji pratęsia akumuliatoriaus veikimo trukmę pasyvindama funkcijas, kai ekranas išjungtas.
+
+"<u>Pagrindinis naudojimas</u>"
+Norėdami aktyvinti STAMINA režimą, naudokite jungiklį kitame ekrane.
+Išjungus ekraną visi tinklo duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios, kad būtų taupoma akumuliatoriaus energija.
+Įjungus ekraną, prietaisas veiks įprastai.
+
+"<u>Papildomas naudojimas</u>"
+Jei norite, kad dalis programų būtų aktyvios išjungus ekraną, įtraukite jas į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS.
+
+"<u>Pastaba</u>"
+Kai kurios programos gali netinkamai veikti pasyvintos budėjimo režimu. Jei programa netinkamai veikia, įtraukite ją į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS arba, jei tai nepadeda, pasyvinkite STAMINA režimą."</string>
+    <string name="location_based_wi_fi_label">Vieta pagrįstas „WLAN“</string>
+    <string name="location_based_wi_fi_descr">„WLAN“ aktyvinamas automatiškai, kai yra išsaugoto „WLAN“ tinklo diapazone</string>
+    <string name="powersaver_feature_wifi">„WLAN“ išjungtas</string>
+    <string name="install_wapi_certs">Įdiegti WLAN sertifikatus</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Valdyti „WLAN“, „Bluetooth“, skrydžio režimą, mobiliojo ryšio ir VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Įjungti „WLAN“</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">„WLAN“ nustatymai</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Pasirinkti „WLAN“</string>
+    <string name="wifi_starting">Įjungiamas „WLAN“…</string>
+    <string name="wifi_stopping">Išjungiamas „WLAN“…</string>
+    <string name="wifi_poor_network_detection_summary">Nenaudoti „WLAN“ tinklo, jei jo interneto ryšys nėra geras</string>
+    <string name="wifi_scan_always_available_summary">Leisti „Google“ vietos nustatymo paslaugai ir kitoms programoms ieškoti tinklų, net kai „WLAN“ išjungtas.</string>
+    <string name="wifi_scan_notify_text_location_on">Kad patobulintų vietos duomenų tikslumą ir kitais tikslais, „Google“ ir kitos programos gali ieškoti netoliese esančių tinklų, net jei „WLAN“ išjungtas. Jei nenorite, kad būtų ieškoma, eikite į „Papildomi“ > „Ieška visada galima“.</string>
+    <string name="wifi_scan_notify_text_location_off">Programos gali ieškoti netoliese esančių tinklų, net kai „WLAN“ yra išjungtas. Jei nenorite, kad būtų ieškoma, eikite į skiltį „Papildomi“ > „Ieška visada galima“.</string>
+    <string name="wifi_setting_sleep_policy_title">Palikti „WLAN“ įjungtą miego režimu</string>
+    <string name="wifi_suspend_optimizations">„WLAN“ optimizavimas</string>
+    <string name="wifi_suspend_optimizations_summary">Sumažinti akumuliatoriaus naudojimą, kai „WLAN“ įjungtas</string>
+    <string name="wifi_access_points">„WLAN“ tinklai</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Jei norite perž. pasiek. tinklus, įjunk. „WLAN“.</string>
+    <string name="wifi_empty_list_wifi_on">Ieškoma „WLAN“ ryšio tinklų…</string>
+    <string name="wifi_empty_list_user_restricted">Neturite leidimo keisti „WLAN“ tinklą</string>
+    <string name="wifi_required_info_text">Kad užbaigtumėte sąranką, planšetiniam kompiuteriui reikalinga prieiga prie „WLAN“. Baigę sąranką galėsite perjungti mobiliojo ryšio duomenis į „WLAN“ ir atvirkščiai.</string>
+    <string name="wifi_wps_setup_title">„WLAN“ apsaugotoji sąranka</string>
+    <string name="wifi_wps_onstart_pbc">Maršruto parinktuve paspauskite mygtuką „WLAN Protected Setup“ („WLAN“ apsaugotoji sąranka). Jis gali vadintis WPS arba ant jo gali būti nurodytas šis ženklas:</string>
+    <string name="wifi_wps_onstart_pin">Įveskite „WLAN“ maršruto parinktuvo PIN kodą %1$s. Sąranka gali trukti iki dviejų minučių.</string>
+    <string name="wifi_wps_connected">Prisijungta prie „WLAN“ tinklo „%s“</string>
+    <string name="wifi_scan_always_turnon_message">"Siekiant tiksliau nustatyti vietą ir dėl kitų priežasčių, „%1$s“ nori įjungti tinklų iešką, net kai „WLAN“ yra išjungtas.
+
+Ar leisti tai visoms norinčioms ieškoti programoms?"</string>
+    <string name="wifi_connect_failed_message">Telefonui nepavyko prisijungti prie šio „WLAN“ tinklo.</string>
+    <string name="wifi_advanced_titlebar">Išplėstinis „WLAN“</string>
+    <string name="wifi_setting_frequency_band_title">„WLAN“ dažnių juosta</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Perkeliam. „WLAN“ prieig tšk.</string>
+    <string name="wifi_tether_failed_subtext">Perkeliamojo „WLAN“ prieigos taško klaida</string>
+    <string name="wifi_tether_configure_ap_text">Nustatyti „WLAN“ prieigos tašką</string>
+    <string name="wifi_tether_configure_subtext">"%1$s perkeliamasis „WLAN“ prieigos taškas.
+Sauga: %2$s"</string>
+    <string name="status_wifi_mac_address">„WLAN“ MAC adresas</string>
+    <string name="location_mode_high_accuracy_description">Vietovę nustatyti naudojant GPS, „WLAN“ ir mobiliojo ryšio tinklus</string>
+    <string name="location_mode_battery_saving_description">Vietovę nustatyti naudojant „WLAN“ ir mobiliojo ryšio tinklus</string>
+    <string name="location_neighborhood_level">Leisti siųsti „Google“ anoniminius vietos duomenis. Taip pat leisti programoms naudoti duomenis iš „WLAN“ arba mobiliojo ryšio tinklų, kad būtų nustatyta jūsų apytikrė buvimo vieta.</string>
+    <string name="location_neighborhood_level_wifi">Pagal „WLAN“ nustatyta vieta</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">„WLAN“ laiku</string>
+    <string name="bluetooth_on_time">„WLAN“ laiku</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">„WLAN“ vykdoma</string>
+    <string name="usage_type_data_wifi_send">Išsiųsti „WLAN“ duomenys</string>
+    <string name="usage_type_data_wifi_recv">Gauti „WLAN“ duomenys</string>
+    <string name="battery_action_wifi">„WLAN“ nustatymai</string>
+    <string name="battery_desc_wifi">„WLAN“ naudojamas akumuliatorius</string>
+    <string name="battery_sugg_wifi">Išjungti „WLAN“, kai nenaudojamas arba negalimas</string>
+    <string name="gadget_toggle_wifi">Naujinamas „WLAN“ nustatymas</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Kurkite atsargines programos duomenų, „WLAN“ slaptažodžių ir kitų nustatymų kopijas „Google“ serveriuose</string>
+    <string name="backup_erase_dialog_message">Ar sustabdyti „WLAN“ slaptažodžių, žymių, kitų nustatymų ir paskyros duomenų atsarginių kopijų kūrimą ir ištrinti visas kopijas iš „Google“ serverių?</string>
+    <string name="wifi_setup_title">„WLAN“ nustatymas</string>
+    <string name="wifi_setup_title_editing_network">Prisijungimas prie „WLAN“ tinklo „%s“</string>
+    <string name="wifi_setup_title_connecting_network">Jungiamasi prie „WLAN“ tinklo „%s“...</string>
+    <string name="wifi_setup_title_connected_network">Prisijungta prie „WLAN“ tinklo „%s“</string>
+    <string name="wifi_setup_eap_not_supported">Negalite konfigūruoti EAP „WLAN“ ryšio, kai vykdomas nustatymas. Po nustatymo tai galite atlikti skiltyje „Nustatymai“ > „Belaidis ryšys ir tinklai“.</string>
+    <string name="wifi_setup_description_connected">Jei norite tęsti nustatymą, palieskite <b>Kitas</b>".
+
+Jei norite prisijungti prie kito „WLAN“ tinklo, palieskite "<b>Atgal</b>.</string>
+    <string name="data_usage_menu_show_wifi">Rodyti „WLAN“ naudojimą</string>
+    <string name="data_usage_disable_wifi_limit">Nustatyti „WLAN“ duomenų limitą</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Jei ribosite foninius mobiliojo ryšio duomenis, kai kurios programos ir paslaugos neveiks, nebent būsite prisijungę prie „WLAN“ tinklo.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jei apribosite foninius mobiliojo ryšio duomenis, kai kurios programos ir paslaugos neveiks, nebent prisijungsite prie „WLAN“ tinklo.
+
+
+
+Šis nustatymas turi įtakos visiems šio telefono naudotojams."</string>
+    <string name="data_usage_metered_body">Pasirinkite „WLAN“ tinklus, kurie yra mobiliojo ryšio prieigos taškai. Programose galima apriboti šių tinklų naudojimą, kai jos veikia fone. Be to, programose gali būti įspėjama prieš naudojant šiuos tinklus dideliems kiekiams duomenų atsisiųsti.</string>
+    <string name="data_usage_metered_wifi">„WLAN“ tinklai</string>
+    <string name="data_usage_metered_wifi_disabled">Norėdami pasirinkti mobiliuosius prieigos taškus, įjunkite „WLAN“.</string>
+    <string name="user_add_user_message_long">"Galite bendrai naudoti šį prietaisą su kitais žmonėmis kurdami papildomų naudotojų. Kiekvienam naudotojui suteikiama atskira vieta, kurią jie gali tinkinti įtraukdami savo programų, ekrano fonų ir pan. Be to, naudotojai gali koreguoti planšetinio kompiuterio nustatymus, pvz., „WLAN“, kurie turi įtakos visiems.
+
+
+
+Sukūrus naują naudotoją, tas asmuo turi įvykdyti sąrankos procesą.
+
+
+
+Bet kuris naudotojas gali priimti atnaujintų programų leidimus visų kitų naudotojų vardu."</string>
+    <string name="restriction_wifi_config_title">„WLAN“ ir mobilusis ryšys</string>
+    <string name="restriction_wifi_config_summary">Leisti keisti „WLAN“ ir mobiliojo ryšio nustatymus</string>
+    <string name="ct_wifi_connected_text">„China Telecom“ „WLAN“ prijungt.</string>
+    <string name="cw_network_priority">Prioritet. „China Telecom“ „WLAN“</string>
+    <string name="cw_network_priority_summary">„China Telecom“ „WLAN“ tinklams bus teikiamas prioritetas, palyginti su kitais „WLAN“ tinklais</string>
+    <string name="data_traffic_disabled_text">Nepavyko prisijungti prie „China Telecom“ „WLAN“ tinklų, nes pasyvintas duomenų srautas. Ar aktyvinti duomenų srautą dabar?</string>
+    <string name="location_based_wifi">Vieta pagrįstas „WLAN“</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatiškai prisijungti prie AT&amp;T „WLAN“ prieigos taško</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T „WLAN“ aut. prisij.</string>
+    <string name="wifi_calling_mode_title">„WLAN“ ryšys</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Keisti WLAN sertifikatą</string>
+    <string name="wifi_p2p_settings">„WLAN Direct“ nustatymai</string>
+    <string name="wifi_security_verbose_wapi_cert">Apsaugotas WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Apsaugotas WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Savo prietaisą galite naudoti kaip mobilųjį prieigos tašką. Taip galite prijungti prie „WLAN“ tinklo kitus prietaisus (daugiausia 10). Prijungti prietaisai turės prieigą prie interneto per telefono mobiliojo tinklo ryšį. Mobilusis prieigos taškas naudoja mobiliuosius duomenis, todėl gali būti taikomi papildomi mokesčiai.
+
+Mobilusis prieigos taškas naudoja daugiau akumuliatoriaus energijos. Prijunkite prietaisą prie maitinimo tinklo, kad pailgintumėte akumuliatoriaus veikimo trukmę."</string>
+    <string name="wifi_tether_settings_subtext">Nustatyti ir tvarkyti perkeliamąjį „WLAN“ prieigos tašką</string>
+    <string name="wifi_tether_settings_text">Perkel. „WLAN“ prieigos taško nust.</string>
+    <string name="wifi_wps_category_title">Nustatyti „WLAN“ tinklą</string>
+    <string name="cw_network_notification">Akty. pran. apie KT „WLAN“</string>
+    <string name="stamina_xssm_summary">Pasyvina mobiliuosius duomenis ir „WLAN“, kai ekranas išjungtas</string>
+    <string name="tethering_no_sim_warning_txt">Įdėkite SIM kortelę, kad prieigai prie interneto galėtumėte bendrai su kitais prietaisais naudotimobilųjį „WLAN“ prieigos tašką arba prijungti telefoną kaip modemą per USB.</string>
+    <string name="wifi_offload_checkbox_summary">Atidarant programas, pranešti atsiradus pasiekiamam „WLAN“ tinklui</string>
+    <string name="wifi_offload_checkbox_title">Rodyti „WLAN“ iššokan. langus</string>
+    <string name="wifi_offload_notify_available_networks">„WLAN“ pranešimai</string>
+    <string name="wifi_offload_notify_available_networks_summary">Pranešti, kai atsiras pasiekiamų „WLAN“ tinklų</string>
+    <string name="wifi_offload_option_title">Pasiekiami „WLAN tinklai</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/largeHeader" android:background="@color/somc_call_layout_header_bg" android:paddingTop="@dimen/incall_screen_header_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/incall_screen_call_large_header_tall_height" android:layoutDirection="locale" android:paddingStart="@dimen/incall_screen_header_padding_start" android:paddingEnd="@dimen/incall_screen_header_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <LinearLayout android:id="@id/callInfo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_state_information_text_size" android:id="@id/stateInformation" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/nameOrNumberAndFGIcon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/callInfo" android:layoutDirection="locale">
+        <view android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_call_large_header_text_size" android:ellipsize="end" android:id="@id/nameOrNumberFGCall" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" phone:maxTextSize="@dimen/incall_screen_call_large_header_text_normal_size" phone:minTextSize="@dimen/incall_screen_call_large_header_text_small_size" phone:maxTextLength="@dimen/incall_screen_call_large_header_text_max_length" class="com.android.phone.SomcContactTextView" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/nameOrNumberAndFGIcon" android:layoutDirection="locale">
+        <ImageView android:layout_gravity="center" android:id="@id/dialerLargeHeaderIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:layout_gravity="center" android:id="@id/hd_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_tel_hd_icon" android:paddingEnd="@dimen/incall_screen_hd_icon_padding_right" />
+        <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_calltime_text_size" android:id="@id/callTime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/incall_screen_calltime_margin_end" />
+        <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_contact_number_text_size" android:ellipsize="end" android:id="@id/phoneNumber" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_call_additionalcallid_text_size" android:id="@id/separatorOfNumberAndCityID" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/incall_screen_call_additionalcallid_text_size" android:ellipsize="end" android:id="@id/cityId" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/sipIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/incall_screen_contact_number_text_size" android:ellipsize="end" android:id="@id/sipUri" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</RelativeLayout>

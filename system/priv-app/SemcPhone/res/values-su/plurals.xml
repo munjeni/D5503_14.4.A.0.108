@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Teu aya samb dt salila %s mnt</item>
+        <item quantity="one">Teu aya samb dt salila %s mnt</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telepon bakal aya dina modeu telepon darurat salami %s menit. Dina ieu modeu, taya aplikasi nu nganggo sambungan data nu tiasa dianggo. Kaluar ayeuna?</item>
+        <item quantity="one">Telepon bakal aya dina modeu telepon darurat, lilana %s menit. Dina modeu ieu, moal aya aplikasi nu make sambungan data nu bisa dipake. Kaluar ayeuna?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Aksi nu dipilih teu sayagi lamun aya dina modeu telepon darurat%s menit. Kaluar ayeuna?</item>
+        <item quantity="one">Aksi nu dipilih teu sadia lamun aya dina modeu telepon darurat. Telepon bakal aya dina ieu mode salami%s menit. Kaluar ayeuna?</item>
+    </plurals>
+</resources>

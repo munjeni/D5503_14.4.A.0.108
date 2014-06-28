@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data kecuali anda menggunakan WLAN. Matikan sambungan data mudah alih?</string>
+    <string name="sip_call_options_wifi_only_title">Gunakan panggilan Internet (WLAN sahaja)</string>
+    <string name="registration_status_no_wifi_data">Tiada sambungan WLAN. Tidak boleh mendaftarkan akaun.</string>
+    <string name="no_wifi_available_title">Tiada sambungan WLAN</string>
+    <string name="no_wifi_available">Anda mesti bersambung ke rangkaian WLAN untuk membuat panggilan Internet (Pergi ke Tetapan > Wayarles &amp; rangkaian).</string>
+</resources>

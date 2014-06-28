@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Gróf staðsetning</item>
+        <item>Fín staðsetning</item>
+        <item>GPS</item>
+        <item>Titra</item>
+        <item>Lesa tengiliði</item>
+        <item>Breyta tengiliðum</item>
+        <item>Lesa símtalaskrá</item>
+        <item>Breyta símtalaskrá</item>
+        <item>Lesa dagatal</item>
+        <item>Breyta dagatali</item>
+        <item>WLAN skönnun</item>
+        <item>Tilkynning</item>
+        <item>Endurvarpaskönnun</item>
+        <item>Hringja í síma</item>
+        <item>Lesa skilaboð</item>
+        <item>Skrifa skilaboð</item>
+        <item>taka við skilaboðum</item>
+        <item>Taka við neyðarskilaboðum</item>
+        <item>Taka við MMS</item>
+        <item>Taka við WAP-vöktun</item>
+        <item>Senda skilaboð</item>
+        <item>Lesa ICC-skilaboð</item>
+        <item>Skrifa ICC-skilaboð</item>
+        <item>Breyta stillingum</item>
+        <item>Teikna ofan á</item>
+        <item>Opna tilkynningar</item>
+        <item>Myndavél</item>
+        <item>Taka upp hljóð</item>
+        <item>Spila hljóð</item>
+        <item>Lesa klippiborð</item>
+        <item>Breyta klippiborði</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Titra</item>
+        <item>Lesa tengiliði</item>
+        <item>Breyta tengiliðum</item>
+        <item>Lesa símtalaskrá</item>
+        <item>Breyta símtalaskrá</item>
+        <item>Lesa dagatal</item>
+        <item>Breyta dagatali</item>
+        <item>Staðsetning</item>
+        <item>Birta tilkynningu</item>
+        <item>Staðsetning</item>
+        <item>Hringja í síma</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Taka við skilaboðum/MMS</item>
+        <item>Senda skilaboð/MMS</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Breyta stillingum</item>
+        <item>Teikna ofan á</item>
+        <item>Opna tilkynningar</item>
+        <item>Myndavél</item>
+        <item>Taka upp hljóð</item>
+        <item>Spila hljóð</item>
+        <item>Lesa klippiborð</item>
+        <item>Breyta klippiborði</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

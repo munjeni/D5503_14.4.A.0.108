@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversations_string_send_mms_failed_connect_wifi">Anslut till WLAN om du vill skicka meddelandet</string>
+</resources>

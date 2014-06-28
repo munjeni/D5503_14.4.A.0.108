@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Sense conn. dades: %s min</item>
+        <item quantity="one">Sense conn. dades: %s min</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">"El telèfon estarà en mode de resposta de trucada d'emergència durant %s minuts. Mentre estigui en aquest mode, no es podran fer servir aplicacions que utilitzin una connexió de dades. Voleu sortir ara?"</item>
+        <item quantity="one">"El telèfon estarà en mode de resposta de trucada d'emergència durant %s minut. Mentre estigui en aquest mode, no es podran fer servir aplicacions que utilitzin una connexió de dades. Voleu sortir ara?"</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"L'acció seleccionada no està disponible mentre s'està en el mode de resposta de trucada d'emergència. El telèfon estarà en aquest mode durant%s minut. Voleu sortir ara?"</item>
+        <item quantity="one">"L'acció seleccionada no està disponible mentre s'està en el mode de resposta de trucada d'emergència. El telèfon estarà en aquest mode durant%s minut. Voleu sortir ara?"</item>
+    </plurals>
+</resources>

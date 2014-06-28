@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Poner en cola los datos en segundo plano</string>
+    <string name="auto_sync_text">Autosincronización</string>
+    <string name="wifi_tether_settings_text">Ajustes de áreas de conexión Wi-Fi portátiles</string>
+    <string name="stamina_xssm_add_applications_title">Aplicaciones activas en modo de espera</string>
+</resources>

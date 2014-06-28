@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="left" android:orientation="horizontal" android:id="@id/widgetMenu" android:background="@color/somc_widget_menu_background" android:layout_width="fill_parent" android:layout_height="@dimen/somc_incall_screen_widget_menu_height" android:translationY="@dimen/somc_incall_screen_widget_menu_translation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <HorizontalScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true">
+        <LinearLayout android:orientation="horizontal" android:id="@id/widgetItems" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </HorizontalScrollView>
+</LinearLayout>

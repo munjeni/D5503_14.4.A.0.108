@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.MessageItemLayout android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/message_item_date_separator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/date_separator_margin_horizontal" android:layout_marginEnd="@dimen/date_separator_margin_horizontal" style="?android:attr/listSeparatorTextViewStyle" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/generic_margin">
+        <ViewStub android:id="@id/message_item_bubble_stub" android:inflatedId="@id/message_item_bubble" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <CheckedTextView android:layout_gravity="end|top|center" android:id="@id/message_item_delete_checkbox" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bubble_checkbox_top_margin" android:checkMark="?android:listChoiceIndicatorMultiple" android:layout_marginStart="@dimen/bubble_checkbox_start_margin" android:layout_marginEnd="@dimen/bubble_checkbox_end_margin" />
+    </LinearLayout>
+</com.sonyericsson.conversations.ui.MessageItemLayout>

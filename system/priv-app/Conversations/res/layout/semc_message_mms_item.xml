@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.MessageItemMmsView android:orientation="vertical" android:focusable="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/message_item_mms_scrollview" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/message_item_mms_scrollview_item" android:padding="@dimen/readmore_expanded_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/message_item_mms_item" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="vertical" android:id="@id/message_item_mms_attachmentlist" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+</com.sonyericsson.conversations.ui.MessageItemMmsView>

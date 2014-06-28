@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Netwerkstandaard</item>
+        <item>Nummer verbergen</item>
+        <item>Nummer weergeven</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globaal</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Alleen EvDo</item>
+        <item>CDMA zonder EvDo</item>
+        <item>CDMA/EvDo automatisch</item>
+        <item>GSM/WCDMA automatisch</item>
+        <item>Alleen WCDMA</item>
+        <item>Alleen GSM</item>
+        <item>GSM/WCDMA (voorkeur)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Engels</item>
+        <item>Frans</item>
+        <item>Spaans</item>
+        <item>Japans</item>
+        <item>Koreaans</item>
+        <item>Chinees</item>
+        <item>Hebreeuws</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatisch modus)</item>
+        <item>Alleen WCDMA</item>
+        <item>Alleen GSM</item>
+        <item>GSM/WCDMA (voorkeur WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Alleen thuis</item>
+        <item>Automatisch</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Alleen thuisnetwerken</item>
+        <item>Partnernetwerken</item>
+        <item>Elk netwerk</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Alleen CDMA</item>
+        <item>Alleen EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY uit</item>
+        <item>TTY vol</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normaal</item>
+        <item>Lang</item>
+    </string-array>
+</resources>

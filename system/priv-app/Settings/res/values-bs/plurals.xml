@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d sata(i)</item>
+        <item quantity="one">%d sat</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Lozinka mora sadržavati barem %d slova</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Lozinka mora sadržavati barem %d malih slova</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 malo slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Lozinka mora sadržavati barem %d velikih slova</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 veliko slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Lozinka mora sadržavati barem %d numeričkih brojki</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 numeričku brojku</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Lozinka mora sadržavati barem %d specijalnih simbola</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 specijalni simbol</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Lozinka mora sadržavati barem %d znakova koji nisu slovni</item>
+        <item quantity="one">Lozinka mora sadržavati barem 1 znak koji nije slovni</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Sljedeći broj aplikacija ne može čitati obavještenja: %d</item>
+        <item quantity="one">%d aplikacija ne može čitati obavještenja</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Netačan SIM PIN kôd; broj preostalih pokušaja: %d.</item>
+        <item quantity="one">Netačan SIM PIN kôd, preostao vam je %d pokušaj prije obraćanja operateru radi otključavanja uređaja.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Nađeno štampača: %1$s</item>
+        <item quantity="one">Nađen je %1$s štampač</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Broj aplikacija koje su trenutno na spisku: %d</item>
+        <item quantity="one">%1$d aplikacija je trenutno na spisku</item>
+    </plurals>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controlador de mode eco</string>
+    <string name="dont_ask_me_again_txt">"No m'ho tornis a preguntar"</string>
+    <string name="description_msg_txt">"Quan la pantalla estigui desactivada, la Wi-Fi i les dades mòbils s'inhabilitaran temporalment, i bona part de les aplicacions estaran inactives. Continuareu rebent trucades de telèfon, missatges SMS/MMS i notificacions de calendari de Sony™, així com senyals d'alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran, i les baixades i les càrregues en progrés podran finalitzar.
+
+Quan la pantalla estigui activa, el telèfon funcionarà amb normalitat.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Si la pantalla està desactivada, el Wi-Fi i les dades mòbils estaran inhabilitats temporalment i, la majoria de les aplicacions, inactives. Continuareu rebent SMS i MMS, notific. de calendari de Sony™ i alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran i les baixades i càrregues en curs es podran finalitzar.
+
+Si la pantalla està activada, el dispositiu funcionarà correctament."</string>
+    <string name="description_msg_no_telephony_txt">"Si la pantalla està desactivada, la Wi-Fi estarà inhabilitada temporalment i, la majoria de les aplicacions, inactives. Continuareu rebent notificacions de calendari de Sony™ i alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran i les baixades i càrregues en curs es podran finalitzar.
+
+Si la pantalla està activada, el dispositiu funcionarà amb normalitat."</string>
+    <string name="description_title_txt">Nota!</string>
+    <string name="low_battery_mode_description_msg_txt">"Habiliteu Mode de bateria baixa per desactivar les funcions i paràmetres de consum d'energia quan la bateria estigui per sota d'un nivell predefinit. Puntegeu Mode de bateria baixa per canviar els paràmetres.
+"</string>
+    <string name="activate_txt">Activa</string>
+    <string name="cancel_txt">Cancel·la</string>
+    <string name="xssm_blocker_detector_title">Consell per a gestió energia</string>
+    <string name="xssm_blocker_detector_msg">%s impedeix que el mode STAMINA estalviï energia quan el dispositiu està inactiu</string>
+    <string name="xssm_blocker_detector_long_msg">"Si feu servir aquesta aplicació sovint, ignoreu aquest advertiment. En cas contrari, desinstal·leu l'aplicació o forceu-ne l'aturada."</string>
+    <string name="xssm_blocker_detector_ignore">"D'acord, no m'ho tornis a mostrar."</string>
+    <string name="network_detector_msg">%s envia i rep dades mentre la pantalla està desactivada, cosa que fa que la bateria es consumeixi més ràpidament.</string>
+    <string name="network_detector_long_msg">"Si la desinstal·leu, pot ser que el rendiment del dispositiu millori i que la durada de la bateria s'allargui."</string>
+    <string name="wakelock_detector_msg">"%s fa diverses setmanes que no s'utilitza."</string>
+    <string name="wakelock_detector_long_msg">"Pot fer que el dispositiu surti del mode d'espera. Si la desinstal·leu, pot ser que el rendiment del dispositiu millori i que la durada de la bateria s'allargui."</string>
+    <string name="notification_title_xssm">Consell per a gestió energia</string>
+    <string name="notification_text_xssm">Activa el mode STAMINA</string>
+    <string name="notification_descr_xssm">El vostre dispositiu està sovint inactiu. Podeu ampliar la durada de la bateria si activeu el mode STAMINA.</string>
+    <string name="notification_dont_show_again">"D'acord, no m'ho tornis a mostrar."</string>
+    <string name="notification_title_ps">Consell per a gestió energia</string>
+    <string name="notification_text_ps">Activeu el mode de bateria baixa</string>
+    <string name="notification_descr_ps">El mode de bateria baixa pot augmentar la durada de la bateria, per exemple mitjançant la desactivació de la Wi-Fi o mitjançant la reducció de la brillantor de la pantalla quan queda poca bateria.</string>
+    <string name="notification_title_lbw">Consell per a gestió energia</string>
+    <string name="notification_text_lbw">Activeu la Wi-Fi basada en ubicació</string>
+    <string name="notification_descr_lbw">La Wi-Fi està activada però fa una estona que no es fa servir. Podeu estalviar energia si activeu la Wi-Fi basada en ubicació.</string>
+    <string name="unused_application_title">"Consell d'administració d'energia"</string>
+    <string name="unused_application_msg">"Fa temps que no s'utilitza %s"</string>
+    <string name="unused_application_long_msg">"Si voleu conservar l'aplicació, ignoreu aquest advertiment. Altrament, desinstal·leu-la."</string>
+    <string name="unused_application_ignore">Sí. No ho tornis a mostrar.</string>
+    <string name="drain_dialog_title_txt">La bateria no es carrega</string>
+    <string name="drain_dialog_text_usb_txt">"La font d'energia connectada no és suficient. La bateria es descarrega més ràpid que no pas es carrega. Canvieu al carregador de CA."</string>
+    <string name="drain_dialog_text_wallcharger_txt">"La font d'energia connectada no és suficient. La bateria es descarrega més ràpid que no pas es carrega. Reduïu l'ús del dispositiu mentre es carrega."</string>
+    <string name="extend_battery_tip_dialog_headar">"Consell per gestionar l'energia"</string>
+    <string name="location_based_wifi_tip_dialog">La Wi-Fi està activada, però fa temps que no es fa servir. Per estalviar energia, activeu la Wi-Fi basada en la ubicació. Voleu configurar la Wi-Fi basada en la ubicació?</string>
+    <string name="low_battery_mode_tip_dialog">El mode de bateria baixa pot prolongar la bateria, per exemple, si desactiveu la Wi-Fi o reduïu la brillantor quan queda poca bateria. Voleu configurar el mode de bateria baixa?</string>
+    <string name="stamina_mode_tip_dialog">"El vostre dispositiu sovint es troba en mode d'espera. Prolongueu el temps de la bateria amb el mode STAMINA. Voleu configurar el mode STAMINA?"</string>
+    <string name="bad_app_notification">"L'aplicació següent està esgotant la bateria:"</string>
+    <string name="bad_standby_app_dialog">"%s està impedint que el mode STAMINA estalviï energia en mode d'espera. Si feu servir l'aplicació sovint, ignoreu l'avís. Si no és així, puntegeu el botó d'informació de l'aplicació i desinstal·leu-la o forceu-ne l'aturada."</string>
+    <string name="ignore_dialog_action">Omet</string>
+    <string name="app_info_dialog_action">"Inform. de l'aplicació"</string>
+    <string name="stamina_activation_notification">"El mode STAMINA s'ha activat"</string>
+    <string name="lowbattery_trigger_level_notification">Nivell de la bateria per sota de %d%%</string>
+    <string name="lowbattery_activated_notification">Mode de bateria baixa activat</string>
+    <string name="app_not_used_notification">"Fa temps que no s'utilitza l'aplicació:"</string>
+    <string name="app_not_used_tip_dialog">"Fa temps que no s'utilitza %s. Us recomanem que desinstal·leu l'aplicació per estalviar energia."</string>
+    <string name="no_action_dialog">No</string>
+    <string name="yes_action_dialog">Sí</string>
+    <string name="widget_remaining_battery_time">Temps de bateria estimat</string>
+    <string name="widget_name">Mode STAMINA</string>
+</resources>

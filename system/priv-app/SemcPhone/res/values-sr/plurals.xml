@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Bez pod. za povez. %s minuta</item>
+        <item quantity="one">Bez podat. za poveziv. %s min.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon će biti u režimu hitnog povratnog poziva %s minuta. Dok ste u ovom režimu, nije moguće koristiti aplikacije koje upotrebljavaju podatke za povezivanje. Želite li sada da izađete?</item>
+        <item quantity="one">Telefon će biti u režimu hitnog povratnog poziva %s minut. Dok ste u ovom režimu, nije moguće koristiti aplikacije koje upotrebljavaju podatke za povezivanje. Želite li sada da izađete?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izabrana radnja nije dostupna dok ste u režimu hitnog povratnog poziva. Telefon će biti u ovom režimu %s minuta. Želite li sada da izađete?</item>
+        <item quantity="one">Izabrana radnja nije dostupna dok ste u režimu hitnog povratnog poziva. Telefon će biti u ovom režimu %s minut. Želite li sada da izađete?</item>
+    </plurals>
+</resources>

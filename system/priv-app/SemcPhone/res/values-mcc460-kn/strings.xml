@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">ನೀವು WLAN ಬಳಸದ ಹೊರತು, ನಿಮಗೆ ಡೇಟಾ ಸಂಪರ್ಕವು ಅಗತ್ಯವಾಗಿರುವ ಇಂಟರ್ನೆಟ್, ಇಮೇಲ್ ಅಥವಾ ಇತರ ಆಪ್‌ಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ. ಮೊಬೈಲ್ ಡೇಟಾ ಸಂಪರ್ಕವನ್ನು ಆಫ್ ಮಾಡುವುದೇ?</string>
+    <string name="sip_call_options_wifi_only_title">ಇಂಟರ್‌ ನೆಟ್ ಕರೆಯುವಿಕೆ ಬಳಸಿ (WLAN ಮಾತ್ರ)</string>
+    <string name="registration_status_no_wifi_data">WLAN ಸಂಪರ್ಕ ಇಲ್ಲ. ಖಾತೆ ನೋಂದಾಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="no_wifi_available_title">WLAN ಸಂಪರ್ಕ ಇಲ್ಲ</string>
+    <string name="no_wifi_available">ಇಂಟರ್ ನೆಟ್ ಕರೆಯುವಿಕೆಗೆ ನೀವು WLAN ನೆಟ್ ವರ್ಕ್ ಒಂದಕ್ಕೆ ಸಂಪರ್ಕಿಸತಕ್ಕದ್ದು (ಸಂಯೋಜನೆಗಳು > ವೈರ್‌ಲೆಸ್ &amp; ನೆಟ್ ವರ್ಕ್‌ಗಳು).</string>
+</resources>

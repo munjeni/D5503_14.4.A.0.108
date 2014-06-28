@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Aplikazioei aukera ematen die zure kokapen zehatza jakiteko. Horretarako, GPS sistema edo sareko kokapen baliabideak erabiltzen ditu; hala nola seinale dorreak eta WLAN. Kokapen zerbitzuak aktibatuta eta erabilgarri jarri behar dituzute gailuan aplikazioak erabili ahal izateko. Aplikazioak non zauden jakiteko erabiliko du hori eta baliteke bateria gehiago kontsumitzea.</string>
+    <string name="permdesc_accessCoarseLocation">Aplikazioari zure gutxi gorabeherako kokapena lortzeko aukera ematen dio. Kokapen hori kokapen zerbitzuek lortzen dute sareko kokapen baliabideak erabiliz; hala nola seinale dorreak eta WLAN. Kokapen zerbitzu horiek erabilgarri eta aktibatuta jarri behar dira aplikazioak erabil ditzan. Aplikazioek, horri esker, gutxi gorabehera non zauden zehazten du.</string>
+    <string name="permlab_configureWifiDisplay">konfiguratu WLAN pantailak</string>
+    <string name="permdesc_configureWifiDisplay">Aplikazioari aukera ematen dio WLAN pantailak konfiguratzeko eta horietara konektatzeko.</string>
+    <string name="permlab_controlWifiDisplay">kontrolatu WLAN pantailak</string>
+    <string name="permdesc_controlWifiDisplay">Aplikazioari aukera ematen dio WLAN pantailen maila baxuko egingideak kontrolatzeko.</string>
+    <string name="permlab_accessWifiState">WLAN konexioak ikustea</string>
+    <string name="permdesc_accessWifiState">Aplikazioari WLAN sareei buruzko informazioa ikustea baimentzen dio, hala nola, WLAN konexioa gaituta dagoen eta konektatutako WLAN gailuen izena.</string>
+    <string name="permlab_changeWifiState">WLAN konektatzea edo deskonektatzea</string>
+    <string name="permdesc_changeWifiState">Aplikazioari WLAN sarbide puntuetara konektatzea eta haietatik deskonektatzea baimentzen dio, baita WLAN sareen gailu konfigurazioan aldaketa egitea ere.</string>
+    <string name="permlab_changeWifiMulticastState">"baimendu WLAN Multicast
+ harrera"</string>
+    <string name="permdesc_changeWifiMulticastState">Aplikazioari WLAN sareko gailu guztiei bidalitako paketeak jasotzea baimentzen dio multidifusioko helbideen bidez, ez soilik telefonoaren bidez. Multidifusiokoa ez den moduak baino bateria gehiago erabiltzen du.</string>
+    <string name="wifi_available_sign_in">Hasi saioa WLAN sarean</string>
+    <string name="wifi_watchdog_network_disabled">Ezin izan da WLAN sarera konektatu</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Hasi WLAN Direct. Horrela WLAN bezeroa edo sare publikoa desaktibatuko da.</string>
+    <string name="wifi_p2p_failed_message">Ezin izan da WLAN Direct abiarazi</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct aktibatuta dago</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonoa WLAN saretik deskonektatuko da aldi baterako, %1$s sarera konektatuta dagoen bitartean</string>
+    <string name="data_usage_wifi_limit_title">WLAN datuak desgaituta</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN datu muga gaindituta</string>
+    <string name="policylab_disableWifi">Desgaitu WLAN konexiorako sarbidea</string>
+    <string name="policydesc_disableWifi">Ekidin gailuko WLAN konexioak.</string>
+    <string name="wifi_disabled_notification_title">WLAN konexioa debekatuta dago</string>
+    <string name="wifi_disabled_notification_message">"Segurtasun gidalerro batek WLAN konexioa erabiltzea debekatzen du. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Ibiltaritzako WLANa abian da</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN sareko konexioa. Fakturazio inf.: 10000 zenbakia edo tokiko denda
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN konektatuta</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">China Telecom konpainiaren WLAN sarera konektatuko zara. Karguen xehetasunak eskuratzeko, jarri China Telecom-en bezeroarentzako arreta zerbitzuarekin harremanetan. Jarraitu?</string>
+    <string name="wifi_nonconcurrency_message">Hasi WLAN bezeroa. WLAN Direct deskonektatuko da.</string>
+    <string name="wifi_noncuncurrency_message">Hasi WLAN bezeroa. WLAN Direct deskonektatuko da.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Lehendik dauden WLAN konexioak deskonektatuko dira</string>
+    <string name="wifi_p2p_nonconcurrency_message">Hasi WLAN Direct. WLAN konexioa deskonektatuko da.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Dagoen WLAN konexioa deskonektatuko da.</string>
+    <string name="wifi_p2p_noncuncurrency_message">Hasi WLAN Direct. WLAN konexioa deskonektatuko da.</string>
+    <string name="tethered_notification_message_wifi">Desaktibatu HotSpot mugikorra WLAN konexioa aktibatzeko</string>
+    <string name="tethered_notification_title_wifi">WLAN konexioa desaktibatuta dago</string>
+</resources>

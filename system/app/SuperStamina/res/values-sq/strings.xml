@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontrolluesi i regjimit eko</string>
+    <string name="dont_ask_me_again_txt">Mos më pyet përsëri</string>
+    <string name="description_msg_txt">"Kur ekrani të jetë joaktiv, Wi-Fi dhe të dhënat celulare do të çaktivizohen përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Do të vazhdoni të merrni thirrjet telefonike, mesazhet SMS/MMS dhe njoftimet e kalendarit të Sony™ si edhe sinjalet e alarmit të Sony™. Riprodhuesi muzikor dhe radioja FM do të punojnë dhe shkarkimet e ngarkimet në zhvillim e sipër do të lejohen të mbarojnë.
+
+Kur ekrani të jetë aktiv, telefoni do të funksionojë normalisht.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kur ekrani është joaktiv, Wi-Fi dhe të dhënat celulare do të jenë të çaktivizuara përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Ju do të vazhdoni të merrni mesazhe SMS/MMS, njoftime të kalendarit Sony™ dhe sinjale alarmi Sony™. Riprodhuesi muzikor dhe radioja FM do të funksionojnë, si dhe shkarkimet dhe ngarkimet në zhvillim e sipër do të lejohen të përfundojnë.
+
+Kur ekrani është aktiv, pajisja juaj do të funksionojë normalisht."</string>
+    <string name="description_msg_no_telephony_txt">"Kur ekrani është joaktiv, Wi-Fi do të çaktivizohet përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Do të vazhdoni të merrni njoftime të kalendarit Sony™ dhe sinjale alarmi Sony™. Riprodhuesi muzikor dhe radioja FM do të funksionojnë, si dhe shkarkimet dhe ngarkimet në zhvillim e sipër do të lejohen të përfundojnë.
+
+Kur ekrani është aktiv, pajisja juaj do të funksionojë normalisht."</string>
+    <string name="description_title_txt">Shënim!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktivizoni Regjimin e baterisë së rënë për të çaktivizuar tiparet dhe cilësimet e harxhimit të energjisë kur bateria është nën një nivel të paracaktuar. Trokitni lehtë Regjimi i baterisë së rënë për të ndryshuar cilësimet.
+"</string>
+    <string name="activate_txt">Aktivizo</string>
+    <string name="cancel_txt">Anulo</string>
+    <string name="xssm_blocker_detector_title">Këshillë menaxhim energjie</string>
+    <string name="xssm_blocker_detector_msg">%s po parandalon regjimin STAMINA për të kursyer energji në gjendje gatishmërie</string>
+    <string name="xssm_blocker_detector_long_msg">Nëse e përdorni shpesh këtë aplikacion, shpërfilleni këtë paralajmërim. Nëse nuk e bëni, çinstalojeni ose detyrojeni aplikacionin të ndalojë.</string>
+    <string name="xssm_blocker_detector_ignore">E kuptova. Mos e trego përsëri.</string>
+    <string name="network_detector_msg">%s po dërgon dhe merr të dhëna ndërsa ekrani është joaktiv dhe kjo shkakton zbrazjen më me shpejtësi të baterisë.</string>
+    <string name="network_detector_long_msg">Çinstalimi i tij mund të përmirësojë cilësinë e funksionimit të pajisjes dhe zgjat kohën e baterisë.</string>
+    <string name="wakelock_detector_msg">%s ka disa javë pa u përdorur.</string>
+    <string name="wakelock_detector_long_msg">Ai mund ta zgjojë pajisjen nga regjimi Në gatishmëri. Çinstalimi i tij mund të përmirësojë cilësinë e funksionimit të pajisjes dhe zgjat kohën e baterisë.</string>
+    <string name="notification_title_xssm">Këshillë menaxhim energjie</string>
+    <string name="notification_text_xssm">Aktivizo regjimin STAMINA</string>
+    <string name="notification_descr_xssm">Pajisja juaj është në regjimin e gatishmërisë. Zgjatni kohën e baterisë duke aktivizuar regjimin STAMINA.</string>
+    <string name="notification_dont_show_again">E kuptova. Mos e trego përsëri.</string>
+    <string name="notification_title_ps">Këshillë menaxhim energjie</string>
+    <string name="notification_text_ps">Aktivizoni modalitetin e baterisë së rënë</string>
+    <string name="notification_descr_ps">Modaliteti i baterisë së rënë mund të zgjasë jetën e baterisë, p.sh. duke çaktivizuar Wi-Fi ose duke pakësuar ndriçimin e ekranit kur bateria është e rënë.</string>
+    <string name="notification_title_lbw">Këshillë menaxhim energjie</string>
+    <string name="notification_text_lbw">Aktivizoni Wi-Fi me bazë vendndodhje</string>
+    <string name="notification_descr_lbw">Wi-Fi është i ndezur, por nuk është përdorur për një kohë të caktuar. Kurseni energji duke aktivizuar Wi-Fi të bazuar te vendndodhja.</string>
+    <string name="unused_application_title">Këshillë për menaxhimin e energj.</string>
+    <string name="unused_application_msg">%s nuk është përdorur për njëfarë kohe</string>
+    <string name="unused_application_long_msg">Nëse dëshironi ta mbani këtë aplikacion, shpërfilleni këtë paralajmërim. Nëse jo, çinstalojeni aplikacionin.</string>
+    <string name="unused_application_ignore">E kuptova. Mos e afisho më.</string>
+    <string name="drain_dialog_title_txt">Bateria nuk po ngarkohet</string>
+    <string name="drain_dialog_text_usb_txt">Burimi i lidhur i energjisë nuk është i mjaftueshëm. Bateria po shkarkohet më shpejt se sa po mbushet. Ndërrojeni me ngarkuesin AC.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Burimi i lidhur i energjisë nuk është i mjaftueshëm. Bateria po shkarkohet më shpejt se sa po mbushet. Minimizoni përdorimin e pajisjes gjatë ngarkimit.</string>
+    <string name="extend_battery_tip_dialog_headar">Këshillë për menaxhimin e energjisë</string>
+    <string name="location_based_wifi_tip_dialog">Rrjeti Wi-Fi është aktiv por ka pak kohë që nuk përdoret. Mund ta ruani energjinë duke aktivizuar Wi-Fi sipas vendndodhjes. Të konfigurohet Wi-Fi sipas vendndodhjes?</string>
+    <string name="low_battery_mode_tip_dialog">Regjimi i nivelit të ulët të baterisë mund ta zgjasë jetën e baterisë duke çaktivizuar p.sh. Wi-Fi ose duke zvogëluar ndriçimin e ekranit kur niveli i baterisë është i ulët. Të konfigurohet regjimi i nivelit të ulët të baterisë?</string>
+    <string name="stamina_mode_tip_dialog">Pajisja juaj është shpesh në regjimin e gatishmërisë. Zgjatni jetën e baterisë duke aktivizuar regjimin STAMINA. Të konfigurohet regjimi STAMINA?</string>
+    <string name="bad_app_notification">Aplikacioni në vijim po e boshatis baterinë:</string>
+    <string name="bad_standby_app_dialog">%s po e pengon regjimin STAMINA të ruaj energjinë në regjimin e gatishmërisë. Nëse e përdorni shpesh këtë aplikacion, shpërfilleni këtë paralajmërim. Nëse jo, trokitni lehtë në butonin Informacioni i aplikacionit dhe çinstaloni ose ndaloni në mënyrë të detyruar aplikacionin.</string>
+    <string name="ignore_dialog_action">Injoro</string>
+    <string name="app_info_dialog_action">Inform. për aplikac.</string>
+    <string name="stamina_activation_notification">Regjimi STAMINA u aktivizua</string>
+    <string name="lowbattery_trigger_level_notification">Niveli i baterisë është nën %d%%</string>
+    <string name="lowbattery_activated_notification">Regj. niv. të ul. të baterisë u aktiviz.</string>
+    <string name="app_not_used_notification">Ky aplikacion ka pak kohë që nuk përdoret:</string>
+    <string name="app_not_used_tip_dialog">%s ka pak kohë që nuk përdoret. Rekomandojmë çinstalimin e aplikacionit për të kursyer energjinë.</string>
+    <string name="no_action_dialog">Jo</string>
+    <string name="yes_action_dialog">Po</string>
+    <string name="widget_remaining_battery_time">Koha e llogaritur e baterisë</string>
+    <string name="widget_name">Regjimi STAMINA</string>
+</resources>

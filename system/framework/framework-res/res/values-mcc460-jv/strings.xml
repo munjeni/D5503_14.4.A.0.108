@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Ngidini aplikasi kanggo nggoleki lokasi sampeyan kanthi pesthi nganggo Global Positioning System (GPS) utawa sumber lokasi jaringan kayata menara seluler lan WLAN. Layanan lokasi iku kudu diaktifke lan kasedhiya menyang piranti sampeyan kanggo digunakake aplikasi. Aplikasi bisa nggunakake iki kanggo nggoleki lokasi sampeyan, lan bisa uga nganggo luwih akeh daya baterei.</string>
+    <string name="permdesc_accessCoarseLocation">Ngidini aplikasi kanggo nggoleki perkiraan lokasi sampeyan. Lokasi iki dijupuk saka panyedhiya lokasi nggunakake sumber jaringan kayata menara seluler lan WLAN. Lokasi iki kudu diaktifke lan kasedhiya ing piranti supaya bisa digunakake aplikasi. Aplikasi iki bisa gunakake iki kanggo ngira-ira lokasi sampeyan.</string>
+    <string name="permlab_configureWifiDisplay">konfig layar WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Ngidini aplikasi kanggo ngonfigurasi lan nyambungke menyang layar WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kontrol layar WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Ngidini aplikasi kanggo ngontrol fitur tingkat rendah ing layar WLAN.</string>
+    <string name="permlab_accessWifiState">deleng sambungan WLAN</string>
+    <string name="permdesc_accessWifiState">Ngidini aplikasi ndeleng informasi babagan karingan WLAN, kayata manawa WLAN aktif lan jeneng piranti WLAN sing sinambung.</string>
+    <string name="permlab_changeWifiState">sambung lan pedhot saka WLAN</string>
+    <string name="permdesc_changeWifiState">Ngidini aplikasi nyambung menyang lan medhot sambungan saka jalur akses WLAN lan ngowahi konfigurasi piranti kanggo jaringan WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">ijini panariman WLAN Multicast</string>
+    <string name="permdesc_changeWifiMulticastState">Ngidini aplikasi nampa paket sing dikirim menyang kabeh piranti ing jaringan WLAN nganggo alamat multicast, ora mung menyang ponsel. Iki nggunakake daya luwih akeh tinimbang ing mode non-multicast.</string>
+    <string name="wifi_available_sign_in">Mlebu menyang jaringan WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Ora bisa nyambung menyang WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Wiwiti WLAN Direct. Iki bakal mateni klien/hotspot WLAN.</string>
+    <string name="wifi_p2p_failed_message">Ora bisa miwiti WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct aktif</string>
+    <string name="wifi_p2p_frequency_conflict_message">Ponsel bakal sawetara pedhot saka WLAN nalika kasambung menyang %1$s</string>
+    <string name="data_usage_wifi_limit_title">Data WLAN dipateni</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Kliwat watesan data WLAN</string>
+    <string name="policylab_disableWifi">Mateni dalan menyang WLAN</string>
+    <string name="policydesc_disableWifi">Ngalangi sambungan WLAN ing piranti.</string>
+    <string name="wifi_disabled_notification_title">Sambungan WLAN diwatesi</string>
+    <string name="wifi_disabled_notification_message">"Kabijakan kaamanan matesi panggunan WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming WLAN lagi laku</string>
+    <string name="ct_cplusw_notification_text">"Jaringan CT WLAN sinambung. Hubungi 10000 utawa toko lokal kggo info tagihan.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN China Telecom nyambung</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Sampeyan kahubung menyang jaringan WLAN China Telecom. Kanggo rincian biaya, hubungi layanan pelanggan China Telecom. Terusake?</string>
+    <string name="wifi_nonconcurrency_message">Wiwiti klien WLAN. Iki bakal medhot WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Wiwiti klien WLAN. Iki bakal medhot WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Sambungan WLAN sing kasedhiya bakal dipedhot</string>
+    <string name="wifi_p2p_nonconcurrency_message">Wiwiti WLAN Direct. Iki bakal medhot sambungan WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Iki bakal medhot sambungan WLAN sing kasedhiya</string>
+    <string name="wifi_p2p_noncuncurrency_message">Wiwiti WLAN Direct. Iki bakal medhot sambungan WLAN.</string>
+    <string name="tethered_notification_message_wifi">Pateni Mobile HotSpot kanggo nguripake WLAN maneh</string>
+    <string name="tethered_notification_title_wifi">WLAN dipateni</string>
+</resources>

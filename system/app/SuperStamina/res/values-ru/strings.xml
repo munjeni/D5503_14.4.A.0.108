@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Управление эко-режимом</string>
+    <string name="dont_ask_me_again_txt">Не спрашивать снова</string>
+    <string name="description_msg_txt">"Если экран выключен, Wi-Fi и передача мобильных данных будут временно выключены, а большинство приложений будет неактивно. Однако вы сможете получать телефонные вызовы, сообщения SMS/MMS, уведомления календаря Sony™ и сигналы будильника Sony™. Музыкальный проигрыватель и FM-радио будут работать, а текущие загрузки будут продолжены до завершения.
+
+Если экран включен, устройство будет работать как обычно.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Если экран выключен, Wi-Fi и мобильная передача данных будут временно выключены, а большинство приложений будет неактивно. Однако вы сможете получать сообщения SMS/MMS, уведомления календаря Sony™ и сигналы будильника Sony™. Музыкальный проигрыватель и FM-радио будут работать, а текущие загрузки будут продолжены до завершения.
+
+When the screen is on, your device will function normally."</string>
+    <string name="description_msg_no_telephony_txt">"Если экран выключен, Wi-Fi будет временно выключена, а большинство приложений будет неактивно. Однако вы сможете получать уведомления календаря Sony™ и сигналы будильника Sony™. Музыкальный проигрыватель и FM-радио будут работать, а текущие загрузки будут продолжены до завершения.
+
+Если экран включен, устройство будет работать как обычно."</string>
+    <string name="description_title_txt">Внимание!</string>
+    <string name="low_battery_mode_description_msg_txt">"Используйте режим энергосбережения, чтобы выключить потребляющие энергию функции, когда уровень заряда опустится ниже заданного уровня. Для изменения параметров коснитесь режима энергосбережения.
+"</string>
+    <string name="activate_txt">Включить</string>
+    <string name="cancel_txt">Отмена</string>
+    <string name="xssm_blocker_detector_title">Совет по электропитанию</string>
+    <string name="xssm_blocker_detector_msg">%s не позволяет режиму STAMINA экономить энергию в режиме ожидания</string>
+    <string name="xssm_blocker_detector_long_msg">Если вы используете это приложение часто, не обращайте внимание на это предупреждение. В противном случае удалите или принудительно остановите приложение.</string>
+    <string name="xssm_blocker_detector_ignore">Не показывать больше.</string>
+    <string name="network_detector_msg">%s отправляет и получает данные при выключенном экране и расходует заряд аккумулятора.</string>
+    <string name="network_detector_long_msg">Его удаление может повысить производительность устройства и сократить расход заряда аккумулятора.</string>
+    <string name="wakelock_detector_msg">%s не используется несколько недель.</string>
+    <string name="wakelock_detector_long_msg">Приложение может выводить устройство из режима ожидания. Его удаление может повысить производительность устройства и сократить расход заряда аккумулятора.</string>
+    <string name="notification_title_xssm">Совет по электропитанию</string>
+    <string name="notification_text_xssm">Включить режим STAMINA</string>
+    <string name="notification_descr_xssm">Ваше устройство часто находится в режиме ожидания. Продлите время работы от аккумулятора, включив режим STAMINA.</string>
+    <string name="notification_dont_show_again">Не показывать больше.</string>
+    <string name="notification_title_ps">Совет по электропитанию</string>
+    <string name="notification_text_ps">Включить режим энергосбережения</string>
+    <string name="notification_descr_ps">Режим энергосбережения позволяет продлить время работы от аккумулятора, например за счет выключения Wi-Fi или снижения яркости экрана.</string>
+    <string name="notification_title_lbw">Совет по электропитанию</string>
+    <string name="notification_text_lbw">Включить Wi-Fi с геолокацией</string>
+    <string name="notification_descr_lbw">Функция Wi-Fi включена, но не используется некоторое время. Экономьте энергию за счет включения Wi-Fi с геолокацией.</string>
+    <string name="unused_application_title">Совет по электропитанию</string>
+    <string name="unused_application_msg">Приложение %s не использовалось некоторое время</string>
+    <string name="unused_application_long_msg">Если требуется сохранить приложение, пропустите это предупреждение. Если нет, удалите приложение.</string>
+    <string name="unused_application_ignore">Не показывать снова.</string>
+    <string name="drain_dialog_title_txt">Аккумулятор не заряжается</string>
+    <string name="drain_dialog_text_usb_txt">Подключенного источника питания недостаточно. Аккумулятор разряжается быстрее, чем происходит его зарядка. Подключите зарядное устройство, работающее от сети.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Подключенного источника питания недостаточно. Аккумулятор разряжается быстрее, чем происходит его зарядка. Сократите использование устройства во время зарядки.</string>
+    <string name="extend_battery_tip_dialog_headar">Совет по управлению электропитанием</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi включена, но не используется. Можно экономить энергию, включив функцию \"Wi-Fi по местоположению\". Настроить эту функцию?</string>
+    <string name="low_battery_mode_tip_dialog">Режим энергосбережения продлевает время работы от аккумулятора за счет, например, выключения Wi-Fi или снижения яркости экрана, когда аккумулятор разряжен. Настроить режим энергосбережения?</string>
+    <string name="stamina_mode_tip_dialog">Ваше устройство часто находится в режиме ожидания. Экономьте энергию аккумулятора, включив режим STAMINA. Настроить режим STAMINA?</string>
+    <string name="bad_app_notification">Это приложение расходует заряд:</string>
+    <string name="bad_standby_app_dialog">%s не дает режиму STAMINA экономить энергию в режиме ожидания. Если это приложение используется часто, пропустите это предупреждение. Если нет, коснитесь кнопки сведений о приложении и либо удалите его, либо остановите принудительно.</string>
+    <string name="ignore_dialog_action">Игнорировать</string>
+    <string name="app_info_dialog_action">О приложении</string>
+    <string name="stamina_activation_notification">Режим STAMINA включен</string>
+    <string name="lowbattery_trigger_level_notification">Уровень заряда ниже %d%%</string>
+    <string name="lowbattery_activated_notification">Режим энергосбереж. включен</string>
+    <string name="app_not_used_notification">Это приложение не используется:</string>
+    <string name="app_not_used_tip_dialog">Приложение %s не используется. Для экономии энергии рекомендуется удалить приложение.</string>
+    <string name="no_action_dialog">Нет</string>
+    <string name="yes_action_dialog">Да</string>
+    <string name="widget_remaining_battery_time">Приблизительное время работы от аккумулятора</string>
+    <string name="widget_name">Режим STAMINA</string>
+</resources>

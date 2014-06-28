@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA-tilstand omfatter:
+
+• Udvidet standby
+Sparer strøm, når skærmen er slukket, ved at deaktivere WLAN og mobildata midlertidigt. De fleste programmer vil være inaktive.
+Når skærmen er TÆNDT, fungerer din telefon normalt.
+Hvis nogle apps skal være aktive, mens Udvidet tilstand er slået TIL, skal du føje appsene til listen APPS AKTIVE I STANDBY.
+
+• Udvidet brug
+Sparer strøm, når din enhed er i brug, ved at begrænse hardwarens ydeevne.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Hvad er STAMINA-tilstand?</u>"
+STAMINA-tilstand er en strømsparefunktion fra Sony™. Den forlænger batteriets levetid ved at deaktivere funktionalitet, mens skærmen er slukket.
+
+"<u>Basisbrug</u>"
+Tryk på knappen på næste skærmbillede for at aktivere STAMINA-tilstand. 
+Når skærmen er slukket, er alle netværksdata midlertidigt deaktiveret, og de fleste af dine programmer er inaktive for at spare batteri.
+Når skærmen er tændt, fungerer din enhed normalt.
+
+"<u>Avanceret brug</u>"
+Hvis du vil bevare nogle programmer aktive, når skærmen er slukket, skal du blot føje dem til listen APPS AKTIVE I STANDBY.
+
+"<u>Bemærk</u>"
+Nogle programmer fungerer muligvis ikke korrekt, når de er deaktiveret i standby. Hvis et program ikke fungerer korrekt, skal du føje det til listen APPS AKTIVE I STANDBY. Hvis dette ikke virker, kan du deaktivere STAMINA-tilstand."</string>
+    <string name="location_based_wi_fi_label">Placeringsbaseret WLAN</string>
+    <string name="location_based_wi_fi_descr">WLAN aktiveres automatisk, når enheden er inden for rækkevidden af et gemt WLAN-netværk</string>
+    <string name="powersaver_feature_wifi">WLAN fra</string>
+    <string name="install_wapi_certs">Installér WLAN-certifikater</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Administrer WLAN, Bluetooth, flytilstand, mobilnetværk og VPN-netværk</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Aktiver WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Indstillinger for WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Vælg WLAN</string>
+    <string name="wifi_starting">Aktiverer WLAN...</string>
+    <string name="wifi_stopping">Deaktiverer WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">Brug kun et WLAN-netværk, hvis det har en god internetforbindelse</string>
+    <string name="wifi_scan_always_available_summary">Lad Googles placeringstjeneste og andre apps scanne efter netværk, selv når WLAN er slået fra</string>
+    <string name="wifi_scan_notify_text_location_on">Google og andre apps scanner muligvis efter netværk i nærheden, selv når WLAN er slukket, for at forbedre placeringsnøjagtighed m.m. Hvis du ikke ønsker dette, kan du gå til Avanceret > Scanning er altid tilgængelig.</string>
+    <string name="wifi_scan_notify_text_location_off">Apps kan søge efter netværk i nærheden, selv når WLAN er slukket. Hvis du ikke ønsker, at dette sker, skal du gå til Avanceret > Scanning er altid tilgængelig.</string>
+    <string name="wifi_setting_sleep_policy_title">Lad WLAN være aktiv i dvaletilstand</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimering</string>
+    <string name="wifi_suspend_optimizations_summary">Minimer batteribrug, når WLAN er slået til</string>
+    <string name="wifi_access_points">WLAN-netværk</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Aktiver WLAN for at få vist tilgængelige netværk.</string>
+    <string name="wifi_empty_list_wifi_on">Søger efter WLAN-netværk...</string>
+    <string name="wifi_empty_list_user_restricted">Du har ikke tilladelse til at ændre WLAN-netværket.</string>
+    <string name="wifi_required_info_text">Din tablet skal have adgang til WLAN for at kunne fuldføre konfigurationen. Efter konfigurationen kan du skifte mellem mobildata og WLAN.</string>
+    <string name="wifi_wps_setup_title">WLAN-beskyttet konfiguration</string>
+    <string name="wifi_wps_onstart_pbc">Tryk på WLAN-beskyttet konfiguration på din router. Det kaldes muligvis \"WPS\" eller indeholder dette symbol:</string>
+    <string name="wifi_wps_onstart_pin">Indtast pinkoden %1$s på din WLAN-router. Konfigurationen kan tage op til to minutter at fuldføre.</string>
+    <string name="wifi_wps_connected">Forbundet til WLAN-netværk %s</string>
+    <string name="wifi_scan_always_turnon_message">"For at kunne angive en mere nøjagtig placering og af andre grunde ønsker %1$s at aktivere netværksscanning, selv når WLAN er deaktiveret.
+
+Vil du tillade dette for alle apps, der ønsker at scanne?"</string>
+    <string name="wifi_connect_failed_message">Telefonen kunne ikke oprette forbindelse til dette WLAN-netværk.</string>
+    <string name="wifi_advanced_titlebar">Avanceret WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvensbåndet for WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Bærbart WLAN-hotspot</string>
+    <string name="wifi_tether_failed_subtext">Fejl ved bærbart WLAN-hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguration af WLAN-hotspot</string>
+    <string name="wifi_tether_configure_subtext">"%1$s bærbart WLAN-hotspot.
+Sikkerhed: %2$s"</string>
+    <string name="status_wifi_mac_address">MAC-adresse for WLAN</string>
+    <string name="location_mode_high_accuracy_description">Brug GPS-signal, WLAN- og mobilnetværk til at fastlægge placering</string>
+    <string name="location_mode_battery_saving_description">Brug WLAN- og mobilnetværk til at fastlægge placering</string>
+    <string name="location_neighborhood_level">Tillad, at anonyme placeringsdata sendes til Google. Tillad også, at udvalgte apps anvender data fra kilder såsom WLAN- og mobilnetværk til at bestemme din omtrentlige placering.</string>
+    <string name="location_neighborhood_level_wifi">Placering fastlægges af WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN til tiden</string>
+    <string name="bluetooth_on_time">WLAN til tiden</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN kører</string>
+    <string name="usage_type_data_wifi_send">WLAN-data blev sendt</string>
+    <string name="usage_type_data_wifi_recv">WLAN-data blev modtaget</string>
+    <string name="battery_action_wifi">Indstillinger for WLAN</string>
+    <string name="battery_desc_wifi">Batteri brugt af WLAN</string>
+    <string name="battery_sugg_wifi">Deaktiver WLAN, når det ikke er i brug eller ikke er tilgængeligt</string>
+    <string name="gadget_toggle_wifi">Opdaterer WLAN-indstilling</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Sikkerhedskopier appdata, WLAN-adgangskoder og andre indstillinger på Googles servere</string>
+    <string name="backup_erase_dialog_message">Vil du stoppe sikkerhedskopieringen af dine WLAN-adgangskoder, bogmærker, andre indstillinger og appdata samt slette alle kopier på Googles servere?</string>
+    <string name="wifi_setup_title">WLAN-opsætning</string>
+    <string name="wifi_setup_title_editing_network">Forbundet til WLAN-netværket %s</string>
+    <string name="wifi_setup_title_connecting_network">Forbundet til WLAN-netværket %s</string>
+    <string name="wifi_setup_title_connected_network">Forbundet til WLAN-netværket %s</string>
+    <string name="wifi_setup_eap_not_supported">Du kan ikke konfigurere en EAP-WLAN-forbindelse under opsætningen. Efter opsætningen kan du gøre dette i Indstillinger > Trådløst og netværk.</string>
+    <string name="wifi_setup_description_connected">Tryk på <b>Næste</b>" for at fortsætte opsætningen.
+
+Tryk på "<b>Tilbage</b> for at oprette forbindelse til et andet WLAN-netværk.</string>
+    <string name="data_usage_menu_show_wifi">Vis WLAN-forbrug</string>
+    <string name="data_usage_disable_wifi_limit">Angiv grænse for WLAN-data</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Hvis du begrænser brugen af mobildata i baggrunden, vil visse apps og tjenester ikke fungere, medmindre du har forbindelse til et WLAN-netværk.</string>
+    <string name="data_usage_restrict_background_multiuser">"Hvis du begrænser mobildata, der kører i baggrunden, vil nogle apps og tjenester ikke fungere, hvis du ikke har forbindelse til et WLAN-netværk.
+
+
+
+Denne indstilling påvirker alle brugere på denne telefon."</string>
+    <string name="data_usage_metered_body">Vælg de WLAN-netværk, som er mobilhotspots. Apps kan være forhindret i at bruge disse netværk, når de kører i baggrunden. Apps kan også advare dig, før disse netværk bliver brugt til store downloads.</string>
+    <string name="data_usage_metered_wifi">WLAN-netværk</string>
+    <string name="data_usage_metered_wifi_disabled">Hvis du vil vælge mobilhotspots, skal du slå WLAN til.</string>
+    <string name="user_add_user_message_long">"Du kan dele denne enhed med andre personer ved at oprette yderligere brugere. Hver bruger har deres egen plads, som de kan tilpasse med deres egne apps, baggrunde osv. Brugerne kan også ændre indstillinger på tabletten, der påvirker alle, f.eks. indstillinger for WLAN.
+
+
+
+Når du opretter en ny bruger, skal denne person gennemgå en oprettelsesproces.
+
+
+
+Alle brugere kan acceptere opdaterede apptilladelser på vegne af alle andre brugere."</string>
+    <string name="restriction_wifi_config_title">WLAN og mobil</string>
+    <string name="restriction_wifi_config_summary">Tillad ændring af WLAN- og mobilindstillinger</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN forbundet</string>
+    <string name="cw_network_priority">Prioriter China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN-netværk vil blive prioriteret i forhold til andre WLAN-netværk ved forbindelse</string>
+    <string name="data_traffic_disabled_text">Kunne ikke oprette forbindelse til China Telecom WLAN-netværk, da datatrafik er deaktiveret. Aktiver datatrafik nu?</string>
+    <string name="location_based_wifi">Placeringsbaseret WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatisk forbindelse til AT&amp;T WLAN-hotspot</string>
+    <string name="operator_auto_connect_hotspot_txt">Auto. forbind. til AT&amp;T WLAN</string>
+    <string name="wifi_calling_mode_title">WLAN-opkald</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Skift WLAN-certifikat</string>
+    <string name="wifi_p2p_settings">WLAN Direct-indstillinger</string>
+    <string name="wifi_security_verbose_wapi_cert">Sikret med WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Sikret med WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Du kan bruge din enhed som et mobilt hotspot. Det giver andre enheder (højst 10) mulighed for at oprette forbindelse til din enhed via et WLAN-netværk. De forbundne enheder får adgang til internettet via din telefons mobile netværksforbindelse. Det mobile hotspot bruger mobildata og kan medføre yderligere gebyrer.
+
+Det mobile hotspot forbruger mere batteri. Tilslut enheden til en strømforsyning for at forlænge batteriets levetid."</string>
+    <string name="wifi_tether_settings_subtext">Konfigurer og administrer bærbart WLAN-hotspot</string>
+    <string name="wifi_tether_settings_text">Indstill. for bærbart WLAN-hotspot</string>
+    <string name="wifi_wps_category_title">Installer WLAN-netværk</string>
+    <string name="cw_network_notification">Aktiver CT WLAN-meddelelse</string>
+    <string name="stamina_xssm_summary">Deaktiverer mobildata og WLAN, når skærmen er slukket</string>
+    <string name="tethering_no_sim_warning_txt">Isæt et SIM-kort for at dele din telefons dataforbindelse med andre enheder ved hjælp af Mobile WLAN HotSpot eller USB-internetdeling for at få adgang til internettet.</string>
+    <string name="wifi_offload_checkbox_summary">Fortæl mig, hvornår WLAN er tilgængelig, når apps åbnes</string>
+    <string name="wifi_offload_checkbox_title">Vis WLAN-pop op-vinduer</string>
+    <string name="wifi_offload_notify_available_networks">WLAN-beskeder</string>
+    <string name="wifi_offload_notify_available_networks_summary">Giv mig besked, når WLAN-netværk er tilgængelige</string>
+    <string name="wifi_offload_option_title">Tilgængelige WLAN-netværk</string>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>lokasi sementara</item>
+        <item>lokasi terperinci</item>
+        <item>GPS</item>
+        <item>getar</item>
+        <item>membaca kontak</item>
+        <item>ubah kontak</item>
+        <item>baca log panggilan</item>
+        <item>ubah log panggilan</item>
+        <item>membaca kalender</item>
+        <item>ubah kalender</item>
+        <item>pemindaian WLAN</item>
+        <item>pemberitahuan</item>
+        <item>pemindaian seluler</item>
+        <item>telepon</item>
+        <item>baca SMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS darurat</item>
+        <item>terima MMS</item>
+        <item>terima WAP push</item>
+        <item>kirim SMS</item>
+        <item>baca ICC SMS</item>
+        <item>tulis ICC SMS</item>
+        <item>ubah setelan</item>
+        <item>gambar di atas</item>
+        <item>akses pemberitahuan</item>
+        <item>kamera</item>
+        <item>rekam audio</item>
+        <item>putar audio</item>
+        <item>baca papan klip</item>
+        <item>ubah papan klip</item>
+        <item>tombol media</item>
+        <item>fokus audio</item>
+        <item>volume master</item>
+        <item>volume suara</item>
+        <item>volume dering</item>
+        <item>volume media</item>
+        <item>volume alarm</item>
+        <item>volume pemberitahuan</item>
+        <item>volume bluetooth</item>
+        <item>tetap aktif</item>
+        <item>monitor lokasi</item>
+        <item>memantau lokasi berdaya tinggi</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Getar</item>
+        <item>Baca kontak</item>
+        <item>Ubah kontak</item>
+        <item>Baca log panggilan</item>
+        <item>Ubah log panggilan</item>
+        <item>Baca kalender</item>
+        <item>Ubah kalender</item>
+        <item>Lokasi</item>
+        <item>Pos pemberitahuan</item>
+        <item>Lokasi</item>
+        <item>Panggil nomor telepon</item>
+        <item>Baca SMS/MMS</item>
+        <item>Tulis SMS/MMS</item>
+        <item>Terima SMS/MMS</item>
+        <item>Terima SMS/MMS</item>
+        <item>Terima SMS/MMS</item>
+        <item>Terima SMS/MMS</item>
+        <item>Kirim SMS/MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>Tulis SMS/MMS</item>
+        <item>Ubah setelan</item>
+        <item>Gambar di atas</item>
+        <item>Akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekam audio</item>
+        <item>Putar audio</item>
+        <item>Baca papan klip</item>
+        <item>Ubah papan klip</item>
+        <item>Tombol media</item>
+        <item>Fokus audio</item>
+        <item>Volume utama</item>
+        <item>Volume suara</item>
+        <item>Volume dering</item>
+        <item>Volume media</item>
+        <item>Volume alarm</item>
+        <item>Volume pemberitahuan</item>
+        <item>Volume bluetooth</item>
+        <item>Tetap aktif</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

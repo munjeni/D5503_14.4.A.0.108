@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"מצב STAMINA כולל:
+
+• מצב המתנה מורחב
+חוסך חשמל כאשר המסך כבוי על-ידי השבתה זמנית של WLAN ונתונים סלולריים. רוב היישומים לא יהיו פעילים.
+כאשר המסך מופעל, הטלפון יפעל כרגיל.
+אם ברצונך להשאיר חלק מהיישומים פעילים כאשר מצב המתנה מורחב מופעל, הוסף את היישומים לרשימה 'יישומים פעילים במצב המתנה'.
+
+• שימוש מורחב
+חוסך חשמל כאשר ההתקן נמצא בשימוש על-ידי הגבלת ביצועי החומרה.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint">‏<u>מהו מצב STAMINA?</u>"
+מצב STAMINA הוא פונקציה לחיסכון בחשמל של Sony™‎. פונקציה זו מאריכה את חיי הסוללה על-ידי השבתת פונקציונליות כאשר המסך כבוי.
+
+"<u>שימוש בסיסי </u>"
+כדי להפעיל את מצב STAMINA, השתמש במתג במסך הבא. 
+כאשר המסך כבוי, כל נתוני הרשת יושבתו באופן זמני, ורוב היישומים לא יהיו פעילים כדי לחסוך סוללה.
+כאשר המסך מופעל, ההתקן יפעל כרגיל.
+
+"<u>שימוש מתקדם</u>"
+אם ברצונך להשאיר יישומים פעילים כאשר המסך כבוי, הוסף אותם לרשימה 'יישומים פעילים במצב המתנה'.
+
+"<u>הערה</u>"
+ייתכן שחלק מהיישומים לא יפעלו כראוי כאשר יושבתו במצב המתנה. אם יישום כלשהו לא פועל כראוי, הוסף אותו לרשימה 'יישומים פעילים במצב המתנה'. אם פתרון זה לא עובד, הפוך את מצב STAMINA לבלתי פעיל."</string>
+    <string name="location_based_wi_fi_label">‏WLAN מבוסס מיקום</string>
+    <string name="location_based_wi_fi_descr">‏WLAN מופעל באופן אוטומטי כאשר הוא נמצא בטווח של רשת WLAN שנשמרה</string>
+    <string name="powersaver_feature_wifi">‏WLAN כבוי</string>
+    <string name="install_wapi_certs">התקן אישורי WLAN</string>
+    <string name="wifi_security_wapi_psk">‏WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">‏WLAN CERT</string>
+    <string name="radio_controls_summary">ניהול רשתות WLAN‏, Bluetooth, מצב טיסה, רשתות לנייד ורשתות VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">הפעל WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">הגדרות WLAN</string>
+    <string name="wifi_settings_title">‏WLAN</string>
+    <string name="wifi_setup_wizard_title">בחר WLAN</string>
+    <string name="wifi_starting">מפעיל WLAN...</string>
+    <string name="wifi_stopping">מכבה WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">אל תשתמש ברשת WLAN, אלא אם יש לה חיבור אינטרנט טוב</string>
+    <string name="wifi_scan_always_available_summary">אפשר לשירות המיקום של Google וליישומים אחרים לסרוק כדי למצוא רשתות, גם כש-WLAN כבוי.</string>
+    <string name="wifi_scan_notify_text_location_on">"כדי לשפר את מידת הדיוק מבחינת מיקום ולהשגת יתרונות נוספים, יישומים של Google ויישומים נוספים עשויים לבצע סריקה לאיתור רשתות קרובות, גם כאשר ה-WLAN כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
+    <string name="wifi_scan_notify_text_location_off">"יישומים עשויים לבצע סריקה לאיתור רשתות קרובות, גם אם ה-WLAN כבוי. אם אינך מעוניין בכך, עבור אל 'מתקדם' > 'סריקה זמינה תמיד'."</string>
+    <string name="wifi_setting_sleep_policy_title">‏WLAN פעיל בזמן המתנה</string>
+    <string name="wifi_suspend_optimizations">אופטימיזציה ל-WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">צמצם את השימוש בסוללה כאשר WLAN מופעל</string>
+    <string name="wifi_access_points">רשתות WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">כדי לראות את הרשתות הזמינות, הפעל את WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">מחפש רשתות WLAN ...</string>
+    <string name="wifi_empty_list_user_restricted">אין לך הרשאה לשנות את רשת ה-WLAN</string>
+    <string name="wifi_required_info_text">כדי להשלים את ההתקנה, הטאבלט צריך גישה ל-WLAN. לאחר ההתקנה, תוכל לעבור בין רשת נתונים לנייד ובין WLAN.</string>
+    <string name="wifi_wps_setup_title">התקנה מוגנת של WLAN</string>
+    <string name="wifi_wps_onstart_pbc">לחץ על כפתור ה-WLAN Protected Setup בנתב שלך. ייתכן שבמקום שם זה יופיע הכיתוב \"WPS\" או הסמל הזה:</string>
+    <string name="wifi_wps_onstart_pin">הזן את מספר PIN %1$s בנתב ה-WLAN שלך. השלמת ההתקנה עשויה להימשך עד שתי דקות.</string>
+    <string name="wifi_wps_connected">מחובר לרשת WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"לשיפור דיוק המיקום ולמטרות אחרות, %1$s מבקש להפעיל סריקת רשתות, גם כאשר WLAN כבוי.
+
+האם להתיר זאת עבור כל היישומים שמבקשים לסרוק?"</string>
+    <string name="wifi_connect_failed_message">הטלפון לא הצליח להתחבר לרשת WLAN זו.</string>
+    <string name="wifi_advanced_titlebar">WLAN מתקדם</string>
+    <string name="wifi_setting_frequency_band_title">רצועת תדרי WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">‏שיתוף אינטרנט ע\"י WLAN</string>
+    <string name="wifi_tether_failed_subtext">שגיאה בנקודה חמה ניידת של WLAN</string>
+    <string name="wifi_tether_configure_ap_text">הגדר נקודה חמה של WLAN</string>
+    <string name="wifi_tether_configure_subtext">"‏%1$s נקודה חמה של WLAN נייד.
+אבטחה: %2$s"</string>
+    <string name="status_wifi_mac_address">כתובת MAC של WLAN</string>
+    <string name="location_mode_high_accuracy_description">‏השתמש ב-GPS‏, ב-WLAN וברשתות סלולריות לקביעת המיקום</string>
+    <string name="location_mode_battery_saving_description">השתמש ב-WLAN וברשתות סלולריות לקביעת המיקום</string>
+    <string name="location_neighborhood_level">אפשר שליחה של נתוני מיקום אנונימיים אל Google. כמו כן, אפשר ליישומים מורשים להשתמש בנתונים ממקורות כגון רשתות WLAN ורשתות סלולריות כדי לקבוע את המיקום המשוער שלך.</string>
+    <string name="location_neighborhood_level_wifi">המיקום נקבע באמצעות WLAN</string>
+    <string name="wifi_display_certification_summary">‏הצג אפשרויות עבור אישור של תצוגת WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">זמן פעולת WLAN</string>
+    <string name="bluetooth_on_time">זמן פעולת WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN פועל</string>
+    <string name="usage_type_data_wifi_send">‏נתוני WLAN נשלחו</string>
+    <string name="usage_type_data_wifi_recv">‏נתוני WLAN התקבלו</string>
+    <string name="battery_action_wifi">הגדרות WLAN</string>
+    <string name="battery_desc_wifi">סוללה בשימוש על ידי WLAN</string>
+    <string name="battery_sugg_wifi">כבה את WLAN כשאינו בשימוש או כשאין רשת זמינה</string>
+    <string name="gadget_toggle_wifi">מעדכן את הגדרת WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">גיבוי לשרתי Google של נתוני יישומים, סיסמאות WLAN והגדרות נוספות</string>
+    <string name="backup_erase_dialog_message">להפסיק לגבות את הסיסמאות, הסימניות, הגדרות נוספות ונתוני יישומים של WLAN, ולמחוק את כל העותקים שנמצאים בשרתי Google?</string>
+    <string name="wifi_setup_title">הגדרת WLAN</string>
+    <string name="wifi_setup_title_editing_network">התחבר לרשת ה-WLAN‏ %s</string>
+    <string name="wifi_setup_title_connecting_network">מתחבר לרשת ה-WLAN‏ %s…</string>
+    <string name="wifi_setup_title_connected_network">מחובר לרשת ה-WLAN‏ %s</string>
+    <string name="wifi_setup_eap_not_supported">"לא ניתן להגדיר חיבור WLAN של EAP במהלך ההגדרה. לאחר ההגדרה, תוכל לעשות זאת ב'הגדרות' > 'חיבורים אלחוטיים ורשתות'."</string>
+    <string name="wifi_setup_description_connected">גע ב<b>הבא</b>" כדי להמשיך בהגדרה.
+
+גע ב"<b>הקודם</b> כדי להתחבר לרשת WLAN אחרת.</string>
+    <string name="data_usage_menu_show_wifi">הצג שימוש ב-WLAN</string>
+    <string name="data_usage_disable_wifi_limit">הגדר מגבלה לנתוני WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">אם תגביל את נתוני הרקע של מכשירים ניידים, יישומים ושירותים מסוימים לא יפעלו עד שתתחבר לרשת WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"אם תגביל את נתוני הרקע לנייד, יישומים ושירותים מסוימים לא יפעלו אלא אם אתה מחובר לרשת WLAN‏.
+
+
+
+הגדרה זו משפיעה על כל המשתמשים בטלפון הזה."</string>
+    <string name="data_usage_metered_body">בחר את רשתות ה-WLAN שהן נקודות חמות לנייד. ניתן להגביל את השימוש שיישומים עושים ברשתות אלה כאשר הם פועלים ברקע. יישומים יכולים גם להציג אזהרה לפני שימוש ברשתות אלה לביצוע הורדות גדולות.</string>
+    <string name="data_usage_metered_wifi">רשתות WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">כדי לבחור נקודות חמות לנייד, הפעל את ה-WLAN.</string>
+    <string name="user_add_user_message_long">"‏אתה יכול לשתף את המכשיר הזה עם אנשים אחרים על ידי יצירת משתמשים נוספים. לכל משתמש יש שטח משלו שהוא יכול להתאים אישית עם יישומים, תמונת רקע וכן הלאה. משתמשים יכולים גם להתאים את הגדרות הטאבלט, כגון WLAN, שמשפיעות על כולם.
+
+‏לאחר יצירת משתמש חדש, עליו לבצע תהליך הגדרה.‏
+
+‏כל משתמש יכול לקבל הרשאות יישום מעודכנות בשם כל המשתמשים האחרים.‏"</string>
+    <string name="restriction_wifi_config_title">רשת WLAN ורשת לנייד</string>
+    <string name="restriction_wifi_config_summary">אפשר שינוי של הגדרות רשת WLAN ורשת לנייד</string>
+    <string name="ct_wifi_connected_text">"מחו' ל-WLAN של China Telecom"</string>
+    <string name="cw_network_priority">"תן עדיפ' ל-China Telecom WLAN"</string>
+    <string name="cw_network_priority_summary">"הרש' WLAN של China Telecom יקבלו עדיפות על-פני רשתות ה-WLAN אחרות בבחירת הרשת לחיבור"</string>
+    <string name="data_traffic_disabled_text">אין אפשרות להתחבר לרשתות הסלולריות של China Telecom מכיוון שחיבור הנתונים מושבת. האם להפעיל עכשיו את חיבור הנתונים?</string>
+    <string name="location_based_wifi">‏WLAN מבוסס מיקום</string>
+    <string name="operator_auto_connect_hotspot_description_txt">התחבר אוטומטית לנקודה חמה של AT&amp;T WLAN</string>
+    <string name="operator_auto_connect_hotspot_txt">"חיבור אוט' AT&amp;T WLAN"</string>
+    <string name="wifi_calling_mode_title">"התק' עם WLAN"</string>
+    <string name="wifi_context_menu_change_wapi_certificate">שנה אישור WLAN</string>
+    <string name="wifi_p2p_settings">הגדרות WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">מאובטח עם WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">מאובטח עם WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"באפשרותך להשתמש בהתקן שלך כנקודה חמה ניידת. הדבר מאפשר להתקנים אחרים (10 לכל היותר) להתחבר אליו דרך רשת WLAN. להתקנים המחוברים תהיה גישה לאינטרנט דרך חיבור הרשת הסלולרית של הטלפון. נקודה חמה ניידת משתמשת בנתונים סלולריים ועלולה לגרור חיובים נוספים.
+
+נקודה חמה ניידת צורכת מתח סוללה נוסף. חבר את ההתקן לשקע חשמל כדי להאריך את חיי הסוללה."</string>
+    <string name="wifi_tether_settings_subtext">הגדר ונהל נקודה חמה ניידת של WLAN</string>
+    <string name="wifi_tether_settings_text">הגדרות נקודה חמה ניידת של WLAN</string>
+    <string name="wifi_wps_category_title">הגדר רשת WLAN</string>
+    <string name="cw_network_notification">הפעל התראה על CT WLAN</string>
+    <string name="stamina_xssm_summary">משבית נתונים סלולריים ו-WLAN כאשר המסך כבוי</string>
+    <string name="tethering_no_sim_warning_txt">הכנס כרטיס SIM כדי לשתף את חיבור הנתונים של הטלפון עם התקנים אחרים באמצעות Mobile WLAN HotSpot או באמצעות USB tethering לקבלת גישה לאינטרנט.</string>
+    <string name="wifi_offload_checkbox_summary">בעת פתיחת יישומים, דווח לי מתי WLAN זמין</string>
+    <string name="wifi_offload_checkbox_title">הצג חלונות קופצים של WLAN</string>
+    <string name="wifi_offload_notify_available_networks">התראות WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">דווח לי כאשר רשתות WLAN זמינות</string>
+    <string name="wifi_offload_option_title">רשתות WLAN זמינות</string>
+</resources>

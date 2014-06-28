@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/add_media_item" android:minHeight="@dimen/generic_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/add_media_item_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/generic_padding" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/add_media_item_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/generic_padding" android:paddingEnd="@dimen/generic_padding" style="?android:attr/textAppearanceMedium" />
+</LinearLayout>

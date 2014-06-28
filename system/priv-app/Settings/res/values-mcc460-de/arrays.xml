@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Ungefährer Standort</item>
+        <item>Genauer Standort</item>
+        <item>GPS</item>
+        <item>Vibration</item>
+        <item>Kontakte lesen</item>
+        <item>Kontakte ändern</item>
+        <item>Anrufliste lesen</item>
+        <item>Anrufliste ändern</item>
+        <item>Kalender lesen</item>
+        <item>Kalender ändern</item>
+        <item>WLAN-Scan</item>
+        <item>Benachrichtigung</item>
+        <item>Mobilfunknetz-Scan</item>
+        <item>Telefonieren</item>
+        <item>SMS lesen</item>
+        <item>SMS schreiben</item>
+        <item>SMS empfangen</item>
+        <item>Notfall-SMS empfangen</item>
+        <item>MMS empfangen</item>
+        <item>WAP-Push-Nachricht empfangen</item>
+        <item>SMS senden</item>
+        <item>ICC-SMS lesen</item>
+        <item>ICC-SMS schreiben</item>
+        <item>Einstellungen ändern</item>
+        <item>An oberste Position ziehen</item>
+        <item>Auf Benachrichtigungen zugreifen</item>
+        <item>Kamera</item>
+        <item>Audio aufnehmen</item>
+        <item>Audio wiedergeben</item>
+        <item>Zwischenablage lesen</item>
+        <item>Zwischenablage ändern</item>
+        <item>Medienschaltflächen</item>
+        <item>Audiofokus</item>
+        <item>Gesamtlautstärke</item>
+        <item>Sprachlautstärke</item>
+        <item>Klingeltonlautstärke</item>
+        <item>Medienlautstärke</item>
+        <item>Weckerlautstärke</item>
+        <item>Benachrichtigungslautstärke</item>
+        <item>Bluetooth-Lautstärke</item>
+        <item>aktiv lassen</item>
+        <item>Standort beobachten</item>
+        <item>Orte mit hohem Stromverbrauch überwachen</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Standort</item>
+        <item>Standort</item>
+        <item>Standort</item>
+        <item>Vibration</item>
+        <item>Kontakte lesen</item>
+        <item>Kontakte ändern</item>
+        <item>Anrufprotokoll lesen</item>
+        <item>Anrufprotokoll ändern</item>
+        <item>Kalender lesen</item>
+        <item>Kalender ändern</item>
+        <item>Standort</item>
+        <item>Benachrichtigung posten</item>
+        <item>Standort</item>
+        <item>Anrufen</item>
+        <item>SMS/MMS lesen</item>
+        <item>SMS/MMS schreiben</item>
+        <item>SMS/MMS empfangen</item>
+        <item>SMS/MMS empfangen</item>
+        <item>SMS/MMS empfangen</item>
+        <item>SMS/MMS empfangen</item>
+        <item>SMS/MMS senden</item>
+        <item>SMS/MMS lesen</item>
+        <item>SMS/MMS schreiben</item>
+        <item>Einstellungen ändern</item>
+        <item>An oberste Position ziehen</item>
+        <item>Auf Benachrichtigungen zugreifen</item>
+        <item>Kamera</item>
+        <item>Audio aufnehmen</item>
+        <item>Audio abspielen</item>
+        <item>Zwischenablage lesen</item>
+        <item>Zwischenablage ändern</item>
+        <item>Medienschaltflächen</item>
+        <item>Audiofokus</item>
+        <item>Gesamtlautstärke</item>
+        <item>Sprachlautstärke</item>
+        <item>Klingeltonlautstärke</item>
+        <item>Medienlautstärke</item>
+        <item>Weckerlautstärke</item>
+        <item>Benachrichtigungslautstärke</item>
+        <item>Bluetooth-Lautstärke</item>
+        <item>Aktiv lassen</item>
+        <item>Standort</item>
+        <item>Ort</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

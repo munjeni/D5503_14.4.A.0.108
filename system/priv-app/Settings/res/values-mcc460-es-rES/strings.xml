@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"El modo STAMINA incluye:
+
+• Modo en espera ampliado
+Ahorra energía cuando la pantalla está desactivada al deshabilitar temporalmente WLAN y datos móviles. La mayoría de las aplicaciones estarán inactivas.
+Una vez activada la pantalla, el dispositivo funcionará con normalidad.
+Si desea mantener activas algunas aplicaciones cuando el modo en espera ampliado está activado, solo tiene que añadirlas a la lista APLICACIONES ACTIVAS EN MODO EN ESPERA.
+
+• Uso ampliado
+Ahorra energía cuando el dispositivo está en uso al restringir el rendimiento de hardware.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>¿Qué es el modo STAMINA?</u>"
+El modo STAMINA es una función de ahorro de energía de Sony™. Amplía la duración de la batería deshabilitando la funcionalidad cuando la pantalla está desactivada.
+
+"<u>Uso básico</u>"
+Para activar el modo STAMINA, use el interruptor que aparece en la pantalla siguiente.
+Cuando la pantalla esté desactivada, todos los datos de red se deshabilitarán temporalmente y la mayoría de las aplicaciones estarán inactivas para ahorrar batería.
+Una vez activada la pantalla, el dispositivo funcionará con normalidad.
+
+"<u>Uso avanzado</u>"
+Si desea mantener activas algunas aplicaciones cuando la pantalla esté desactivada, sólo tiene que añadirlas a la lista APLICACIONES ACTIVAS EN MODO EN ESPERA.
+
+"<u>Nota</u>"
+Es posible que algunas aplicaciones no funcionen correctamente cuando se deshabilitan en el modo en espera. Si este es el caso, añada la aplicación a la lista APLICACIONES ACTIVAS EN MODO EN ESPERA o, si este método no funciona, desactive el modo STAMINA."</string>
+    <string name="location_based_wi_fi_label">WLAN basado en ubicación</string>
+    <string name="location_based_wi_fi_descr">La opción WLAN se activará automáticamente cuando te encuentres en el ámbito de una red WLAN guardada.</string>
+    <string name="powersaver_feature_wifi">WLAN desactivada</string>
+    <string name="install_wapi_certs">Instalar certificados WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Gestionar WLAN, Bluetooth, modo avión, redes móviles y VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Activar WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Ajustes de WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Seleccionar WLAN</string>
+    <string name="wifi_starting">Activando WLAN</string>
+    <string name="wifi_stopping">Desactivando WLAN</string>
+    <string name="wifi_poor_network_detection_summary">No usar una red WLAN a menos que tenga una buena conexión a Internet</string>
+    <string name="wifi_scan_always_available_summary">Permita que el servicio de ubicación de Google y otras aplicaciones realicen una búsqueda de redes, incluso con la conexión WLAN desactivada.</string>
+    <string name="wifi_scan_notify_text_location_on">Para mejorar la precisión de ubicación y por otros motivos, Google y otras aplicaciones pueden buscar redes cercanas, incluso con la conexión WLAN desactivada. Si no desea que esto ocurra, vaya a Opciones avanzadas > Búsqueda siempre disponible.</string>
+    <string name="wifi_scan_notify_text_location_off">Las aplicaciones pueden buscar redes cercanas, incluso con la conexión WLAN desactivada. Si no desea que esto ocurra, vaya a Opciones avanzadas > Búsqueda siempre disponible.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN en modo suspensión</string>
+    <string name="wifi_suspend_optimizations">Optimización de WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimizar el uso de la batería cuando la conexión WLAN está activada</string>
+    <string name="wifi_access_points">Redes WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Para ver las redes disponibles, activa WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Buscando redes WLAN…</string>
+    <string name="wifi_empty_list_user_restricted">No tiene permiso para cambiar la red WLAN</string>
+    <string name="wifi_required_info_text">Para completar la configuración, el tablet necesita acceder a la conexión WLAN. Después de la configuración, puede cambiar entre los datos móviles y la conexión WLAN.</string>
+    <string name="wifi_wps_setup_title">Configuración WLAN Protected</string>
+    <string name="wifi_wps_onstart_pbc">Pulsa el botón Configuración WPS del router. Es posible que se llame WPS o que incluya este símbolo:</string>
+    <string name="wifi_wps_onstart_pin">Introduce el código PIN %1$s en el router WLAN. El proceso de configuración puede tardar hasta dos minutos.</string>
+    <string name="wifi_wps_connected">Conexión establecida con la red WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de ubicación y por otros motivos, %1$s desea activar la búsqueda de redes, incluso con la conexión WLAN desactivada.
+
+¿Desea permitir que puedan realizar búsquedas todas las aplicaciones que lo deseen?"</string>
+    <string name="wifi_connect_failed_message">El móvil no ha podido conectarse a esta red WLAN.</string>
+    <string name="wifi_advanced_titlebar">WLAN avanzado</string>
+    <string name="wifi_setting_frequency_band_title">Banda de frecuencia de WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Zona WLAN portátil</string>
+    <string name="wifi_tether_enabled_subtext">Zona WLAN portátil %1$s activa</string>
+    <string name="wifi_tether_failed_subtext">Error de zona WLAN portátil</string>
+    <string name="wifi_tether_configure_ap_text">Configurar área de conexión WLAN</string>
+    <string name="wifi_tether_configure_subtext">"Área de conexión WLAN portátil %1$s.
+Seguridad: %2$s"</string>
+    <string name="wifi_tether_configure_ssid_default">Zona WLAN Android</string>
+    <string name="status_wifi_mac_address">Dirección MAC de WLAN</string>
+    <string name="tether_settings_title_wifi">Zona WLAN portátil</string>
+    <string name="tether_settings_title_all">Vinculación y zona WLAN portátil</string>
+    <string name="location_mode_high_accuracy_description">Usar GPS, WLAN y redes móviles para determinar la ubicación</string>
+    <string name="location_mode_battery_saving_description">Usar WLAN y redes móviles para determinar la ubicación</string>
+    <string name="location_neighborhood_level">Permitir que se envíen a Google datos de ubicación anónimos y que aplicaciones permitidas usen datos de fuentes (p. ej. redes móviles y WLAN) para determinar ubicaciones</string>
+    <string name="location_neighborhood_level_wifi">Ubicación determinada por WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN a tiempo</string>
+    <string name="bluetooth_on_time">WLAN a tiempo</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN en ejecución</string>
+    <string name="usage_type_data_wifi_send">Datos WLAN enviados</string>
+    <string name="usage_type_data_wifi_recv">Datos WLAN recibidos</string>
+    <string name="battery_action_wifi">Ajustes de WLAN</string>
+    <string name="battery_desc_wifi">Batería utilizada por WLAN</string>
+    <string name="battery_sugg_wifi">Desactiva WLAN cuando no lo estés utilizando o cuando no esté disponible.</string>
+    <string name="gadget_toggle_wifi">Actualizando ajustes WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Hacer copia de seguridad de los datos de aplicaciones, contraseñas WLAN y otros ajustes en servidores Google.</string>
+    <string name="backup_erase_dialog_message">¿Quieres impedir la copia de seguridad de tus contraseñas WLAN, favoritos, otros ajustes y datos de aplicaciones y además borrar todas las copias en los servidores Google?</string>
+    <string name="wifi_setup_title">Configuración WLAN</string>
+    <string name="wifi_setup_title_editing_network">Conectar a la red WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Conectando a la red WLAN %s...</string>
+    <string name="wifi_setup_title_connected_network">Conectado a la red WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">No puedes configurar una conexión WLAN EAP durante la configuración. Después, podrás hacerlo en Ajustes > Conexiones inalámbricas y redes.</string>
+    <string name="wifi_setup_description_connected">Toca <b>Siguiente</b>" para continuar con la configuración.
+Toca "<b>Atrás</b> para conectarte a una red WLAN diferente.</string>
+    <string name="data_usage_menu_show_wifi">Mostrar uso de WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Establecer límite de datos WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Si restringes los datos móviles de referencia, algunas aplicaciones y servicios no funcionarán a no ser que te conectes a una red WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Si restringe los datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que esté conectado a una red WLAN.
+
+
+
+Este ajuste afecta a todos los usuarios de este móvil."</string>
+    <string name="data_usage_metered_body">Selecciona las redes WLAN que sean áreas de conexión móviles. Se puede impedir que las aplicaciones usen estas redes cuando se ejecuten en segundo plano. Asimismo, las aplicaciones pueden mostrar un mensaje de advertencia antes de usar estas redes para descargar archivos de gran tamaño.</string>
+    <string name="data_usage_metered_wifi">Redes WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Para seleccionar áreas de conexión móviles, activa el WLAN.</string>
+    <string name="user_add_user_message_long">"Puede compartir este dispositivo con otras personas creando usuarios adicionales. Cada usuario tendrá su propio espacio, que puede personalizar con sus propias aplicaciones, fondos, etc. Los usuarios también pueden configurar los ajustes del tablet como la conexión WLAN que afecta a todos.
+
+
+
+Después de crear un usuario nuevo, esa persona tiene que realizar un proceso de configuración.
+
+Cualquier usuario puede aceptar permisos de aplicaciones actualizadas de parte del resto de usuarios."</string>
+    <string name="restriction_wifi_config_title">WLAN y móvil</string>
+    <string name="restriction_wifi_config_summary">Permitir la modificación de los ajustes de WLAN y móvil</string>
+    <string name="ct_wifi_connected_text">WLAN de China Telecom conect.</string>
+    <string name="cw_network_priority">Priorizar WLAN de China Telecom</string>
+    <string name="cw_network_priority_summary">Las redes WLAN de China Telecom tendrán prioridad sobre otras redes WLAN en conexión.</string>
+    <string name="data_traffic_disabled_text">No se pudo conectar a las redes WLAN de China Telecom ya que el tráfico de datos está deshabilitado. ¿Habilitar ahora tráfico de datos?</string>
+    <string name="location_based_wifi">WLAN basado en ubicación</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Conectarse automáticamente al área de conexión WLAN de AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Conexión WLAN de AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Llamadas por WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Cambiar Certificado WLAN</string>
+    <string name="wifi_p2p_settings">Ajustes de WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Protegida con WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Protegida con WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Puede utilizar el dispositivo como un área de conexión móvil. Esto permite a otros dispositivos (un máximo de 10) conectarse a él a través de una red WLAN. Los dispositivos conectados tendrán acceso a Internet a través de la conexión de red móvil del móvil. El área de conexión móvil utiliza datos móviles y puede dar lugar a tarifas adicionales.
+
+El área de conexión móvil consume más batería. Conecte el dispositivo a una toma de corriente para ampliar la duración de la batería."</string>
+    <string name="wifi_tether_settings_subtext">Configurar y administrar un área de conexión WLAN portátil</string>
+    <string name="wifi_tether_settings_text">Ajustes área conexión WLAN portátil</string>
+    <string name="wifi_wps_category_title">Configurar red WLAN</string>
+    <string name="cw_network_notification">Habilitar notif. WLAN de CT</string>
+    <string name="stamina_xssm_summary">Desactiva los datos móviles y el WLAN cuando la pantalla está apagada.</string>
+    <string name="tethering_no_sim_warning_txt">Inserte la tarjeta SIM para compartir la conexión de datos del móvil con otros dispositivos utilizando un área de conexión WLAN móvil o el uso compartido de USB para el acceso a Internet.</string>
+    <string name="wifi_offload_checkbox_summary">Al abrir las aplicaciones, indíqueme cuándo WLAN está disponible.</string>
+    <string name="wifi_offload_checkbox_title">Mostrar elem. emerg. WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Notificaciones de WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Notificarme cuando haya redes WLAN disponibles.</string>
+    <string name="wifi_offload_option_title">Redes WLAN disponibles</string>
+</resources>

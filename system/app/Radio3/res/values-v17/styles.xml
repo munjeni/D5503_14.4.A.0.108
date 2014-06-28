@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FmRadioApplicationTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:actionBarStyle">@style/CustomActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="ScanProgressDialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="BiDiEnabledDialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="FavoriteItemStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:paddingStart">@dimen/favorite_item_padding_start</item>
+    </style>
+    <style name="HeaderIndicatorTextStyle">
+        <item name="android:gravity">end</item>
+    </style>
+    <style name="InsertHeadphonesTextStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:paddingStart">@dimen/insert_headphones_text_padding_start</item>
+        <item name="android:paddingEnd">@dimen/insert_headphones_text_padding_end</item>
+    </style>
+    <style name="ClusterItemStyle">
+        <item name="android:paddingEnd">@dimen/cluster_list_item_padding</item>
+    </style>
+</resources>

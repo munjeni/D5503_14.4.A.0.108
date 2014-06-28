@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">குழு அழைப்பு பங்கேற்பாளர்கள்</string>
+    <string name="add_fdn_contact">நிலையான டயலிங் தொடர்பைச் சேர்க்கவும்</string>
+    <string name="delete_fdn_contact">நிலையான டயலிங் தொடர்பை நீக்கு</string>
+    <string name="sip_call_options_title">இணைய அழைப்பைப் பயன்படுத்தவும்</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">מאפשר ליישום לקבל את המיקום המדויק שלך באמצעות מערכת המיקום הגלובלית (GPS) או מקורות מיקום ברשת כגון אנטנות סלולריות ו-WLAN. שירותי מיקום אלה חייבים להיות מופעלים ונגישים להתקן כדי שהיישום ישתמש בהם. ייתכן שיישומים יעשו בכך שימוש כדי לקבוע היכן אתה נמצא והדבר יגרום לצריכת סוללה מוגברת.</string>
+    <string name="permdesc_accessCoarseLocation">מאפשר ליישום לקבל את מיקומך המשוער. מיקום זה נגזר על-פי שירותי מיקום העושים שימוש במקורות מיקום ברשת, כגון אנטנות סלולריות ו-WLAN. שירותי מיקום אלה חייבים להיות מופעלים ונגישים למכשיר שלך כדי שהיישום ישתמש בהם. ייתכן שיישומים יעשו בכך שימוש כדי לקבוע את מיקומך המשוער.</string>
+    <string name="permlab_configureWifiDisplay">הגדר תצוגות WLAN</string>
+    <string name="permdesc_configureWifiDisplay">מאפשר ליישום להגדיר תצוגות WLAN ולהתחבר אליהן.</string>
+    <string name="permlab_controlWifiDisplay">שלוט בתצוגות WLAN</string>
+    <string name="permdesc_controlWifiDisplay">מאפשר ליישום לשלוט בתכונות ברמה נמוכה של תצוגות WLAN.</string>
+    <string name="permlab_accessWifiState">הצגת חיבורי WLAN</string>
+    <string name="permdesc_accessWifiState">הרשאה זו מאפשרת ליישום להציג מידע על רשתות WLAN, למשל, האם WLAN מופעל, וכן את שמות מכשירי ה-WLAN המחוברים.</string>
+    <string name="permlab_changeWifiState">התחברות ל-WLAN והתנתקות ממנו</string>
+    <string name="permdesc_changeWifiState">הרשאה זו מאפשרת ליישום להתחבר לנקודות גישת WLAN ולהתנתק מהן, וכן לבצע שינויים בתצורת המכשיר עבור רשתות WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">אפשר קבלת שידור לקבוצה של WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">הרשאה זו מאפשרת ליישום לקבל חבילות שנשלחו לכל המכשירים ברשת WLAN באמצעות כתובות שידור לקבוצה, ולא רק בטלפון שלך. צריכת החשמל גבוהה יותר מאשר במצב שאינו שידור לקבוצה.</string>
+    <string name="wifi_available_sign_in">כניסה לרשת WLAN</string>
+    <string name="wifi_watchdog_network_disabled">אין אפשרות להתחבר ל-WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">הפעל WLAN Direct. פעולה זו תכבה את הלקוח/הנקודה החמה של ה-WLAN.</string>
+    <string name="wifi_p2p_failed_message">לא ניתן להפעיל WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">‏WLAN Direct מופעל</string>
+    <string name="wifi_p2p_frequency_conflict_message">הטלפון יתנתק מרשת ה-WLAN באופן זמני בשעה שהוא מחובר אל %1$s</string>
+    <string name="data_usage_wifi_limit_title">נתוני WLAN הושבתו</string>
+    <string name="data_usage_wifi_limit_snoozed_title">אירעה חריגה ממגבלת הנתונים של WLAN</string>
+    <string name="policylab_disableWifi">השבת את הגישה ל-WLAN</string>
+    <string name="policydesc_disableWifi">מנע חיבורי WLAN בהתקן.</string>
+    <string name="wifi_disabled_notification_title">חיבור WLAN מוגבל</string>
+    <string name="wifi_disabled_notification_message">"מדיניות אבטחה שמגבילה את השימוש ב-WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">נדידה של WLAN מתבצעת</string>
+    <string name="ct_cplusw_notification_text">רשת CT WLAN מחוברת. לקבלת פרטי חיוב, פנה ל-10000 או לחנות מקומית.</string>
+    <string name="ct_cplusw_notification_title">‏China Telecom WLAN מחובר</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">תתחבר לרשת WLAN של China Telecom. לפרטים על החיובים, צור קשר עם שירות הלקוחות של China Telecom. להמשיך?</string>
+    <string name="wifi_nonconcurrency_message">הפעל לקוח WLAN. פעולה זו תנתק את WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">הפעל לקוח WLAN. פעולה זו תנתק את WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">כל חיבורי ה-WLAN הקיימים ינותקו.</string>
+    <string name="wifi_p2p_nonconcurrency_message">הפעל את WLAN Direct. פעולה זו תנתק את חיבור WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">פעולה זו תנתק חיבורי WLAN קיימים.</string>
+    <string name="wifi_p2p_noncuncurrency_message">הפעל את WLAN Direct. פעולה זו תנתק את חיבור WLAN.</string>
+    <string name="tethered_notification_message_wifi">כבה את Mobile HotSpot כדי להפעיל שוב את WLAN</string>
+    <string name="tethered_notification_title_wifi">‏WLAN כבוי</string>
+</resources>

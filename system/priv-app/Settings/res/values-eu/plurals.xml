@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">%d egun</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Pasahitzak gutxienez %d hizki izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez hizki bat izan behar du</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Pasahitzak gutxienez %d hizki minuskula izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez hizki minuskula bat izan behar du</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Pasahitzak gutxienez %d hizki maiuskula izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez hizki maiuskula bat izan behar du</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Pasahitzak gutxienez zenbakizko %d digitu izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez zenbakizko digitu bat izan behar du</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Pasahitzak gutxienez %d ikur berezi izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez ikur berezi bat izan behar du</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Pasahitzak gutxienez hizkiak ez diren %d karaktere izan behar ditu</item>
+        <item quantity="one">Pasahitzak gutxienez hizkia ez den karaktere bat izan behar du</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikaziok jakinarazpenak irakur ditzakete</item>
+        <item quantity="one">%d aplikaziok jakinarazpenak irakur ditzake</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIMaren PIN kode okerra. %d saiakera geratzen zaizkizu.</item>
+        <item quantity="one">SIMaren PIN kodea okerra da. %d saiakera geratzen zaizu gailua desblokeatzeko operadorearekin harremanetan jarri behar izan aurretik.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s inprimagailu aurkitu dira</item>
+        <item quantity="one">%1$s inprimagailu aurkitu da</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d aplikazio zerrendan daude unean</item>
+        <item quantity="one">%1$d aplikazioa zerrendan dago unean</item>
+    </plurals>
+</resources>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA मोड इन्हें शामिल करता है:
+
+• विस्तारित स्टैंडबाई
+WLAN और मोबाइल डेटा अस्थायी रूप से अक्षम किए जाने पर स्क्रीन बंद रहने के समय पॉवर बचाता है। अधिकांश अनुप्रयोग अक्षम होंगे।
+स्क्रीन के चालू होने पर, आपका फ़ोन समान्य रूप से कार्य करेगा।
+यदि आप विस्तारित स्टैंडबाई के चालू रहते समय कुछ अनुप्रयोग सक्रिय करना चाहते हैं, तो स्टैंडबाई सूची में अनुप्रयोग सक्रिय में अनुप्रयोगों को जोड़ें।
+
+• विस्तारित उपयोग
+जब आपका डिवाइस उपयोग में होता है तो हार्डवेयर निष्पादन को सीमित कर पॉवर की बचत करता है।
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA मोड क्या है?</u>"
+STAMINA मोड Sony™ का एक पॉवर बचत कार्य है। जब स्क्रीन बंद हो, तो कार्यात्मकता को अक्षम करके यह बैटरी जीवनकाल को बढ़ाता है।
+
+"<u>मूल उपयोग।</u>"
+STAMINA मोड सक्रिय करने के लिए, अगली स्क्रीन पर स्थित स्विच का उपयोग करें।
+स्क्रीन बंद होने पर बैटरी बचाने के लिए सभी नेटवर्क डेटा अस्थायी रूप से अक्षम किया जाएगा और आपके अधिकांश अनुप्रयोग निष्क्रिय रहेंगे।
+स्क्रीन चालू होने पर आपका डिवाइस सामान्य रूप से ही कार्य करेगा।
+
+"<u>उन्नत उपयोग</u>"
+यदि आप स्क्रीन बंद होने पर भी कुछ अनुप्रयोग को सक्रिय रखना चाहते हैं, तो उन्हें स्टैंडबाई में अनुप्रयोग सक्रिय सूची में जोडें।
+
+"<u>ध्यान दें</u>"
+स्टैंडबाई में अक्षम किए जाने पर कुछ अनुप्रयोग शायद ठीक से कार्य नहीं करेंगे। यदि कोई अनुप्रयोग ठीक तरह से कार्य नहीं करता है तो उसे स्टैंडबाई में अनुप्रयोग सक्रिय सूची में जोडें, या यदि इससे समस्या न सुलझे, तो STAMINA मोड निष्क्रिय करें।"</string>
+    <string name="location_based_wi_fi_label">स्थान-आधारित WLAN</string>
+    <string name="location_based_wi_fi_descr">किसी रक्षित किए गए WLAN नेटवर्क की श्रेणी में होने पर WLAN स्वचालित रूप से सक्रिय हो जाता है</string>
+    <string name="powersaver_feature_wifi">WLAN बंद</string>
+    <string name="install_wapi_certs">WLAN प्रमाणपत्र स्थापित करें</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, हवाई जहाज़ मोड, मोबाइल नेटवर्क, और VPN प्रबंधित करें</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN चालू करें</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN सेटिंग</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN का चयन करें</string>
+    <string name="wifi_starting">"WLAN चालू हो रहा है "</string>
+    <string name="wifi_stopping">WLAN बंद कर रहा है</string>
+    <string name="wifi_poor_network_detection_summary">जब तक अच्छा इंटरनेट कनेक्‍शन न हो, तब तक WLAN नेटवर्क का उपयोग न करें</string>
+    <string name="wifi_scan_always_available_summary">Google की स्थान सेवा और अन्य एप्लिकेशन को नेटवर्क के लिए स्कैन करने दें, WLAN बंद होने पर भी.</string>
+    <string name="wifi_scan_notify_text_location_on">स्थान सटीकता को बेहतर बनाने तथा अन्य प्रयोजनों के लिए, Google और अन्य एप्लिकेशन आसपास के नेटवर्क स्कैन कर सकते हैं, भले ही WLAN बंद हो. यदि आप ऐसा नहीं होने देना चाहते हैं, तो उन्नत > स्कैनिंग हमेशा उपलब्ध पर जाएं.</string>
+    <string name="wifi_scan_notify_text_location_off">एप्लिकेशन आसपास के नेटवर्क स्कैन कर सकते हैं, भले ही WLAN बंद हो. यदि आप ऐसा नहीं होने देना चाहते हैं, तो उन्नत > स्कैनिंग हमेशा उपलब्ध पर जाएं.</string>
+    <string name="wifi_setting_sleep_policy_title">निष्‍क्रियता के दौरान WLAN चालू रखें</string>
+    <string name="wifi_suspend_optimizations">WLAN ऑप्टिमाइज़ेशन</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN के चालू रहने पर बैटरी उपयोग को न्यूनतम करें</string>
+    <string name="wifi_access_points">WLAN नेटवर्क</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">उपलब्‍ध नेटवर्क देखने के लिए, WLAN चालू करें।</string>
+    <string name="wifi_empty_list_wifi_on">WLAN नेटवर्क खोज रहा है…</string>
+    <string name="wifi_empty_list_user_restricted">आपको WLAN नेटवर्क बदलने की अनुमति नहीं है</string>
+    <string name="wifi_required_info_text">सेटअप पूर्ण करने के लिए, आपके टेबलेट को WLAN का उपयोग करना होगा. सेटअप के बाद, आप मोबाइल डेटा और WLAN के बीच स्विच कर सकते हैं.</string>
+    <string name="wifi_wps_setup_title">WLAN सुरक्षित सेटअप</string>
+    <string name="wifi_wps_onstart_pbc">अपने रूटर पर WLAN सुरक्षित सेटअप बटन दबाएं। इसे \"WPS\" कहा जा सकता है या इसमें यह प्रतीक हो सकता है:</string>
+    <string name="wifi_wps_onstart_pin">अपने WLAN राउटर पर पिन %1$s प्रविष्ट करें। सेटअप पूर्ण होने में दो मिनट लग सकते हैं।</string>
+    <string name="wifi_wps_connected">WLAN नेटवर्क %s से कनेक्‍ट किया गया</string>
+    <string name="wifi_scan_always_turnon_message">"स्थान की सटीकता को बेहतर बनाने और अन्य प्रयोजनों के लिए, WLAN बंद होने पर भी %1$s नेटवर्क स्कैनिंग को चालू करना चाहता है.
+
+इसकी अनुमति उन सभी एप्लिकेशन के लिए दें जो स्कैन करना चाहते हैं?"</string>
+    <string name="wifi_connect_failed_message">फ़ोन इस WLAN नेटवर्क से कनेक्ट नहीं कर सका.</string>
+    <string name="wifi_advanced_titlebar">उन्नत WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN आवृत्ति बैंड</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">पोर्टेबल WLAN हॉटस्‍पॉट</string>
+    <string name="wifi_tether_failed_subtext">पोर्टेबल WLAN हॉटस्‍पॉट त्रुटि</string>
+    <string name="wifi_tether_configure_ap_text">WLAN हॉटस्‍पॉट सेट अप करें</string>
+    <string name="wifi_tether_configure_subtext">"%1$s पोर्टेबल WLAN हॉटस्पॉट.
+सुरक्षा: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC पता</string>
+    <string name="location_mode_high_accuracy_description">स्थान निर्धारित करने के लिए GPS, WLAN, और मोबाइल नेटवर्क का उपयोग करें</string>
+    <string name="location_mode_battery_saving_description">स्थान निर्धारित करने के लिए WLAN और मोबाइल नेटवर्क का उपयोग करें</string>
+    <string name="location_neighborhood_level">अनाम स्‍थान डेटा Google को भेजने देता है। साथ ही आपके अनुमानित स्‍थान का निर्धारण करने के लिए अनुमति प्राप्त अनुप्रयोग को WLAN और मोबाइल नेटवर्क जैसे स्रोतों से डेटा का उपयोग करने की अनुमति देता है।</string>
+    <string name="location_neighborhood_level_wifi">WLAN द्वारा निर्धारित स्‍थान</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN चालू होने से अब तक समय</string>
+    <string name="bluetooth_on_time">WLAN चालू होने से अब तक समय</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN चल रहा है</string>
+    <string name="usage_type_data_wifi_send">WLAN डेटा भेजा गया</string>
+    <string name="usage_type_data_wifi_recv">WLAN डेटा प्राप्त हुआ</string>
+    <string name="battery_action_wifi">WLAN सेटिंग</string>
+    <string name="battery_desc_wifi">WLAN द्वारा उपयोग की गई बैटरी</string>
+    <string name="battery_sugg_wifi">जब WLAN का उपयोग नहीं हो रहा हो या वह उपलब्‍ध नहीं हो, तो उसे बंद कर दें</string>
+    <string name="gadget_toggle_wifi">WLAN सेटिंग अपडेट करना</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Google सर्वर पर एप्‍लिकेशन डेटा, WLAN पासवर्ड और अन्‍य सेटिंग का बैकअप लें</string>
+    <string name="backup_erase_dialog_message">Google सर्वर पर अपने WLAN पासवर्ड, बुकमार्क, अन्‍य सेटिंग और एप्‍लिकेशन डेटा का बैकअप लेना रोकें, और Google सर्वर पर मौजूद सभी प्रतियां मिटाएं?</string>
+    <string name="wifi_setup_title">WLAN सेटअप</string>
+    <string name="wifi_setup_title_editing_network">WLAN नेटवर्क %s से कनेक्ट करें</string>
+    <string name="wifi_setup_title_connecting_network">WLAN नेटवर्क %s से कनेक्‍ट हो रहा है…</string>
+    <string name="wifi_setup_title_connected_network">WLAN नेटवर्क %s से कनेक्‍ट किया गया</string>
+    <string name="wifi_setup_eap_not_supported">आप सेट करते समय किसी EAP WLAN कनेक्‍शन को कॉन्‍िफ़गर नहीं कर सकते। सेट करने के बाद, आप उसे सेटिंग > वायरलेस और नेटवर्क में कॉन्फ़िगर कर सकते हैं।</string>
+    <string name="wifi_setup_description_connected">सेटअप के साथ जारी रखने के लिए <b>अगला</b>" स्पर्श करें। 
+
+भिन्न WLAN नेटवर्क से कनेक्ट होने के लिए "<b>वापस जाएं</b> स्पर्श करें।</string>
+    <string name="data_usage_menu_show_wifi">WLAN उपयोग दिखाएं</string>
+    <string name="data_usage_disable_wifi_limit">WLAN डेटा सीमा सेट करें</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">यदि आप पृष्ठभूमि मोबाइल डेटा प्रतिबंधित करते हैं, तो कुछ एप्‍लिकेशन और सेवाएं WLAN नेटवर्क कनेक्‍ट नहीं होने तक कार्य नहीं करेंगी।</string>
+    <string name="data_usage_restrict_background_multiuser">"यदि आप पृष्ठभूमि मोबाइल डेटा प्रतिबंधित करते हैं, तो कुछ एप्लिकेशन और सेवाएं तब तक कार्य नहीं करेंगी जब तक कि आप WLAN नेटवर्क से कनेक्ट नहीं होते.
+
+
+
+यह सेटिंग इस फ़ोन के सभी उपयोगकर्ताओं को प्रभावित करती है."</string>
+    <string name="data_usage_metered_body">उन WLAN नेटवर्क का चयन करें जो मोबाइल हॉटस्पॉट हैं। पृष्ठभूमि में होने पर अनुप्रयोग को इन नेटवर्क का उपयोग करने के लिए प्रतिबंधित किया जा सकता है। बड़े डाउनलोड के लिए इन नेटवर्क के उपयोग से पहले अनुप्रयोग चेतावनी भी दे सकते हैं।</string>
+    <string name="data_usage_metered_wifi">WLAN नेटवर्क</string>
+    <string name="data_usage_metered_wifi_disabled">मोबाइल हॉटस्पॉट का चयन करने के लिए, WLAN चालू करें।</string>
+    <string name="user_add_user_message_long">"आप अतिरिक्त उपयोगकर्ता बनाकर इस उपकरण को अन्य लोगों से साझा कर सकते हैं. प्रत्येक उपयोगकर्ता के पास अपना स्वयं का स्थान होता है, जिसे वे अपने एप्लिकेशन, वॉलपेपर, और ऐसी ही अन्य चीज़ों के साथ कस्टमाइज़ कर सकते हैं. उपयोगकर्ता WLAN जैसी अन्य टेबलेट सेटिंग भी एडजस्ट कर सकते हैं जो सभी को प्रभावित करती है.
+
+
+
+आपके द्वारा नया उपयोगकर्ता बनाने के बाद, उस व्यक्ति को सेटअप प्रक्रिया से गुज़रना आवश्यक है.
+
+
+
+कोई भी उपयोगकर्ता अन्य सभी उपयोगकर्ताओं की ओर से अपडेट की गई एप्लिकेशन अनुमतियां स्वीकार कर सकता है."</string>
+    <string name="restriction_wifi_config_title">WLAN और मोबाइल</string>
+    <string name="restriction_wifi_config_summary">WLAN और मोबाइल सेटिंग में संशोधन की अनुमति दें</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN कनेक्ट हुआ</string>
+    <string name="cw_network_priority">China Telecom WLAN को प्राथ. दें</string>
+    <string name="cw_network_priority_summary">कनेक्शन में China Telecom WLAN नेटवर्क को अन्य WLAN नेटवर्क पर प्राथमिकता दी जाएगी</string>
+    <string name="data_traffic_disabled_text">डेटा ट्रैफ़िक अक्षम होने के कारण China Telecom वाइ-फाइ नेटवर्क से कनेक्ट नहीं किया जा सका। डेटा ट्रैफ़िक अभी सक्षम करें?</string>
+    <string name="location_based_wifi">स्थान-आधारित WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN हॉटस्पॉट से स्वतः जोड़ें</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN स्वतः जोड़ना</string>
+    <string name="wifi_calling_mode_title">WLAN कॉलिंग</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN प्रमाणपत्र बदलें</string>
+    <string name="wifi_p2p_settings">WLAN Direct सेटिंग</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT से सुरक्षित</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK से सुरक्षित</string>
+    <string name="wifi_tether_explanation_dialog_text">"आप अपने डिवाइस का उपयोग मोबाइल हॉटस्पॉट के रूप में कर सकते हैं. इससे अन्य डिवाइस (अधिकतम 10) को WLAN नेटवर्क के माध्यम से इससे कनेक्ट होने की अनुमति मिलती है. कनेक्ट किए गए डिवाइस को आपके फ़ोन के मोबाइल नेटवर्क कनेक्शन के माध्यम से इंटरनेट एक्सेस करना होगा. मोबाइल हॉटस्पॉट मोबाइल डेटा का उपयोग करता है और परिणामस्वरूप अतिरिक्त शुल्क लग सकते हैं.
+
+मोबाइल हॉटस्पॉट बैटरी का उपयोग अधिक करता है. बैटरी का जीवनकाल बढ़ाने के लिए डिवाइस को किसी आउटलेट से कनेक्ट करें."</string>
+    <string name="wifi_tether_settings_subtext">WLAN हॉटस्पॉट सेटअप का प्रबंधन और सेट अप करें</string>
+    <string name="wifi_tether_settings_text">पोर्टेबल WLAN हॉटस्पॉट सेटिंग</string>
+    <string name="wifi_wps_category_title">WLAN नेटवर्क सेट अप करें</string>
+    <string name="cw_network_notification">CT WLAN सूचना सक्षम करें</string>
+    <string name="stamina_xssm_summary">स्क्रीन के बंद होने पर मोबाइल डेटा और WLAN अक्षम करता है</string>
+    <string name="tethering_no_sim_warning_txt">इंटरनेट एक्सेस करने के लिए मोबाइल WLAN हॉटस्पॉट या USB टेदरिंग का उपयोग करते हुए अन्य डिवाइस के साथ अपने फ़ोन का डेटा कनेक्शन साझा करने के लिए कृपया सिम कार्ड डालें।</string>
+    <string name="wifi_offload_checkbox_summary">अनुप्रयोगों के खुलने पर, WLAN कब उपलब्ध है, मुझे बताएं</string>
+    <string name="wifi_offload_checkbox_title">WLAN पॉप-अप दिखाएं</string>
+    <string name="wifi_offload_notify_available_networks">WLAN अधिसूचनाएं</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN नेटवर्क के उपलब्ध होने पर मुझे अधिसूचित करें</string>
+    <string name="wifi_offload_option_title">उपलब्ध WLAN नेटवर्क</string>
+</resources>

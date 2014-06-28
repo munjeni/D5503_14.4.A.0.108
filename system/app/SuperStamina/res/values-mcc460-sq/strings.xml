@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kur ekrani të jetë joaktiv, WLAN dhe të dhënat celulare do të çaktivizohen përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Do të vazhdoni të merrni thirrjet telefonike, mesazhet SMS/MMS dhe njoftimet e kalendarit të Sony™ si edhe sinjalet e alarmit të Sony™. Riprodhuesi muzikor dhe radioja FM do të punojnë dhe shkarkimet e ngarkimet në zhvillim e sipër do të lejohen të mbarojnë.
+
+Kur ekrani të jetë aktiv, telefoni do të funksionojë normalisht.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kur ekrani është joaktiv, WLAN dhe të dhënat celulare do të jenë të çaktivizuara përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Ju do të vazhdoni të merrni mesazhe SMS/MMS, njoftime të kalendarit Sony™ dhe sinjale alarmi Sony™. Riprodhuesi muzikor dhe radioja FM do të funksionojnë, si dhe shkarkimet dhe ngarkimet në zhvillim e sipër do të lejohen të përfundojnë.
+
+Kur ekrani është aktiv, pajisja juaj do të funksionojë normalisht."</string>
+    <string name="description_msg_no_telephony_txt">"Kur ekrani është joaktiv, WLAN do të çaktivizohet përkohësisht dhe shumica e aplikacioneve do të jenë joaktive. Do të vazhdoni të merrni njoftime të kalendarit Sony™ dhe sinjale alarmi Sony™. Riprodhuesi muzikor dhe radioja FM do të funksionojnë, si dhe shkarkimet dhe ngarkimet në zhvillim e sipër do të lejohen të përfundojnë.
+
+Kur ekrani është aktiv, pajisja juaj do të funksionojë normalisht."</string>
+    <string name="notification_descr_ps">Modaliteti i baterisë së rënë mund të zgjasë jetën e baterisë, p.sh. duke çaktivizuar WLAN ose duke pakësuar ndriçimin e ekranit kur bateria është e rënë.</string>
+    <string name="notification_text_lbw">Aktivizoni WLAN me bazë vendndodhje</string>
+    <string name="notification_descr_lbw">WLAN është i ndezur, por nuk është përdorur për një kohë të caktuar. Kurseni energji duke aktivizuar WLAN të bazuar te vendndodhja.</string>
+    <string name="location_based_wifi_tip_dialog">Rrjeti WLAN është aktiv por ka pak kohë që nuk përdoret. Mund ta ruani energjinë duke aktivizuar WLAN sipas vendndodhjes. Të konfigurohet WLAN sipas vendndodhjes?</string>
+    <string name="low_battery_mode_tip_dialog">Regjimi i nivelit të ulët të baterisë mund ta zgjasë jetën e baterisë duke çaktivizuar p.sh. WLAN ose duke zvogëluar ndriçimin e ekranit kur niveli i baterisë është i ulët. Të konfigurohet regjimi i nivelit të ulët të baterisë?</string>
+</resources>

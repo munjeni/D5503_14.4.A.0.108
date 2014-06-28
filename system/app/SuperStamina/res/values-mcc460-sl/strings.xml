@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Če je zaslon izklopljen, bosta omrežje WLAN in prenos podatkov prek mobilnega omrežja začasno onemogočena, večina programov pa bo neaktivnih. Še vedno boste prejemali klice, sporočila SMS in MMS, obvestila koledarja Sony™ ter signale alarma Sony™. Predvajalnik glasbe in radio FM bosta delovala, aktivni prenosi pa se bodo lahko dokončali.
+
+Ko je zaslon vklopljen, bo telefon deloval normalno.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Ko je zaslon izklopljen, bosta funkciji WLAN in mobilnih podatkov začasno onemogočeni. Še vedno pa boste prejemali sporočila SMS/MMS, obvestila o koledarju Sony™ in signale alarma Sony™. Uporabljali boste lahko predvajalnik glasbe in radio FM, prenosi in prenosi v strežnik, ki se trenutno izvajajo, pa se bodo dokončali.
+
+Ko je zaslon vklopljen, bo naprava delovala po pričakovanjih."</string>
+    <string name="description_msg_no_telephony_txt">"Ko je zaslon izklopljen, bo funkcija WLAN začasno onemogočena. Še vedno pa boste prejemali obvestila o koledarju Sony™ in signale alarma Sony™. Uporabljali boste lahko predvajalnik glasbe in radio FM, prenosi in prenosi v strežnik, ki se trenutno izvajajo, pa se bodo dokončali.
+
+Ko je zaslon vklopljen, bo naprava delovala po pričakovanjih."</string>
+    <string name="notification_descr_ps">Omogočite način varčevanja z baterijo in podaljšali boste življenjsko dobo baterije, saj bo npr. omrežje WLAN izklopljeno, svetlost zaslona pa bo manjša, ko je baterija skoraj prazna.</string>
+    <string name="notification_text_lbw">Aktivirajte WLAN lokacije</string>
+    <string name="notification_descr_lbw">Omrežje WLAN je vklopljeno, a ga niste dalj časa uporabili. Zmanjšajte porabo baterije tako, da vklopite WLAN lokacije.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN je vklopljen, vendar ga niste uporabljali dalj časa. Vklopite WLAN lokacije in zmanjšajte porabo energije. Želite nastaviti WLAN lokacije?</string>
+    <string name="low_battery_mode_tip_dialog">V načinu varčevanja z baterijo podaljšate življenjsko dobo baterije tako, da onemogočite WLAN oz. zmanjšate svetlost zaslona, ko je baterija skoraj prazna. Želite nastaviti način varčevanja z baterijo?</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Hálózati alapérték</item>
+        <item>Szám elrejtése</item>
+        <item>Szám megjelenítése</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globális</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Csak EvDo</item>
+        <item>CDMA EvDo nélkül</item>
+        <item>Automatikus CDMA/EvDo</item>
+        <item>Automatikus GSM/WCDMA</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+        <item>GSM/WCDMA előnyben</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angol</item>
+        <item>Francia</item>
+        <item>Spanyol</item>
+        <item>Japán</item>
+        <item>Koreai</item>
+        <item>Kínai</item>
+        <item>Héber</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mód)</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+        <item>GSM/WCDMA (WCDMA preferált)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Csak honi</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Csak honi hálózatok</item>
+        <item>Csatolt hálózatok</item>
+        <item>Bármilyen hálózat</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Csak CDMA</item>
+        <item>Csak EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY kikapcsolása</item>
+        <item>Teljes TTY</item>
+        <item>TTY beszédátvitel</item>
+        <item>TTY hangátvitel</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Szokásos</item>
+        <item>Hosszú</item>
+    </string-array>
+</resources>

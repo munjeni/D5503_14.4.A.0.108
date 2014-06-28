@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">개발자가 되려면 %1$d단계가 남았습니다.</item>
+        <item quantity="one">개발자가 되려면 %1$d단계가 남았습니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">암호에는 적어도 %d개의 문자가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 문자가 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">암호에는 적어도 %d개의 소문자가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 소문자가 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">암호에는 적어도 %d개의 대문자가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 대문자가 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">암호에는 적어도 %d개의 숫자가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 숫자가 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">암호에는 적어도 %d개의 특수 기호가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 특수 기호가 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">암호에는 적어도 %d개의 글자가 아닌 문자가 포함되어야 함</item>
+        <item quantity="one">암호에는 적어도 1개의 글자가 아닌 문자가 포함되어야 함</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d개 앱이 알림을 읽을 수 있음</item>
+        <item quantity="one">%d개 앱이 알림을 읽을 수 있음</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">USIM PIN 코드가 잘못되었습니다. %d번의 기회가 남았습니다.</item>
+        <item quantity="one">USIM PIN 코드가 잘못되었습니다. %d회 이상 실패할 경우 이동통신사에 문의하여 장치를 잠금 해제해야 합니다.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">프린터 %1$s대 검색됨</item>
+        <item quantity="one">프린터 %1$s대 검색됨</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d개 앱이 현재 목록에 있음</item>
+        <item quantity="one">%1$d개 앱이 현재 목록에 있음</item>
+    </plurals>
+</resources>

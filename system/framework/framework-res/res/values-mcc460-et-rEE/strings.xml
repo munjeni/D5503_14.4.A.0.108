@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Lubab rakendusel hankida teie täpse asukoha globaalse positsioneerimissüsteemi (GPS) või võrgu asukohaallikate (nt mobiilimastide ja WLAN) järgi. Need asukohateenused peavad olema sisse lülitatud ja teie seadme jaoks saadaval, et rakendus saaks neid kasutada. Rakendused võivad kasutada seda teie asukoha tuvastamiseks ja tarbida akut.</string>
+    <string name="permdesc_accessCoarseLocation">Lubab rakendusel hankida juurdepääsu ligikaudsele asukohale. Asukoht tuletatakse asukohateenuste järgi, kasutades võrgu asukohaallikaid, nt mobiilimastid ja WLAN. Need asukohateenused peavad olema sisse lülitatud ja teie seadme jaoks saadaval, et rakendus saaks neid kasutada. Rakendused võivad kasutada seda teie ligikaudse asukoha tuvastamiseks.</string>
+    <string name="permlab_configureWifiDisplay">WLAN-ekraanide seadistamine</string>
+    <string name="permdesc_configureWifiDisplay">Lubab rakendusel seadistada WLAN-ekraane ja nendega ühendus luua.</string>
+    <string name="permlab_controlWifiDisplay">WLAN-ekraanide juhtimine</string>
+    <string name="permdesc_controlWifiDisplay">Lubab rakendusel juhtida WLAN-ekraanide madala taseme funktsioone.</string>
+    <string name="permlab_accessWifiState">vaadake WLAN-ühendusi</string>
+    <string name="permdesc_accessWifiState">Võimaldab rakendusel vaadata teavet WLAN-võrgu kohta, näiteks ühendatud WLAN-seadmete nimesid ja seda, kas WLAN on lubatud.</string>
+    <string name="permlab_changeWifiState">ühendage ja katkestage ühendus WLAN-ga</string>
+    <string name="permdesc_changeWifiState">Võimaldab rakendusel luua ja katkestada ühenduse WLAN-pääsupunktidega ning teha muudatusi seadme konfiguratsioonis WLAN-võrkudesse.</string>
+    <string name="permlab_changeWifiMulticastState">luba WLAN multiedastusvastuvõtt</string>
+    <string name="permdesc_changeWifiMulticastState">Võimaldab rakendusel vastu võtta pakette, mis on saadetud kõikidele WLAN-võrguga ühendatud seadmetele, mis kasutavad multiedastuse aadresse, mitte ainult teie telefoni. See võtab rohkem energiat kui mittemultiedastuse režiim.</string>
+    <string name="wifi_available_sign_in">Logige sisse WLAN-võrku</string>
+    <string name="wifi_watchdog_network_disabled">Ei saanud WLAN-ga ühendust</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Käivitage WLAN otseühendus. See lülitab välja WLAN kliendi/leviala.</string>
+    <string name="wifi_p2p_failed_message">WLAN otseühenduse käivitamine ebaõnnestus.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct on sees</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefoni ühendus WLAN-ga katkestatakse ajutiselt, kui see on ühendatud seadmega %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-andmed on keelatud</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN-andmete piir on ületatud</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/dial_background" android:layout_width="fill_parent" android:layout_height="@dimen/twelve_key_dialer_height" android:paddingStart="@dimen/twelve_key_dialer_margin_start" android:paddingEnd="@dimen/twelve_key_dialer_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/twelve_key_dialer_digits_height" android:baselineAligned="false" android:layoutDirection="ltr">
+        <FrameLayout android:id="@id/one" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_one" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_1_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/two" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_two" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_2_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_2_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/three" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_three" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_3_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_3_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/twelve_key_dialer_digits_height" android:baselineAligned="false" android:layoutDirection="ltr">
+        <FrameLayout android:id="@id/four" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_four" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_4_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_4_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/five" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_five" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_5_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_5_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/six" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_six" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_6_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_6_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/twelve_key_dialer_digits_height" android:baselineAligned="false" android:layoutDirection="ltr">
+        <FrameLayout android:id="@id/seven" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_seven" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_7_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_7_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/eight" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_eight" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_8_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_8_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/nine" android:background="@drawable/dial_num_large" android:contentDescription="@string/description_image_button_nine" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_9_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_9_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/twelve_key_dialer_digits_height" android:baselineAligned="false" android:layoutDirection="ltr">
+        <FrameLayout android:id="@id/star" android:background="@drawable/dial_num_large" android:nextFocusDown="@id/button1" android:contentDescription="@string/description_image_button_star" style="@style/DialpadButtonStyle">
+            <TextView android:textSize="@dimen/twelve_key_dialer_number_size" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_star_txt" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/zero" android:background="@drawable/dial_num_large" android:nextFocusDown="@id/button2" android:contentDescription="@string/description_image_button_zero" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/phone_strings_dialpad_0_txt" android:layoutDirection="ltr" android:paddingStart="@dimen/twelve_key_dialer_number_margin_start" />
+            <TextView android:textSize="@dimen/twelve_key_dialer_text_size" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_label_0_txt" android:layoutDirection="ltr" android:layout_marginStart="@dimen/twelve_key_dialer_text_margin_start" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/pound" android:background="@drawable/dial_num_large" android:nextFocusDown="@id/button4" android:contentDescription="@string/description_image_button_pound" style="@style/DialpadButtonStyle">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/twelve_key_dialer_number_size" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/general_dialpad_hash_txt" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

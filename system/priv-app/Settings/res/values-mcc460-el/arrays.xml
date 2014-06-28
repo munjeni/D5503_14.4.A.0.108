@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>τοποθεσία κατά προσέγγιση</item>
+        <item>ακριβής τοποθεσία</item>
+        <item>GPS</item>
+        <item>δόνηση</item>
+        <item>ανάγνωση επαφών</item>
+        <item>τροποποίηση επαφών</item>
+        <item>ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>τροποποίηση αρχείου κλήσεων</item>
+        <item>ανάγνωση ημερολογίου</item>
+        <item>τροποποίηση ημερολογίου</item>
+        <item>σάρωση WLAN</item>
+        <item>ειδοποίηση</item>
+        <item>σάρωση κυψέλης</item>
+        <item>κλήση τηλεφώνου</item>
+        <item>ανάγνωση SMS</item>
+        <item>σύνταξη SMS</item>
+        <item>λήψη SMS</item>
+        <item>λήψη SMS έκτακτης ανάγκης</item>
+        <item>λήψη MMS</item>
+        <item>λήψη μηνύματος push μέσω WAP</item>
+        <item>αποστολή SMS</item>
+        <item>ανάγνωση ICC SMS</item>
+        <item>σύνταξη ICC SMS</item>
+        <item>τροποποίηση ρυθμίσεων</item>
+        <item>μεταφορά στην κορυφή</item>
+        <item>πρόσβαση στις ειδοποιήσεις</item>
+        <item>κάμερα</item>
+        <item>εγγραφή ήχου</item>
+        <item>αναπαραγωγή ήχου</item>
+        <item>ανάγνωση περιεχόμενων προχείρου</item>
+        <item>τροποποίηση περιεχομένων προχείρου</item>
+        <item>κουμπιά μέσων</item>
+        <item>εστίαση ήχου</item>
+        <item>κύρια ένταση ήχου</item>
+        <item>έντασης ήχου φωνής</item>
+        <item>ένταση ήχου κλήσης</item>
+        <item>ένταση ήχου μέσων</item>
+        <item>ένταση ήχου ξυπνητηριού</item>
+        <item>ένταση ήχου ειδοποιήσεων</item>
+        <item>ένταση ήχου Bluetooth</item>
+        <item>διατήρηση λειτουργίας</item>
+        <item>παρακολούθηση τοποθεσίας</item>
+        <item>παρακολούθηση θέσης υψηλής ισχύος</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>Δόνηση</item>
+        <item>Ανάγνωση επαφών</item>
+        <item>Τροποποίηση επαφών</item>
+        <item>Ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>Τροποποίηση αρχείου κλήσεων</item>
+        <item>Ανάγνωση ημερολογίου</item>
+        <item>Τροποποίηση ημερολογίου</item>
+        <item>Τοποθεσία</item>
+        <item>Δημοσίευση ειδοποίησης</item>
+        <item>Τοποθεσία</item>
+        <item>Κλήση τηλεφώνου</item>
+        <item>Ανάγνωση SMS/MMS</item>
+        <item>Σύνταξη SMS/MMS</item>
+        <item>Λήψη SMS/MMS</item>
+        <item>Λήψη SMS/MMS</item>
+        <item>Λήψη SMS/MMS</item>
+        <item>Λήψη SMS/MMS</item>
+        <item>Αποστολή SMS/MMS</item>
+        <item>Ανάγνωση SMS/MMS</item>
+        <item>Σύνταξη SMS/MMS</item>
+        <item>Τροποποίηση ρυθμίσεων</item>
+        <item>Μεταφορά στην κορυφή</item>
+        <item>Πρόσβαση στις ειδοποιήσεις</item>
+        <item>Κάμερα</item>
+        <item>Ηχογράφηση</item>
+        <item>Αναπαραγωγή ήχου</item>
+        <item>Ανάγνωση περιεχομένων προχείρου</item>
+        <item>Τροποποίηση περιεχομένων προχείρου</item>
+        <item>Κουμπιά μέσων</item>
+        <item>Εστίαση ήχου</item>
+        <item>Κύρια ένταση ήχου</item>
+        <item>Έντασης ήχου φωνής</item>
+        <item>Ένταση ήχου κλήσης</item>
+        <item>Ένταση ήχου πολυμέσων</item>
+        <item>Ένταση ήχου ξυπνητηριού</item>
+        <item>Ένταση ήχου ειδοποιήσεων</item>
+        <item>Ένταση ήχου Bluetooth</item>
+        <item>Διατήρηση λειτουργίας</item>
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

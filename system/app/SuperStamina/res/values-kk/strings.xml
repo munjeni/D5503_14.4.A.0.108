@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Эко режимінің контроллері</string>
+    <string name="dont_ask_me_again_txt">Қайта сұрамау</string>
+    <string name="description_msg_txt">"Экран өшірілген кезде Wi-Fi және мобильді деректер уақытша өшіріледі және бағдарламалардың көпшілігі өшіріледі. Телефон қоңырауларын, SMS/MMS хабарларын және Sony™ күнтізбе ескертпелерін және Sony™ сигналдарын қабылдай бересіз. Музыка ойнатқышы мен FM радиосы жұмыс істейді және жүктеулер мен кері жүктеулердің аяқталуына мүмкіндік беріледі. Экран қосылған кезде телефоныңыз қалыпты жұмыс істейді.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Экран өшірулі болғанда, Wi-Fi және ұялы деректер уақытша ажыратылады және көптеген қолданбалар белсенді болмайды. Сіз SMS/MMS хабарларын, Sony™ күнтізбе хабарландырулары мен Sony™ оятар сигналдарын аласыз. Музыка ойнатқыш пен FM радиосы жұмыс істейді, жүріп жатқан жүктеулер мен кері жүктеулердің аяқталуына мүмкіндік беріледі.
+
+Экран қосулы болғанда, құрылғыңыз қалыпты түрде жұмыс істейді."</string>
+    <string name="description_msg_no_telephony_txt">"Экран өшірулі болғанда, Wi-Fi уақытша ажыратылады және көптеген қолданбалар белсенді болмайды. Сіз әлі де Sony™ күнтізбе хабарландырулары мен Sony™ оятар сигналдарын аласыз. Музыка ойнатқыш пен FM радиосы жұмыс істейді, орындалудағы жүктеулер мен кері жүктеулердің аяқталуына мүмкіндік беріледі.
+
+Экран қосулы болғанда, құрылғыңыз қалыпты түрде жұмыс істейді."</string>
+    <string name="description_title_txt">Ескертпе!</string>
+    <string name="low_battery_mode_description_msg_txt">"Батареяның заряды алдын ала орнатылған деңгейден төмен болғанда қуатты тұтынатын мүмкіндіктерді және параметрлерді өшіру үшін төмен батарея заряды режимін қосыңыз. Параметрлерді өзгерту үшін «Төмен батарея заряды режимі» тармағын түртіңіз.
+"</string>
+    <string name="activate_txt">Іске қосу</string>
+    <string name="cancel_txt">Бас тарту</string>
+    <string name="xssm_blocker_detector_title">Қуатты бас-у тур-ы кеңес</string>
+    <string name="xssm_blocker_detector_msg">%sSTAMINA режимі күту режимінде қуатты үнемдеуінің алдын алады</string>
+    <string name="xssm_blocker_detector_long_msg">Осы қолданбаны жиі пайдалансаңыз, осы ескертуді елемеңіз. Жиі қолданбасаңыз, қолданбаны жойыңыз немесе күшпен аяқтаңыз.</string>
+    <string name="xssm_blocker_detector_ignore">Түсіндім. Қайта көрсетпеңіз.</string>
+    <string name="network_detector_msg">%s экран өшірулі кезде деректерді жіберуде және алуда, сондықтан батареяның заряды жылдам азаяды.</string>
+    <string name="network_detector_long_msg">Оны жою құрылғының жұмысын жақсартып, батареяның жұмыс мерзімін ұзартуы мүмкін.</string>
+    <string name="wakelock_detector_msg">%s бірнеше апта пайдаланылмады.</string>
+    <string name="wakelock_detector_long_msg">Ол құрылғыны күту режимінен шығару мүмкін. Оны жою құрылғының жұмысын жақсартып, батареяның жұмыс мерзімін ұзартуы мүмкін.</string>
+    <string name="notification_title_xssm">Қуатты бас-у тур-ы кеңес</string>
+    <string name="notification_text_xssm">STAMINA режимін іске қосу</string>
+    <string name="notification_descr_xssm">Құрылғыңыз күту режиміне жиі қойылады. STAMINA режимін іске қосу арқылы батарея уақытын ұзартыңыз.</string>
+    <string name="notification_dont_show_again">Түсіндім. Қайта көрсетпеңіз.</string>
+    <string name="notification_title_ps">Қуатты бас-у тур-ы кеңес</string>
+    <string name="notification_text_ps">Батарея заряды аз режимін іске қосу</string>
+    <string name="notification_descr_ps">Батарея аз кезде Wi-Fi желісін өшіру немесе экран жарықтығын төмендету арқылы \"батарея заряды аз\" режимі батарея уақытын ұзарта алады.</string>
+    <string name="notification_title_lbw">Қуатты бас-у тур-ы кеңес</string>
+    <string name="notification_text_lbw">Орынға негіз-н Wi-Fi жел-н іске қ-у</string>
+    <string name="notification_descr_lbw">Wi-Fi қосулы, бірақ біраз уақыт бойы пайдаланылмады. Орынға негізделген Wi-Fi желісін іске қосу арқылы қуатты үнемдеңіз.</string>
+    <string name="unused_application_title">Қуатты басқаруға қатысты кеңес</string>
+    <string name="unused_application_msg">%s кейде пайдаланылмады</string>
+    <string name="unused_application_long_msg">Егер осы қолданбаны сақтағыңыз келсе, ескертуді елемеңіз. Сақтағыңыз келмесе, қолданбаны жойыңыз.</string>
+    <string name="unused_application_ignore">Жасалды. Қайтадан көрсетпеу.</string>
+    <string name="drain_dialog_title_txt">Батарея зарядталып жатқан жоқ</string>
+    <string name="drain_dialog_text_usb_txt">Қосылған қуат көзі жеткіліксіз. Батарея заряды тез азайып қалады. Айнымалы ток адаптерін ауыстырыңыз.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Қосылған қуат көзі жеткіліксіз. Батарея заряды тез азайып қалады. Зарядтау кезінде құрылғының қуатты тұтынуын азайтыңыз.</string>
+    <string name="extend_battery_tip_dialog_headar">Қуатты басқару бойынша кеңес</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi қосулы, бірақ біраз уақыт пайдаланылмады. Орынға негізделген Wi-Fi іске қосу арқылы қуатты үнемдей аласыз. Орынға негізделген Wi-Fi орнату қажет пе?</string>
+    <string name="low_battery_mode_tip_dialog">Батарея төмен кезде Wi-Fi өшіру немесе экран жарықтығын төмендету арқылы төмен батарея режимі батарея уақытын ұзартады. Төмен батарея режимін орнату қажет пе?</string>
+    <string name="stamina_mode_tip_dialog">Құрылғыңыз әлі күту режимінде. STAMINA режимін іске қосу арқылы батарея уақытын ұзартыңыз. STAMINA режимін орнату қажет пе?</string>
+    <string name="bad_app_notification">Келесі бағдарлама батареяны азайтады:</string>
+    <string name="bad_standby_app_dialog">%s STAMINA режиміне күту кезінде қуатты үнемдеуге тыйым салады. Осы бағдарламаны жиі пайдалансаңыз, осы ескертуді елемеңіз. Басқа жағдайда Бағдарлама туралы ақпарат түймесін басып, бағдарламаны жойыңыз немесе күшпен тоқтатыңыз.</string>
+    <string name="ignore_dialog_action">Мән бермеу</string>
+    <string name="app_info_dialog_action">Бағ-ма ақпараты</string>
+    <string name="stamina_activation_notification">STAMINA күйі іске қосылды</string>
+    <string name="lowbattery_trigger_level_notification">Батарея деңгейі төмен %d%%</string>
+    <string name="lowbattery_activated_notification">Төмен батарея реж-і іске қос-ды</string>
+    <string name="app_not_used_notification">Бұл бағдарлама біраз уақыт пайд-мады:</string>
+    <string name="app_not_used_tip_dialog">%s біраз уақыт пайдаланылмады. Қуатты үнемдеу үшін бағдарламаны жоюға кеңес береміз.</string>
+    <string name="no_action_dialog">Жоқ</string>
+    <string name="yes_action_dialog">Иә</string>
+    <string name="widget_remaining_battery_time">Шамалас батарея уақыты</string>
+    <string name="widget_name">STAMINA режимі</string>
+</resources>

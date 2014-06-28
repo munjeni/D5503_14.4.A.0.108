@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dina</item>
+        <item quantity="one">%d dina</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d huruf</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 huruf</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d huruf cilik</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 huruf cilik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d huruf balok</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 huruf balok</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d digit angka</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 digit angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d lambang khusus</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 lambang khusus</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Sandhi kudu ngemot paling ora %d karakter dudu huruf</item>
+        <item quantity="one">Sandhi kudu ngemot paling ora 1 karakter dudu huruf</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikasi bisa maca kabar</item>
+        <item quantity="one">%d aplikasi bisa maca kabar</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Kode PIN SIM salah, kari %d upaya maneh.</item>
+        <item quantity="one">Kode PIN SIM salah, kari %d upaya sadurunge sampeyan kudu ngubungi operator kanggo mbukak piranti.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s printer ditemokake</item>
+        <item quantity="one">%1$s printer ditemokake</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d aplikasi sing ana ing dhaptar</item>
+        <item quantity="one">%1$d aplikasi sing ana ing dhaptar</item>
+    </plurals>
+</resources>

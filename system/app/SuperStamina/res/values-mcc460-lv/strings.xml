@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kad ekrāns ir izslēgts, WLAN un mobilie dati uz brīdi tiek atspējoti un nedarbojas vairākums lietotņu. Joprojām varat saņemt tālruņa zvanus, SMS/MMS ziņas un izmantot Sony™ kalendāra paziņojumus un modinātāja signālus. Darbojas mūzikas atskaņotājs un FM radio, kā arī varat pabeigt iesāktās lejupielādes un augšupielādes.
+
+Kad ekrāns ir ieslēgts, tālrunis darbojas kā parasti.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kad ekrāns būs izslēgts, WLAN un mobilie dati tiks īslaicīgi atspējoti, un vairākums lietotņu nebūs aktīvas. Joprojām varēsit saņemt SMS/MMS ziņas, Sony™ kalendāra paziņojumus un Sony™ modinātāja signālus. Mūzikas atskaņotājs un FM radio darbosies, un varēs pabeigt notiekošo lejupielāžu un augšupielāžu izpildi.
+
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti."</string>
+    <string name="description_msg_no_telephony_txt">"Kad ekrāns būs izslēgts, WLAN tiks īslaicīgi atspējots, un vairākums lietotņu nebūs aktīvas. Joprojām varēsit saņemt Sony™ kalendāra paziņojumus un Sony™ modinātāja signālus. Mūzikas atskaņotājs un FM radio darbosies, un varēs pabeigt notiekošo lejupielāžu un augšupielāžu izpildi.
+
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti."</string>
+    <string name="notification_descr_ps">Zema akumulatora uzlādes līmeņa režīms var pagarināt akumulatora darbības laiku, piemēram, izslēdzot WLAN vai samazinot ekrāna spilgtumu, ja ir zems akumulatora uzlādes līmenis.</string>
+    <string name="notification_text_lbw">Aktivizējiet atrašanās vietas WLAN</string>
+    <string name="notification_descr_lbw">WLAN ir ieslēgts, taču kādu laiku netiek lietots. Lai taupītu enerģiju, aktivizējiet atrašanās vietas WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN ir ieslēgts, bet kādu laiku nav izmantots. Varat ietaupīt enerģiju, aktivizējot atrašanās vietas WLAN. Vai iestatīt atrašanās vietas WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Zema akumulatora uzlādes līmeņa režīms var pagarināt akumulatora darbības laiku, piemēram, izslēdzot WLAN vai samazinot ekrāna spilgtumu, kad ir zems akumulatora uzlādes līmenis. Vai iestatīt zema akumulatora uzlādes līmeņa režīmu?</string>
+</resources>

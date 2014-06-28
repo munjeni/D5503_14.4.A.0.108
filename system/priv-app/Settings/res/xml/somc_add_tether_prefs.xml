@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/wifi_tether_settings_text" android:key="wifi_ap_settings" android:summary="@string/wifi_tether_settings_subtext" settings:dependOnIsValidIntent="true" settings:after="enable_wifi_ap">
+        <intent android:targetPackage="com.sonyericsson.settings.wifi" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.settings.wifi.WifiApSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="wifi_ap_ssid_and_security">
+        <intent android:targetPackage="com.sonyericsson.settings.wifi" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.settings.wifi.WifiApSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+</PreferenceScreen>

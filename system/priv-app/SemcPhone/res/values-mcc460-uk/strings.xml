@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Якщо ви не підключені до мережі WLAN, ви не зможете користуватись Інтернетом, електронною поштою або іншими програмами, що використовують з’єднання для мобільного передавання даних. Вимкнути це з’єднання?</string>
+    <string name="sip_call_options_wifi_only_title">Використ. інтернет-дзвінків (лише WLAN)</string>
+    <string name="registration_status_no_wifi_data">Немає з’єднання WLAN. Не вдалося зареєструвати обліковий запис.</string>
+    <string name="no_wifi_available_title">Немає з’єднання WLAN</string>
+    <string name="no_wifi_available">Щоб здійснити Інтернет-дзвінок, необхідно підключитися до мережі WLAN (перейдіть до параметра «Установки» > «Бездротове підключення та мережі»).</string>
+</resources>

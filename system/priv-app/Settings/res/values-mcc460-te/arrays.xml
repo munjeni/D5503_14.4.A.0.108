@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ముతక స్థానం</item>
+        <item>మంచి స్థానం</item>
+        <item>GPS</item>
+        <item>వైబ్రేట్</item>
+        <item>పరిచయాలను చదవండి</item>
+        <item>పరిచయాలను సవరించండి</item>
+        <item>కాల్ లాగ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>కాల్ లాగ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>క్యాలెండర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>క్యాలెండర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>WLAN స్కాన్</item>
+        <item>నోటిఫికేషన్</item>
+        <item>సెల్ స్కాన్</item>
+        <item>ఫోన్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌కు కాల్ చెయ్యి</item>
+        <item>SMSను చదవండి</item>
+        <item>SMSను వ్రాయండి</item>
+        <item>SMSను అందుకోండి</item>
+        <item>అత్యవసర SMSను అందుకోండి</item>
+        <item>MMSను అందుకోండి</item>
+        <item>WAP పుష్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను అందుకోండి</item>
+        <item>SMSను పంపండి</item>
+        <item>ICC SMSను చదవండి</item>
+        <item>ICC SMSను వ్రాయండి</item>
+        <item>సెట్టింగులను సవరించండి</item>
+        <item>పైన డ్రా చెయ్యి</item>
+        <item>నోటిఫికేషన్లను యాక్సెస్ చెయ్యి</item>
+        <item>కెమెరా</item>
+        <item>ఆడియోను రికార్డు చేయండి</item>
+        <item>ఆడియోను ప్లే చేయండి</item>
+        <item>క్లిప్ బోర్డ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>క్లిప్ బోర్డ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>స్థానం</item>
+        <item>స్థానం</item>
+        <item>స్థానం</item>
+        <item>వైబ్రేట్</item>
+        <item>పరిచయాలను చదవండి</item>
+        <item>పరిచయాలను సవరించండి</item>
+        <item>కాల్ లాగ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>కాల్ లాగ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>క్యాలెండర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>క్యాలెండర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>స్థానం</item>
+        <item>నోటిఫికేషన్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను పోస్ట్ చెయ్యి</item>
+        <item>స్థానం</item>
+        <item>ఫోన్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌కు కాల్ చెయ్యి</item>
+        <item>SMS/MMS చదువు</item>
+        <item>SMS/MMS వ్రాయండి</item>
+        <item>SMS/MMSను అందుకోండి</item>
+        <item>SMS/MMSను అందుకోండి</item>
+        <item>SMS/MMSను అందుకోండి</item>
+        <item>SMS/MMSను అందుకోండి</item>
+        <item>SMS/MMSను పంపండి</item>
+        <item>SMS/MMS చదువు</item>
+        <item>SMS/MMS వ్రాయండి</item>
+        <item>సెట్టింగులను సవరించండి</item>
+        <item>పైన డ్రా చెయ్యి</item>
+        <item>నోటిఫికేషన్లను యాక్సెస్ చెయ్యి</item>
+        <item>కెమెరా</item>
+        <item>ఆడియోను రికార్డు చేయండి</item>
+        <item>ఆడియోను ప్లే చేయండి</item>
+        <item>క్లిప్ బోర్డ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను చదవండి</item>
+        <item>క్లిప్ బోర్డ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సవరించండి</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ตำแหน่งคร่าวๆ</item>
+        <item>ตำแหน่งโดยละเอียด</item>
+        <item>GPS</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อติดต่อ</item>
+        <item>แก้ไขรายชื่อติดต่อ</item>
+        <item>อ่านประวัติการโทร</item>
+        <item>แก้ไขประวัติการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ค้นหา WLAN</item>
+        <item>การแจ้งเตือน</item>
+        <item>ค้นหาเซลล์</item>
+        <item>โทรเข้าโทรศัพท์</item>
+        <item>อ่าน SMS</item>
+        <item>เขียน SMS</item>
+        <item>รับ SMS</item>
+        <item>รับ SMS ฉุกเฉิน</item>
+        <item>รับ MMS</item>
+        <item>รับ WAP Push</item>
+        <item>ส่ง SMS</item>
+        <item>อ่าน ICC SMS</item>
+        <item>เขียน ICC SMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดด้านบน</item>
+        <item>เข้าถึงการแจ้งเตือน</item>
+        <item>กล้อง</item>
+        <item>บันทึกเสียง</item>
+        <item>เล่นเสียง</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มสื่อ</item>
+        <item>โฟกัสอัตโนมัติ</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงสนทนา</item>
+        <item>ระดับเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>ตำแหน่งจอภาพ</item>
+        <item>ติดตามตำแหน่งโดยใช้พลังงานมาก</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อติดต่อ</item>
+        <item>แก้ไขรายชื่อติดต่อ</item>
+        <item>อ่านประวัติการโทร</item>
+        <item>แก้ไขประวัติการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ตำแหน่ง</item>
+        <item>การแจ้งเตือนโพสต์</item>
+        <item>ตำแหน่ง</item>
+        <item>โทรเข้าโทรศัพท์</item>
+        <item>อ่าน SMS/MMS</item>
+        <item>เขียน SMS/MMS</item>
+        <item>รับ SMS/MMS</item>
+        <item>รับ SMS/MMS</item>
+        <item>รับ SMS/MMS</item>
+        <item>รับ SMS/MMS</item>
+        <item>ส่ง SMS/MMS</item>
+        <item>อ่าน SMS/MMS</item>
+        <item>เขียน SMS/MMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดด้านบน</item>
+        <item>เข้าถึงการแจ้งเตือน</item>
+        <item>กล้อง</item>
+        <item>บันทึกเสียง</item>
+        <item>เล่นเสียง</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มสื่อ</item>
+        <item>โฟกัสอัตโนมัติ</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงสนทนา</item>
+        <item>ระดับเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

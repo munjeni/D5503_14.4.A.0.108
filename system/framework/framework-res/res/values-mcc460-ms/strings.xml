@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Membenarkan aplikasi mendapatkan lokasi anda secara tepat menggunakan Sistem Kedudukan Sejagat (GPS) atau sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan aplikasi. Aplikasi boleh menggunakannya untuk menentukan lokasi anda dan mungkin menggunakan kuasa bateri tambahan.</string>
+    <string name="permdesc_accessCoarseLocation">Membenarkan aplikasi mendapatkan lokasi anggaran anda. Lokasi ini diperoleh daripada perkhidmatan lokasi menggunakan sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan aplikasi. Aplikasi boleh menggunakannya untuk menentukan lokasi anggaran anda.</string>
+    <string name="permlab_configureWifiDisplay">tatarajah paparan WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Membenarkan aplikasi menatarajah dan menyambung ke paparan WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kawal paparan WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Membenarkan aplikasi mengawal ciri tahap rendah paparan WLAN.</string>
+    <string name="permlab_accessWifiState">lihat sambungan WLAN</string>
+    <string name="permdesc_accessWifiState">Membenarkan aplikasi melihat maklumat tentang perangkaian WLAN, seperti sama ada WLAN didayakan dan nama peranti WLAN yang disambungkan.</string>
+    <string name="permlab_changeWifiState">sambung dan putuskan dari WLAN</string>
+    <string name="permdesc_changeWifiState">Membenarkan aplikasi menyambung kepada dan memutuskan sambungan dari titik akses WLAN dan membuat perubahan kepada konfigurasi peranti untuk rangkaian WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">"benarkan penerimaan
+ Multisiar WLAN"</string>
+    <string name="permdesc_changeWifiMulticastState">Membenarkan aplikasi menerima paket yang dihantar ke semua peranti pada rangkaian WLAN menggunakan alamat multisiar, bukan hanya telefon anda. Ia menggunakan lebih kuasa berbanding mod bukan multisiar.</string>
+    <string name="wifi_available_sign_in">Log masuk ke rangkaian WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Tidak boleh menyambung kepada WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Mulakan WLAN Direct. Hal ini akan mematikan klien/hotspot WLAN.</string>
+    <string name="wifi_p2p_failed_message">Tidak dapat memulakan WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct dihidupkan</string>
+    <string name="wifi_p2p_frequency_conflict_message">Sambungan telefon ke WLAN akan diputuskan buat sementara waktu semasa telefon bersambung ke %1$s</string>
+    <string name="data_usage_wifi_limit_title">Data WLAN dinyahdayakan</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Melebihi had data WLAN</string>
+    <string name="policylab_disableWifi">Nyahdayakan akses ke WLAN</string>
+    <string name="policydesc_disableWifi">Halang sambungan WLAN pada peranti.</string>
+    <string name="wifi_disabled_notification_title">Sambungan WLAN disekat</string>
+    <string name="wifi_disabled_notification_message">"Dasar keselamatan menyekat penggunaan WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Perayauan WLAN dalam kemajuan</string>
+    <string name="ct_cplusw_notification_text">"Rangkaian WLAN CT dismbgkn. Hubungi 10000 atau kedai tmptn utk mklmt bil.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN Telekom China dismbgkn</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Anda akan disambungkan ke rangkaian WLAN China Telecom. Untuk mendapatkan butiran caj, sila hubungi khidmat pelanggan China Telecom. Teruskan?</string>
+    <string name="wifi_nonconcurrency_message">Mulakan klien WLAN. Ini akan memutuskan sambungan WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Mulakan klien WLAN. Ini akan memutuskan sambungan WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Sebarang sambungan WLAN sedia ada akan diputuskan</string>
+    <string name="wifi_p2p_nonconcurrency_message">Mulakan WLAN Direct. Ini akan memutuskan sambungan WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ini akan memutuskan mana-mana sambungan WLAN yang sedia ada</string>
+    <string name="wifi_p2p_noncuncurrency_message">Mulakan WLAN Direct. Ini akan memutuskan sambungan WLAN.</string>
+    <string name="tethered_notification_message_wifi">Matikan HotSpot Mudah Alih untuk menghidupkan semula WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN dimatikan</string>
+</resources>

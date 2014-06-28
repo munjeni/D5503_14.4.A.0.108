@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="@string/swiqi_strings_swiqi2_txt" android:key="swiqi2" android:summary="@string/swiqi_strings_swiqi_desc_txt" android:defaultValue="true" settings:dependOnSystemProperty="ro.service.swiqi2.supported" settings:before="first" settings:valueOfSettingsSystem="com.sonymobile.swiqi2_mode" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="@string/swiqi_strings_swiqi3_txt" android:key="swiqi3" android:summary="@string/swiqi_strings_swiqi_desc_txt" android:defaultValue="true" settings:dependOnSystemProperty="ro.service.swiqi3.supported" settings:before="first" settings:valueOfSystemProperty="persist.service.swiqi3.enable" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="@string/glove_mode_checkbox_title" android:key="glove_mode" android:summary="@string/glove_mode_checkbox_summary" android:defaultValue="false" settings:dependOnResource="@android:bool/config_enable_glove_mode" settings:before="brightness" settings:valueOfSystemProperty="persist.sys.touch.glove_mode" settings:valueOfSettingsSystem="com.sonymobile.touch.glove_mode" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="white_balance" settings:dependOnIsValidIntent="true" settings:after="brightness" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.whitebalance" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.whitebalance.WhiteBalanceActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="wallpaper" />
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="wifi_display">
+        <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
+    </com.sonymobile.settings.preference.RemovePreference>
+</PreferenceScreen>

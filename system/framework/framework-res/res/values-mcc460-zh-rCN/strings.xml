@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">允许该应用通过全球定位系统 (GPS) 或网络位置信息源（例如基站和WLAN）获取您的精确位置信息。您必须在设备上开启这些位置服务，应用才能获得位置信息。应用会使用此类服务确定您的位置，这可能会消耗更多电量。</string>
+    <string name="permdesc_accessCoarseLocation">允许该应用获取您的大致位置信息。这类位置信息来自于使用网络位置信息源（例如基站和WLAN）的位置服务。您必须在设备上开启这些位置服务，应用才能获得位置信息。应用会使用此类服务确定您的大概位置。</string>
+    <string name="permlab_configureWifiDisplay">配置WLAN显示设备</string>
+    <string name="permdesc_configureWifiDisplay">允许应用配置并连接到WLAN显示设备。</string>
+    <string name="permlab_controlWifiDisplay">控制WLAN显示设备</string>
+    <string name="permdesc_controlWifiDisplay">允许应用控制WLAN显示设备的基础功能。</string>
+    <string name="permlab_accessWifiState">查看WLAN连接</string>
+    <string name="permdesc_accessWifiState">允许应用程序查看WLAN网络的相关信息，例如是否启用了WLAN以及连接的WLAN设备的名称。</string>
+    <string name="permlab_changeWifiState">连接WLAN和断开连接</string>
+    <string name="permdesc_changeWifiState">允许应用程序与WLAN接入点建立和断开连接，以及更改WLAN网络的设备配置。</string>
+    <string name="permlab_changeWifiMulticastState">允许接收 WLAN 多播</string>
+    <string name="permdesc_changeWifiMulticastState">允许应用程序使用多播地址接收发送到WLAN网络上所有设备（而不仅仅是您的手机）的数据包。该操作的耗电量比非多播模式要大。</string>
+    <string name="wifi_available_sign_in">登录到WLAN网络</string>
+    <string name="wifi_watchdog_network_disabled">无法连接到WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">启动WLAN Direct。此操作将会关闭WLAN客户端/热点。</string>
+    <string name="wifi_p2p_failed_message">无法启动WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">已启用WLAN Direct</string>
+    <string name="wifi_p2p_frequency_conflict_message">手机连接到%1$s时会暂时断开与WLAN的连接</string>
+    <string name="data_usage_wifi_limit_title">WLAN数据已停用</string>
+    <string name="data_usage_wifi_limit_snoozed_title">超出了WLAN数据限制</string>
+    <string name="policylab_disableWifi">禁用WLAN接入</string>
+    <string name="policydesc_disableWifi">阻止设备连接WLAN。</string>
+    <string name="wifi_disabled_notification_title">WLAN连接受到限制</string>
+    <string name="wifi_disabled_notification_message">"安全策略限制WLAN的使用。 "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN漫游进行中</string>
+    <string name="ct_cplusw_notification_text">"您已接入中国电信WLAN网络，计费信息请咨询10000或当地营业厅，不用时请断开连接。
+
+"</string>
+    <string name="ct_cplusw_notification_title">已连接中国电信WLAN网络</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">尊敬的用户，您即将接入中国电信WLAN网络，详细咨费请咨询中国电信客服。是否继续？</string>
+    <string name="wifi_nonconcurrency_message">启动WLAN客户端。这将断开WLAN Direct。</string>
+    <string name="wifi_noncuncurrency_message">启动WLAN客户端。这将断开WLAN Direct。</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">这将断开所有当前WLAN连接</string>
+    <string name="wifi_p2p_nonconcurrency_message">启动WLAN Direct。这将断开WLAN连接。</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">这将断开所有当前WLAN连接</string>
+    <string name="wifi_p2p_noncuncurrency_message">启动WLAN Direct。这将断开WLAN连接。</string>
+    <string name="tethered_notification_message_wifi">关闭移动热点，以便重新打开WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN已关闭</string>
+</resources>

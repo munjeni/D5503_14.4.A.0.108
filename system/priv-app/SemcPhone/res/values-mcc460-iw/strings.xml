@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">אם אינך משתמש ב-WLAN, לא תוכל להשתמש עוד באינטרנט, בדוא\"ל או ביישומים אחרים המחייבים חיבור נתונים. לכבות את חיבור הנתונים הסלולריים?</string>
+    <string name="sip_call_options_wifi_only_title">השתמש בשיחות אינטרנט (WLAN בלבד)</string>
+    <string name="registration_status_no_wifi_data">אין חיבור WLAN. לא ניתן לרשום חשבון.</string>
+    <string name="no_wifi_available_title">אין חיבור WLAN</string>
+    <string name="no_wifi_available">"כדי לבצע שיחת אינטרנט עליך להיות מחובר לרשת WLAN (עבור אל 'הגדרות > אלחוט ורשת')."</string>
+</resources>

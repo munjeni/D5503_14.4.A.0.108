@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Incorrect SIM PIN code, you have %d attempts remaining.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d attempt remaining before you must contact your mobile network to unlock your device.</item>
+    </plurals>
+</resources>

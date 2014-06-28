@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Extended Standby Mode controller</string>
+    <string name="dont_ask_me_again_txt">"Don't ask me again"</string>
+    <string name="description_msg_txt">"When the screen is off, Wi-Fi and mobile data will be temporarily disabled, and most applications will be inactive. You will still receive phone calls, SMS/MMS messages and, Sony™calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your phone will function normally.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"When the screen is off, Wi-Fi and mobile data will be temporarily disabled, and most applications will be inactive. You will still receive SMS/MMS messages, Sony™ calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your device will function normally."</string>
+    <string name="description_msg_no_telephony_txt">"When the screen is off, Wi-Fi will be temporarily disabled, and most applications will be inactive. You will still receive Sony™calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your device will function normally."</string>
+    <string name="description_title_txt">Note!</string>
+    <string name="low_battery_mode_description_msg_txt">"Enable Low battery mode to turn off power consuming features and settings when the battery is below a preset level. Tap Low battery mode to change settings.
+"</string>
+    <string name="activate_txt">Activate</string>
+    <string name="cancel_txt">Cancel</string>
+    <string name="xssm_blocker_detector_title">Power management tip</string>
+    <string name="xssm_blocker_detector_msg">%s is preventing STAMINA mode from saving power in standby</string>
+    <string name="xssm_blocker_detector_long_msg">If you use this application often, ignore this warning. If not, uninstall or force stop the application.</string>
+    <string name="xssm_blocker_detector_ignore">"Got it. Don't show again."</string>
+    <string name="network_detector_msg">%s is sending and receiving data while the screen is off and causes the battery to drain faster.</string>
+    <string name="network_detector_long_msg">Uninstalling it may improve device performance and extend battery time.</string>
+    <string name="wakelock_detector_msg">%s has not been used in several weeks.</string>
+    <string name="wakelock_detector_long_msg">It may wake the device from standby mode. Uninstalling it may improve device performance and extend battery time.</string>
+    <string name="notification_title_xssm">Power management tip</string>
+    <string name="notification_text_xssm">Activate STAMINA mode</string>
+    <string name="notification_descr_xssm">Your device is often in standby mode. Extend battery time by activating STAMINA mode.</string>
+    <string name="notification_dont_show_again">"Got it. Don't show again."</string>
+    <string name="notification_title_ps">Power management tip</string>
+    <string name="notification_text_ps">Activate Low battery mode</string>
+    <string name="notification_descr_ps">Low battery mode can extend battery life by e.g. turning off Wi-Fi or reducing screen brightness when battery is low.</string>
+    <string name="notification_title_lbw">Power management tip</string>
+    <string name="notification_text_lbw">Activate Location-based Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi is on but has not been used for a while. Save power by activating Location-based Wi-Fi.</string>
+    <string name="unused_application_title">Power management tip</string>
+    <string name="unused_application_msg">%s has not been used for some time</string>
+    <string name="unused_application_long_msg">If you want to keep this application, ignore this warning. If not, uninstall the application.</string>
+    <string name="unused_application_ignore">"Got it. Don't show again."</string>
+    <string name="drain_dialog_title_txt">Battery not charging</string>
+    <string name="drain_dialog_text_usb_txt">The connected power source is not sufficient. The battery is discharging faster than it is charging. Please change to your AC charger.</string>
+    <string name="drain_dialog_text_wallcharger_txt">The connected power source is not sufficient. The battery is discharging faster than it is charging. Minimize your device usage while charging.</string>
+    <string name="extend_battery_tip_dialog_headar">Power management tip</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi is on but has not been used for a while. You can save power by activating Location-based Wi-Fi. Set up Location-based Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Low battery mode can extend battery life by e.g. turning off Wi-Fi or reducing screen brightness when battery is low. Set up Low battery mode?</string>
+    <string name="stamina_mode_tip_dialog">Your device is often in standby mode. Extend battery time by activating STAMINA mode. Set up STAMINA mode?</string>
+    <string name="bad_app_notification">The following app is draining the battery:</string>
+    <string name="bad_standby_app_dialog">%s is preventing STAMINA mode from saving power in standby. If you use this application often, ignore this warning. If not, tap the App info button and either uninstall or force stop the application.</string>
+    <string name="ignore_dialog_action">Ignore</string>
+    <string name="app_info_dialog_action">App info</string>
+    <string name="stamina_activation_notification">STAMINA mode activated</string>
+    <string name="lowbattery_trigger_level_notification">Battery level below %d%%</string>
+    <string name="lowbattery_activated_notification">Low battery mode activated</string>
+    <string name="app_not_used_notification">This app has not been used for a while:</string>
+    <string name="app_not_used_tip_dialog">%s has not been used for a while. We recommend that you uninstall the application to save power.</string>
+    <string name="no_action_dialog">No</string>
+    <string name="yes_action_dialog">Yes</string>
+    <string name="widget_remaining_battery_time">Estimated battery time</string>
+    <string name="widget_name">STAMINA mode</string>
+</resources>

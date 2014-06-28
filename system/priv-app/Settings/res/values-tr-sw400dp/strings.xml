@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Otomatik senkronizasyon</string>
+    <string name="stamina_xssm_add_applications_title">Bekleme modunda aktif olan uygulamalar</string>
+    <string name="auto_hide_notifications_title">Görüntülenen bildirimleri temizle</string>
+</resources>

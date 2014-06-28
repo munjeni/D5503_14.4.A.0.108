@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>üldine asukoht</item>
+        <item>täpne asukoht</item>
+        <item>GPS</item>
+        <item>vibratsioon</item>
+        <item>kontaktide lugemine</item>
+        <item>kontaktide muutmine</item>
+        <item>kõnelogi lugemine</item>
+        <item>kõnelogi muutmine</item>
+        <item>kalendri lugemine</item>
+        <item>kalendri muutmine</item>
+        <item>WLAN skannimine</item>
+        <item>märguanne</item>
+        <item>mobiili skannimine</item>
+        <item>helistamine telefonile</item>
+        <item>SMS-i lugemine</item>
+        <item>SMS-i kirjutamine</item>
+        <item>SMS-i vastuvõtmine</item>
+        <item>hädaolukorra SMS-i vastuvõtmine</item>
+        <item>MMS-i vastuvõtmine</item>
+        <item>WAP-edastuse vastuvõtmine</item>
+        <item>SMS-i saatmine</item>
+        <item>ICC SMS-i lugemine</item>
+        <item>ICC SMS-i kirjutamine</item>
+        <item>seadete muutmine</item>
+        <item>peale joonistamine</item>
+        <item>juurdepääsumärguanded</item>
+        <item>kaamera</item>
+        <item>heli salvestamine</item>
+        <item>heli esitamine</item>
+        <item>lõikelaua lugemine</item>
+        <item>lõikelaua muutmine</item>
+        <item>meedianupud</item>
+        <item>helifookus</item>
+        <item>põhihelitugevus</item>
+        <item>hääle helitugevus</item>
+        <item>helina helitugevus</item>
+        <item>meedia helitugevus</item>
+        <item>äratuse helitugevus</item>
+        <item>märguande helitugevus</item>
+        <item>Bluetoothi helitugevus</item>
+        <item>hoia ärkvel</item>
+        <item>monitori asukoht</item>
+        <item>suure võimsusega asukoha jälgimine</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+        <item>Vibratsioon</item>
+        <item>Kontaktide lugemine</item>
+        <item>Kontaktide muutmine</item>
+        <item>Kõnelogi lugemine</item>
+        <item>Kõnelogi muutmine</item>
+        <item>Kalendri lugemine</item>
+        <item>Kalendri muutmine</item>
+        <item>Asukoht</item>
+        <item>Märguande postitamine</item>
+        <item>Asukoht</item>
+        <item>Helistamine telefonile</item>
+        <item>SMS-i/MMS-i lugemine</item>
+        <item>SMS-i/MMS-i kirjutamine</item>
+        <item>SMS-i/MMS-i vastuvõtmine</item>
+        <item>SMS-i/MMS-i vastuvõtmine</item>
+        <item>SMS-i/MMS-i vastuvõtmine</item>
+        <item>SMS-i/MMS-i vastuvõtmine</item>
+        <item>SMS-i/MMS-i saatmine</item>
+        <item>SMS-i/MMS-i lugemine</item>
+        <item>SMS-i/MMS-i kirjutamine</item>
+        <item>Seadete muutmine</item>
+        <item>Peale joonistamine</item>
+        <item>Juurdepääsumärguanded</item>
+        <item>Kaamera</item>
+        <item>Heli salvestamine</item>
+        <item>Heli esitamine</item>
+        <item>Lõikelaua lugemine</item>
+        <item>Lõikelaua muutmine</item>
+        <item>Meedianupud</item>
+        <item>Helifookus</item>
+        <item>Põhihelitugevus</item>
+        <item>Hääle helitugevus</item>
+        <item>Helina helitugevus</item>
+        <item>Meedia helitugevus</item>
+        <item>Alarmi helitugevus</item>
+        <item>Märguande helitugevus</item>
+        <item>Bluetoothi helitugevus</item>
+        <item>Hoia ärkvel</item>
+        <item>Asukoht</item>
+        <item>Asukoht</item>
+    </string-array>
+</resources>

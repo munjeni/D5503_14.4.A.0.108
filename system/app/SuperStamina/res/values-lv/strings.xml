@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekonomiskā režīma vadības ierīce</string>
+    <string name="dont_ask_me_again_txt">Vairs nejautāt</string>
+    <string name="description_msg_txt">"Kad ekrāns ir izslēgts, Wi-Fi un mobilie dati uz brīdi tiek atspējoti un nedarbojas vairākums lietotņu. Joprojām varat saņemt tālruņa zvanus, SMS/MMS ziņas un izmantot Sony™ kalendāra paziņojumus un modinātāja signālus. Darbojas mūzikas atskaņotājs un FM radio, kā arī varat pabeigt iesāktās lejupielādes un augšupielādes.
+
+Kad ekrāns ir ieslēgts, tālrunis darbojas kā parasti.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kad ekrāns būs izslēgts, Wi-Fi un mobilie dati tiks īslaicīgi atspējoti, un vairākums lietotņu nebūs aktīvas. Joprojām varēsit saņemt SMS/MMS ziņas, Sony™ kalendāra paziņojumus un Sony™ modinātāja signālus. Mūzikas atskaņotājs un FM radio darbosies, un varēs pabeigt notiekošo lejupielāžu un augšupielāžu izpildi.
+
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti."</string>
+    <string name="description_msg_no_telephony_txt">"Kad ekrāns būs izslēgts, Wi-Fi tiks īslaicīgi atspējots, un vairākums lietotņu nebūs aktīvas. Joprojām varēsit saņemt Sony™ kalendāra paziņojumus un Sony™ modinātāja signālus. Mūzikas atskaņotājs un FM radio darbosies, un varēs pabeigt notiekošo lejupielāžu un augšupielāžu izpildi.
+
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti."</string>
+    <string name="description_title_txt">Piezīme.</string>
+    <string name="low_battery_mode_description_msg_txt">"Iespējojiet zema akumulatora uzlādes līmeņa režīmu, lai izslēgtu strāvu patērējošas funkcijas un iestatījumus, ja akumulatora uzlādes līmenis ir zem iestatītā. Piesitiet Zema akumulatora uzlādes līmeņa režīms, lai mainītu iestatījumus.
+"</string>
+    <string name="activate_txt">Aktivizēt</string>
+    <string name="cancel_txt">Atcelt</string>
+    <string name="xssm_blocker_detector_title">Padomi par enerģijas pārv.</string>
+    <string name="xssm_blocker_detector_msg">%s liedz STAMINA režīmam taupīt enerģiju gaidīšanas režīmā</string>
+    <string name="xssm_blocker_detector_long_msg">Ja bieži lietojat šo lietotni, ignorējiet šo brīdinājumu. Pretējā gadījumā atinstalējiet lietotni vai apturiet tās darbību piespiedu kārtā.</string>
+    <string name="xssm_blocker_detector_ignore">Skaidrs. Vairs nerādīt šo ziņojumu.</string>
+    <string name="network_detector_msg">%s sūta un saņem datus, kamēr ekrāns ir izslēgts, un ātrāk iztērē akumulatora enerģiju.</string>
+    <string name="network_detector_long_msg">Atinstalējot to, var tikt uzlabota ierīces veiktspēja un paildzināts akumulatora darbības laiks.</string>
+    <string name="wakelock_detector_msg">Lietotne %s nav izmantota vairākas nedēļas.</string>
+    <string name="wakelock_detector_long_msg">Tas var pamodināt ierīci no gaidīšanas režīma. Atinstalējot to, var tikt uzlabota ierīces veiktspēja un paildzināts akumulatora darbības laiks.</string>
+    <string name="notification_title_xssm">Padomi par enerģijas pārv.</string>
+    <string name="notification_text_xssm">Aktivizējiet STAMINA režīmu</string>
+    <string name="notification_descr_xssm">Jūsu ierīce bieži atrodas gaidīšanas režīmā. Lai pagarinātu akumulatora darbības laiku, aktivizējiet STAMINA režīmu.</string>
+    <string name="notification_dont_show_again">Skaidrs. Vairs nerādīt šo ziņojumu.</string>
+    <string name="notification_title_ps">Padomi par enerģijas pārv.</string>
+    <string name="notification_text_ps">Aktivizējiet zema uzl. līm. režīmu</string>
+    <string name="notification_descr_ps">Zema akumulatora uzlādes līmeņa režīms var pagarināt akumulatora darbības laiku, piemēram, izslēdzot Wi-Fi vai samazinot ekrāna spilgtumu, ja ir zems akumulatora uzlādes līmenis.</string>
+    <string name="notification_title_lbw">Padomi par enerģijas pārv.</string>
+    <string name="notification_text_lbw">Aktivizējiet atrašanās vietas Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi ir ieslēgts, taču kādu laiku netiek lietots. Lai taupītu enerģiju, aktivizējiet atrašanās vietas Wi-Fi.</string>
+    <string name="unused_application_title">Enerģijas pārvaldības padoms</string>
+    <string name="unused_application_msg">Lietotne %s nav lietota ilgāku laiku</string>
+    <string name="unused_application_long_msg">Ja vēlaties paturēt šo lietotni, ignorējiet šo brīdinājumu. Pretējā gadījumā atinstalējiet lietotni.</string>
+    <string name="unused_application_ignore">Viss skaidrs! Vairs nerādīt šo ziņojumu.</string>
+    <string name="drain_dialog_title_txt">Akumulators netiek lādēts</string>
+    <string name="drain_dialog_text_usb_txt">Pievienotais enerģijas avots nav pietiekams. Akumulatora izlāde notiek ātrāk nekā uzlāde. Lūdzu, izmantojiet AC lādētāju.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Pievienotais enerģijas avots nav pietiekams. Akumulatora izlāde notiek ātrāk nekā uzlāde. Samaziniet ierīces lietošanu uzlādes laikā.</string>
+    <string name="extend_battery_tip_dialog_headar">Padoms par enerģijas pārvaldību</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi ir ieslēgts, bet kādu laiku nav izmantots. Varat ietaupīt enerģiju, aktivizējot atrašanās vietas Wi-Fi. Vai iestatīt atrašanās vietas Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Zema akumulatora uzlādes līmeņa režīms var pagarināt akumulatora darbības laiku, piemēram, izslēdzot Wi-Fi vai samazinot ekrāna spilgtumu, kad ir zems akumulatora uzlādes līmenis. Vai iestatīt zema akumulatora uzlādes līmeņa režīmu?</string>
+    <string name="stamina_mode_tip_dialog">Jūsu ierīce bieži ir gaidīšanas režīmā. Pagariniet akumulatora darbības laiku, aktivizējot STAMINA režīmu. Vai iestatīt STAMINA režīmu?</string>
+    <string name="bad_app_notification">Šī lietotne tērē akumulatora enerģiju:</string>
+    <string name="bad_standby_app_dialog">%s neļauj STAMINA režīmam taupīt enerģiju gaidīšanas režīmā. Ja lietotni izmantojat bieži, ignorējiet šo brīdinājumu. Ja nē, piesitiet lietotnes informācijas pogai un atinstalējiet vai apstādiniet lietotni.</string>
+    <string name="ignore_dialog_action">Ignorēt</string>
+    <string name="app_info_dialog_action">Lietotnes informācija</string>
+    <string name="stamina_activation_notification">STAMINA režīms aktivizēts</string>
+    <string name="lowbattery_trigger_level_notification">Akumulatora uzlādes līmenis ir zem %d%%</string>
+    <string name="lowbattery_activated_notification">Zema uzl. līm. režīms aktivizēts</string>
+    <string name="app_not_used_notification">Šī lietotne kādu laiku nav izmantota:</string>
+    <string name="app_not_used_tip_dialog">%s kādu laiku nav izmantota. Iesakām lietotni atinstalēt, lai taupītu enerģiju.</string>
+    <string name="no_action_dialog">Nē</string>
+    <string name="yes_action_dialog">Jā</string>
+    <string name="widget_remaining_battery_time">Aprēķinātais akumulatora darbības laiks</string>
+    <string name="widget_name">STAMINA režīms</string>
+</resources>

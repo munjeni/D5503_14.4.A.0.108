@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingEnd="?android:scrollbarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center_vertical" android:id="@id/callhandling_network_availability" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/callhandling_settings_net_not_accessible" android:visible="false" android:layout_marginStart="8.0dip" />
+    <ImageView android:gravity="center_vertical" android:id="@id/callhandling_network_technology" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/callhandling_settings_2g_net" android:visible="false" android:layout_marginStart="8.0dip" />
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:layout_below="@android:id/title" android:layout_alignStart="@android:id/title" />
+    </RelativeLayout>
+    <ImageView android:gravity="center_vertical" android:id="@id/callhandling_current_network" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_check_buttonless_off_light" android:visible="false" android:layout_marginEnd="8.0dip" />
+</LinearLayout>

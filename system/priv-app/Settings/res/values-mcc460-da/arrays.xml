@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>omtrentlig placering</item>
+        <item>nøjagtig placering</item>
+        <item>GPS</item>
+        <item>vibrer</item>
+        <item>læs kontaktpersoner</item>
+        <item>rediger kontaktpersoner</item>
+        <item>læs opkaldsliste</item>
+        <item>rediger opkaldslisten</item>
+        <item>læs kalenderen</item>
+        <item>rediger kalenderen</item>
+        <item>WLAN-scanning</item>
+        <item>underretning</item>
+        <item>mobilscanning</item>
+        <item>ring til telefon</item>
+        <item>læs sms</item>
+        <item>skriv sms</item>
+        <item>modtag sms</item>
+        <item>modtag nød-sms</item>
+        <item>modtag mms</item>
+        <item>modtag WAP-push</item>
+        <item>send sms</item>
+        <item>læs ICC-sms</item>
+        <item>skriv ICC-sms</item>
+        <item>skift indstillinger</item>
+        <item>tegn ovenpå</item>
+        <item>underretninger om adgang</item>
+        <item>kamera</item>
+        <item>optag lyd</item>
+        <item>afspil lyd</item>
+        <item>læs udklipsholder</item>
+        <item>rediger udklipsholder</item>
+        <item>medieknapper</item>
+        <item>lydfokusering</item>
+        <item>generel lydstyrke</item>
+        <item>lydstyrke for stemme</item>
+        <item>lydstyrke for ringetone</item>
+        <item>lydstyrke for medier</item>
+        <item>alarmlydstyrke</item>
+        <item>lydstyrke for underretninger</item>
+        <item>lydstyrke for bluetooth</item>
+        <item>hold aktiv</item>
+        <item>overvåg placering</item>
+        <item>overvåg placering med højt strømforbrug</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Placering</item>
+        <item>Placering</item>
+        <item>Placering</item>
+        <item>Vibrer</item>
+        <item>Læs kontaktpersoner</item>
+        <item>Rediger kontaktpersoner</item>
+        <item>Læs opkaldslisten</item>
+        <item>Rediger opkaldslisten</item>
+        <item>Læs kalenderen</item>
+        <item>Rediger kalenderen</item>
+        <item>Placering</item>
+        <item>Send underretning</item>
+        <item>Placering</item>
+        <item>Ring til telefon</item>
+        <item>Læs sms/mms</item>
+        <item>Skriv sms/mms</item>
+        <item>Modtag sms/mms</item>
+        <item>Modtag sms/mms</item>
+        <item>Modtag sms/mms</item>
+        <item>Modtag sms/mms</item>
+        <item>Send sms/mms</item>
+        <item>Læs sms/mms</item>
+        <item>Skriv sms/mms</item>
+        <item>Skift indstillinger</item>
+        <item>Tegn ovenpå</item>
+        <item>Underretninger om adgang</item>
+        <item>Kamera</item>
+        <item>Optag lyd</item>
+        <item>Afspil lyd</item>
+        <item>Læs udklipsholder</item>
+        <item>Rediger udklipsholder</item>
+        <item>Medieknapper</item>
+        <item>Lydfokusering</item>
+        <item>Generel lydstyrke</item>
+        <item>Lydstyrke for stemme</item>
+        <item>Lydstyrke for ringetone</item>
+        <item>Lydstyrke for medier</item>
+        <item>Alarmlydstyrke</item>
+        <item>Lydstyrke for underretninger</item>
+        <item>Lydstyrke for bluetooth</item>
+        <item>Hold aktiv</item>
+        <item>Placering</item>
+        <item>Placering</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

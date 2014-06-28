@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Þegar slökkt er á skjánum er tímabundið slökkt á WLAN og gagnatengingu. Þér munu áfram berast símtöl, SMS-/MMS-skilaboð og tilkynningar og áminningar úr Sony™ dagbók og Sony™ vekjarinn er einnig virkur. Tónlistarspilarinn og útvarpið munu virka og yfirstandandi upphal og niðurhal fær að klárast.
+
+Þegar kveikt er á skjánum vinnur síminni venjulega.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Þegar slökkt er á skjánum verða WLAN- og gagnatenging gerð tímabundið óvirk og flest forrit verða óvirk. Þú tekur áfram á móti SMS- og MMS-skilaboðum, tilkynningum úr Sony™ dagbókinni og tónum úr Sony™ vekjaraklukkunni. Tónlistarspilarinn og FM-útvarpið eru virk og niðurhali og uppfærslum er leyft að klárast.
+
+Þegar kveikt er á skjánum er virkni tækisins eðlileg."</string>
+    <string name="description_msg_no_telephony_txt">"Þegar slökkt er á skjánum slokknar tímabundið á WLAN og flest forrit verða óvirk. Þú tekur áfram á móti tilkynningum úr Sony™ dagbókinni og tónum úr Sony™ vekjaraklukkunni. Tónlistarspilarinn og FM-útvarpið eru virk og niðurhali og uppfærslum er leyft að klárast.
+
+Þegar kveikt er á skjánum er virkni tækisins eðlileg."</string>
+    <string name="notification_descr_ps">Sparstilling getur lengt líftíma rafhlöðu, t.d. með því að slökkva á WLAN eða lækka birtustig þegar hleðsla rafhlöðu er orðin lág.</string>
+    <string name="notification_text_lbw">Kveikja á staðsetningar WLAN</string>
+    <string name="notification_descr_lbw">Kveikt er á WLAN en það hefur ekki verið notað nýlega. Sparaðu rafmagn með því að kveikja á staðsetningar WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">Kveikt er á WLAN en það hefur ekki verið notað um hríð. Þú getur sparað orku með því að kveikja á staðsettu WLAN. Setja upp staðsett WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Sparstilling getur lengt endingartíma rafhlöðunnar, t.d. með því að slökkva á WLAN eða minnka skjábirtu þegar lítil hleðsla er á rafhlöðu. Kveikja á sparstillingu?</string>
+</resources>

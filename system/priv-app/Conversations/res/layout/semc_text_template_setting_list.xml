@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonyericsson.conversations.ui.SafeListView android:scrollbarStyle="outsideOverlay" android:id="@id/semc_text_template_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center" android:id="@id/semc_text_template_empty_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/conversations_strings_settings_no_text_template_txt" android:paddingStart="@dimen/generic_left_margin" android:paddingEnd="@dimen/generic_right_margin" />
+</FrameLayout>

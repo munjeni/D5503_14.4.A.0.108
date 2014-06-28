@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>apytikslė vietovė</item>
+        <item>tiksli vietovė</item>
+        <item>GPS</item>
+        <item>vibruoti</item>
+        <item>skaityti kontaktus</item>
+        <item>keisti kontaktus</item>
+        <item>skaityti skambučių žurnalą</item>
+        <item>keisti skambučių žurnalą</item>
+        <item>skaityti kalendorių</item>
+        <item>keisti kalendorių</item>
+        <item>„WLAN“ žvalgymas</item>
+        <item>pranešimas</item>
+        <item>mobiliųjų telefonų žvalgymas</item>
+        <item>skambinti į telefoną</item>
+        <item>skaityti SMS</item>
+        <item>rašyti SMS</item>
+        <item>gauti SMS</item>
+        <item>gauti nepaprastosios padėties SMS</item>
+        <item>gauti MMS</item>
+        <item>gauti „WAP Push“ pranešimus</item>
+        <item>siųsti SMS</item>
+        <item>skaityti ICC SMS</item>
+        <item>rašyti ICC SMS</item>
+        <item>keisti nustatymus</item>
+        <item>piešti viršuje</item>
+        <item>pasiekti pranešimus</item>
+        <item>fotoaparatas</item>
+        <item>įrašyti garso įrašą</item>
+        <item>leisti garso įrašą</item>
+        <item>skaityti iškarpinę</item>
+        <item>keisti iškarpinę</item>
+        <item>medijos mygtukai</item>
+        <item>garso sutelktis</item>
+        <item>pagrindinis garsumas</item>
+        <item>balso garsumas</item>
+        <item>skambučio garsumas</item>
+        <item>medijos garsumas</item>
+        <item>signalo garsumas</item>
+        <item>pranešimų garsumas</item>
+        <item>„Bluetooth“ garsumas</item>
+        <item>neužmigdyti</item>
+        <item>stebėti vietovę</item>
+        <item>stebėti didelė galia vietovė</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Vieta</item>
+        <item>Vieta</item>
+        <item>Vieta</item>
+        <item>Vibruoti</item>
+        <item>Skaityti adresatus</item>
+        <item>Keisti adresatus</item>
+        <item>Skaityti skambučių registrą</item>
+        <item>Keisti skambučių registrą</item>
+        <item>Skaityti kalendorių</item>
+        <item>Keisti kalendorių</item>
+        <item>Vieta</item>
+        <item>Paskelbti pranešimą</item>
+        <item>Vieta</item>
+        <item>Skambinti telefonu</item>
+        <item>Skaityti SMS / MMS</item>
+        <item>Rašyti SMS / MMS</item>
+        <item>Gauti SMS / MMS</item>
+        <item>Gauti SMS / MMS</item>
+        <item>Gauti SMS / MMS</item>
+        <item>Gauti SMS / MMS</item>
+        <item>Siųsti SMS / MMS</item>
+        <item>Skaityti SMS / MMS</item>
+        <item>Rašyti SMS / MMS</item>
+        <item>Keisti nustatymus</item>
+        <item>Piešti viršuje</item>
+        <item>Pranešimų prieiga</item>
+        <item>Kamera</item>
+        <item>Įrašyti garso įrašą</item>
+        <item>Leisti garso įrašą</item>
+        <item>Skaityti iškarpinę</item>
+        <item>Keisti iškarpinę</item>
+        <item>Medijos mygtukai</item>
+        <item>Garso sutelktis</item>
+        <item>Pagrindinis garsumas</item>
+        <item>Balso garsumas</item>
+        <item>Skambučio garsumas</item>
+        <item>Medijos garsumas</item>
+        <item>Signalo garsumas</item>
+        <item>Pranešimo garsumas</item>
+        <item>„Bluetooth“ garsumas</item>
+        <item>Neužmigdyti</item>
+        <item>Vietovė</item>
+        <item>Vietovė</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

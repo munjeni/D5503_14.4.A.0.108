@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dont_ask_me_again_txt">Ինձ նորից չհարցնեք</string>
+    <string name="description_msg_txt">"Երբ էկրանն անջատվի Wi-Fi-ը և բջջային տվյալները ժամանակավորապես կկասեցվեն և աշխատածրագրերի մեծ մասը ակտիվ չի լինի: Դուք դեռևս կստանաք հեռախոսականչեր, SMS/MMS հաղորդագրություններ, Sony™ օրացույցի ծանուցումները և Sony™ զարթուցիչի ազդանշանները: Երաժշտության նվագարկիչը և FM ռադիոն կաշխատեն և ն ընթացքի մեջ գտնվող ներբեռնումներն ու վերբեռնումները կթույլատրվեն ավարտել:
+
+Երբ էկրանը միացվի ձեր հեռախոսը նորմալ կաշխատի:
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Մինչդեռ էկրանն անջատված է, Wi-Fi-ը և բջջային տվյալները ժամանակավորապես կլինեն կասեցված, իսկ ծրագրային հավելվածներից շատերը՝ ոչ ակտիվ: Դուք դեռ կստանաք SMS/MMS հաղորդագրություններ, Sony™-ի օրացույցի ծանուցումներ և Sony™-ի զարթուցիչի ազդանշաններ: Երաժշտության նվագարկիչը և FM ռադիոն կաշխատեն և հնարավոր կլինի ընթացքի մեջ գտնվող ներբեռնումներն ու վերբեռնումները ավարտել: 
+
+Երբ էկրանը միացված է, ձեր սարքը աշխատում է նորմալ ռեժիմում:"</string>
+    <string name="description_msg_no_telephony_txt">"Մինչդեռ էկրանն անջատված է, Wi-Fi-ը ժամանակավորապես կասեցվում է, իսկ գործադիրների մեծամասնությունը` ոչ ակտիվ: Դուք դարձյալ կստանաք Sony™ օրացույցի ծանուցումներ ու Sony™ զարթուցիչի ազդանշաններ: Երաժշտության նվագարկիչն ու FM ռադիոն կաշխատեն, և ընթացիկ վերբեռնումներն ու ներբեռնումները կկատարվեն:
+
+Երբ էկրանը միացված է, ձեր սարքը աշխատում է նորմալ ռեժիմում:"</string>
+    <string name="description_title_txt">Նշում:</string>
+    <string name="low_battery_mode_description_msg_txt">"Միացրեք լիցքաթափված մարտկոցի ռեժիմը` ըթացիկ մակարդակից ցածր մարտկոցի դեպքում հոսանք ծախսող յուրահատկ-րն ու կարգավորումները անջատելու համար: Հպեք Լիցքաթափված մարտկոցի ռեժիմը` կարգավորւմները փոխելու:
+"</string>
+    <string name="activate_txt">Ակտիվացնել</string>
+    <string name="cancel_txt">Չեղարկել</string>
+    <string name="xssm_blocker_detector_title">Խրհրդ էներգ կռվրմն մսն</string>
+    <string name="xssm_blocker_detector_msg">%s-ը կանխում է, որպեսզի STAMINA ռեժիմը խնայի էներգիան սպասման ռեժիմում</string>
+    <string name="xssm_blocker_detector_long_msg">Եթե հաճախակի եք օգտագործում այս ծրագրային հավելվածը, ապա անտեսեք այս զգուշացումը: Հակառակ դեպքում ապատեղադրեք կամ հարկադրաբար դադարեցրեք ծրագրային հավելվածի աշխատանքը:</string>
+    <string name="xssm_blocker_detector_ignore">Պարզ է: Այլևս չցուցադրել:</string>
+    <string name="network_detector_msg">%s ուղարկում և ստանում է տվյալներ, երբ էկրանն անջատ է և լիցքաթափում է մարտկոցը:</string>
+    <string name="network_detector_long_msg">Ապատեղադրումը կլավացնի աշխատանքը և կխնայի մարտկոցը:</string>
+    <string name="wakelock_detector_msg">%s մի քանի շաբաթ չի օգտ-լ:</string>
+    <string name="wakelock_detector_long_msg">Կարող է հանել սարքը նիրհից: Ապատեղադրումը կլավացնի աշխատանքը և կխնայի մարտկոցը:</string>
+    <string name="notification_title_xssm">Խրհրդ էներգ կռվրմն մսն</string>
+    <string name="notification_text_xssm">Ակտիվացրեք STAMINA ռեժիմը</string>
+    <string name="notification_descr_xssm">Ձեր սարքը հաճախակի գտնվում է սպասման ռեժիմում: Երկարացրեք մարտկոցի աշխատանքի ժամանակը՝ ակտիվացնելով STAMINA ռեժիմը:</string>
+    <string name="notification_dont_show_again">Պարզ է: Այլևս չցուցադրել:</string>
+    <string name="notification_title_ps">Խրհրդ էներգ կռվրմն մսն</string>
+    <string name="notification_text_ps">Ակտվցր լցքթվծ. մարտկ. ռժմը.</string>
+    <string name="notification_descr_ps">Լիցքաթափված մարտկոցի ռեժիմը կարող է երկարացնել մարտկոցի աշխատանքի ժամանակը, օրինակ, Wi-Fi-ն անջատելու կամ էկրանի պայծառությունը նվազեցնելու միջոցով:</string>
+    <string name="notification_title_lbw">Խրհրդ էներգ կռվրմն մսն</string>
+    <string name="notification_text_lbw">Ակտիվց տղդրթյն վրա հմնվծ Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi-ը միացված է, սակայն երկար ժամանակ չի օգտագործվել: Խնայեք էներգիան՝ ակտիվացնելով Տեղադրության վրա հիմնված Wi-Fi-ը:</string>
+    <string name="unused_application_title">Խրհրդ էնրգ կռվրմն մսն</string>
+    <string name="unused_application_msg">%s-ը որոշ ժամանակ չի օգտագործվել</string>
+    <string name="unused_application_long_msg">Եթե ցանկանում եք պահել այս ծրագրային հավելվածը, անտեսեք զգուշացումը: Հակառակ դեպքում ապատեղադրեք ծրագրային հավելվածը:</string>
+    <string name="unused_application_ignore">Պարզ է: Այլևս չցցդրլ:</string>
+    <string name="drain_dialog_title_txt">Մարտկոցը չի լիցքավորվում</string>
+    <string name="drain_dialog_text_usb_txt">Միացված էներգիայի աղբյուրը բավական չէ: Մարտկոցը լիցքաթափվում է ավել արագ, քան լիցքավորվում է: Խնդրում ենք փոխարկել ձեր փոփոխական հոսանքի լիցքավորիչի:</string>
+    <string name="drain_dialog_text_wallcharger_txt">Միացված էներգիայի աղբյուրը բավական չէ: Մարտկոցը լիցքաթափվում է ավել արագ, քան լիցքավորվում է: Լիցքավորման ընթացքում ձեր սարքի օգտագործումը հասցրեք նվազագույնի:</string>
+    <string name="extend_battery_tip_dialog_headar">Խրհրդ էնրգ կռվրմն մսն</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi-ը միացված է, սակայն որոշ ժամանակ չի օգտագործվել: Կարող եք խնայել էներգիան՝ ակտիվացնելով Տեղադրության վրա հիմնված Wi-Fi-ը: Կարգավորե՞լ Տեղադրության վրա հիմնված Wi-Fi-ը:</string>
+    <string name="low_battery_mode_tip_dialog">Լիցքաթափված մարտկոցի ռեժիմը կարող է երկարացնել մարտկոցի աշխատանքի ժամանակը, օրինակ, Wi-Fi-ն անջատելու կամ էկրանի պայծառությունը նվազեցնելու միջոցով: Կարգավորե՞լ լիցքաթափված մարտկոցի ռեժիմը:</string>
+    <string name="stamina_mode_tip_dialog">Ձեր սարքը հաճախակի գտնվում է սպասման ռեժիմում: Երկարացրեք մարտկոցի աշխատանքի ժամանակը՝ ակտիվացնելով STAMINA ռեժիմը: Կարգավորե՞լ STAMINA ռեժիմը:</string>
+    <string name="bad_app_notification">Այս ծրգ հվլվ արգ նվզցնմ է մրտկ լցքը՝</string>
+    <string name="bad_standby_app_dialog">%s-ը կանխում է, որպեսզի STAMINA ռեժիմը խնայի էներգիան սպասման ռեժիմում: Եթե օգտագործում եք այս ծրագրային հավելվածը հաճախակի, անտեսեք այս զգուշացումը: Հակառակ դեպքում թակեք «Տեղեկություններ ծրագրային հավելվածի մասին» կոճակը և ապատեղադրեք ծրագրային հավելվածը կամ հարկադրաբար կանգնեցրեք դրա աշխատանքը:</string>
+    <string name="ignore_dialog_action">Անտեսել</string>
+    <string name="app_info_dialog_action">Տղկթ ծրգ հվլվ մսն</string>
+    <string name="stamina_activation_notification">STAMINA ռժմը ակտվ է</string>
+    <string name="lowbattery_trigger_level_notification">Մարտկոցի լիցքը %d%%-ից ցածր է</string>
+    <string name="lowbattery_activated_notification">Լցքթվծ. մարտկ. ռժմը. ակտվ է</string>
+    <string name="app_not_used_notification">Այս ծրգ հվլվ որշ ժմնկ չի օգտգրծվլ՝</string>
+    <string name="app_not_used_tip_dialog">%s-ը որոշ ժամանակ չի օգտագործվել: Խորհուրդ ենք տալիս ապատեղադրել ծրագրային հավելվածը՝ էներգիան խնայելու համար:</string>
+    <string name="no_action_dialog">Ոչ</string>
+    <string name="yes_action_dialog">Այո</string>
+    <string name="widget_remaining_battery_time">Մնացած մարտկոց</string>
+    <string name="widget_name">STAMINA</string>
+</resources>

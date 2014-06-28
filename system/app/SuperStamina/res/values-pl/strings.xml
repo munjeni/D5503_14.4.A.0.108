@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontroler trybu Eco</string>
+    <string name="dont_ask_me_again_txt">Nie pytaj ponownie</string>
+    <string name="description_msg_txt">"Przy wyłączonym ekranie transmisja danych w sieci komórkowej i sieć Wi-Fi zostaną tymczasowo wyłączone, a większość aplikacji będzie nieaktywna. Nadal będą odbierane połączenia, wiadomości SMS/MMS, powiadomienia kalendarza Sony™ oraz sygnały alarmowe Sony™. Odtwarzacz muzyki i radio FM będą działać, a operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie telefon będzie działać normalnie.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Przy wyłączonym ekranie transmisja danych w sieci komórkowej i Wi-Fi będą tymczasowo wyłączone, a większość aplikacji nie będzie działać. Nadal będą dostarczane wiadomości SMS/MMS, powiadomienia kalendarza Sony™ i sygnały alarmów Sony™. Odtwarzacz muzyki i radio FM będą działać, a trwające operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie urządzenie będzie działać normalnie."</string>
+    <string name="description_msg_no_telephony_txt">"Przy wyłączonym ekranie łączność z siecią Wi-Fi będzie tymczasowo wyłączona, a większość aplikacji nie będzie działać. Nadal będą dostarczane powiadomienia kalendarza Sony™ i sygnały alarmów Sony™. Odtwarzacz muzyki i radio FM będą działać, a trwające operacje pobierania i wysyłania będą mogły zostać ukończone.
+
+Przy włączonym ekranie urządzenie będzie działać normalnie."</string>
+    <string name="description_title_txt">Uwaga!</string>
+    <string name="low_battery_mode_description_msg_txt">"Włącz tryb oszczędzania słabej baterii, aby wyłączać funkcje i ustawienia zużywające dużo energii, kiedy stan naładowania baterii spadnie poniżej określonego poziomu. Stuknij Tryb oszczędzania słabej baterii, aby zmienić ustawienia.
+"</string>
+    <string name="activate_txt">Włącz</string>
+    <string name="cancel_txt">Anuluj</string>
+    <string name="xssm_blocker_detector_title">Wskaz. dot. zarządz. energią</string>
+    <string name="xssm_blocker_detector_msg">Aplikacja %s uniemożliwia trybowi STAMINA oszczędzanie energii w trybie gotowości</string>
+    <string name="xssm_blocker_detector_long_msg">Jeśli często korzystasz z tej aplikacji, zignoruj to ostrzeżenie. Jeśli jest inaczej, odinstaluj ją lub wymuś jej zamknięcie.</string>
+    <string name="xssm_blocker_detector_ignore">Rozumiem, nie pokazuj ponownie</string>
+    <string name="network_detector_msg">Aplikacja %s wysyła i odbiera dane po wyłączeniu ekranu, co powoduje szybsze rozładowanie baterii.</string>
+    <string name="network_detector_long_msg">Odinstalowanie tej aplikacji może poprawić wydajność urządzenia i wydłużyć czas działania baterii.</string>
+    <string name="wakelock_detector_msg">Aplikacji %s nie używano od kilku tygodni.</string>
+    <string name="wakelock_detector_long_msg">Może wybudzać urządzenie z trybu gotowości. Odinstalowanie tej aplikacji może poprawić wydajność urządzenia i wydłużyć czas działania baterii.</string>
+    <string name="notification_title_xssm">Wskaz. dot. zarządz. energią</string>
+    <string name="notification_text_xssm">Włącz tryb STAMINA</string>
+    <string name="notification_descr_xssm">Twoje urządzenie jest często w trybie gotowości. Przedłuż żywotność baterii, włączając tryb STAMINA.</string>
+    <string name="notification_dont_show_again">Rozumiem, nie pokazuj ponownie.</string>
+    <string name="notification_title_ps">Wskaz. dot. zarządz. energią</string>
+    <string name="notification_text_ps">Włącz tryb oszczędzania słabej baterii</string>
+    <string name="notification_descr_ps">Tryb oszczędzania słabej baterii może przedłużyć żywotność baterii przez np. wyłączenie sieci Wi-Fi lub zmniejszenie jasności ekranu, gdy bateria jest bliska rozładowania.</string>
+    <string name="notification_title_lbw">Wskaz. dot. zarządz. energią</string>
+    <string name="notification_text_lbw">Włącz sieć Wi-Fi zależną od lokalizacji</string>
+    <string name="notification_descr_lbw">Sieć Wi-Fi jest włączona, ale nie była używana przez jakiś czas. Oszczędzaj energię, włączając sieć Wi-Fi zależną od lokalizacji.</string>
+    <string name="unused_application_title">Wskazówka nt. zarządz. zasilaniem</string>
+    <string name="unused_application_msg">Aplikacja %s nie była używana przez jakiś czas</string>
+    <string name="unused_application_long_msg">Jeśli chcesz zatrzymać tę aplikację, zignoruj to ostrzeżenie. W przeciwnym razie odinstaluj ją.</string>
+    <string name="unused_application_ignore">Rozumiem. Nie pokazuj ponownie.</string>
+    <string name="drain_dialog_title_txt">Bateria nie jest ładowana</string>
+    <string name="drain_dialog_text_usb_txt">Podłączone źródło zasilania jest niewystarczające. Bateria jest rozładowywana szybciej niż ładowana. Przełącz się na ładowarkę sieciową.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Podłączone źródło zasilania jest niewystarczające. Bateria jest rozładowywana szybciej niż ładowana. Podczas ładowania jak najmniej korzystaj z urządzenia.</string>
+    <string name="extend_battery_tip_dialog_headar">Wskazówka dotycząca zarządzania energią</string>
+    <string name="location_based_wifi_tip_dialog">Sieć Wi-Fi jest włączona, ale nie była używana przez jakiś czas. Możesz oszczędzać energię, włączając sieć Wi-Fi zależną od lokalizacji. Skonfigurować sieć Wi-Fi zależną od lokalizacji?</string>
+    <string name="low_battery_mode_tip_dialog">Tryb oszczędzania słabej baterii może przedłużyć czas pracy na baterii przez np. wyłączenie sieci Wi-Fi lub zmniejszenie jasności ekranu, gdy bateria jest słaba. Skonfigurować tryb słabej baterii?</string>
+    <string name="stamina_mode_tip_dialog">Twoje urządzenie jest często w trybie gotowości. Przedłuż czas pracy na baterii, włączając tryb STAMINA. Skonfigurować tryb STAMINA?</string>
+    <string name="bad_app_notification">Następująca aplikacja zużywa baterię:</string>
+    <string name="bad_standby_app_dialog">Aplikacja %s uniemożliwia trybowi STAMINA oszczędzanie energii w trybie gotowości. Jeśli często korzystasz z tej aplikacji, zignoruj to ostrzeżenie. Jeśli nie, stuknij przycisk Informacje o aplikacji i odinstaluj aplikację lub wymuś jej zamknięcie.</string>
+    <string name="ignore_dialog_action">Ignoruj</string>
+    <string name="app_info_dialog_action">Informacje o aplikacji</string>
+    <string name="stamina_activation_notification">Tryb STAMINA włączony</string>
+    <string name="lowbattery_trigger_level_notification">Poziom baterii poniżej %d%%</string>
+    <string name="lowbattery_activated_notification">Oszczędzanie słabej baterii włącz.</string>
+    <string name="app_not_used_notification">Ta apl. nie była używana przez jakiś czas:</string>
+    <string name="app_not_used_tip_dialog">Aplikacja %s nie była używana przez jakiś czas. Zalecamy jej odinstalowanie w celu oszczędzania baterii.</string>
+    <string name="no_action_dialog">Nie</string>
+    <string name="yes_action_dialog">Tak</string>
+    <string name="widget_remaining_battery_time">Szacowany czas działania na baterii</string>
+    <string name="widget_name">Tryb STAMINA</string>
+</resources>

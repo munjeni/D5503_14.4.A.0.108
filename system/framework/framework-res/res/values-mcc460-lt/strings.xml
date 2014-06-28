@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Leidžiama programai gauti jūsų tikslią vietos informaciją naudojant visuotinę vietos nustatymo sistemą (angl. „Global Positioning System“, GPS) arba tinklo vietos šaltinius, pvz., mobiliojo ryšio bokštus ir „WLAN“. Šios vietos paslaugos turi būti įjungtos ir pasiekiamos prietaise, kad programa galėtų jas naudoti. Programos gali tai naudoti jūsų vietai nustatyti, be to, eikvoti papildomą akumuliatoriaus energiją.</string>
+    <string name="permdesc_accessCoarseLocation">Leidžiama programai gauti jūsų apytikslius vietos duomenis. Šie vietos duomenys, gaunami vietos paslaugų, naudojant tinklo vietos šaltinius, pvz., mobiliojo ryšio bokštus ir „WLAN“. Šios vietos paslaugos turi būti įjungtos ir pasiekiamos prietaise, kad programa galėtų jas naudoti. Programos gali tai naudoti jūsų apytikslei vietai nustatyti.</string>
+    <string name="permlab_configureWifiDisplay">konfigūruoti „WLAN“ rodomus prietaisus</string>
+    <string name="permdesc_configureWifiDisplay">Leidžiama programai konfigūruoti ir prisijungti prie „WLAN“ rodomų prietaisų.</string>
+    <string name="permlab_controlWifiDisplay">valdyti „WLAN“ rodomus prietaisus</string>
+    <string name="permdesc_controlWifiDisplay">Leidžiama programai valdyti „WLAN“ rodomų prietaisų žemo lygio funkcijas.</string>
+    <string name="permlab_accessWifiState">peržiūrėti „WLAN“ ryšius</string>
+    <string name="permdesc_accessWifiState">Leidžiama programai peržiūrėti informaciją apie „WLAN“ ryšio tinklus, pvz., ar aktyvintas „WLAN“, ir prijungtų „WLAN“ prietaisų pavadinimus.</string>
+    <string name="permlab_changeWifiState">prijungti prie „WLAN“ ir atjungti nuo jo</string>
+    <string name="permdesc_changeWifiState">Leidžiama programai prisijungti prie „WLAN“ ryšio prieigos taškų ir nuo jų atsijungti bei keisti prietaiso „WLAN“ ryšio tinklų konfigūraciją.</string>
+    <string name="permlab_changeWifiMulticastState">"leisti „WLAN Multicast“
+priėmimą"</string>
+    <string name="permdesc_changeWifiMulticastState">Leidžiama programai gauti paketus, siunčiamus į visus prie „WLAN“ ryšio tinklo prijungtus prietaisus (ne tik į telefoną), naudojančius daugiaadresio perdavimo adresus. Ji naudoja daugiau energijos nei ne daugiaadresio perdavimo režimas.</string>
+    <string name="wifi_available_sign_in">Prisijungti prie „WLAN“ ryšio tinklo</string>
+    <string name="wifi_watchdog_network_disabled">Nepavyko prisijungti prie „WLAN“</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Paleiskite „WLAN Direct“. Bus išjungta „WLAN“ klientas / prieigos taškas.</string>
+    <string name="wifi_p2p_failed_message">Nepavyko paleisti „WLAN Direct“</string>
+    <string name="wifi_p2p_enabled_notification_title">„WLAN Direct“ įjungta</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonas bus laikinai atjungtas nuo „WLAN“, kol jis prijungtas prie „%1$s“</string>
+    <string name="data_usage_wifi_limit_title">„WLAN“ duomenys pasyvinti</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Viršytas „WLAN“ duomenų limitas</string>
+    <string name="policylab_disableWifi">Prieigos prie „WLAN“ išjungimas</string>
+    <string name="policydesc_disableWifi">Neleisti „WLAN“ ryšių prietaise.</string>
+    <string name="wifi_disabled_notification_title">„WLAN“ ryšys uždraustas</string>
+    <string name="wifi_disabled_notification_message">"„WLAN“ draudžia naudoti saugos politika. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Veikia „WLAN“ tarptinklinis ryšys</string>
+    <string name="ct_cplusw_notification_text">"CT „WLAN“ tinklas prijungtas. Jei reikia atsisk. inf., kreip. 10000 ar į viet. parduot.
+
+"</string>
+    <string name="ct_cplusw_notification_title">„China Telecom“ „WLAN“ prijungtas</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Prisijungsite prie Kinijos telekomo WLAN tinklo. Norėdami gauti išsamios informacijos apie mokesčius, kreipkitės į Kinijos telekomo klientų aptarnavimo tarnybą. Tęsti?</string>
+    <string name="wifi_nonconcurrency_message">Paleiskite „WLAN“ klientą. Taip atjungsite „WLAN Direct“.</string>
+    <string name="wifi_noncuncurrency_message">Paleiskite „WLAN“ klientą. Taip atjungsite „WLAN Direct“.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Bus atjungti visi esami „WLAN“ ryšiai</string>
+    <string name="wifi_p2p_nonconcurrency_message">Paleiskite „WLAN Direct“. Taip atjungsite „WLAN“ ryšį.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Taip bus atjungti visi esami „WLAN“ ryšiai</string>
+    <string name="wifi_p2p_noncuncurrency_message">Paleiskite „WLAN Direct“. Taip atjungsite „WLAN“ ryšį.</string>
+    <string name="tethered_notification_message_wifi">Išjunkite mobilųjį „HotSpot“, kad vėl įjungtumėte „WLAN“</string>
+    <string name="tethered_notification_title_wifi">„WLAN“ išjungtas</string>
+</resources>

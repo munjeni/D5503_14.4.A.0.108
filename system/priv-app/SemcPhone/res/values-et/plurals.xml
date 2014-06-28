@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Andmesideühen. pole %s min</item>
+        <item quantity="one">Andmesideühend. pole %s min</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefonis aktiveeritakse %s minutiks hädaabirežiim. Selles režiimis ei saa kasutada andmeühendusi kasutavaid rakendusi. Kas soovite kohe väljuda?</item>
+        <item quantity="one">Telefonis aktiveeritakse %s minutiks hädaabirežiim. Selles režiimis ei saa kasutada andmeühendusi kasutavaid rakendusi. Kas soovite kohe väljuda?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Hädaabirežiimi ajal pole valitud toiming saadaval. Telefonis jääb see režiim aktiveerituks %s minutiks. Kas soovite kohe väljuda?</item>
+        <item quantity="one">Hädaabirežiimi ajal pole valitud toiming saadaval. Telefonis jääb see režiim aktiveerituks %s minutiks. Kas soovite kohe väljuda?</item>
+    </plurals>
+</resources>

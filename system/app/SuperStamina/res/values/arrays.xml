@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="operator_whitelist" />
+    <string-array name="wificalling_whitelistgroup_packages">
+        <item>com.android.phone</item>
+        <item>com.movial.ipprovider</item>
+        <item>com.movial.ipservice</item>
+        <item>javax.microedition.gba.android</item>
+        <item>com.movial.wificall</item>
+        <item>javax.microedition.ims</item>
+        <item>com.sonyericsson.conversations</item>
+    </string-array>
+    <integer-array name="default_power_usage_estimates">
+        <item>20</item>
+        <item>40</item>
+        <item>300</item>
+        <item>100</item>
+        <item>500</item>
+        <item>100</item>
+        <item>25</item>
+        <item>50</item>
+    </integer-array>
+    <string-array name="internal_whitelist">
+        <item>com.sonyericsson.organizer</item>
+        <item>com.sonyericsson.android.wakeup</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.sonymobile.superstamina</item>
+        <item>android</item>
+        <item>com.sonyericsson.android.mbt.power</item>
+        <item>com.sonyericsson.android.mbt.powerinstrumentation</item>
+        <item>com.sonymobile.smallapps.timer</item>
+        <item>com.sonyericsson.secureclockservice</item>
+        <item>com.sonymobile.provider.tasks</item>
+        <item>jp.co.fsi.fs1seg</item>
+        <item>com.sonyericsson.extras.liveware</item>
+        <item>com.android.keyguard</item>
+    </string-array>
+</resources>

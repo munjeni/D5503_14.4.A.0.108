@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.MessageContentSlideshowBrief android:orientation="vertical" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/somc_message_content_slideshow" />
+    <Button android:textColor="@color/conversation_recv_message_text_color" android:gravity="center" android:layout_gravity="end" android:id="@id/read_more" android:background="@drawable/received_readmore_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/attachment_item_button_height" android:layout_marginTop="@dimen/readmore_top_margin" android:text="@string/conversations_strings_mms_preview_read_more_txt" android:drawablePadding="@dimen/readmore_drawable_padding" android:drawableEnd="@drawable/conv_read_more" android:paddingStart="@dimen/readmore_start_padding" android:paddingEnd="@dimen/readmore_end_padding" android:layout_marginEnd="@dimen/generic_margin" style="@android:style/TextAppearance.DeviceDefault.Small" />
+</com.sonyericsson.conversations.ui.MessageContentSlideshowBrief>

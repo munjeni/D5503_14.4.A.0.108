@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">"Mettre les données en file d'attente en arrière-plan"</string>
+    <string name="wifi_tether_settings_text">"Paramètres du point d'accès sans fil Wi-Fi"</string>
+    <string name="stamina_xssm_add_applications_title">Applications actives en mode veille</string>
+    <string name="auto_hide_notifications_title">Effacer les notifications consultées</string>
+</resources>

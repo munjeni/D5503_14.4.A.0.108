@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Permite aplicaţiei să obţină locaţia dvs. exactă utilizând sistemul GPS (Global Positioning System) sau surse de localizare prin reţele, cum ar fi cele prin turn de celule şi WLAN. Pentru a fi utilizate de aplicaţie, aceste servicii de localizare trebuie să fie activate şi disponibile pe dispozitivul dvs. Aplicaţiile pot utiliza această permisiune pentru a determina locaţia dvs. şi pot să consume mai multă energie a bateriei.</string>
+    <string name="permdesc_accessCoarseLocation">Permite aplicaţiei să obţină locaţia dvs. aproximativă. Această locaţie este dedusă de serviciile de localizare utilizând surse de localizare prin reţele, cum ar fi cele prin turn de celule şi WLAN. Pentru a fi utilizate de aplicaţie, aceste servicii de localizare trebuie să fie activate şi disponibile pe dispozitivul dvs. Aplicaţiile pot utiliza această permisiune pentru a determina locaţia dvs. aproximativă.</string>
+    <string name="permlab_configureWifiDisplay">configurare afişaje WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Permite aplicaţiei să configureze şi să se conecteze la afişaje WLAN.</string>
+    <string name="permlab_controlWifiDisplay">control afişaje WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Permite aplicaţiei să controleze funcţiile de nivel redus ale afişajelor WLAN.</string>
+    <string name="permlab_accessWifiState">vizualizează conexiunile WLAN</string>
+    <string name="permdesc_accessWifiState">Permite aplicaţiei să vadă informaţiile despre reţelele WLAN, de exemplu, dacă o reţea WLAN este activată, precum şi numele dispozitivelor conectate la reţeaua WLAN.</string>
+    <string name="permlab_changeWifiState">se conectează şi se deconectează de la WLAN</string>
+    <string name="permdesc_changeWifiState">Permite aplicaţiei să se conecteze şi să se deconecteze de la punctele de acces WLAN, precum şi să efectueze modificări în configuraţia dispozitivului pentru reţelele WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">permitere recepţie WLAN multidifuzare</string>
+    <string name="permdesc_changeWifiMulticastState">Permite aplicaţiei să primească pachetele trimise către toate dispozitivele dintr-o reţea WLAN, utilizând adrese cu difuzare multiplă, nu doar telefonul dvs. Această funcţie utilizează mai multă energie decât modul fără difuzare multiplă.</string>
+    <string name="wifi_available_sign_in">Conectaţi-vă în reţeaua WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Imposibil de conectat la WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Porniţi WLAN Direct. Acest lucru va dezactiva clientul/hotspotul WLAN.</string>
+    <string name="wifi_p2p_failed_message">Imposibil de pornit WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct este activat</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonul se va deconecta temporar de la reţeaua WLAN cât timp este conectat la %1$s</string>
+    <string name="data_usage_wifi_limit_title">Date WLAN dezactivate</string>
+    <string name="data_usage_wifi_limit_snoozed_title">S-a depăşit limita de date WLAN</string>
+    <string name="policylab_disableWifi">Dezactivare acces la WLAN</string>
+    <string name="policydesc_disableWifi">Împiedică realizarea conexiunilor WLAN pe dispozitiv.</string>
+    <string name="wifi_disabled_notification_title">Conexiune WLAN restricţionată</string>
+    <string name="wifi_disabled_notification_message">"O politică de securitate restricţionează utilizarea funcţiei WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming WLAN în curs</string>
+    <string name="ct_cplusw_notification_text">"Reţea WLAN CT conect. Pt. info facturare, ap. nr. 10000 sau cons. un mag. local.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Reţea WLAN China Telecom conect.</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Vă veţi conecta la reţeaua WLAN de la China Telecom. Pentru detalii privind tarifele, contactaţi serviciul pentru clienţi de la China Telecom. Continuaţi?</string>
+    <string name="wifi_nonconcurrency_message">Porniţi clientul WLAN. Astfel, conexiunea WLAN Direct va fi întreruptă.</string>
+    <string name="wifi_noncuncurrency_message">Porniţi clientul WLAN. Astfel, conexiunea WLAN Direct va fi întreruptă.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Se va întrerupe orice conexiune WLAN existentă</string>
+    <string name="wifi_p2p_nonconcurrency_message">Porniţi WLAN Direct. Astfel, conexiunea WLAN va fi întreruptă.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Astfel, se va întrerupe orice conexiune WLAN existentă</string>
+    <string name="wifi_p2p_noncuncurrency_message">Porniţi WLAN Direct. Astfel, conexiunea WLAN va fi întreruptă.</string>
+    <string name="tethered_notification_message_wifi">Dezactivaţi HotSpot pentru mobile pentru a reactiva funcţia WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN dezactivat</string>
+</resources>

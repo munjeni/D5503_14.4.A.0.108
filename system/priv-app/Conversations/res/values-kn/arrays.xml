@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>ಇಂದು</item>
+        <item>ನಿನ್ನೆ</item>
+        <item>ಶನಿವಾರ</item>
+        <item>ಶುಕ್ರವಾರ</item>
+        <item>ಗುರುವಾರ</item>
+        <item>ಬುಧವಾರ</item>
+        <item>ಮಂಗಳವಾರ</item>
+        <item>ಸೊಮವಾರ</item>
+        <item>ಭಾನುವಾರ</item>
+        <item>ಒಂದು ವಾರ ಆಯಿತು</item>
+        <item>ಎರಡು ವಾರಗಳು ಆದುವು</item>
+        <item>ಒಂದು ತಿಂಗಳಾಯಿತು</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 ಸೆಕೆಂಡು</item>
+        <item>2 ಸೆಕೆಂಡುಗಳು</item>
+        <item>3 ಸೆಕೆಂಡುಗಳು</item>
+        <item>4 ಸೆಕೆಂಡುಗಳು</item>
+        <item>5 ಸೆಕೆಂಡುಗಳು</item>
+        <item>6 ಸೆಕೆಂಡುಗಳು</item>
+        <item>7 ಸೆಕೆಂಡುಗಳು</item>
+        <item>8 ಸೆಕೆಂಡುಗಳು</item>
+        <item>9 ಸೆಕೆಂಡುಗಳು</item>
+        <item>10 ಸೆಕೆಂಡುಗಳು</item>
+        <item>ಇತರ...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>ನೀವೆಲ್ಲಿದ್ದೀರಿ?</item>
+        <item>ನೀವೇನು ಮಾಡ್ತಾ ಇದ್ದೀರಿ?</item>
+        <item>ಅರ್ಜೆಂಟ್! ದಯವಿಟ್ಟು ಬೇಗ ಉತ್ತರಿಸಿ.</item>
+        <item>ಕ್ಷಮಿಸಿ, ನಾನೀಗ ಸಭೆಯೊಂದರಲ್ಲಿ ಇದ್ದೇನೆ.</item>
+        <item>ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ. ಚಿಂತಿಸದಿರಿ.</item>
+        <item>ನಾನು ಹಾದಿಯಲ್ಲಿದ್ದೇನೆ.</item>
+        <item>ನಾನು ನಿಮಗೆ ಮತ್ತೆ ತಿಳಿಸುತ್ತೇನೆ.</item>
+        <item>ನಾನ ಅಲ್ಲಿರುತ್ತೇನೆ.</item>
+        <item>ಇದನ್ನು ಪರೀಕ್ಷಿಸಿ!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.uxp.drawable.CheckableDrawable somc:background="@drawable/semc_btn_radio_holo_dark_background" somc:mark="@drawable/semc_btn_radio_holo_dark_indicator" somc:transitionDuration="600" somc:markSize="0.7"
+  xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />

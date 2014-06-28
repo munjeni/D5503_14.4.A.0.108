@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">"Tillader, at ap'pen henter din præcise placering ved hjælp af GPS (Global Positioning System) eller netværksplaceringskilder, såsom mobilmaster og WLAN. Disse placeringstjenester skal være aktiverede og tilgængelige på din enhed, for at appen kan bruge dem. Apps kan bruge dette til at bestemme, hvor du er, og kan eventuelt bruge ekstra batterikapacitet."</string>
+    <string name="permdesc_accessCoarseLocation">"Tillader, at app'en henter din omtrentlige placering. Denne placering er udledt via placeringstjenester, der bruger netværksplaceringskilder, som f.eks. mobilmaster og WLAN. Disse placeringstjenester skal være aktiverede og tilgængelige på din enhed, for at app'en kan bruge dem. Apps kan bruge dette til at bestemme, hvor du omtrent er."</string>
+    <string name="permlab_configureWifiDisplay">konfigurer WLAN-skærme</string>
+    <string name="permdesc_configureWifiDisplay">"Tillader, at app'en konfigurerer og opretter forbindelse til WLAN-skærme."</string>
+    <string name="permlab_controlWifiDisplay">kontrollér WLAN-skærme</string>
+    <string name="permdesc_controlWifiDisplay">"Tillader, at ap'pen kontrollerer WLAN-skærmfunktioner på lavt niveau."</string>
+    <string name="permlab_accessWifiState">få vist WLAN-forbindelser</string>
+    <string name="permdesc_accessWifiState">Tillader, at appen kan læse oplysninger om WLAN-netværk, f.eks. hvorvidt WLAN er aktiveret og navnet på forbundne WLAN-enheder.</string>
+    <string name="permlab_changeWifiState">oprette og afbryde WLAN-forbindelse</string>
+    <string name="permdesc_changeWifiState">Tillader, at appen kan oprette og afbryde forbindelsen fra WLAN-adgangspunkter og foretage ændringer i enhedskonfigurationen for WLAN-netværk.</string>
+    <string name="permlab_changeWifiMulticastState">tillad WLAN-multicastmodtagelse</string>
+    <string name="permdesc_changeWifiMulticastState">Tillader, at appen kan modtage pakker, der sendes til alle enheder på et WLAN-netværk ved hjælp af multicastadresser, ikke kun din telefon. Den bruger mere strøm end tilstanden, der ikke anvender multicast.</string>
+    <string name="wifi_available_sign_in">Log ind på WLAN-netværket</string>
+    <string name="wifi_watchdog_network_disabled">Kunne ikke oprette forbindelse til WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Start WLAN Direct. Dette slår WLAN-klient/hotspot fra.</string>
+    <string name="wifi_p2p_failed_message">Kunne ikke starte WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct er slået til</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonens WLAN-forbindelse afbrydes midlertidigt, når den er tilsluttet %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-data er deaktiveret</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Grænsen for WLAN-data er overskredet</string>
+    <string name="policylab_disableWifi">Deaktivere adgang til WLAN</string>
+    <string name="policydesc_disableWifi">Forhindre WLAN-tilslutninger på enheden.</string>
+    <string name="wifi_disabled_notification_title">WLAN-tilslutning er begrænset</string>
+    <string name="wifi_disabled_notification_message">"En sikkerhedspolitik begrænser brugen af WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN-roaming er i gang</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN-netværk tilsluttet. Kontakt 10000 eller lokal butik for fakt.opl.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN-forbindelse.</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Du vil blive tilsluttet til China Telecoms WLAN-netværk. Kontakt China Telecom-kundeservice for detaljer vedrørende gebyrer. Fortsæt?</string>
+    <string name="wifi_nonconcurrency_message">Start WLAN-klienten. Dette vil afbryde forbindelsen til WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Start WLAN-klienten. Dette vil afbryde forbindelsen til WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Alle eksisterende WLAN-forbindelser afbrydes</string>
+    <string name="wifi_p2p_nonconcurrency_message">Start WLAN Direct. Dette vil afbryde WLAN-forbindelsen.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Dette vil afbryde alle eksisterende WLAN-forbindelser</string>
+    <string name="wifi_p2p_noncuncurrency_message">Start WLAN Direct. Dette vil afbryde WLAN-forbindelsen.</string>
+    <string name="tethered_notification_message_wifi">Slå Mobile HotSpot fra for at slå WLAN til igen</string>
+    <string name="tethered_notification_title_wifi">WLAN er slået fra</string>
+</resources>

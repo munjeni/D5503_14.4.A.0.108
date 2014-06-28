@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%dgün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Geliştirici olmanıza %1$d adım kaldı.</item>
+        <item quantity="one">Geliştirici olmanıza %1$d adım kaldı.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolada en az %d harf olmalıdır</item>
+        <item quantity="one">Parolada en az 1 harf olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parolada en az %d küçük harf olmalıdır</item>
+        <item quantity="one">Parolada en az 1 küçük harf olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parolada en az %d büyük harf olmalıdır</item>
+        <item quantity="one">Parolada en az 1 büyük harf olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parolada en az %d sayısal karakter olmalıdır</item>
+        <item quantity="one">Parolada en az 1 sayısal karakter olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parolada en az %d özel sembol olmalıdır</item>
+        <item quantity="one">Parolada en az 1 özel sembol olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parolada harf olmayan en az %d karakter olmalıdır</item>
+        <item quantity="one">Parolada harf olmayan en az 1 karakter olmalıdır</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d uygulama, bildirimleri okuyabilir</item>
+        <item quantity="one">%d uygulama, bildirimleri okuyabilir</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s yazıcı bulundu</item>
+        <item quantity="one">%1$s yazıcı bulundu</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d uygulama şu anda listede</item>
+        <item quantity="one">%1$d uygulama şu anda listede</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/settings_list_content_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="5.0">
+        <LinearLayout android:id="@id/settings_list_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical" android:id="@id/settings_details_content_area" android:background="@color/settings_right_containt_area_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="5.0">
+        <LinearLayout android:id="@id/settings_detail_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+</LinearLayout>

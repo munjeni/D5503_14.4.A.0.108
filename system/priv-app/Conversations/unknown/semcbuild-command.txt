@@ -1,0 +1,1 @@
+deb-debug -Dinvoked-from=app-off -Dsdk.url=c2d://default.default/b:rhine-1.2/p:semcsdk -Dgit.tag=27.3.A.0.23 -Dofficial.build=true -Ddeb.targetdir=/home/hudsonslave/root/workspace/Application_official_build_BJ/./appoff/conversations/debian-out

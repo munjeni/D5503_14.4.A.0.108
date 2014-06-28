@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stýring umhverfisstillingar</string>
+    <string name="dont_ask_me_again_txt">Ekki spyrja mig aftur</string>
+    <string name="description_msg_txt">"Þegar slökkt er á skjánum er tímabundið slökkt á Wi-Fi og gagnatengingu. Þér munu áfram berast símtöl, SMS-/MMS-skilaboð og tilkynningar og áminningar úr Sony™ dagbók og Sony™ vekjarinn er einnig virkur. Tónlistarspilarinn og útvarpið munu virka og yfirstandandi upphal og niðurhal fær að klárast.
+
+Þegar kveikt er á skjánum vinnur síminni venjulega.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Þegar slökkt er á skjánum verða Wi-Fi- og gagnatenging gerð tímabundið óvirk og flest forrit verða óvirk. Þú tekur áfram á móti SMS- og MMS-skilaboðum, tilkynningum úr Sony™ dagbókinni og tónum úr Sony™ vekjaraklukkunni. Tónlistarspilarinn og FM-útvarpið eru virk og niðurhali og uppfærslum er leyft að klárast.
+
+Þegar kveikt er á skjánum er virkni tækisins eðlileg."</string>
+    <string name="description_msg_no_telephony_txt">"Þegar slökkt er á skjánum slokknar tímabundið á Wi-Fi og flest forrit verða óvirk. Þú tekur áfram á móti tilkynningum úr Sony™ dagbókinni og tónum úr Sony™ vekjaraklukkunni. Tónlistarspilarinn og FM-útvarpið eru virk og niðurhali og uppfærslum er leyft að klárast.
+
+Þegar kveikt er á skjánum er virkni tækisins eðlileg."</string>
+    <string name="description_title_txt">Athugið!</string>
+    <string name="low_battery_mode_description_msg_txt">"Virkjaðu sparstillingu til að slökkva á orkufrekum eiginleikum og stillingum þegar rafhlaðan fer niður fyrir tiltekin mörk. Pikkaðu á Sparstillingu til að breyta stillingum. 
+"</string>
+    <string name="activate_txt">Virkja</string>
+    <string name="cancel_txt">Hætta við</string>
+    <string name="xssm_blocker_detector_title">Ábendingar um orkustjórnun</string>
+    <string name="xssm_blocker_detector_msg">%s kemur í veg fyrir að STAMINA-stillingin spari orku í biðstöðu</string>
+    <string name="xssm_blocker_detector_long_msg">Ef þú notar þetta forrit oft skaltu hunsa þessa viðvörun. Ef ekki skaltu fjarlægja eða þvinga lokun á forritinu.</string>
+    <string name="xssm_blocker_detector_ignore">Móttekið. Ekki sýna þetta aftur.</string>
+    <string name="network_detector_msg">%s sendir og tekur á móti gögnum þegar slökkt er á skjánum og veldur því að rafhlaðan tæmist hraðar.</string>
+    <string name="network_detector_long_msg">Ef það er fjarlægt getur vinnsla tækisins orðið betri og hleðslutími rafhlöðu lengst.</string>
+    <string name="wakelock_detector_msg">%s hefur ekki verið notað í nokkrar vikur.</string>
+    <string name="wakelock_detector_long_msg">Það gæti tekið tækið úr biðstillingu. Ef það er fjarlægt getur vinnsla tækisins orðið betri og hleðslutími rafhlöðu lengst.</string>
+    <string name="notification_title_xssm">Ábendingar um orkustjórnun</string>
+    <string name="notification_text_xssm">Virk STAMINA-stilling</string>
+    <string name="notification_descr_xssm">Tækið þitt er oft í biðstöðu. Lengdu líftíma rafhlöðu með því að kveikja á STAMINA-stillingu.</string>
+    <string name="notification_dont_show_again">Móttekið. Ekki sýna þetta aftur.</string>
+    <string name="notification_title_ps">Ábendingar um orkustjórnun</string>
+    <string name="notification_text_ps">Kveikja á sparstillingu</string>
+    <string name="notification_descr_ps">Sparstilling getur lengt líftíma rafhlöðu, t.d. með því að slökkva á Wi-Fi eða lækka birtustig þegar hleðsla rafhlöðu er orðin lág.</string>
+    <string name="notification_title_lbw">Ábendingar um orkustjórnun</string>
+    <string name="notification_text_lbw">Kveikja á staðsetningar Wi-Fi</string>
+    <string name="notification_descr_lbw">Kveikt er á Wi-Fi en það hefur ekki verið notað nýlega. Sparaðu rafmagn með því að kveikja á staðsetningar Wi-Fi.</string>
+    <string name="unused_application_title">Aflgjafaábending</string>
+    <string name="unused_application_msg">%s hefur ekki verið notað um hríð</string>
+    <string name="unused_application_long_msg">Hunsaðu þessa viðvörun ef þú vilt halda forritinu. Annars skaltu fjarlægja það.</string>
+    <string name="unused_application_ignore">Náði því. Ekki sýna aftur.</string>
+    <string name="drain_dialog_title_txt">Rafhlaða hleðst ekki</string>
+    <string name="drain_dialog_text_usb_txt">Aflgjafi er ófullnægjandi. Rafhlaðan afhleðst hraðar en hún hleðst. Skiptu yfir í hleðslutækið þitt.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Aflgjafi er ófullnægjandi. Rafhlaðan afhleðst hraðar en hún hleðst. Takmarkaðu notkun á tækinu á meðan á hleðslu stendur.</string>
+    <string name="extend_battery_tip_dialog_headar">Orkusparnaðarráð</string>
+    <string name="location_based_wifi_tip_dialog">Kveikt er á Wi-Fi en það hefur ekki verið notað um hríð. Þú getur sparað orku með því að kveikja á staðsettu Wi-Fi. Setja upp staðsett Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Sparstilling getur lengt endingartíma rafhlöðunnar, t.d. með því að slökkva á Wi-Fi eða minnka skjábirtu þegar lítil hleðsla er á rafhlöðu. Kveikja á sparstillingu?</string>
+    <string name="stamina_mode_tip_dialog">Tækið er oft í biðstöðu. Lengdu endingartíma rafhlöðunnar með því að kveikja á STAMINA stillingu. Kveikja á STAMINA stillingu?</string>
+    <string name="bad_app_notification">Eftirfarandi forrit er að tæma rafhlöðuna:</string>
+    <string name="bad_standby_app_dialog">%s kemur í veg fyrir að STAMINA stilling spari orku í biðstöðu. Ef þú notar þetta forrit oft skaltu leiða þessa viðvörun hjá þér. Annars skaltu pikka á takkann Upplýsingar um forrit og annaðhvort fjarlægja forritið eða þvinga lokun á því.</string>
+    <string name="ignore_dialog_action">Hundsa</string>
+    <string name="app_info_dialog_action">Forritsupplýsingar</string>
+    <string name="stamina_activation_notification">Kveikt á STAMINA stillingu</string>
+    <string name="lowbattery_trigger_level_notification">Hleðsla rafhlöðu undir %d%%</string>
+    <string name="lowbattery_activated_notification">Sparstilling virk</string>
+    <string name="app_not_used_notification">Þetta forrit hefur ekki verið notað um hríð:</string>
+    <string name="app_not_used_tip_dialog">"%s hefur ekki verið notað um  hríð. Við mælum með því að þú fjarlægir forritið til að spara orku."</string>
+    <string name="no_action_dialog">Nei</string>
+    <string name="yes_action_dialog">Já</string>
+    <string name="widget_remaining_battery_time">Áætluð rafhlöðuending</string>
+    <string name="widget_name">STAMINA-stilling</string>
+</resources>

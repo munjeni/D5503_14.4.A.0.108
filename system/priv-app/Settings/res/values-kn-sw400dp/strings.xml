@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_settings_text">ಪೋರ್ಟೇಬಲ್ Wi-Fi ಹಾಟ್‌ಸ್ಪಾಟ್ ಸಂಯೋ.</string>
+    <string name="stamina_xssm_add_applications_title">ಸ್ಟ್ಯಾಂಡ್‌ ಬೈನಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</string>
+    <string name="auto_hide_notifications_title">ನೋಡಿದ ಸೂಚನೆಗಳನ್ನು ಖಾಲಿ ಮಾಡಿ</string>
+</resources>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"‏حالت STAMINA شامل:
+
+• آماده به کار بیشتر
+با غیرفعال کردن WLAN و داده تلفن همراه، در هنگام خاموش بودن صفحه، سبب افزایش عمر باتری می شود. اکثر برنامه ها نیز غیرفعال می شوند.
+زمانی که صفحه روشن است، دستگاه به طور عادی کار می کند.
+اگر می خواهید برخی برنامه ها در هنگام روشن بودن «آماده به کار بیشتر» همچنان فعال باقی بمانند، کافی است آنها را به فهرست «برنامه های فعال در حالت آماده به کار» اضافه کنید.
+
+• استفاده بیشتر
+با محدود کردن کارکرد سخت افزار، نیروی دستگاه را در هنگام استفاده ذخیره می کند.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint">‏<u>حالت STAMINA چیست؟</u>"
+حالت STAMINA، نام عملکرد ذخیره نیرو در محصولات Sony™‎ است. این عملکرد، با غیرفعال کردن سایر عملکردها در هنگام خاموش بودن صفحه، سبب افزایش عمر باتری می شود.
+
+"<u>استفاده اصلی</u>"
+برای فعال کردن حالت STAMINA، از کلید موجود بر روی صفحه بعدی استفاده کنید. 
+زمانی که صفحه خاموش است، تمام داده های شبکه موقتاً غیرفعال می شود و اکثر برنامه ها غیرفعال خواهند شد تا مصرف باتری کمتر شود.
+زمانی که صفحه روشن است، دستگاه به طور عادی کار می کند.
+
+"<u>استفاده پیشرفته</u>"
+اگر می خواهید برخی برنامه ها در هنگام خاموش بودن صفحه همچنان فعال باقی بمانند، کافی است آنها را به لیست APPS ACTIVE IN STANDBY اضافه کنید.
+
+"<u>توجه</u>"
+ممکن است برخی برنامه ها در صورت غیرفعال شدن در حالت آماده به کار، به درستی کار نکنند. اگر برنامه ای به درستی کار نکرد، آن را به لیست APPS ACTIVE IN STANDBY اضافه کنید و در صورتی که این کار نیز مشکل را حل نکرد، حالت STAMINA را غیرفعال کنید."</string>
+    <string name="location_based_wi_fi_label">‏WLAN مبتنی بر مکان</string>
+    <string name="location_based_wi_fi_descr">هنگامی که در محدوده شبکه WLAN ذخیره شده قرار دارید، WLAN بصورت خودکار فعال می شود</string>
+    <string name="powersaver_feature_wifi">‏WLAN خاموش</string>
+    <string name="install_wapi_certs">نصب گواهینامه های WLAN</string>
+    <string name="wifi_security_wapi_psk">‏WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">‏WLAN CERT</string>
+    <string name="radio_controls_summary">مدیریت WLAN، Bluetooth، حالت هواپیما، شبکه‌های تلفن همراه و VPNها</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">روشن کردن WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">تنظیمات WLAN</string>
+    <string name="wifi_settings_title">‏WLAN</string>
+    <string name="wifi_setup_wizard_title">انتخاب WLAN</string>
+    <string name="wifi_starting">روشن کردن WLAN...</string>
+    <string name="wifi_stopping">خاموش کردن WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">تنها در صورتی که اتصال اینترنت خوب باشد از شبکه WLAN استفاده شود</string>
+    <string name="wifi_scan_always_available_summary">به خدمات موقعیت مکانی و دیگر برنامه‌های Google اجازه می‌دهد برای یافتن شبکه‌ها حتی هنگامی که WLAN خاموش است، جستجو کنند.</string>
+    <string name="wifi_scan_notify_text_location_on">برای بهبود میزان دقت موقعیت مکانی و به منظور اهداف دیگر، Google و سایر برنامه‌ها ممکن است شبکه‌های نزدیک را اسکن کنند، حتی وقتی WLAN خاموش است. اگر نمی‌خواهید چنین شود، به پیشرفته > همیشه اسکن در دسترس باشد، بروید.</string>
+    <string name="wifi_scan_notify_text_location_off">برنامه‌ها ممکن است شبکه‌های نزدیک را اسکن کنند، حتی زمانی که WLAN خاموش است. اگر نمی‌خواهید چنین شود، به پیشرفته > همیشه اسکن موجود باشد، بروید.</string>
+    <string name="wifi_setting_sleep_policy_title">روشن ماندن WLAN در حین خواب</string>
+    <string name="wifi_suspend_optimizations">بهینه سازی WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">به حداقل رساندن مصرف باتری زمانی که WLAN روشن است</string>
+    <string name="wifi_access_points">شبکه‌های WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">برای مشاهده شبکه‌های موجود، WLAN را روشن کنید.</string>
+    <string name="wifi_empty_list_wifi_on">در حال جستجوی شبکه های WLAN…</string>
+    <string name="wifi_empty_list_user_restricted">‫اجازه ندارید شبکه WLAN را تغییر دهید</string>
+    <string name="wifi_required_info_text">برای تکمیل مراحل نصب، تبلت شما باید به WLAN دسترسی داشته باشد. بعد از نصب، می توانید بین داده های تلفن همراه و WLAN جابجا شوید.</string>
+    <string name="wifi_wps_setup_title">نصب WLAN حفاظت شده</string>
+    <string name="wifi_wps_onstart_pbc">دکمه تنظیم محافظت شده WLAN را در مسیریاب خود فشار دهید. این دکمه ممکن است \"WPS\" نامیده شود یا دارای این نماد باشد:</string>
+    <string name="wifi_wps_onstart_pin">پین %1$s را در مسیریاب WLAN خود وارد کنید. تکمیل نصب ممکن است چند دقیقه طول بکشد.</string>
+    <string name="wifi_wps_connected">به شبکه WLAN %s متصل شد</string>
+    <string name="wifi_scan_always_turnon_message">"برای بهبود دقت موقعیت مکانی و مقاصد دیگر، %1$s می‌خواهد اسکن کردن شبکه را فعال کند، حتی هنگامی که WLAN خاموش است.
+
+این مورد را برای همه برنامه‌هایی که می‌خواهند اسکن کنند مجاز می‌کنید؟"</string>
+    <string name="wifi_connect_failed_message">تلفن نتوانست به این شبکه WLAN متصل شود.</string>
+    <string name="wifi_advanced_titlebar">WLAN پیشرفته</string>
+    <string name="wifi_setting_frequency_band_title">باند فرکانس WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">نقطه اتصال WLAN قابل حمل</string>
+    <string name="wifi_tether_failed_subtext">خطای نقطه اتصال WLAN قابل حمل</string>
+    <string name="wifi_tether_configure_ap_text">تنظیم نقطه اتصال WLAN</string>
+    <string name="wifi_tether_configure_subtext">"‏%1$s محل دسترسی بی سیم به اینترنت.
+ایمنی: %2$s"</string>
+    <string name="status_wifi_mac_address">آدرس WLAN MAC</string>
+    <string name="location_mode_high_accuracy_description">‏استفاده از GPS،‏ شبکه‌های تلفن همراه و WLAN برای تعیین مکان</string>
+    <string name="location_mode_battery_saving_description">‏استفاده از شبکه‌های تلفن همراه و WLAN برای تعیین مکان</string>
+    <string name="location_neighborhood_level">به داده های ناشناس مکان اجازه دهید به Google ارسال شوند. همچنین به برنامه های مجاز امکان دهید تا از داده های منابعی مانند WLAN و شبکه های تلفن همراه برای تعیین مکان تقریبی شما استفاده کنند.</string>
+    <string name="location_neighborhood_level_wifi">موقعیت مکانی تعیین شده توسط WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN سر وقت</string>
+    <string name="bluetooth_on_time">WLAN سر وقت</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN در حال اجرا</string>
+    <string name="usage_type_data_wifi_send">‏‫داده‌های ارسالی WLAN</string>
+    <string name="usage_type_data_wifi_recv">‏‫داده‌های دریافتی WLAN</string>
+    <string name="battery_action_wifi">تنظیمات WLAN</string>
+    <string name="battery_desc_wifi">باتری استفاده شده توسط WLAN</string>
+    <string name="battery_sugg_wifi">هنگامی که از WLAN استفاده نمی‌کنید یا زمانی که دسترسی به آن امکان‌پذیر نیست، آن را خاموش کنید</string>
+    <string name="gadget_toggle_wifi">به‌روزرسانی تنظیم WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">"تهیه نسخه پشتیبان از داده‌های برنامه، رمزهای عبور  WLAN و سایر تنظیمات در سرورهای Google"</string>
+    <string name="backup_erase_dialog_message">دیگر از رمزهای عبور WLAN، نشانه‌ها، سایر تنظیمات و داده‌های برنامه نسخه پشتیبان تهیه نشود، و علاوه بر این همه کپی‌های موجود در سرورهای Google پاک شود؟</string>
+    <string name="wifi_setup_title">تنظیم WLAN</string>
+    <string name="wifi_setup_title_editing_network">اتصال به شبکه WLAN%s</string>
+    <string name="wifi_setup_title_connecting_network">در حال اتصال به شبکه WLAN%s...</string>
+    <string name="wifi_setup_title_connected_network">اتصال به شبکه WLAN%s</string>
+    <string name="wifi_setup_eap_not_supported">در حین مراحل نصب نمی‌توانید یک اتصال EAP WLAN را پیکربندی کنید. پس از نصب، می‌توانید در تنظیمات > بی‌سیم و شبکه‌ها اینکار را انجام دهید.</string>
+    <string name="wifi_setup_description_connected">برای ادامه تنظیم، <b>بعدی</b>" را لمس کنید. 
+
+برای اتصال به یک شبکه WLAN دیگر، "<b>برگشت</b> را لمس کنید.</string>
+    <string name="data_usage_menu_show_wifi">نمایش میزان استفاده از WLAN</string>
+    <string name="data_usage_disable_wifi_limit">تنظیم محدودیت داده WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">اگر داده‌های پس‌زمینه تلفن همراه را محدود کنید ممکن است برخی از سرویس‌ها و برنامه‌ها دیگر کار نکنند مگر اینکه به یک شبکه WLAN متصل شوید.</string>
+    <string name="data_usage_restrict_background_multiuser">"اگر داده های تلفن همراه پس زمینه را محدود کنید، برخی از برنامه ها و سرویس ها تنها در صورتی کار می کنند که به یک شبکه WLAN متصل شوید.
+
+
+
+ این تنظیم روی همه کاربران موجود در این تلفن تأثیر می گذارد."</string>
+    <string name="data_usage_metered_body">شبکه های WLAN را انتخاب کنید که نقاط اتصال تلفن همراه هستند. هنگامی که برنامه ها در پس زمینه هستند، استفاده آنها از این شبکه ها ممکن است محدود شود. همچنین زمانی که برنامه ها بخواهند از این شبکه ها برای دانلودهای بزرگ استفاده کنند، ممکن است به شما هشدار دهند.</string>
+    <string name="data_usage_metered_wifi">شبکه های WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">برای انتخاب نقاط اتصال تلفن همراه، WLAN را روشن کنید.</string>
+    <string name="user_add_user_message_long">"شما می توانید با ایجاد کاربران اضافی، این دستگاه را با سایر افراد به اشتراک بگذارید. هر کاربر فضای مخصوص به خود را دارد که می تواند این فضا را با برنامه ها، تصویر زمینه و موارد دیگر خود سفارشی کند. کاربران همچنین می توانند تنظیماتی را در تبلت ایجاد کنند که بر همه کاربرها تأثیر می گذارد، مانند WLAN.
+
+
+
+بعد از ایجاد یک کاربر جدید، آن شخص باید مرحله تنظیم را انجام دهد.
+
+
+
+هر کاربر می تواند مجوزهای برنامه به روز شده را از طرف همه کاربران دیگر بپذیرد."</string>
+    <string name="restriction_wifi_config_title">WLAN و تلفن همراه</string>
+    <string name="restriction_wifi_config_summary">اجازه برای اعمال تغییرات در تنظیمات WLAN و تلفن همراه</string>
+    <string name="ct_wifi_connected_text">‏China Telecom WLAN وصل شد</string>
+    <string name="cw_network_priority">اولویت با China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">شبکه های China Telecom WLAN بر سایر شبکه های WLAN در حال اتصال ارجحیت دارند</string>
+    <string name="data_traffic_disabled_text">نمی توان به China Telecom WLAN وصل شد چون ترافیک داده غیر فعال است. اکنون ترافیک داده فعال شود؟</string>
+    <string name="location_based_wifi">‏WLAN مبتنی بر مکان</string>
+    <string name="operator_auto_connect_hotspot_description_txt">اتصال خودکار به هات اسپات AT&amp;T WLAN</string>
+    <string name="operator_auto_connect_hotspot_txt">اتصال خودکار AT&amp;T WLAN</string>
+    <string name="wifi_calling_mode_title">تماس WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">تغییر دادن گواهینامه WLAN</string>
+    <string name="wifi_p2p_settings">تنظیمات WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">امن با WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">امن با WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"می توانید از دستگاه خود به عنوان اینترنت تلفن همراه استفاده کنید. این کار به دستگاه های دیگر (حداکثر ۱۰ دستگاه) امکان می دهد تا از طریق شبکه WLAN به آن وصل شوند. دستگاه های متصل شده، از طریق اتصال داده شبکه تلفن همراه گوشی به اینترنت وصل می شوند. اینترنت تلفن همراه از داده شبکه تلفن همراه استفاده می کند و ممکن است هزینه اضافی در بر داشته باشد.
+
+اینترنت تلفن همراه باتری بیشتری مصرف می کند. برای افزایش عمر باتری، دستگاه را به برق وصل کنید."</string>
+    <string name="wifi_tether_settings_subtext">تنظیم و مدیریت نقطه دسترسی به اینترنت بی سیم WLAN</string>
+    <string name="wifi_tether_settings_text">تنظیمات دسترسی WLAN قابل حمل</string>
+    <string name="wifi_wps_category_title">تنظیم شبکه WLAN</string>
+    <string name="cw_network_notification">فعال کردن اعلان CT WLAN</string>
+    <string name="stamina_xssm_summary">هنگامی که صفحه خاموش است، داده تلفن همراه و WLAN را غیرفعال می کند</string>
+    <string name="tethering_no_sim_warning_txt">برای اشتراک گذاری اتصال داده تلفن با سایر دستگاه ها با استفاده از قابلیت دسترسی بی سیم به اینترنت توسط WLAN تلفن همراه یا اتصال به اینترنت از طریق اینترنت تلفن از طریق USB و دسترسی به اینترنت، لطفاً سیم کارت را درون دستگاه قرار دهید.</string>
+    <string name="wifi_offload_checkbox_summary">در هنگام باز کردن برنامه ها، موجود بودن WLAN به من اطلاع داده شود</string>
+    <string name="wifi_offload_checkbox_title">نمایش پنجره های بازشوی WLAN</string>
+    <string name="wifi_offload_notify_available_networks">اعلان های WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">در هنگام موجود بودن شبکه های WLAN به من اطلاع داده شود</string>
+    <string name="wifi_offload_option_title">شبکه های WLAN موجود</string>
+</resources>

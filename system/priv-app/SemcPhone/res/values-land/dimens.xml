@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="incall_screen_contact_picture_height">295.0dip</dimen>
+    <dimen name="incall_screen_conference_right_pane_width">320.0dip</dimen>
+    <dimen name="incall_screen_conference_right_pane_height">124.599976dip</dimen>
+    <dimen name="answering_machine_record_guide_text_margin_top">29.0dip</dimen>
+    <dimen name="answering_machine_record_guide_text_margin_start">35.0dip</dimen>
+    <dimen name="answering_machine_record_guide_text_margin_end">50.0dip</dimen>
+    <dimen name="answering_machine_mic_icon_margin_top">29.0dip</dimen>
+    <dimen name="answering_machine_record_layout_margin_top">109.0dip</dimen>
+    <dimen name="answering_machine_record_layout_margin_start">113.0dip</dimen>
+    <dimen name="answering_machine_play_layout_margin_start">197.0dip</dimen>
+    <dimen name="answering_machine_record_edit_text_margin_top">227.0dip</dimen>
+    <dimen name="incall_screen_button_row_padding_left">249.29999dip</dimen>
+    <dimen name="answering_machine_record_guide_text_width">320.0dip</dimen>
+    <dimen name="answering_machine_mic_icon_margin_start">405.0dip</dimen>
+</resources>

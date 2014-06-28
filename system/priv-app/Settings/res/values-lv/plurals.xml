@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Lai jūs kļūtu par izstrādātāju, atlikušas %1$d darbības.</item>
+        <item quantity="one">Lai jūs kļūtu par izstrādātāju, atlikusi %1$d darbība.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolē jābūt vismaz %d burtiem</item>
+        <item quantity="one">Parolē jābūt vismaz 1 burtam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parolē jābūt vismaz %d mazajiem burtiem</item>
+        <item quantity="one">Parolē jābūt vismaz 1 mazajam burtam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parolē jābūt vismaz %d lielajiem burtiem</item>
+        <item quantity="one">Parolē jābūt vismaz 1 lielajam burtam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parolē jābūt vismaz %d cipariem</item>
+        <item quantity="one">Parolē jābūt vismaz 1 ciparam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parolē jābūt vismaz %d īpašajiem simboliem</item>
+        <item quantity="one">Parolē jābūt vismaz 1 īpašajam simbolam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parolē jābūt vismaz %d rakstzīmēm, kas nav burti</item>
+        <item quantity="one">Parolē jābūt vismaz 1 rakstzīmei, kas nav burts</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d lietotnēs var lasīt paziņojumus</item>
+        <item quantity="one">%d lietotnē var lasīt paziņojumus</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nepareizs SIM kartes PIN. Jums vēl ir %d mēģinājumi.</item>
+        <item quantity="one">Nepareizs SIM kartes PIN. Jums vēl ir %d mēģinājums; pēc tam būs jāsazinās ar mobilo sakaru operatoru, lai atbloķētu ierīci.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Atrasti %1$s printeri</item>
+        <item quantity="one">Atrasts %1$s printeris</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Šobrīd sarakstā ir %d lietotnes</item>
+        <item quantity="one">Šobrīd sarakstā ir %1$d lietotne</item>
+    </plurals>
+</resources>

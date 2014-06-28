@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wireless_networks_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/theme_label_xperia" android:key="theme" android:summary="@string/theme_label_summary" settings:dependOnIsValidIntent="true" settings:chooserTitle="@string/theme_dialog_title_select_theme_txt">
+        <intent android:action="com.sonyericsson.theme.intent.action.SET_RUNTIME_THEME" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <PreferenceScreen android:title="@string/wallpaper_settings_title" android:key="wallpaper" android:fragment="com.android.settings.WallpaperTypeSettings" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="preferred_application_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.docomo.settings" android:targetClass="com.sonyericsson.docomo.settings.PreferredAppSettingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="lockscreen" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.settings.intent.action.LOCKSCREEN" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="home_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.home.settings" android:targetClass="com.sonymobile.home.settings.HomeSettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="quick_settings" settings:dependOnResource="@bool/config_showToolsSettings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.android.systemui" android:targetClass="com.sonymobile.systemui.statusbar.toolssettings.ToolsbarSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="@string/auto_hide_notifications_title" android:key="clearViewedNotifications" android:summary="@string/auto_hide_notifications_description" android:defaultValue="false" settings:valueOfSettingsSystem="clear_viewed_notifications" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="notifications" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.notifications.NotificationSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="system_icons" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.systemicon.SystemIconSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

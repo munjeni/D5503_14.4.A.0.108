@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA മോഡിൽ ഉൾപ്പെടുന്നത്:
+
+• വിപുലമായ സ്റ്റാൻഡ്‌ബൈ
+സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോൾ, WLAN-യും മൊബൈൽ ഡാറ്റയും താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കി, പവർ ലാഭിക്കുന്നു.
+സ്ക്രീന്‍ ഓണ്‍ ആയിരിക്കുമ്പോൾ, നിങ്ങളുടെ ഉപകരണം സാധാരണ പോലെ പ്രവര്‍ത്തിക്കും.
+വിപുലമായ സ്റ്റാൻഡ്‌ബൈ ഓൺ ആയിരിക്കെ, ചില സജീവ ആപ്സ് സൂക്ഷിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, സ്റ്റാൻഡ്‌ബൈയിലെ സജീവ ആപ്സ് ലിസ്റ്റിലേക്ക് ആപ്സ് കൂട്ടിച്ചേർക്കുക.
+
+• വിപുലമായ ഉപയോഗം
+നിങ്ങളുടെ ഉപകരണം ഉപയോഗത്തിൽ ആയിരിക്കുമ്പോൾ ഹാർഡ്‌വെയർ പ്രകടനശേഷി പരിമിതപ്പെടുത്തിക്കൊണ്ട് പവർ ലാഭിക്കുന്നു.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>എന്താണ് STAMINA മോഡ്?</u>"
+Sony™ പവര്‍ സേവ് പ്രവര്‍ത്തനമാണ് STAMINA മോഡ്. സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോള്‍ പ്രവര്‍ത്തനക്ഷമത പ്രവര്‍ത്തനരഹിതമാക്കിക്കൊണ്ട് ബാറ്ററിയുടെ ഈട് ഇത് കൂട്ടുന്നു.
+
+"<u>അടിസ്ഥാന ഉപയോഗം</u>"
+STAMINA മോഡ് സജീവമാക്കുന്നതിന്, അടുത്ത സ്ക്രീനിലുള്ള സ്വിച്ച് ഉപയോഗിക്കുക.
+സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോൾ, എല്ലാ നെറ്റ്വർക്ക് ഡാറ്റയും താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കപ്പെടും, ബാറ്ററി ലാഭിക്കുന്നതിനായി നിങ്ങളുടെ മിക്ക ആപ്ലിക്കേഷനുകളും നിര്‍ജ്ജീവമായിരിക്കും.
+സ്ക്രീന്‍ ഓണ്‍ ആയിരിക്കുമ്പോൾ, നിങ്ങളുടെ ഉപകരണം സാധാരണ പോലെ പ്രവര്‍ത്തിക്കും.
+
+"<u>വിപുലമായ ഉപയോഗം</u>"
+സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോള്‍ ചില ആപ്ലിക്കേഷനുകള്‍ സജീവമായി വയ്ക്കാന്‍ നിങ്ങള്‍ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, സ്റ്റാൻഡ്‌ബൈയിൽ സജീവമായിരിക്കുന്ന ആപ്ലിക്കേഷൻ ലിസ്റ്റിലേക്ക് അവ കൂട്ടിച്ചേര്‍ക്കുക.
+
+"<u>കുറിപ്പ്</u>"
+സ്റ്റാന്‍ഡ്ബൈയില്‍ പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുമ്പോള്‍ ചില ആപ്ലിക്കേഷനുകള്‍ പ്രവര്‍ത്തിച്ചേക്കില്ല. ഒരു ആപ്ലിക്കേഷന്‍ ശരിയായി പ്രവര്‍ത്തിക്കുന്നില്ലെങ്കില്‍ സ്റ്റാൻഡ്‌ബൈയിൽ സജീവമായിരിക്കുന്ന ആപ്ലിക്കേഷൻ ലിസ്റ്റിലേക്ക് കൂട്ടിച്ചേര്‍ക്കുക അല്ലെങ്കില്‍ പ്രശ്ന പരിഹാരം ലഭിക്കുന്നില്ലെങ്കിൽ, STAMINA മോഡ് നിര്‍ജ്ജീവമാക്കുക."</string>
+    <string name="location_based_wi_fi_label">സ്ഥാനാധിഷ്ഠിത WLAN</string>
+    <string name="location_based_wi_fi_descr">സേവ് ചെയ്യപ്പെട്ട WLAN നെറ്റ്‌വര. ശ്രേണിയിലായിരിക്. യാന്ത്രി. WLAN സജീവമാക്ക.</string>
+    <string name="powersaver_feature_wifi">WLAN ഓഫ്</string>
+    <string name="install_wapi_certs">WLAN സര്‍ട്ടിഫിക്കറ്റുകള്‍ ഇ. ചെ.</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, എയര്‍‌പ്ലെയിന്‍ മോഡ്, മൊ. നെറ്റ്‌.‍, VPNs എന്നിവ മാനേജ് ചെയ്യുക</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN ഓണാക്കുക</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN ക്രമീകരണങ്ങള്‍</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN തിരഞ്ഞെടുക്കുക</string>
+    <string name="wifi_starting">WLAN ഓണാക്കുന്നു...</string>
+    <string name="wifi_stopping">WLAN ഓഫാക്കുന്നു...</string>
+    <string name="wifi_poor_network_detection_summary">മികച്ച ഇന്‍റര്‍‌നെറ്റ് കണക്ഷനില്ലെങ്കില്‍ ഒരു WLAN നെറ്റ്‌വര്‍ക്ക് ഉപയോഗിക്കരുത്</string>
+    <string name="wifi_scan_always_available_summary">Google-ന്റെ സ്ഥാന സേവനത്തെയും മറ്റ് ആപ്ലിക്കേഷനുകളെയും, WLAN ഓഫാണെങ്കിൽ പോലും നെറ്റ്‌വർക്കുകൾക്കായി സ്കാൻ ചെയ്യാൻ അനുവദിക്കുക.</string>
+    <string name="wifi_scan_notify_text_location_on">സ്ഥാന കൃത്യത മെച്ചപ്പെടുത്തുന്നതിനും മറ്റ് ഉദ്ദേശ്യങ്ങൾക്കും വേണ്ടി, Google-ന്റെ സ്ഥാന സേവനവും മറ്റ് ആപ്ലിക്കേഷനുകളും, WLAN ഓഫാണെങ്കിൽ പോലും, അടുത്തുള്ള നെറ്റ്വർക്കുകൾക്കായി തിരയും. ഇതുണ്ടാകുന്നത് നിങ്ങൾ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, വിപുലം > സ്കാനിംഗ് എല്ലായ്പ്പോഴും ലഭ്യം എന്നതിലേക്ക് പോവുക.</string>
+    <string name="wifi_scan_notify_text_location_off">WLAN ഓഫാണെങ്കിൽ പോലും, അടുത്തുള്ള നെറ്റ്വർക്കുകൾക്കായി ആപ്ലിക്കേഷനുകൾ തിരയും. ഇതുണ്ടാകുന്നത് നിങ്ങൾ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, വിപുലം > സ്കാനിംഗ് എല്ലായ്പ്പോഴും ലഭ്യം എന്നതിലേക്ക് പോവുക.</string>
+    <string name="wifi_setting_sleep_policy_title">സ്ലീപ്പ് വേള. WLAN ഓ. സൂക്ഷിക്കുക</string>
+    <string name="wifi_suspend_optimizations">WLAN ഒപ്റ്റിമൈസേഷന്‍</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ഓണായിരിക്കുമ്പോള്‍ ബാറ്ററി ഉപയോഗം പരിമിതപ്പെടുത്തുക</string>
+    <string name="wifi_access_points">WLAN നെറ്റ്‌വര്‍ക്കുകള്‍</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">ലഭ്യമായ നെറ്റ്‌വര്‍ക്കുകള്‍ കാണാന്‍, WLAN ഓണാക്കുക.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ക്കായി തിരയുന്നു...</string>
+    <string name="wifi_empty_list_user_restricted">WLAN നെറ്റ്വർക്ക് മാറ്റുന്നതിന് നിങ്ങൾക്ക് അനുമതിയില്ല</string>
+    <string name="wifi_required_info_text">"ക്രമീകരണം പൂര്‍ത്തിയാക്കാന്‍ നിങ്ങളുടെ ടാബ്‌ലറ്റിന് WLAN-ലേക്ക് പ്രവേശനം ആവശ്യമാണ്. ക്രമീകരിച്ചതിനുശേഷം, മൊബൈല്‍ ഡറ്റയ്ക്കും  WLAN-യ്ക്കും ഇടയില്‍ നിങ്ങള്‍ക്ക് സ്വിച്ചുചെയ്യാന്‍ കഴിയും."</string>
+    <string name="wifi_wps_setup_title">WLAN സംരക്ഷിത ക്രമീകരണം</string>
+    <string name="wifi_wps_onstart_pbc">"നിങ്ങളുടെ റൂട്ടറിലെ WLAN സംരക്ഷിത ക്രമീകരണ ബട്ടണ്‍ അമര്‍ത്തുക. ഇതിനെ \"WPS\" എന്ന് വിളിക്കാം അല്ലെങ്കില്‍ ഈ ചിഹ്നം 
+
+അടങ്ങിയേക്കാം:"</string>
+    <string name="wifi_wps_onstart_pin">"നിങ്ങളുടെ WLAN  റൂട്ടറില്‍ പിന്‍ %1$s നല്‍കുക. ക്രമീകരണം പൂര്‍ത്തിയാക്കുന്നതിന് രണ്ടു മിനിറ്റ് 
+
+വരെ എടുക്കാം."</string>
+    <string name="wifi_wps_connected">WLAN നെറ്റ്‌വര്‍ക്ക് %s -ലേക്ക് കണക്ടുചെയ്തു</string>
+    <string name="wifi_scan_always_turnon_message">"സ്ഥാന കൃത്യത മെച്ചപ്പെടുത്തുന്നതിനും മറ്റ് ഉദ്ദേശ്യങ്ങൾക്കും വേണ്ടി, WLAN ഓഫാണെങ്കിൽ പോലും, നെറ്റ്വർക്ക് സ്കാനിംഗ് ഓൺ ചെയ്യുന്നതിന് %1$s ആഗ്രഹിക്കുന്നു.
+
+സ്കാൻ ചെയ്യാൻ ആഗ്രഹിക്കുന്ന എല്ലാ ആപ്ലിക്കേഷനുകൾക്കും ഇത് അനുവദിക്കണോ?"</string>
+    <string name="wifi_connect_failed_message">"ഈ WLAN  നെറ്റ്‌വര്‍ക്കിലേക്ക് കണക്ടുചെയ്യാന്‍ ഫോണിനാവില്ല."</string>
+    <string name="wifi_advanced_titlebar">നൂതന WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN ഫ്രീക്വന്‍സി ബാന്‍ഡ്</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">സുവഹ. WLAN ഹോട്ട്‌സ്പോട്ട്</string>
+    <string name="wifi_tether_failed_subtext">സുവഹനീയ WLAN ഹോട്ട്‌സ്പോട്ട് പിഴവ്</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ഹോ.പോ. ക്രമീകരി.</string>
+    <string name="wifi_tether_configure_subtext">"%1$s സുവഹനീയ WLAN ഹോട്ട്‌സ്പോട്ട്.
+സുരക്ഷ: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC വിലാസം</string>
+    <string name="location_mode_high_accuracy_description">സ്ഥാനം കണക്കാക്കാൻ GPS, WLAN, മൊബൈൽ നെറ്റ്‌വർക്കുകൾ എന്നിവ ഉപയോഗിക്കുക</string>
+    <string name="location_mode_battery_saving_description">സ്ഥാനം കണക്കാക്കാൻ WLAN, മൊബൈൽ നെറ്റ്‌വർക്കുകൾ എന്നിവ ഉപയോഗിക്കുക</string>
+    <string name="location_neighborhood_level">നിങ്ങളുടെ ഏകദ. സ്ഥാ. നിര്‍ണ്ണയിക്. WLAN, മൊബൈ. നെറ്റ്‌വര്‍ക. പോല. ഉറ. ഡാറ. ഉപയോഗി. ആപ്ലിക്കേ. അനു.</string>
+    <string name="location_neighborhood_level_wifi">WLAN-യാല്‍ സ്ഥാനം നിര്‍ണ്ണയിക്കപ്പെട്ടു</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN ഓണ്‍ സമയം</string>
+    <string name="bluetooth_on_time">WLAN ഓണ്‍ സമയം</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN പ്രവര്‍ത്തിക്കുന്നു</string>
+    <string name="usage_type_data_wifi_send">WLAN ഡാറ്റ അയച്ചു</string>
+    <string name="usage_type_data_wifi_recv">WLAN ഡാറ്റ സ്വീകരിച്ചു</string>
+    <string name="battery_action_wifi">WLAN ക്രമീകരണങ്ങള്‍</string>
+    <string name="battery_desc_wifi">WLAN ഉപയോഗിച്ച ബാറ്ററി</string>
+    <string name="battery_sugg_wifi">ഉപയോഗിക്കാത്തപ്പോഴോ ലഭ്യമാകാത്തപ്പോഴോ WLAN ഓഫാക്കുക</string>
+    <string name="gadget_toggle_wifi">WLAN ക്രമീകരണം അപ്‌ഡേറ്റുചെയ്യുന്നു</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Google സെര്‍വറുകളിലേക്ക് കരുതല്‍ ഡാറ്റയുടെയും WLAN പാസ്‌വേഡുകളുടെയും മറ്റ് ക്രമീകരണങ്ങളുടെയും ബാക്കപ്പെടുക്കുക</string>
+    <string name="backup_erase_dialog_message">"നിങ്ങളുടെ WLAN പാസ്‌വേഡുകളും അടയാളങ്ങളും മറ്റ് ക്രമീകരണങ്ങളും ആപ്ലിക്കേഷന്‍ ഡാറ്റയും ബാക്കപ്പെടുക്കുന്നത് നിര്‍ത്തണോ, 
+
+Google സെര്‍വറിലെ എല്ലാ പകര്‍പ്പുകളും നീക്കം ചെയ്യണോ?"</string>
+    <string name="wifi_setup_title">WLAN ക്രമീകരിക്കല്‍</string>
+    <string name="wifi_setup_title_editing_network">WLAN നെറ്റ്‌വര്‍ക്ക് %s -ല്‍ കണക്ടുചെയ്യുക</string>
+    <string name="wifi_setup_title_connecting_network">WLAN നെറ്റ്‌വര്‍ക്ക് %s -ല്‍ കണക്ടുചെയ്യുന്നു...</string>
+    <string name="wifi_setup_title_connected_network">WLAN നെറ്റ്‌വര്‍ക്ക് %s -ലേക്ക് കണക്ടുചെയ്തു</string>
+    <string name="wifi_setup_eap_not_supported">"ക്രമീകരണ വേളയില്‍ ഒരു EAP WLAN കണക്ഷന്‍ കോണ്‍ഫിഗര്‍ ചെയ്യാനാകില്ല. ക്രമീകരണത്തിനു ശേഷം, ക്രമീകരണങ്ങള്‍ > വയര്‍‌ലസും 
+
+നെറ്റ്‌വര്‍ക്കുകളും എന്നതില്‍ നിങ്ങള്‍ക്കത് ചെയ്യാനാകും."</string>
+    <string name="wifi_setup_description_connected">ക്രമീകരണവുമായി തുടരുന്നതിന് <b>അടുത്തത്</b>" തൊടുക.
+
+ഒരു വ്യത്യസ്ത WLAN നെറ്റ്‌വര്‍ക്കിലേക്ക് കണക്ടുചെയ്യുന്നതിന് 
+
+"<b>പിന്നിലേക്ക്</b> തൊടുക.</string>
+    <string name="data_usage_menu_show_wifi">WLAN ഉപ. പ്ര.</string>
+    <string name="data_usage_disable_wifi_limit">WLAN ഡാറ്റ പരിധി ക്രമീകരിക്കുക</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">"നിങ്ങള്‍ പശ്ചാത്തല മൊബൈല്‍ ഡാറ്റ നിയന്ത്രിക്കുകയാണെങ്കില്‍, ഒരു WLAN നെറ്റ്‌വര്‍ക്കിലേക്ക് കണക്ടുചെയ്യാത്ത പക്ഷം ചില ആപ്ലിക്കേഷനുകളും 
+
+സേവനങ്ങളും പ്രവര്‍ത്തിക്കില്ല."</string>
+    <string name="data_usage_restrict_background_multiuser">"പശ്ചാത്തല മൊബൈല്‍ ഡാറ്റ നിയന്ത്രിക്കുകയാണെങ്കില്‍, ഒരു WLAN നെറ്റ്‌വര്‍ക്കിലേക്ക് കണക്ടുചെയ്യുന്നതുവരെ ചില ആപ്ലിക്കേഷനുകളും സേവനങ്ങളും പ്രവര്‍ത്തിക്കില്ല.
+
+
+ഈ ഫോണിലെ എല്ലാ ഉപയോക്താക്കളേയും ഈ ക്രമീകരണം ബാധിക്കുന്നു."</string>
+    <string name="data_usage_metered_body">"മൊബൈല്‍ ഹോട്ട്‌സ്പോട്ടുകളുള്ള WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ തിരഞ്ഞെടുക്കുക. പശ്ചാത്തലത്തിലായിരിക്കുമ്പോള്‍ ഈ നെറ്റ്‌വര്‍ക്കുകള്‍ 
+
+ഉപയോഗിക്കുന്നതില്‍ നിന്ന് ആപ്ലിക്കേഷനുകള്‍ നിയന്ത്രിക്കപ്പെടാം. വലിയ ഡൌണ്‍‌ലോഡുകള്‍ക്കായി ഈ നെറ്റ്‌വര്‍ക്കുകള്‍ ഉപയോഗിക്കുന്നതിനു 
+
+മുന്‍പായി ആപ്ലിക്കേഷനുകള്‍ മുന്നറിയിപ്പ് നല്‍കുകയും ചെയ്യാം മുന്‍പ് ആപ്ലി. വാണ്‍ ചെയ്തെന്നിരിക്കാം."</string>
+    <string name="data_usage_metered_wifi">WLAN നെറ്റ്‌വര്‍ക്കുകള്‍</string>
+    <string name="data_usage_metered_wifi_disabled">മൊബൈല്‍ ഹോട്ട്‌സ്പോട്ടുകള്‍ തിരഞ്ഞെടുക്കുക, WLAN ഓണാക്കുക.</string>
+    <string name="user_add_user_message_long">"കൂടുതല്‍ ഉപയോക്താക്കളെ സൃഷ്ടിക്കുന്നതിലൂടെ, മറ്റ് ആളുകളുമായി നിങ്ങള്‍ക്ക് ഈ ഉപകരണം പങ്കുവെയ്ക്കാനാകും. ഓരോ ഉപയോക്താവിനും അവരുടേതായ ഇടമുണ്ടായിരിക്കും, അത് തങ്ങളുടെ സ്വന്തം ആപ്ലിക്കേഷനുകള്‍, വാള്‍‌പേപ്പര്‍ തുടങ്ങിയവയുമായി ഇഷ്ടാനുസൃതമാക്കാന്‍ കഴിയും. എല്ലാവരേയും ബാധിക്കുന്ന WLAN പോലുള്ള ടാബ്‌ലറ്റ് ക്രമീകരണങ്ങളും ഉപയോക്താവിന് ക്രമീകരിക്കാനാകും.  
+
+ഒരു പുതിയ ഉപയോക്താവിനെ സൃഷ്ടിച്ചതിനുശേഷം, ആ വ്യക്തി ഒരു ക്രമീകരണ പ്രോസസ്സിലൂടെ കടന്നുപോകേണ്ടതുണ്ട്.
+
+ഏത് ഉപയോക്താവിനും മറ്റ് എല്ലാ ഉപയോക്താക്കളുടേയും പേരില്‍ അപ്ഡേറ്റുചെയ്ത ആപ്ലിക്കേഷന്‍ അനുമതികള്‍ സ്വീകരിക്കാന്‍ കഴിയും."</string>
+    <string name="restriction_wifi_config_title">WLAN-യും മൊബൈലും</string>
+    <string name="restriction_wifi_config_summary">WLAN-യുടെയും മൊബൈൽ ക്രമീകരണങ്ങളുടെയും പരിഷ്കരണം അനുവദിക്കുക</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN കണക്.</string>
+    <string name="cw_network_priority">ചൈന ടെല. WLAN-യ്ക്ക് മുന്‍.</string>
+    <string name="cw_network_priority_summary">കണക്ഷ്നിലുള്ള മറ്റ് WLAN നെറ്റ്‌വര്‍ക്കുകളേക്കാള്‍ ചൈനാ ടെലികോം WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ക്ക് മുന്‍ഗണന നല്‍കപ്പെടും</string>
+    <string name="location_based_wifi">സ്ഥാനാധിഷ്ഠിത WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN ഹോട്ട്‌സ്പോട്ടിലേക്ക് യാന്ത്രികമായി കണക്ടുചെയ്യുക</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN സ്വയ കണ.</string>
+    <string name="wifi_calling_mode_title">WLAN കോളിങ്ങ്</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN സര്‍ട്ടിഫിക്കേറ്റ് മാറ്റുക</string>
+    <string name="wifi_p2p_settings">WLAN Direct ക്രമീകരണങ്ങള്‍</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT-മൊത്ത് സുരക്ഷിതം</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK-മൊത്ത് സുരക്ഷിതം</string>
+    <string name="wifi_tether_explanation_dialog_text">"നിങ്ങളുടെ ഉപകരണം ഒരു മൊബൈൽ ഹോട്സ്പോട്ടായി ഉപയോഗിക്കാം. WLAN നെറ്റ്‌വർക്കിലൂടെ മറ്റ് ഉപകരണങ്ങളുമായി (പരമാവധി 10) കണക്ടു ചെയ്യാൻ ഇത് അനുവദിക്കുന്നു. കണക്ടു ചെയ്ത ഉപകരണങ്ങല്ക്ക്, നിങ്ങളുടെ ഫോണിന്റെ മൊബൈൽ മൊബൈൽ നെറ്റ്‌വർക്ക് കണക്ഷനിലൂടെ ഇന്റർനെറ്റിലേക്ക് അക്സസ് ഉണ്ടായിരിക്കും. മൊബൈൽ ഡാറ്റയെ മൊബൈൽ ഹോട്സ്പോട്ട് ഉപയോഗിക്കുന്നു, ഇത് അധിക നിരക്കിന് കാരണമാകും..
+
+മൊബൈൽ ഹോട്സ്പോട്ട് കൂടുതൽ ബാറ്ററി ഉപയോഗിക്കുന്നു. ബാറ്ററിയുടെ ഈട് കൂട്ടാൻ ഉപകരണം ഒരു ഔട്ട്‌ലെറ്റിലേക്ക് കണക്ടു ചെയ്യുക."</string>
+    <string name="wifi_tether_settings_subtext">പോര്‍ട്ടബിള്‍ WLAN ഹോട്സ്പോട്ട് ക്രമീകരിക്കുക, മാനേജ് ചെയ്യുക</string>
+    <string name="wifi_tether_settings_text">പോര്‍ട്ട. WLAN ഹോട്. ക്രമീകര.</string>
+    <string name="wifi_wps_category_title">WLAN നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുക</string>
+    <string name="cw_network_notification">CT WLAN അറിയിപ്പ് പ്രവര്‍ത്ത.</string>
+    <string name="stamina_xssm_summary">സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍ മൊബൈല്‍ ഡാറ്റയും WLAN-um പ്രവര്‍ത്തനരഹിതമാക്കുന്നു</string>
+    <string name="tethering_no_sim_warning_txt">ഇന്റര്‍നെറ്റ് അക്സസിനായി Mobile WLAN HotSpot അല്ലെങ്കില്‍ USB ടെതെറിംഗ് ഉപയോഗിച്ചുകൊണ്ട് മറ്റ് ഉപകരണങ്ങളുമൊത്ത് നിങ്ങളുടെ ഫോണിന്റെ ഡാറ്റ കണക്ഷന്‍ പങ്കുവയ്ക്കുന്നതിന് ദയവായി SIM കാര്‍ഡ് നല്‍കുക.</string>
+    <string name="wifi_offload_checkbox_summary">ആപ്ലിക്കേഷനുകൾ തുറക്കുന്ന സമയത്ത് WLAN ലഭ്യമാകുമ്പോൾ എന്നോട് പറയുക</string>
+    <string name="wifi_offload_checkbox_title">WLAN പോപ്-അ. കാണിക്കൂ</string>
+    <string name="wifi_offload_notify_available_networks">WLAN അറിയിപ്പുകൾ</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN നെറ്റ്‌വർക്കുകൾ ലഭ്യമാകുമ്പോൾ എന്നെ അറിയിക്കുക</string>
+    <string name="wifi_offload_option_title">ലഭ്യമായ WLAN നെറ്റ്‌വർക്കുകൾ</string>
+</resources>

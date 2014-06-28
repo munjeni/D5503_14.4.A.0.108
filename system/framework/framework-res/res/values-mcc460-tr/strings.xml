@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Uygulamaya, Küresel Konumlandırma Sistemi (GPS) veya baz istasyonları ve WLAN gibi ağ konum kaynaklarını kullanarak konumunuzu hassas bir şekilde belirleme izni verir. Uygulamaların bu konum hizmetlerini kullanabilmesi için bunların cihazınızda açık ve kullanılabilir olması gerekir. Uygulamalar bulunduğunuz yeri belirlemek için bu izni kullanabilirler ve bu kullanım fazladan pil tüketimine neden olabilir.</string>
+    <string name="permdesc_accessCoarseLocation">Uygulamaya, yaklaşık konumunuzu belirleme izni verir. Bu konum bilgisi, baz istasyonları ve WLAN gibi ağ konum kaynaklarını kullanan konum hizmetlerinden elde edilir. Uygulamaların bu konum hizmetlerini kullanabilmesi için bunların cihazınızda açık ve kullanılabilir olması gerekir. Uygulamalar bulunduğunuz yeri yaklaşık olarak belirlemek için bu izni kullanabilirler.</string>
+    <string name="permlab_configureWifiDisplay">WLAN ekranları yapılandır</string>
+    <string name="permdesc_configureWifiDisplay">Uygulamanın WLAN ekranları yapılandırmasına ve bunlara bağlanmasına izni verir.</string>
+    <string name="permlab_controlWifiDisplay">WLAN ekranları denetle</string>
+    <string name="permdesc_controlWifiDisplay">Uygulamanın WLAN ekranların alt düzey özelliklerini kontrol etmesine izni verir.</string>
+    <string name="permlab_accessWifiState">WLAN bağlantıları görüntüleme</string>
+    <string name="permdesc_accessWifiState">Uygulamaya, WLAN bağlantının etkin olup olmadığı ve bağlanan WLAN cihazların adları gibi WLAN ağ kullanımıyla ilgili bilgileri görüntüleme izni verir.</string>
+    <string name="permlab_changeWifiState">Kablosuza bağlan veya Kablosuz bağlantısını kesme</string>
+    <string name="permdesc_changeWifiState">Uygulamaya, kablosuz erişim noktalarına bağlanıp bunlarla bağlantısını kesme ve WLAN ağlar için cihaz yapılandırmasında değişiklikler yapma izni verir.</string>
+    <string name="permlab_changeWifiMulticastState">Kablosuz Çoklu Yayın alımına izin ver</string>
+    <string name="permdesc_changeWifiMulticastState">Uygulamaya, çoklu yayın adreslerini kullanarak yalnızca telefona değil WLAN ağ üzerindeki tüm cihazlara gönderilen paketleri alma izni verir. Çoklu olmayan yayın moduna göre daha fazla güç tüketir.</string>
+    <string name="wifi_available_sign_in">WLAN ağında oturum açın</string>
+    <string name="wifi_watchdog_network_disabled">WLAN bağlantısı kurulamadı</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct Bağlantıyı başlat. Bu işlem, WLAN istemci/genel alan kullanımını kapatacak.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct başlatılamadı</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct açıldı</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefon %1$s adlı cihaza bağlıyken WLAN ağ bağlantısı geçici olarak kesilecektir</string>
+    <string name="data_usage_wifi_limit_title">WLAN veri devre dışı bırkldı</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN veri sınırı aşıldı</string>
+    <string name="policylab_disableWifi">WLAN erişimini devre dışı bırak</string>
+    <string name="policydesc_disableWifi">Cihaz üzerindeki WLAN bağlantılarını önleyin.</string>
+    <string name="wifi_disabled_notification_title">WLAN bağlantısı kısıtlandı</string>
+    <string name="wifi_disabled_notification_message">"Bir güvenlik ilkesi, WLAN bağlantısının kullanılmasını kısıtlıyor. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN dolaşımı devam ediyor</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN ağına bağlanıldı. Fatura bilgileri için 10000 ya da yerel mağazaya danışın.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN bağlandı</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">"China Telecom'un WLAN ağına bağlanacaksınız. Ücret ayrıntıları için lütfen China Telecom müşteri hizmetlerine başvurun. Devam edilsin mi?"</string>
+    <string name="wifi_nonconcurrency_message">"WLAN istemcisini başlatın. Bu WLAN Direct'in bağlantısını keser."</string>
+    <string name="wifi_noncuncurrency_message">"WLAN istemcisini başlatın. Bu WLAN Direct'in bağlantısını keser."</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Var olan tüm WLAN bağlantıları kesilecektir</string>
+    <string name="wifi_p2p_nonconcurrency_message">"WLAN Direct'i başlatın. Bu WLAN bağlantısını keser."</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Bu var olan tüm WLAN bağlantılarını keser</string>
+    <string name="wifi_p2p_noncuncurrency_message">"WLAN Direct'i başlatın. Bu WLAN bağlantısını keser."</string>
+    <string name="tethered_notification_message_wifi">"WLAN'ın yeniden açmak için Mobil HotSpot'ı kapatın"</string>
+    <string name="tethered_notification_title_wifi">WLAN açıldı</string>
+</resources>

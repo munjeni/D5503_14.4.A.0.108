@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_force_sms_option" android:title="@string/conversations_strings_convert_to_sms_txt" />
+    <item android:id="@id/menu_force_mms_option" android:title="@string/conversations_strings_convert_to_mms_txt" />
+    <item android:id="@id/menu_add_subject" android:title="@string/conversations_strings_menu_action_subject_add_txt" />
+    <item android:id="@id/menu_add_recipient" android:title="@string/conversations_strings_toppanel_add_recipient_txt" />
+    <item android:id="@id/menu_remove_subject" android:title="@string/conversations_strings_menu_action_subject_remove_txt" />
+    <item android:id="@id/menu_add_text_template" android:title="@string/conversations_strings_menu_action_text_template_txt" />
+    <item android:id="@id/menu_add_to_contact" android:title="@string/conversations_strings_toppanel_add_contact_txt" />
+    <item android:id="@id/menu_set_wallpaper" android:title="@string/conversations_strings_menu_action_set_wallpaper_txt" />
+    <item android:id="@id/menu_clear_wallpaper" android:title="@string/conversations_strings_menu_action_clear_wallpaper_txt" />
+    <item android:id="@id/menu_set_priority" android:title="@string/conversations_strings_menu_action_set_priority_txt" />
+    <item android:icon="@drawable/ic_call" android:id="@id/menu_call_contact" android:title="@string/conversation_call_contact" android:showAsAction="always" />
+</menu>

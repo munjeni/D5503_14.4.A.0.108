@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Hvis du ikke bruker WLAN, kan du ikke lenger bruke Internett, e-post eller andre apper som krever en datailkobling. Slå av mobildatatilkoblingen?</string>
+    <string name="sip_call_options_wifi_only_title">Bruk Internett-anrop (kun WLAN)</string>
+    <string name="registration_status_no_wifi_data">Kontoregistreringen stoppet på grunn av manglende WLAN-tilkobling</string>
+    <string name="no_wifi_available_title">Ingen WLAN-tilkobling</string>
+    <string name="no_wifi_available">Du må være koblet til et WLAN-nettverk for å foreta Internett-anrop (gå til Innstillinger for (trådløse) nettverk)</string>
+</resources>

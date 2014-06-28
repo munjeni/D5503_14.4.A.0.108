@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Wat is de STAMINA-modus:
+
+• Verlengde stand-by
+Wanneer het scherm uit is, wordt energie bespaard door WLAN en mobiele data tijdelijk uit te schakelen. De meeste applicaties worden inactief.
+Wanneer het scherm aan is, werkt uw telefoon normaal.
+Als u bepaalde apps actief wilt houden terwijl Verlengde stand-by is ingeschakeld, voegt u de apps toe aan de lijst APPS ACTIEF IN STAND-BY.
+
+• Verlengd gebruik
+Wanneer uw apparaat in gebruik is, wordt energie bespaard door de hardwareprestaties te beperken.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Wat is de STAMINA-modus?</u>"
+De STAMINA-modus is een functie voor energiebesparing van Sony™. De levensduur van de batterij wordt verlengd door functionaliteit uit te schakelen wanneer het scherm uit is.
+
+"<u>Algemeen gebruik</u>"
+Gebruik de schakelaar op het volgende scherm om de STAMINA-modus te activeren. 
+Wanneer het scherm uit is, zijn al uw netwerkgegevens tijdelijk uitgeschakeld en zijn de meeste applicaties inactief om het batterijvermogen te sparen.
+Wanneer het scherm aan is, werkt uw apparaat normaal.
+
+"<u>Geavanceerd gebruik</u>"
+Als u wilt dat bepaalde apps actief blijven wanneer het scherm uit is, voegt u ze toe aan de lijst APPS ACTIEF IN STAND-BY.
+
+"<u>Opmerking</u>"
+Bepaalde applicaties werken mogelijk niet naar behoren wanneer deze zijn uitgeschakeld in de stand-bymodus. Als een applicatie niet naar behoren werkt, voegt u deze toe aan de lijst APPS ACTIEF IN STAND-BY, of als dit niet werkt, deactiveert u de STAMINA-modus."</string>
+    <string name="location_based_wi_fi_label">WLAN op locatie</string>
+    <string name="location_based_wi_fi_descr">WLAN automatisch geactiveerd binnen bereik van een opgeslagen WLAN-netwerk</string>
+    <string name="powersaver_feature_wifi">WLAN uit</string>
+    <string name="install_wapi_certs">WLAN-certificaten install.</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">"WLAN, Bluetooth, vliegmodus, mobiele netwerken en VPN's beheren"</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN inschakelen</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-instellingen</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN selecteren</string>
+    <string name="wifi_starting">WLAN inschakelen...</string>
+    <string name="wifi_stopping">WLAN uitschakelen...</string>
+    <string name="wifi_poor_network_detection_summary">WLAN-netwerk niet gebruiken, tenzij dit een goede internetverbinding heeft</string>
+    <string name="wifi_scan_always_available_summary">De locatieservice en andere apps van Google laten scannen naar netwerken, zelfs wanneer WLAN is uitgeschakeld.</string>
+    <string name="wifi_scan_notify_text_location_on">Om de de nauwkeurigheid van locaties te verbeteren en voor andere doeleinden kunnen Google en andere apps scannen naar netwerken in de buurt, zelfs wanneer WLAN is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar Geavanceerd > Scannen altijd beschikbaar.</string>
+    <string name="wifi_scan_notify_text_location_off">"Apps kunnen scannen naar netwerken in de buurt, zelfs wanneer WLAN is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar 'Geavanceerd' > 'Scannen altijd beschikbaar'."</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN behouden in slaapstand</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimalisatie</string>
+    <string name="wifi_suspend_optimizations_summary">Batterijgebruik minimaliseren wanneer wifi is ingeschakeld</string>
+    <string name="wifi_access_points">WLAN-netwerken</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Schakel WLAN in om beschikbare netwerken te bekijken.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN-netwerken zoeken...</string>
+    <string name="wifi_empty_list_user_restricted">U heeft geen toestemming om het WLAN-netwerk te wijzigen.</string>
+    <string name="wifi_required_info_text">Om het instellen te voltooien, heeft uw tablet toegang tot wifi nodig. Na het instellen kunt u schakelen tussen mobiele gegevens en wifi.</string>
+    <string name="wifi_wps_setup_title">Beveiligde configuratie voor WLAN</string>
+    <string name="wifi_wps_onstart_pbc">"Druk op de knop voor beveiligde configuratie voor WLAN op uw router. Misschien heet deze knop 'WPS' of bevat deze het volgende symbool:"</string>
+    <string name="wifi_wps_onstart_pin">Geef de pincode %1$s op uw WLAN-router op. De configuratie kan twee minuten in beslag nemen.</string>
+    <string name="wifi_wps_connected">Verbonden met WLAN-netwerk %s</string>
+    <string name="wifi_scan_always_turnon_message">"Om de locatieprecisie te verbeteren en voor andere doeleinden wil %1$s het scannen van netwerken inschakelen, zelfs als WLAN is uitgeschakeld.
+
+Dit toestaan voor alle apps die willen scannen?"</string>
+    <string name="wifi_connect_failed_message">De telefoon kan geen verbinding maken met dit wifi-netwerk.</string>
+    <string name="wifi_advanced_titlebar">Geavanceerde WLAN-instellingen</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-frequentieband</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Mobiele WLAN-hotspot</string>
+    <string name="wifi_tether_failed_subtext">Fout met mobiele WLAN-hotspot</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-hotspot instellen</string>
+    <string name="wifi_tether_configure_subtext">"%1$s mobiele WLAN-hotspot.
+Beveiliging: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN-MAC-adres</string>
+    <string name="location_mode_high_accuracy_description">GPS, WLAN en mobiele netwerken gebruiken om locatie te bepalen</string>
+    <string name="location_mode_battery_saving_description">WLAN en mobiele netwerken gebruiken om locatie te bepalen</string>
+    <string name="location_neighborhood_level">Toestaan dat anonieme locatiegegevens worden verzonden naar Google. Ook toestaan dat toegestane apps bronnen zoals mobiele en WLAN-netwerken gebruiken om ongeveer uw locatie te bepalen.</string>
+    <string name="location_neighborhood_level_wifi">Locatie wordt bepaald via WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Tijd WLAN aan</string>
+    <string name="bluetooth_on_time">Tijd WLAN aan</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN is actief</string>
+    <string name="usage_type_data_wifi_send">WLAN-gegevens verzonden</string>
+    <string name="usage_type_data_wifi_recv">WLAN-gegevens ontvangen</string>
+    <string name="battery_action_wifi">WLAN-instellingen</string>
+    <string name="battery_desc_wifi">Batterij gebruikt door WLAN</string>
+    <string name="battery_sugg_wifi">WLAN uitschakelen wanneer u dit niet gebruikt of wanneer dit niet beschikbaar is</string>
+    <string name="gadget_toggle_wifi">WLAN-instelling bijwerken</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Op de servers van Google back-ups maken voor appdata, WLAN-wachtwoorden en andere instellingen</string>
+    <string name="backup_erase_dialog_message">Weet u zeker dat u het maken van back-ups van uw WLAN-wachtwoorden, favorieten, andere instellingen en appdata wilt stoppen en alle kopieën op Google-servers wilt wissen?</string>
+    <string name="wifi_setup_title">WLAN-instelling</string>
+    <string name="wifi_setup_title_editing_network">Verbinding maken met WLAN-netwerk %s</string>
+    <string name="wifi_setup_title_connecting_network">Verbinding maken met WLAN-netwerk %s...</string>
+    <string name="wifi_setup_title_connected_network">Verbonden met WLAN-netwerk %s</string>
+    <string name="wifi_setup_eap_not_supported">U kunt een WLAN-verbinding van het type EAP niet configureren tijdens het instellen. U kunt dit na het instellen doen via Instellingen > Draadloos en netwerken.</string>
+    <string name="wifi_setup_description_connected">Raak <b>Volgende</b>" aan om door te gaan met de configuratie.
+
+Raak "<b>Vorige</b> aan om verbinding te maken met een ander WLAN-netwerk.</string>
+    <string name="data_usage_menu_show_wifi">WLAN-gebruik weergeven</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-datalimiet instellen</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Als u het gebruik van mobiele achtergronddata beperkt, werken sommige apps en services niet, tenzij u bent verbonden met een WLAN-netwerk.</string>
+    <string name="data_usage_restrict_background_multiuser">"Als u mobiel gegevensgebruik op de achtergrond beperkt, werken sommige apps en services niet, tenzij u verbonden bent met een wifi-netwerk.
+
+
+
+Deze instelling is van invloed op alle gebruikers van deze telefoon."</string>
+    <string name="data_usage_metered_body">Selecteer de WLAN-netwerken die mobiele hotspots zijn. Het gebruik van deze netwerken door op de achtergrond werkende apps kan worden beperkt. Apps kunnen ook waarschuwen voordat deze netwerken worden gebruikt voor grote downloads.</string>
+    <string name="data_usage_metered_wifi">WLAN-netwerken</string>
+    <string name="data_usage_metered_wifi_disabled">Schakel WLAN in om mobiele hotspots te selecteren.</string>
+    <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers te maken. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, een achtergrond, enzovoort. Gebruikers kunnen ook tabletinstellingen aanpassen, zoals wifi, die effect hebben op alle gebruikers.
+
+
+
+Nadat u een nieuwe gebruiker heeft gemaakt, moet die persoon een instellingsproces volgen.
+
+
+
+Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen accepteren."</string>
+    <string name="restriction_wifi_config_title">WLAN en mobiel</string>
+    <string name="restriction_wifi_config_summary">Aanpassing van mobiele en WLAN-instellingen toestaan</string>
+    <string name="ct_wifi_connected_text">WLAN-verb. met China Telecom</string>
+    <string name="cw_network_priority">WLAN-voorrang China Telecom</string>
+    <string name="cw_network_priority_summary">WLAN-netwerken van China Telecom krijgen voorrang boven andere WLAN-netwerken waarmee verbinding kan worden gemaakt</string>
+    <string name="data_traffic_disabled_text">Kan geen verbinding maken met WLAN-netwerken van China Telecom omdat dataverkeer is uitgeschakeld. Dataverkeer nu inschakelen?</string>
+    <string name="location_based_wifi">WLAN op locatie</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatisch verbinding maken met WLAN-hotspot van AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Auto-verb. WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">WLAN-bellen</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN-certificaat wijzigen</string>
+    <string name="wifi_p2p_settings">Instellingen van WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Beveiligd met WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Beveiligd met WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"U kunt uw apparaat gebruiken als een Mobiele Hotspot. Hiermee kunnen andere apparaten (maximaal 10) verbinding met uw apparaat maken via een WLAN-netwerk. De verbonden apparaten hebben toegang tot het internet Internet via de mobiele netwerkverbinding van uw telefoon. Mobiele Hotspot gebruikt mobiel gegevensverkeer en het gebruik kan leiden tot extra kosten.
+
+Mobiele Hotspot verbruikt meer energie. Sluit uw apparaat aan op het lichtnet voor langdurig gebruik."</string>
+    <string name="wifi_tether_settings_subtext">Draagbare WLAN-hotspot instellen en beheren</string>
+    <string name="wifi_tether_settings_text">Instellingen draagbare WLAN-hotspot</string>
+    <string name="wifi_wps_category_title">WLAN-netwerk instellen</string>
+    <string name="cw_network_notification">CT WLAN-melding inschakelen</string>
+    <string name="stamina_xssm_summary">Hiermee worden mobiele data en WLAN uitgeschakeld wanneer het scherm uit is</string>
+    <string name="tethering_no_sim_warning_txt">Plaats een SIM-kaart om de dataverbinding van uw telefoon te delen met andere apparaten waarop Mobiele WLAN-HotSpot of USB-tethering wordt gebruikt voor internettoegang.</string>
+    <string name="wifi_offload_checkbox_summary">Vertel me of WLAN beschikbaar is wanneer ik een app open</string>
+    <string name="wifi_offload_checkbox_title">WLAN pop-ups weergeven</string>
+    <string name="wifi_offload_notify_available_networks">WLAN-meldingen</string>
+    <string name="wifi_offload_notify_available_networks_summary">Meld het me wanneer er een WLAN-netwerk beschikbaar is</string>
+    <string name="wifi_offload_option_title">Beschikbare WLAN-netwerken</string>
+</resources>

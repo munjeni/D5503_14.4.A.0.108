@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Teilnehmer an Telefonkonferenz</string>
+    <string name="add_fdn_contact">Kontakt mit fester Rufnummer hinzufügen</string>
+    <string name="delete_fdn_contact">Kontakt mit fester Rufnummer löschen</string>
+</resources>

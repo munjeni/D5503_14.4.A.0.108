@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekotilan ohjaustoiminto</string>
+    <string name="dont_ask_me_again_txt">Älä kysy minulta uudelleen</string>
+    <string name="description_msg_txt">"Kun näyttö on sammutettu, Wi-Fi ja mobiilidata poistetaan tilapäisesti käytöstä, ja useimmat sovellukset eivät ole käytettävissä. Voit edelleen vastaanottaa puheluja, teksti-/multimediaviestejä ja Sony™-kalenterin ilmoituksia ja Sony™-hälytyksiä. Musiikkisoitin ja FM-radio toimivat, ja keskeneräiset lataukset viimeistellään.
+
+Kun näyttö on päällä, puhelin toimii normaalisti.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kun näyttö on sammutettuna, Wi-Fi ja mobiilidata poistetaan tilapäisesti käytöstä, eivätkä useimmat sovellukset ole käytössä. Saat edelleen teksti- ja multimediaviestejä, Sony™-kalenteri-ilmoituksia sekä Sony™-hälytyssignaaleja. Musiikkisoitin ja FM-radio toimivat, ja käynnissä olevat lataukset tehdään loppuun.
+
+Kun näyttö on päällä, laite toimii normaalisti."</string>
+    <string name="description_msg_no_telephony_txt">"Kun näyttö on sammutettuna, Wi-Fi poistetaan tilapäisesti käytöstä, eivätkä useimmat sovellukset ole käytössä. Saat edelleen Sony™-kalenteri-ilmoituksia sekä Sony™-hälytyssignaaleja. Musiikkisoitin ja FM-radio toimivat, ja käynnissä olevat lataukset tehdään loppuun.
+
+Kun näyttö on päällä, laite toimii normaalisti"</string>
+    <string name="description_title_txt">Huomautus!</string>
+    <string name="low_battery_mode_description_msg_txt">"Ota akkuvirran säästötila käyttöön, jotta paljon virtaa kuluttavat toiminnot ja asetukset poistetaan käytöstä, kun akun varaus on ennalta määritetyn tason alapuolella. Voit muuttaa asetuksia napauttamalla Akkuvirran säästötila.
+"</string>
+    <string name="activate_txt">Aktivoi</string>
+    <string name="cancel_txt">Peruuta</string>
+    <string name="xssm_blocker_detector_title">Virranhallintavihje</string>
+    <string name="xssm_blocker_detector_msg">%s estää STAMINA-tilaa säästämästä virtaa valmiustilassa</string>
+    <string name="xssm_blocker_detector_long_msg">Jos käytät tätä sovellusta usein, älä huomioi tätä varoitusta. Jos et, poista sovelluksen asennus tai lopeta sovellus.</string>
+    <string name="xssm_blocker_detector_ignore">Selvä. Älä näytä uudelleen.</string>
+    <string name="network_detector_msg">%s lähettää ja vastaanottaa tietoja, kun näyttö on sammutettuna, ja tyhjentää akkua tavallista nopeammin.</string>
+    <string name="network_detector_long_msg">Sen asennuksen poistaminen saattaa parantaa laitteen suorituskykyä ja pidentää akun käyttöikää.</string>
+    <string name="wakelock_detector_msg">Sovellusta %s ei ole käytetty moneen viikkoon.</string>
+    <string name="wakelock_detector_long_msg">Se saattaa herättää laitteen valmiustilasta. Sen asennuksen poistaminen saattaa parantaa laitteen suorituskykyä ja pidentää akun käyttöikää.</string>
+    <string name="notification_title_xssm">Virranhallintavihje</string>
+    <string name="notification_text_xssm">Ota STAMINA-tila käyttöön</string>
+    <string name="notification_descr_xssm">Laitteesi on usein valmiustilassa. Akun varaus kestää pidempään, jos aktivoit STAMINA-tilan.</string>
+    <string name="notification_dont_show_again">Selvä. Älä näytä uudelleen.</string>
+    <string name="notification_title_ps">Virranhallintavihje</string>
+    <string name="notification_text_ps">Ota akkuvirran säästötila käyttöön</string>
+    <string name="notification_descr_ps">Akkuvirran säästötilassa akkuvirtaa voidaan säästää esimerkiksi poistamalla Wi-Fi käytöstä tai vähentämällä näytön kirkkautta, kun akun varaus on vähissä.</string>
+    <string name="notification_title_lbw">Virranhallintavihje</string>
+    <string name="notification_text_lbw">Ota sijaintipohjainen Wi-Fi käyttöön</string>
+    <string name="notification_descr_lbw">Wi-Fi on käytössä, mutta sitä ei ole vähään aikaan käytetty. Säästä virtaa ottamalla sijaintipohjainen Wi-Fi käyttöön.</string>
+    <string name="unused_application_title">Virranhallintavihje</string>
+    <string name="unused_application_msg">Kohdetta %s ei ole käytetty vähään aikaan</string>
+    <string name="unused_application_long_msg">Jos haluat säilyttää tämän sovelluksen, ohita tämä varoitus. Jos et, poista sovelluksen asennus.</string>
+    <string name="unused_application_ignore">Selvä. Älä näytä uudelleen.</string>
+    <string name="drain_dialog_title_txt">Akku ei lataudu</string>
+    <string name="drain_dialog_text_usb_txt">Liitetty virtalähde ei riitä. Akkuvirtaa kuluu lataamista enemmän. Vaihda verkkovirtalaturiin.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Liitetty virtalähde ei riitä. Akkuvirtaa kuluu lataamista enemmän. Minimoi laitteen käyttö ladattaessa.</string>
+    <string name="extend_battery_tip_dialog_headar">Virranhallintavihje</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi on käytössä, mutta sitä ei ole käytetty vähään aikaan. Voit säästää virtaa aktivoimalla sijaintipohjaisen Wi-Fi-verkon. Määritetäänkö sijaintipohjaisen Wi-Fi-verkon asetukset?</string>
+    <string name="low_battery_mode_tip_dialog">Kun akkuvirtaa on vähän, akkuvirran säästötilan käyttö voi lisätä akun käyttöaikaa esim. siten, että Wi-Fi poistetaan käytöstä tai näytön kirkkautta vähennetään. Määritetäänkö akkuvirran säästötilan asetukset?</string>
+    <string name="stamina_mode_tip_dialog">Laite on usein valmiustilassa. Voit lisätä akun kestoa aktivoimalla STAMINA-tilan. Määritetäänkö STAMINA-tilan asetukset?</string>
+    <string name="bad_app_notification">Seuraava sovellus käyttää akkua runsaasti:</string>
+    <string name="bad_standby_app_dialog">%s estää STAMINA-tilaa säästämästä virtaa valmiustilassa. Jos käytät tätä sovellusta usein, ohita tämä varoitus. Jos et, napauta Sovelluksen tiedot -painiketta ja poista sovelluksen asennus tai pakota sen lopetus.</string>
+    <string name="ignore_dialog_action">Ohita</string>
+    <string name="app_info_dialog_action">Sovelluksen tiedot</string>
+    <string name="stamina_activation_notification">STAMINA-tila aktivoitu</string>
+    <string name="lowbattery_trigger_level_notification">Akussa virtaa alle %d%%</string>
+    <string name="lowbattery_activated_notification">Akkuvirran säästötila aktivoitu</string>
+    <string name="app_not_used_notification">Sovellusta ei ole käytetty vähään aikaan:</string>
+    <string name="app_not_used_tip_dialog">Sovellusta %s ei ole käytetty vähään aikaan. Suosittelemme, että säästät virtaa poistamalla sovelluksen asennuksen.</string>
+    <string name="no_action_dialog">Ei</string>
+    <string name="yes_action_dialog">Kyllä</string>
+    <string name="widget_remaining_battery_time">Arvioitu akun käyttöaika</string>
+    <string name="widget_name">STAMINA-tila</string>
+</resources>

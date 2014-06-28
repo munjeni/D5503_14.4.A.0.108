@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">A menos que utilice WLAN, ya no podrá usar Internet, correo electrónico u otras aplicaciones que necesiten una conexión de datos. ¿Desea desactivar la conexión de datos móviles?</string>
+    <string name="sip_call_options_wifi_only_title">Usar la llamada por Internet (sólo WLAN)</string>
+    <string name="registration_status_no_wifi_data">Se detuvo el registro de la cuenta porque no hay conexión WLAN</string>
+    <string name="no_wifi_available_title">No hay conexión WLAN</string>
+    <string name="no_wifi_available">Debes estar conectado a las redes de WLAN para hacer llamadas por Internet (usa las Configuraciones de red e inalámbricas &amp;amp)</string>
+</resources>

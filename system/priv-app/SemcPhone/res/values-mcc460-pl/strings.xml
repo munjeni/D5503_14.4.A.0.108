@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Jeżeli nie używasz sieci WLAN, nie będzie można korzystać z Internetu, poczty e-mail ani innych aplikacji, które wymagają połączenia transmisji danych. Wyłączyć komórkowe połączenie transmisji danych?</string>
+    <string name="sip_call_options_wifi_only_title">Użyj połączeń przez internet (tylko WLAN)</string>
+    <string name="registration_status_no_wifi_data">Brak połączenia WLAN. Nie można zarejestrować konta.</string>
+    <string name="no_wifi_available_title">Brak połączenia WLAN</string>
+    <string name="no_wifi_available">Połączenia przez internet wymagają nawiązania połączenia z siecią WLAN (użyj ustawień sieci zwykłych i bezprzewodowych)</string>
+</resources>

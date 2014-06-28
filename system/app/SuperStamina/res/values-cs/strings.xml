@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ovladač eko-režimu</string>
+    <string name="dont_ask_me_again_txt">Příště již nezobrazovat dotaz</string>
+    <string name="description_msg_txt">"Je-li obrazovka vypnuta, připojení Wi-Fi a mobilní data se dočasně zakáží a většina aplikací bude neaktivních. Bude stále možné přijímat telefonní hovory, zprávy SMS a MMS, oznámení kalendáře Sony™ a signály budíku Sony™ . Přehrávač hudby a rádio FM budou pracovat a probíhající stahování a odesílání se budou moci dokončit.
+
+Je-li obrazovka zapnuta, telefon pracuje normálně.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Je-li obrazovka vypnuta, připojení Wi-Fi a mobilní data se dočasně zakáží a většina aplikací bude neaktivních. Bude stále možné přijímat zprávy SMS a MMS, oznámení kalendáře Sony™ a signály budíku Sony™ . Přehrávač hudby a rádio FM budou pracovat a probíhající stahování a odesílání se budou moci dokončit.
+
+Je-li obrazovka zapnuta, zařízení pracuje normálně."</string>
+    <string name="description_msg_no_telephony_txt">"Je-li obrazovka vypnuta, připojení Wi-Fi se dočasně vypne a většina aplikací nebude aktivní. Budou však stále fungovat oznámení kalendáře Sony™ a signály budíku Sony™ . Přehrávač hudby a rádio FM budou pracovat a probíhající stahování a odesílání se budou moci dokončit.
+
+Je-li obrazovka zapnuta, zařízení pracuje normálně."</string>
+    <string name="description_title_txt">Poznámka</string>
+    <string name="low_battery_mode_description_msg_txt">"Je-li povolen režim slabé baterie, vypnou se při poklesu stavu baterie pod nastavenou hranici všechny funkce náročné na energii. Nastavení změníte ťuknutím na volbu Režim slabé baterie.
+"</string>
+    <string name="activate_txt">Aktivovat</string>
+    <string name="cancel_txt">Zrušit</string>
+    <string name="xssm_blocker_detector_title">Tip pro správu napájení</string>
+    <string name="xssm_blocker_detector_msg">%s brání režimu STAMINA šetřit energii v pohotovostním režimu</string>
+    <string name="xssm_blocker_detector_long_msg">Pokud tuto aplikaci používáte často, toto upozornění ignorujte. Pokud ne, aplikaci odinstalujte nebo vynuťte její ukončení.</string>
+    <string name="xssm_blocker_detector_ignore">Rozumím, již nezobrazovat</string>
+    <string name="network_detector_msg">Aplikace %s odesílá a přijímá data během vypnutí obrazovky a způsobuje rychlejší vybití baterie.</string>
+    <string name="network_detector_long_msg">Její odinstalace může zlepšit výkon zařízení a prodloužit životnost baterie.</string>
+    <string name="wakelock_detector_msg">Aplikace %s nebyla několik týdnů používána.</string>
+    <string name="wakelock_detector_long_msg">Může vzbudit zařízení z pohotovostního režimu. Její odinstalace může zlepšit výkon zařízení a prodloužit životnost baterie.</string>
+    <string name="notification_title_xssm">Tip pro správu napájení</string>
+    <string name="notification_text_xssm">Aktivní režim STAMINA</string>
+    <string name="notification_descr_xssm">Vaše zařízení je často v pohotovostním režimu. Aktivací režimu STAMINA prodloužíte dobu provozu na baterie.</string>
+    <string name="notification_dont_show_again">Rozumím, již nezobrazovat</string>
+    <string name="notification_title_ps">Tip pro správu napájení</string>
+    <string name="notification_text_ps">Aktivovat režim slabé baterie</string>
+    <string name="notification_descr_ps">Režim slabé baterie může prodloužit dobu provozu například vypnutím Wi-Fi nebo snížením jasu obrazovky při slabé baterii.</string>
+    <string name="notification_title_lbw">Tip pro správu napájení</string>
+    <string name="notification_text_lbw">Aktivovat Wi-Fi podle místa</string>
+    <string name="notification_descr_lbw">Připojení Wi-Fi je zapnuto, ale nebylo chvíli využíváno. Aktivací funkce Wi-Fi podle místa můžete šetřit energii.</string>
+    <string name="unused_application_title">Tip pro správu napájení</string>
+    <string name="unused_application_msg">Aplikace %s nebyla nějakou dobu používána</string>
+    <string name="unused_application_long_msg">Chcete-li tuto aplikaci zachovat, toto upozornění ignorujte. Pokud ne, aplikaci odinstalujte.</string>
+    <string name="unused_application_ignore">Rozumím, již nezobrazovat</string>
+    <string name="drain_dialog_title_txt">Baterie se nenabíjí</string>
+    <string name="drain_dialog_text_usb_txt">Připojený zdroj napájení není dostatečný. Baterie se rychleji vybíjí, než nabíjí. Vyměňte nabíječku.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Připojený zdroj napájení není dostatečný. Baterie se rychleji vybíjí, než nabíjí. Minimalizujte použití zařízení během nabíjení.</string>
+    <string name="extend_battery_tip_dialog_headar">Tip pro správu napájení</string>
+    <string name="location_based_wifi_tip_dialog">Síť Wi-Fi je zapnutá, ale nebyla delší dobu používána. Můžete ušetřit kapacitu baterie aktivací funkce Wi-Fi podle umístění. Chcete funkci Wi-Fi zapnout?</string>
+    <string name="low_battery_mode_tip_dialog">Režim slabé baterie může prodloužit výdrž například vypnutím sítě Wi-Fi nebo snížením jasu obrazovky při slabé baterii. Chcete nastavit režim slabé baterie?</string>
+    <string name="stamina_mode_tip_dialog">Vaše zařízení je často v pohotovostním režimu. Dobu provozu na baterie lze prodloužit aktivací režimu STAMINA. Chcete nastavit režim STAMINA?</string>
+    <string name="bad_app_notification">Tato aplikace příliš vyčerpává baterii:</string>
+    <string name="bad_standby_app_dialog">%s brání režimu STAMINA šetřit energii v pohotovostním režimu. Pokud tuto aplikaci používáte často, toto upozornění ignorujte. Pokud ne, aplikaci odinstalujte nebo vynuťte její ukončení.</string>
+    <string name="ignore_dialog_action">Ignorovat</string>
+    <string name="app_info_dialog_action">Informace o aplikaci</string>
+    <string name="stamina_activation_notification">Režim STAMINA byl aktivován.</string>
+    <string name="lowbattery_trigger_level_notification">Úroveň baterie je pod %d %%.</string>
+    <string name="lowbattery_activated_notification">Byl aktivován režim slabé baterie.</string>
+    <string name="app_not_used_notification">Tato aplikace nebyla chvíli používána:</string>
+    <string name="app_not_used_tip_dialog">Aplikace %s nebyla nějakou dobu používána. Doporučujeme ji odinstalovat, abyste ušetřili kapacitu baterie.</string>
+    <string name="no_action_dialog">Ne</string>
+    <string name="yes_action_dialog">Ano</string>
+    <string name="widget_remaining_battery_time">Odhadovaný čas baterie</string>
+    <string name="widget_name">Režim STAMINA</string>
+</resources>

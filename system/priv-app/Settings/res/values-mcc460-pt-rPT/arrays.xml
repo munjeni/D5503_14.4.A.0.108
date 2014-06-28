@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>localização aproximada</item>
+        <item>localização exata</item>
+        <item>GPS</item>
+        <item>vibrar</item>
+        <item>ler contactos</item>
+        <item>modificar os contactos</item>
+        <item>ler o registo de chamadas</item>
+        <item>modificar o registo de chamadas</item>
+        <item>ler calendário</item>
+        <item>modificar o calendário</item>
+        <item>procura de WLAN</item>
+        <item>notificação</item>
+        <item>procura celular</item>
+        <item>ligar para telefone</item>
+        <item>ler SMS</item>
+        <item>escrever SMS</item>
+        <item>receber SMS</item>
+        <item>receber SMS de emergência</item>
+        <item>receber MMS</item>
+        <item>receber push WAP</item>
+        <item>enviar SMS</item>
+        <item>ler SMS ICC</item>
+        <item>escrever SMS ICC</item>
+        <item>modificar as definições</item>
+        <item>desenhe na parte superior</item>
+        <item>aceder às notificações</item>
+        <item>câmara</item>
+        <item>gravar áudio</item>
+        <item>reproduzir áudio</item>
+        <item>ler área de transferência</item>
+        <item>modificar área de transferência</item>
+        <item>botões multimédia</item>
+        <item>orientação do áudio</item>
+        <item>volume principal</item>
+        <item>volume de voz</item>
+        <item>volume de toque</item>
+        <item>volume de multimédia</item>
+        <item>volume de alarme</item>
+        <item>volume de notificação</item>
+        <item>volume de Bluetooth</item>
+        <item>Manter ativo</item>
+        <item>monitorizar localização</item>
+        <item>monitorizar localização de potência elevada</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler registo de chamadas</item>
+        <item>Modificar o registo de chamadas</item>
+        <item>Ler calendário</item>
+        <item>Modificar o calendário</item>
+        <item>Localização</item>
+        <item>Publicar notificação</item>
+        <item>Localização</item>
+        <item>Ligar para telefone</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Receber SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS/MMS</item>
+        <item>Modificar as definições</item>
+        <item>Desenhe na parte superior</item>
+        <item>Aceder às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar áudio</item>
+        <item>Reproduzir áudio</item>
+        <item>Ler área de transferência</item>
+        <item>Modificar área de transferência</item>
+        <item>Botões multimédia</item>
+        <item>Orientação do áudio</item>
+        <item>Volume principal</item>
+        <item>Volume da voz</item>
+        <item>Volume do toque</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter ativo</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trình điều khiển chế độ tiết kiệm</string>
+    <string name="dont_ask_me_again_txt">Không hỏi lại tôi</string>
+    <string name="description_msg_txt">"Khi màn hình tắt, Wi-Fi và dữ liệu di động sẽ tạm thời bị vô hiệu hoá và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được các cuộc gọi thoại, tin nhắn SMS/MMS cũng như âm báo thức và thông báo lịch Sony™. Trình phát nhạc và đài FM sẽ hoạt động và các quá trình tải xuống và tải lên đang diễn ra sẽ được phép hoàn tất.
+
+Khi màn hình được bật, điện thoại của bạn sẽ hoạt động bình thường.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Khi màn hình tắt, Wi-Fi và dữ liệu di động sẽ tạm thời bị vô hiệu hoá, và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được tin nhắn SMS/MMS, thông báo lịch của Sony™ và tín hiệu báo thức của Sony™. Trình phát nhạc và đài FM sẽ hoạt động, đồng thời các bản tải xuống và tải lên đang diễn ra sẽ được phép hoàn thành.
+
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường."</string>
+    <string name="description_msg_no_telephony_txt">"Khi màn hình tắt, Wi-Fi sẽ tạm thời bị vô hiệu hoá, và hầu hết các ứng dụng sẽ không hoạt động. Bạn sẽ vẫn nhận được thông báo lịch của Sony™ và tín hiệu báo thức của Sony™. Trình phát nhạc và đài FM sẽ hoạt động, đồng thời các bản tải xuống và tải lên đang diễn ra sẽ được phép hoàn thành.
+
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường."</string>
+    <string name="description_title_txt">Lưu ý!</string>
+    <string name="low_battery_mode_description_msg_txt">"Bật chế độ pin yếu để tắt các tính năng và cài đặt tiêu tốn năng lượng khi pin ở dưới mức đặt trước. Nhấn vào chế độ pin Yếu để thay đổi cài đặt.
+"</string>
+    <string name="activate_txt">Kích hoạt</string>
+    <string name="cancel_txt">Huỷ</string>
+    <string name="xssm_blocker_detector_title">Mẹo quản lý nguồn điện</string>
+    <string name="xssm_blocker_detector_msg">%s sẽ ngăn chế độ STAMINA nhằm tiết kiệm pin ở chế độ chờ</string>
+    <string name="xssm_blocker_detector_long_msg">Nếu bạn thường xuyên sử dụng ứng dụng này, hãy bỏ qua cảnh báo này. Nếu bạn không thường xuyên sử dụng ứng dụng này thì hãy gỡ cài đặt hoặc buộc dừng ứng dụng này.</string>
+    <string name="xssm_blocker_detector_ignore">Đã hiểu. Không hiển thị lại.</string>
+    <string name="network_detector_msg">%s đang gửi và nhận dữ liệu khi màn hình tắt và khiến pin nhanh hết hơn.</string>
+    <string name="network_detector_long_msg">Gỡ cài đặt ứng dụng này có thể giúp cải thiện hiệu suất thiết bị và tăng tuổi thọ pin.</string>
+    <string name="wakelock_detector_msg">%s đã không được sử dụng trong vài tuần.</string>
+    <string name="wakelock_detector_long_msg">Ứng dụng này có thể đánh thức thiết bị từ chế độ chờ. Gỡ cài đặt ứng dụng này có thể giúp cải thiện hiệu suất thiết bị và tăng tuổi thọ pin.</string>
+    <string name="notification_title_xssm">Mẹo quản lý nguồn điện</string>
+    <string name="notification_text_xssm">Kích hoạt chế độ STAMINA</string>
+    <string name="notification_descr_xssm">Thiết bị của bạn thường ở chế độ chờ. Kéo dài thời gian của pin bằng cách kích hoạt chế độ STAMINA.</string>
+    <string name="notification_dont_show_again">Đã hiểu. Không hiển thị lại.</string>
+    <string name="notification_title_ps">Mẹo quản lý nguồn điện</string>
+    <string name="notification_text_ps">Kích hoạt Chế độ pin thấp</string>
+    <string name="notification_descr_ps">"Chế độ pin thấp có thể  kéo dài tuổi thọ pin bằng cách tắt Wi-Fi hoặc giảm độ sáng màn hình khi pin thấp."</string>
+    <string name="notification_title_lbw">Mẹo quản lý nguồn điện</string>
+    <string name="notification_text_lbw">Kích hoạt Wi-Fi dựa trên vị trí</string>
+    <string name="notification_descr_lbw">Wi-F đã bật nhưng chưa được sử dụng trong một thời gian. Tiết kiệm điện bằng cách kích hoạt Wi-Fi dựa trên vị trí.</string>
+    <string name="unused_application_title">Mẹo quản lý năng lượng</string>
+    <string name="unused_application_msg">%s không được sử dụng trong một thời gian</string>
+    <string name="unused_application_long_msg">Nếu bạn muốn giữ ứng dụng này, hãy bỏ qua cảnh báo trên. Nếu không, hãy gỡ cài đặt ứng dụng.</string>
+    <string name="unused_application_ignore">Tôi đã hiểu. Đừng hiển thị lại.</string>
+    <string name="drain_dialog_title_txt">Pin không sạc</string>
+    <string name="drain_dialog_text_usb_txt">Nguồn điện đã kết nối không đủ. Pin đang phóng điện nhanh hơn sạc. Vui lòng chuyển sang bộ sạc AC.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Nguồn điện đã kết nối không đủ. Pin đang phóng điện nhanh hơn sạc. Hãy giảm thiểu mức sử dụng thiết bị trong khi sạc.</string>
+    <string name="extend_battery_tip_dialog_headar">Mẹo quản lý điện</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi bật nhưng không được sử dụng một lúc. Bạn có thể tiết kiệm điện bằng cách kích hoạt Wi-Fi dựa trên Vị trí. Bạn muốn thiết lập Wi-Fi dựa trên Vị trí không?</string>
+    <string name="low_battery_mode_tip_dialog">Chế độ pin yếu có thể kéo dài tuổi thọ pin bằng cách như tắt Wi-Fi hoặc giảm độ sáng của màn hình khi pin yếu. Bạn muốn thiết lập chế độ pin Yếu không?</string>
+    <string name="stamina_mode_tip_dialog">Thiết bị của bạn thường ở chế độ chờ. Kéo dài tuổi thọ pin bằng cách kích hoạt chế độ STAMINA. Bạn muốn thiết lập chế độ STAMINA không?</string>
+    <string name="bad_app_notification">Ứng dụng sau đây làm cạn pin:</string>
+    <string name="bad_standby_app_dialog">%s ngăn chế độ STAMINA tiết kiệm điện ở chế độ chờ. Nếu bạn sử dụng ứng dụng này thường xuyên, hãy bỏ qua cảnh báo này. Nếu không, hãy nhấn nút thông tin Ứng dụng và gỡ cài đặt hoặc ngừng ứng dụng.</string>
+    <string name="ignore_dialog_action">Bỏ qua</string>
+    <string name="app_info_dialog_action">Thông tin ứng dụng</string>
+    <string name="stamina_activation_notification">Đã kích hoạt chế độ STAMINA</string>
+    <string name="lowbattery_trigger_level_notification">Mức pin dưới %d%%</string>
+    <string name="lowbattery_activated_notification">Đã kích hoạt chế độ pin yếu</string>
+    <string name="app_not_used_notification">Ứng dụng này không được s.dụng một lúc:</string>
+    <string name="app_not_used_tip_dialog">%s không được sử dụng trong một lúc. Chúng tôi khuyên bạn gỡ cài đặt ứng dụng để tiết kiệm điện.</string>
+    <string name="no_action_dialog">Không</string>
+    <string name="yes_action_dialog">Có</string>
+    <string name="widget_remaining_battery_time">Thời lượng pin dự kiến</string>
+    <string name="widget_name">Chế độ STAMINA</string>
+</resources>

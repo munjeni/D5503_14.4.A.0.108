@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dont_ask_me_again_txt">மீண்டும் என்னிடம் கேட்காதே</string>
+    <string name="description_msg_txt">"திரை அணைக்கப்பட்டிருக்கும்போது, Wi-Fi மற்றும் மொபைல் தரவு தற்காலிகமாக முடக்கப்படும், மேலும் பெரும்பாலான பயன்பாடுகளும் செயல்படாத நிலையில் இருக்கும். இருப்பினும் ஃபோன் அழைப்புகள், SMS/MMS செய்திகள் மற்றும் Sony™நாள்காட்டி அறிவிப்புகள் மற்றும் Sony™ அலாரம் சிக்னல்கள் ஆகியவை செயல்படும். மியூஸிக் பிளேயரும் FM ரேடியோவும் செயல்படும், செயல்பாட்டில் உள்ள பதிவேற்றங்களும் பதிவிறக்கங்களும் முடியும் வரை தொடர அனுமதிக்கப்படும்.
+
+ திரை இயக்கத்தில் இருக்கையில், ஃபோன் வழக்கம் போல செயல்படும்.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"திரை அணைக்கப்பட்டிருக்கும் போது, Wi-Fi மற்றும் மொபைல் தரவு ஆகியவை தற்காலிகமாக முடக்கப்படும், மேலும் பெரும்பாலான பயன்பாடுகள் செயலற்றதாகிவிடும். நீங்கள் இன்னமும் SMS/MMS செய்திகள், Sony™ நாள்காட்டி அறிவிப்புகள் மற்றும் Sony™ அலரும் அறிவிப்புக்குறிகளைப் பெறுவீர்கள். மீடியா பிளேயர் மற்றும் FM ரேடியோ ஆகியவை வேலை செய்யும், மற்றும் செயல்பாட்டிலுள்ள இறக்கங்கள் மற்றும் பதிவேற்றங்கள் நிறைவடைய அனுமதிக்கப்படும்.
+
+திரை இயக்கப்பட்டிருக்கும் போது, உங்கள் சாதனம் இயல்பாகவே வேலை செய்யும்."</string>
+    <string name="description_msg_no_telephony_txt">"திரை அணைக்கப்பட்டிருக்கும்போது, Wi-Fi தற்காலிகமாக முடக்கப்படலாம், மேலும் பெரும்பாலான பயன்பாடுகள் செயலற்று இருக்கும். நீங்கள் இன்னமும் Sony™ நாள்காட்டி அறிவிப்புகள் மற்றும் Sony™ அலாரம் சிக்னல்களைப் பெறுவீர்கள். மீடியா பிளேயர் மற்றும் FM ரேடியோ ஆகியவை வேலை செய்யும், மற்றும் செயல்பாட்டிலுள்ள இறக்கங்கள் மற்றும் பதிவேற்றங்கள் நிறைவடைய அனுமதிக்கப்படும்.
+
+திரை இயக்கப்பட்டிருக்கும் போது, உங்கள் சாதனம் இயல்பாகவே வேலை செய்யும்."</string>
+    <string name="description_title_txt">குறிப்பு!</string>
+    <string name="low_battery_mode_description_msg_txt">"முன் அமைவு நிலைக்கு கீழே பேட்டரி இருக்கும்போது மின்திறன் உபயோகிக்கும் அம்சங்கள் மற்றும் அமைப்புகளை அணைக்க குறைவான பேட்டரி பயன்முறையை இயக்கவும். அமைப்புகளை மாற்றுவதற்கு குறைவான பேட்டரி பயன்முறையைத் தட்டவும்.
+"</string>
+    <string name="activate_txt">செயலாக்கு</string>
+    <string name="cancel_txt">ரத்து</string>
+    <string name="xssm_blocker_detector_title">மின். மேல. உதவிக்.</string>
+    <string name="xssm_blocker_detector_msg">%s காத்திரு நிலையில் மின்சக்தியை சேமிப்பதிலிருந்து STAMINA பயன்முறை தடுக்கிறது</string>
+    <string name="xssm_blocker_detector_long_msg">இந்தப் பயன்பாட்டை அடிக்கடி பயன்படுத்தினால், இந்த எச்சரிக்கையை தவிர்த்துவிடுங்கள். இல்லையெனில், பயன்பாட்டை நிறுவல் நீக்கவும் அல்லது கட்டாயமாக நிறுத்திவிடவும்.</string>
+    <string name="xssm_blocker_detector_ignore">புரிந்தது. மீண். காண். வேண்ட.</string>
+    <string name="network_detector_msg">%s ஆனது திரை அணைந்திருக்கும்போதும் தரவை அனுப்பிப் பெறுவதால், பேட்டரியை விரைவாக வடியச் செய்துவிடுகிறது.</string>
+    <string name="network_detector_long_msg">அதை நிறுவல்நீக்குவது சாதனத்தின் செயல்திறனை மேம்படுத்தி, பேட்டரி இயங்குநேரத்தை நீட்டிக்கிறது.</string>
+    <string name="wakelock_detector_msg">%s பல வாரங்களாகப் பயன்படுத்தப்படவில்லை.</string>
+    <string name="wakelock_detector_long_msg">இது சாதனத்தை காத்திருநிலை பயன்முறையிலிருந்து எழுப்பலாம். அதை நிறுவல்நீக்குவது சாதனத்தின் செயல்திறனை மேம்படுத்தி, பேட்டரி இயங்குநேரத்தை நீட்டிக்கிறது.</string>
+    <string name="notification_title_xssm">மின். மேல. உதவி.</string>
+    <string name="notification_text_xssm">STAMINA பயன்முறையை இயக்கு</string>
+    <string name="notification_descr_xssm">காத்திரு நிலையில் உங்கள் சாதனம் இருக்கலாம். STAMINA mode யை செயலாக்குவதன் மூலம் பேட்டரியை நீட்டிக்கவும்.</string>
+    <string name="notification_dont_show_again">புரிந்தது. மீண. கா. வேண்ட.</string>
+    <string name="notification_title_ps">மின். மேல. உதவி.</string>
+    <string name="notification_text_ps">குறைவான பேட்டரி பயன். இய.</string>
+    <string name="notification_descr_ps">பின்வருவதை மேற்கொள்ளும்போது குறைவான பேட்டரி பயன்முறையானது பேட்டரியில் ஆயுளை நீட்டிக்கும் எ.கா. பேட்டரி குறைவாக இருக்கும்போது Wi-Fi -ஐ அணைப்பது அல்லது திரை வெளிச்சத்தைக் குறைப்பது.</string>
+    <string name="notification_title_lbw">மின். மேல. உதவிக்.</string>
+    <string name="notification_text_lbw">இடம்-சார்ந்த Wi-Fi -ஐ செயல்படு.</string>
+    <string name="notification_descr_lbw">Wi-Fi இயக்கப்பட்டது ஆனால் சிறிதுநேரம் பயன்படுத்தப்படவில்லை. இடம்-சார்ந்த Wi-Fi -ஐ செயலாக்க மின்சக்தியை சேமிக்கவும்.</string>
+    <string name="unused_application_title">மின்சக். மேலாண். உ.குறிப்பு</string>
+    <string name="unused_application_msg">%s சிறிது நேரத்திற்குப் பயன்படுத்தப்படவில்லை</string>
+    <string name="unused_application_long_msg">நீங்கள் இந்த பயன்பாட்டைத் தொடர்ந்து பயன்படுத்த விரும்பினால், இந்த எச்சரிக்கையைப் புறக்கணிக்கவும். இல்லை எனில், பயன்பாட்டை நிறுவல்நீக்கவும்.</string>
+    <string name="unused_application_ignore">பெறப்பட்டது. மீண். காண்பிக்காதே.</string>
+    <string name="drain_dialog_title_txt">பேட்டரி மின்னேற்றம் செய்யவில்லை</string>
+    <string name="drain_dialog_text_usb_txt">இணைக்கப்பட்டுள்ள மின்சக்தி மூலம் போதுமானதாக இல்லை. பேட்டரி மின்னேற்றம் செய்வதை விட விரைவாக மின்னிறக்கம் செய்கிறது. தயவுசெய்து உங்கள் AC மின்னேற்றியை மாற்றவும்.</string>
+    <string name="drain_dialog_text_wallcharger_txt">இணைக்கப்பட்டுள்ள மின்சக்தி மூலம் போதுமானதாக இல்லை. பேட்டரி மின்னேற்றம் செய்வதை விட விரைவாக மின்னிறக்கம் செய்கிறது. மின்னேற்றம் செய்யும்போது உங்கள் சாதனப் பயன்பாட்டைக் குறைக்கவும்.</string>
+    <string name="extend_battery_tip_dialog_headar">மின்திறன் நிர்வாக உதவிக்குறிப்பு</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi இயக்கப்பட்டுள்ளது ஆனால் சிறிதுநேரம் பயன்படுத்தப்படவில்லை. இடம்-சார்ந்த Wi-Fi -ஐ இயக்குவதன் மூலம் நீங்கள் மின்திறனை சேமிக்கலாம். இடம்-சார்ந்த Wi-Fi -ஐ அமைக்க வேண்டுமா?</string>
+    <string name="low_battery_mode_tip_dialog">பேட்டரி குறைவாக இருக்கும்போது உ.ம். Wi-Fi -ஐ அணைத்தல் அல்லது திரை வெளிச்சத்தைக் குறைப்பது மூலமாக குறைவான பேட்டரி பயன்முறையானது பேட்டரி ஆயுளை அதிகப்படுத்தும். குறைவான பேட்டரி பயன்முறையை அமைக்கவா?</string>
+    <string name="stamina_mode_tip_dialog">உங்கள் சாதனம் அடிக்கடி காத்திருநிலை பயன்முறைக்கு செல்கிறது. STAMINA பயன்முறையை இயக்குவதன் மூலம் பேட்டரி ஆயுள் நேரத்தை அதிகப்படுத்தலாம். STAMINA பயன்முறையை அமைக்க வேண்டுமா?</string>
+    <string name="bad_app_notification">பின்வரும் பயன். பேட்டரி. குறைக்கி.:</string>
+    <string name="bad_standby_app_dialog">காத்திருநிலையில் மின்திறன் சேமிப்பதிலிருந்து %s-ஆனது STAMINA பயன்முறையைத் தடுக்கிறது. இந்த பயன்பாட்டை நீங்கள் அடிக்கடி பயன்படுத்தினால் இந்த எச்சரிக்கையை புறக்கணிக்கவும். இல்லையெனில், பயன்பாடு தகவல் பொத்தானைத் தட்டவும் மேலும் நிறுவல்நீக்கம் அல்லது பயன்பாட்டை கட்டாயப்படுத்தி நிறுத்தவோ செய்யவும்.</string>
+    <string name="ignore_dialog_action">தவிர்</string>
+    <string name="app_info_dialog_action">பயன்பா. தகவல்</string>
+    <string name="stamina_activation_notification">STAMINA பயன்மு. இயக்கப்ப.</string>
+    <string name="lowbattery_trigger_level_notification">பேட்டரி நிலை %d%% -க்கு குறை. உள்ள.</string>
+    <string name="lowbattery_activated_notification">குறை. பேட். பயன். இயக்கப்.</string>
+    <string name="app_not_used_notification">இந்த பயன். சில கால. பயன்படுத்த.:</string>
+    <string name="app_not_used_tip_dialog">%sசில காலமாகப் பயன்படுத்தப்படவில்லை. மின்திறனை சேமிப்பதற்காக பயன்பாட்டை நீங்கள் நிறுவல்நீக்குவதற்கு நாங்கள் பரிந்துரைக்கிறோம்.</string>
+    <string name="no_action_dialog">இல்லை</string>
+    <string name="yes_action_dialog">ஆம்</string>
+    <string name="widget_remaining_battery_time">கணக்கிடப்பட்ட பேட்டரி நேரம்</string>
+    <string name="widget_name">STAMINA பயன்முறை</string>
+</resources>

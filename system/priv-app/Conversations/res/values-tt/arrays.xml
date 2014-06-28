@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>Бүген</item>
+        <item>Кичә</item>
+        <item>Шимбә</item>
+        <item>Җомга</item>
+        <item>Пәнҗешәмбе</item>
+        <item>Чәршәмбе</item>
+        <item>Сишәмбе</item>
+        <item>Дүшәмбе</item>
+        <item>Якшәмбе</item>
+        <item>Бер атна элек</item>
+        <item>Ике атна элек</item>
+        <item>Бер ай элек</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 секунд</item>
+        <item>2 секунд</item>
+        <item>3 секунд</item>
+        <item>4 секунд</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Икенче...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>Сез кайда?</item>
+        <item>Сез кайда кадәр?</item>
+        <item>Ашыгыч! Тиз жавап бирәг.</item>
+        <item>Гафу итегез. Очырашуда.</item>
+        <item>Минәм ботәнесе әйбәт.</item>
+        <item>Мин өй юлында.</item>
+        <item>Сезнең белән аралашырбыз.</item>
+        <item>Мин монда булам</item>
+        <item>Тикшерегез шушыны!</item>
+    </string-array>
+</resources>

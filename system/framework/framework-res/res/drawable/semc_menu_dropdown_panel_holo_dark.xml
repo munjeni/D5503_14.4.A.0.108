@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_above_anchor="true" android:drawable="@drawable/semc_menu_dropdown_panel_up_holo_dark" />
+    <item android:drawable="@drawable/semc_menu_dropdown_panel_down_holo_dark" />
+</selector>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">ಗ್ಲೋಬಲ್ ಪೊಸಿಶನಿಂಗ್ ಸಿಸ್ಟಂ (GPS) ಅಥವಾ ಟವರ್‌ಗಳು ಮತ್ತ WLANನಂತಹ ನೆಟ್‌ವರ್ಕ್ ಸ್ಥಳ ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ನಿಖರವಾದ ಸ್ಥಳವನ್ನು ಪಡೆಯಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಈ ಸ್ಥಳ ಸೇವೆಗಳನ್ನು ಅಪ್ಲಿಯು ಬಳಸಲಾಗುವಂತೆ ಅವುಗಳನ್ನು ಆನ್ ಮಾಡಿರಬೇಕು ಮತ್ತು ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಲಭ್ಯವಿರಬೇಕು. ನೀವು ಎಲ್ಲಿದ್ದೀರೆಂದು ನಿರ್ಣಯಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಇದನ್ನು ಬಳಸಬಹುದು ಮತ್ತು ಹೆಚ್ಚುವರಿ ಬ್ಯಾಟರಿ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳಬಹುದು.</string>
+    <string name="permdesc_accessCoarseLocation">ನಿಮ್ಮ ಅಂದಾಜು ಸ್ಥಳವನ್ನು ಪಡೆಯಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಈ ಸ್ಥಳವನ್ನು ಸೆಲ್ ಟವರ್‌‌ಗಳು ಮತ್ತು WLAN ನಂತಹ ನೆಟ್‌ವರ್ಕ್ ಸ್ಥಳ ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಪಡೆದುಕೊಳ್ಳಲಾಗಿದೆ. ಈ ಸ್ಥಳ ಸೇವೆಗಳನ್ನು ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲಾಗುವಂತೆ ಅವುಗಳನ್ನು ಆನ್ ಮಾಡಬೇಕು ಮತ್ತು ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಲಭ್ಯವಿರಬೇಕು. ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಇದನ್ನು ನೀವು ಸುಮಾರಾಗಿ ಎಲ್ಲಿರುವಿರಿ ಎಂದು ನಿರ್ಣಯಿಸಲು ಬಳಸಬಹುದು.</string>
+    <string name="permlab_configureWifiDisplay">"WLAN  ಪ್ರದರ್ಶನಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"</string>
+    <string name="permdesc_configureWifiDisplay">ಕಾನ್ಫಿಗರ್ ಮಾಡಲು ಮತ್ತುWLAN ಪ್ರದರ್ಶನಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_controlWifiDisplay">WLAN ಪ್ರದರ್ಶನಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ</string>
+    <string name="permdesc_controlWifiDisplay">WLAN ಪ್ರದರ್ಶನಗಳ ಕಡಿಮೆ-ಮಟ್ಟದ ಲಕ್ಷಣಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_accessWifiState">WLAN ಸಂಪರ್ಕಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="permdesc_accessWifiState">WLAN ಸಕ್ರಿಯಗೊಂಡಿದೆಯೇ ಮತ್ತು ಸಂಪರ್ಕಿತ WLAN ಸಾಧನಗಳ ಹೆಸರು ಮುಂತಾದ, WLAN ನೆಟ್‌ವರ್ಕಿಂಗ್ ಕುರಿತು ಮಾಹಿತಿಯನ್ನು ವೀಕ್ಷಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_changeWifiState">WLANಗೆ ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ಸಂಪರ್ಕ ತೆಗೆಯಿರಿ</string>
+    <string name="permdesc_changeWifiState">WLAN ಪ್ರವೇಶ ಬಿಂದುಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಮತ್ತು ಅದರಿಂದ ಸಂಪರ್ಕ ತೆಗೆಯಲು ಮತ್ತು WLAN ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಗಾಗಿ ಸಾಧನದ ವಿನ್ಯಾಸದಲ್ಲಿ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN ಮಲ್ಟಿಕಾಸ್ಟ್ ಸ್ವೀಕಾರವನ್ನು ಅನುಮತಿಸಿ</string>
+    <string name="permdesc_changeWifiMulticastState">ನಿಮ್ಮ ಫೋನ್‌ಗೆ ಮಾತ್ರವೇ ಅಲ್ಲ, WLAN ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ ಮಲ್ಟಿಕಾಸ್ಟ್ ವಿಳಾಸಗಳನ್ನು ಬಳಸಿ ಎಲ್ಲ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸಿದ ಪ್ಯಾಕೆಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಮಲ್ಟಿಕಾಸ್ಟ್-ಅಲ್ಲದ ಮೋಡ್‌ಗಿಂತಲೂ ಹೆಚ್ಚು ಪವರ್ ಅನ್ನು ಇದು ಬಳಸುತ್ತದೆ.</string>
+    <string name="wifi_available_sign_in">WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸೈನ್ ಇನ್ ಆಗಿರಿ</string>
+    <string name="wifi_watchdog_network_disabled">WLANಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct ಆರಂಭಿಸಿ. ಇದು WLAN ಕ್ಲೈಂಟ್/ಹಾಟ್‌ಸ್ಪಾಟ್ ಅನ್ನು ಆಫ್ ಮಾಡುತ್ತದೆ.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct ಆನ್ ಆಗಿದೆ</string>
+    <string name="wifi_p2p_frequency_conflict_message">ಫೋನ್ %1$s ಗೆ ಸಂಪರ್ಕ ಹೊಂದಿರುವಾಗ ತಾತ್ಕಾಲಿಕವಾಗಿ WLANಯಿಂದ ಸಂಪರ್ಕ ತಪ್ಪಿರುತ್ತದೆ</string>
+    <string name="data_usage_wifi_limit_title">WLAN ಡೇಟಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದೆ</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN ಡೇಟಾ ಮಿತಿ ಮೀರಿದೆ</string>
+    <string name="policylab_disableWifi">WLANಗೆ ಪ್ರವೇಶ ನಿರ್ಬಂಧಿಸಿ</string>
+    <string name="policydesc_disableWifi">ಸಾಧನಕ್ಕೆ WLAN ಸಂಪರ್ಕಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</string>
+    <string name="wifi_disabled_notification_title">"WLAN  ಸಂಪರ್ಕವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
+    <string name="wifi_disabled_notification_message">"ಒಂದು ಭಧ್ರತಾ ನಿಯಮವು WLAN ಬಳಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN ರೋಮಿಂಗ್ ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN ನೆ.ವರ್ಕ್ ಸಂಪರ್ಕಿತಗೊಂಡಿದೆ. ಬಿಲ್ಲಿಂಗ್ ಮಾಹಿತಿಗೆ 10000 ಅಥವಾ ಸ್ಥಳಿ. ಸಂಗ್ರ. ಸಂಪರ್ಕಿಸಿ.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN ಸಂಪರ್ಕ</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">ನಿಮ್ಮನ್ನು China Telecomನ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ. ಬದಲಾವಣೆಗಳ ವಿವರಗಳಿಗೆ, ದಯವಿಟ್ಟು China Telecom ಗ್ರಾಹಕರ ಸೇವೆಯನ್ನು ಸಂಪರ್ಕಿಸಿ. ಮುಂದುವರಿಯುವುದೇ?</string>
+    <string name="wifi_nonconcurrency_message">WLAN ಕ್ಲೈಂಟ್ ಆರಂಭಿಸಿ. ಇದು WLAN Direct ಅನ್ನು ಸಂಪರ್ಕ ತೆಗೆಯುತ್ತದೆ.</string>
+    <string name="wifi_noncuncurrency_message">WLAN ಕ್ಲೈಂಟ್ ಆರಂಭಿಸಿ. ಇದು WLAN Direct ಅನ್ನು ಸಂಪರ್ಕ ತೆಗೆಯುತ್ತದೆ.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">ಯಾವುದೇ ಪ್ರಸ್ತುತ WLAN ಸಂಪರ್ಕವನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct ಅನ್ನು ಆರಂಭಿಸಿ. ಇದು WLAN ಸಂಪರ್ಕವನ್ನು ಸಂಪರ್ಕ ತೆಗೆಯುತ್ತದೆ.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">ಇದು ಯಾವುದೇ ಪ್ರಸ್ತುತ WLAN ಸಂಪರ್ಕವನ್ನು ಸಂಪರ್ಕ ತೆಗೆಯುತ್ತದೆ</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct ಅನ್ನು ಆರಂಭಿಸಿ. ಇದು WLAN ಸಂಪರ್ಕವನ್ನು ಸಂಪರ್ಕ ತೆಗೆಯುತ್ತದೆ.</string>
+    <string name="tethered_notification_message_wifi">WLAN ಮತ್ತೆ ಆನ್ ಮಾಡಲು Mobile HotSpot ಆನ್ ಮಾಡಿ</string>
+    <string name="tethered_notification_title_wifi">WLAN ಆಫ್ ಆಗಿದೆ</string>
+</resources>

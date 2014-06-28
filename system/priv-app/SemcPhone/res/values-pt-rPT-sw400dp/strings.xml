@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_emergency_enable_radio_dialog_title_txt">Chamada de emergência</string>
+    <string name="clh_large_manage_conference_participants">Participantes da chamada de conferência</string>
+    <string name="call_barring_settings">Definições de bloqueio de chamadas</string>
+    <string name="add_fdn_contact">Adicionar contacto de marcação fixa</string>
+</resources>

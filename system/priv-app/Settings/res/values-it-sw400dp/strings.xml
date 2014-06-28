@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Coda dati background</string>
+    <string name="auto_sync_text">Sincronizzazione automatica</string>
+    <string name="wifi_tether_settings_text">Impostazioni hotspot Wi-Fi portatile</string>
+</resources>

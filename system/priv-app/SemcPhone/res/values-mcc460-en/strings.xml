@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">You will be unable to use the Internet, email, map and other data services via mobile network. Continue?</string>
+</resources>

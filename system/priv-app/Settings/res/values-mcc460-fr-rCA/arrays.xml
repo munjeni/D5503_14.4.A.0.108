@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Position approximative</item>
+        <item>Position précise</item>
+        <item>GPS</item>
+        <item>Vibrer</item>
+        <item>Lire les contacts</item>
+        <item>Modifier les contacts</item>
+        <item>"Lire le journal d'appels"</item>
+        <item>"Modifier le journal d'appels"</item>
+        <item>"Lire l'agenda"</item>
+        <item>"Modifier l'agenda"</item>
+        <item>Balayage WLAN</item>
+        <item>Notification</item>
+        <item>Balayage cellulaire</item>
+        <item>Appeler téléphone</item>
+        <item>Lire les SMS</item>
+        <item>Écrire des SMS</item>
+        <item>recevoir des SMS</item>
+        <item>"Recevoir des SMS d'urgence"</item>
+        <item>Recevoir des MMS</item>
+        <item>Recevoir des messages WAP poussés</item>
+        <item>Envoyer des SMS</item>
+        <item>Lire des SMS ICC</item>
+        <item>Écrire des SMS ICC</item>
+        <item>Modifier les paramètres</item>
+        <item>Dessiner par-dessus</item>
+        <item>"Notifications d'accès"</item>
+        <item>Appareil-photo</item>
+        <item>"Enregistrer l'audio"</item>
+        <item>"Lire l'audio"</item>
+        <item>Lire le presse-papiers</item>
+        <item>Modifier le presse-papiers</item>
+        <item>boutons multimédias</item>
+        <item>priorité audio</item>
+        <item>volume général</item>
+        <item>volume de la voix</item>
+        <item>volume des sonneries</item>
+        <item>volume des contenus multimédias</item>
+        <item>volume des alarmes</item>
+        <item>volume des notifications</item>
+        <item>volume Bluetooth</item>
+        <item>maintenir activé</item>
+        <item>suivre la position</item>
+        <item>surveiller les lieux de grande puissance</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Position</item>
+        <item>Position</item>
+        <item>Position</item>
+        <item>Vibrer</item>
+        <item>Lire les contacts</item>
+        <item>Modifier les contacts</item>
+        <item>"Lire le journal d'appels"</item>
+        <item>"Modifier le journal d'appels"</item>
+        <item>"Lire l'agenda"</item>
+        <item>"Modifier l'agenda"</item>
+        <item>Position</item>
+        <item>Publier une notification</item>
+        <item>Position</item>
+        <item>Appeler téléphone</item>
+        <item>Lire les messages texte/MMS</item>
+        <item>Écrire des messages texte/MMS</item>
+        <item>Recevoir des SMS/MMS</item>
+        <item>Recevoir des SMS/MMS</item>
+        <item>Recevoir des SMS/MMS</item>
+        <item>Recevoir des SMS/MMS</item>
+        <item>Envoyer des SMS/MMS</item>
+        <item>Lire des messages texte/MMS</item>
+        <item>Écrire des messages texte/MMS</item>
+        <item>Modifier les paramètres</item>
+        <item>Dessiner par-dessus</item>
+        <item>"Notifications d'accès"</item>
+        <item>Appareil-photo</item>
+        <item>"Enregistrer l'audio"</item>
+        <item>"Lire l'audio"</item>
+        <item>Lire le presse-papiers</item>
+        <item>Modifier le presse-papiers</item>
+        <item>Boutons multimédias</item>
+        <item>Priorité audio</item>
+        <item>Volume général</item>
+        <item>Volume de la voix</item>
+        <item>Volume de la sonnerie</item>
+        <item>Volume des contenus multimédias</item>
+        <item>"Volume de l'alarme"</item>
+        <item>Volume des notifications</item>
+        <item>Volume Bluetooth</item>
+        <item>Maintenir activé</item>
+        <item>Lieu</item>
+        <item>Position</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

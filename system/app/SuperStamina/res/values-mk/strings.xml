@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контролер за еко-режим</string>
+    <string name="dont_ask_me_again_txt">Не прашувај ме повторно</string>
+    <string name="description_msg_txt">"Кога екранот е исклучен, Wi-Fi и мобилните податоци привремено ќе бидат исклучени, а најмногу апликации ќе бидат неактивни. Сe уште ќе добивате телефонски повици, SMS/MMS пораки и календарски известувања од Sony™ и сигнали за аларм од Sony™. Музичкиот плеер и FM радиото ќе работат, а преземањата и префрлањата ќе бидат дозволени да завршат.
+
+Кога екранот е вклучен, телефонот ќе функционира нормално.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Кога екранот ќе се исклучи, Wi-Fi и мобилните податоци привремено ќе се исклучат, а повеќето апликации ќе станат неактивни. Сѐ уште ќе примате SMS/MMS пораки, известувања од календарот на Sony™ и сигнали за алармот на Sony™. Музичкиот плеер и FM радиото ќе работат, а на тековните преземања и префрлања ќе им се дозволи да завршат.
+
+Кога екранот ќе се вклучи, уредот ќе функционира нормално."</string>
+    <string name="description_msg_no_telephony_txt">"Кога екранот ќе се исклучи, Wi-Fi привремено ќе се исклучи, а повеќето апликации ќе станат неактивни. Сѐ уште ќе примате известувања од календарот на Sony™ и сигнали од алармот на Sony™. Музичкиот плеер и FM-радиото ќе работат, а на тековните преземања и поставувања ќе им се дозволи да завршат.
+
+Кога екранот ќе се вклучи, уредот ќе функционира нормално."</string>
+    <string name="description_title_txt">Забелешка!</string>
+    <string name="low_battery_mode_description_msg_txt">"Активирајте режим на слаба батеријата заради исклучување на функциите и поставките што трошат енергија кога батеријата е под однапред поставеното ниво. Допрете Режим на слаба батерија за да ги измените поставките.
+"</string>
+    <string name="activate_txt">Активирај</string>
+    <string name="cancel_txt">Откажи</string>
+    <string name="xssm_blocker_detector_title">Совет за управ. со енерг.</string>
+    <string name="xssm_blocker_detector_msg">%s го спречува STAMINA-режимот да штеди енергија во режим на подготвеност</string>
+    <string name="xssm_blocker_detector_long_msg">Доколку често ја користите апликацијата, не му обрнувајте внимание на предупредувањето. Доколку не, деинсталирајте ја апликацијата или принудете излез.</string>
+    <string name="xssm_blocker_detector_ignore">Сфатив. Не го прикажувај повторно.</string>
+    <string name="network_detector_msg">%s испраќа и прима податоци додека екранот е исклучен и предизвикува побрзо празнење на батеријата.</string>
+    <string name="network_detector_long_msg">Со деинсталирање, ќе ја подобрите изведбата на уредот и ќе го продолжите времето на батеријата.</string>
+    <string name="wakelock_detector_msg">%s не се користи неколку седмици.</string>
+    <string name="wakelock_detector_long_msg">Може да го разбуди уредот од режимот на мирување. Со деинсталирање, ќе ја подобрите изведбата на уредот и ќе го продолжите времето на батеријата.</string>
+    <string name="notification_title_xssm">Совет за управ. со енерг.</string>
+    <string name="notification_text_xssm">Активирајте го STAMINA-режимот</string>
+    <string name="notification_descr_xssm">Уредот често е во режимот на подготвеност. Продолжете го времето на батеријата со активирање на STAMINA-режимот.</string>
+    <string name="notification_dont_show_again">Сфатив. Не го прикажувај повторно.</string>
+    <string name="notification_title_ps">Совет за управ. со енерг.</string>
+    <string name="notification_text_ps">Активирајте режим на слаба батерија</string>
+    <string name="notification_descr_ps">Режимот на слаба батерија може да ја продолжи трајноста на батеријата на пр. со исклучување на Wi-Fi или намалување на осветленоста на екранот кога батеријата е слаба.</string>
+    <string name="notification_title_lbw">Совет за управ. со енерг.</string>
+    <string name="notification_text_lbw">Активирај ја Wi-Fi на локацијата</string>
+    <string name="notification_descr_lbw">Wi-Fi е вклучена но извесно време не е користена. Заштедете енергија со активирање Wi-Fi на локацијата.</string>
+    <string name="unused_application_title">Совет за управув. со енергијата</string>
+    <string name="unused_application_msg">%s не е користено извесно време</string>
+    <string name="unused_application_long_msg">Доколку сакате да ја задржите апликацијата, игнорирајте го предупредувањето. Доколку не, деинсталирајте ја.</string>
+    <string name="unused_application_ignore">Јано е. Не го покажувај повторно.</string>
+    <string name="drain_dialog_title_txt">Батеријата не се полни</string>
+    <string name="drain_dialog_text_usb_txt">Поврзаниот извор на енергија не е доволен. Батеријата побрзо се празни отколку што се полни. Користете го стандардниот полнач.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Поврзаниот извор на енергија не е доволен. Батеријата побрзо се празни отколку што се полни. Намалете го користењето на уредот при полнење.</string>
+    <string name="extend_battery_tip_dialog_headar">Совет за управување со енергијата</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi е вклучена но не се користи извесно време. Може да заштедите енергија со активирање на Wi-Fi на локацијата. Да се постави Wi-Fi на локацијата?</string>
+    <string name="low_battery_mode_tip_dialog">Режимот на слаба батерија може да ја продолжи трајноста на батеријата со исклучување на Wi-Fi или намалување на светлината на екранот при слаба батерија. Да се постави режимот на слаба батерија?</string>
+    <string name="stamina_mode_tip_dialog">Уредот често е во режим на мирување. Продолжете го времето на батеријата со активирање на STAMINA-режимот. Да се постави STAMINA-режимот?</string>
+    <string name="bad_app_notification">Апликацијата ја празни батеријата:</string>
+    <string name="bad_standby_app_dialog">%s спречува STAMINA-режимот да штеди енергија при мирување. Доколку често ја користите апликацијата, игнорирајте го предупредувањето. Доколку не, допрете на копчето со информации за апликацијата и или деинсталирајте ја или присилно прекинете ја апликацијата.</string>
+    <string name="ignore_dialog_action">Игнорирај</string>
+    <string name="app_info_dialog_action">Инфор. за аплик.</string>
+    <string name="stamina_activation_notification">STAMINA-режимот е активиран</string>
+    <string name="lowbattery_trigger_level_notification">Нивото на батеријата е под %d%%</string>
+    <string name="lowbattery_activated_notification">Актив. е режимот на слаба батер.</string>
+    <string name="app_not_used_notification">Апликац. не се користи извесно време:</string>
+    <string name="app_not_used_tip_dialog">%s не се користи извесно време. Препорачуваме да ја деинсталирате апликацијата за да заштедите енергија.</string>
+    <string name="no_action_dialog">Не</string>
+    <string name="yes_action_dialog">Да</string>
+    <string name="widget_remaining_battery_time">Преостанато време на батеријата</string>
+    <string name="widget_name">STAMINA-режим</string>
+</resources>

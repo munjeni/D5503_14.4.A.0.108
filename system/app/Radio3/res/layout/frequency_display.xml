@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingRight="16.0dip" semc:directionality="none"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp">
+    <ImageButton android:id="@id/btn_favorite" android:background="@null" android:paddingLeft="12.0dip" android:paddingRight="12.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/radio_favorite_selector" android:layout_alignTop="@id/frequency_indicator" android:layout_alignBottom="@id/frequency_indicator" android:contentDescription="@string/description_favourite" />
+    <TextView android:textSize="@dimen/display_text_size" android:textColor="@color/radio_frequency_display_rds_color" android:gravity="left" android:id="@id/frequency_indicator" android:focusable="false" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_toRightOf="@id/btn_favorite" />
+    <com.sonyericsson.fmradio.ui.widget.AutoTextView android:textSize="@dimen/display_text_size" android:textColor="@color/radio_frequency_display_rds_color" android:gravity="left|center" android:id="@id/frequency_text_indicator" android:focusable="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:includeFontPadding="false" android:layout_alignLeft="@id/frequency_indicator" android:layout_alignTop="@id/frequency_indicator" android:layout_alignRight="@id/frequency_indicator" android:layout_alignBottom="@id/frequency_indicator" />
+</RelativeLayout>

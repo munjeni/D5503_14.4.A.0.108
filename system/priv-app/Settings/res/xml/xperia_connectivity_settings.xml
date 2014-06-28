@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wireless_networks_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="one-touch_setup" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.autopairing" android:targetClass="com.sonymobile.autopairing.AutoPairingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="smart_connect" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.extras.liveware" android:targetClass="com.sonyericsson.extras.liveware.ui.PreferenceLaunchActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="throw_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.playanywhere" android:targetClass="com.sonymobile.playanywhere.settings.ThrowSettingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="screen_mirroring_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="media_server_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.dlna" android:targetClass="com.sonyericsson.dlna.server.DMSMainActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="seamless_tethering" settings:dependOnIsValidIntent="true" settings:dependOnIsOwnerOnly="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.seamlesstether" android:targetClass="com.sonymobile.seamlesstether.SeamlessTetheringActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="playstation_connectivity" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sony.nfx.service.WirelessControllerManagerService" android:targetClass="com.sonymobile.dualshock.manager.app.SettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="start_mirrorlink" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.mirrorlink.manualswitch" android:targetClass="com.sonymobile.mirrorlink.manualswitch.MirrorLinkManualSwitch" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="usb_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.usbux" android:targetClass="com.sonyericsson.usbux.settings.ConnectivitySettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

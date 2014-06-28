@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="somc_background_color_contact_picture">@com.sonyericsson.uxp:color/somc_theme_accent_color_light</color>
+    <color name="somc_background_color_call_status">#80ffffff</color>
+    <color name="somc_background_color_call_forwarding">#80ffffff</color>
+    <color name="somc_background_color_held_call">#bff0f0f0</color>
+    <color name="somc_background_color_held_call_pressed">#bfa5a5a5</color>
+    <color name="somc_text_color_primary_disabled">#7fffffff</color>
+    <color name="somc_text_color_primary">#ffffffff</color>
+    <color name="somc_text_color_waiting_call">#ffff0000</color>
+    <color name="somc_widget_menu_background">#bff0f0f0</color>
+    <color name="somc_widget_button_text">#ff333333</color>
+    <color name="somc_widget_button_disabled_text">#ff7d7d7d</color>
+    <color name="somc_widget_button_background">#00f0f0f0</color>
+    <color name="somc_widget_button_pressed_background">#bf333333</color>
+    <color name="somc_single_widget_button_background">#7ff2f2f2</color>
+    <color name="somc_single_widget_button_shade">#7fbdbaba</color>
+    <color name="somc_single_widget_button_pressed_background">#40707070</color>
+    <color name="somc_single_widget_button_pressed_shade">#95000000</color>
+    <color name="somc_incallscreen_reject_msgs_drawer_bg_color">#ffdedede</color>
+    <color name="somc_call_layout_header_bg">#fceeecea</color>
+</resources>

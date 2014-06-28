@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Ora ana smbung data %s mnt</item>
+        <item quantity="one">Ora ana smbung data %s mnt</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telpon bakal ana ing mode telpon balik darurat suwene %s menit. Nalika ing mode iki ora ana aplikasi sing nggunakake sambungan data sing bisa digunakake. Pengin metu saiki?</item>
+        <item quantity="one">Telpon bakal ana ing mode telpon balik darurat suwene %s menit. Nalika ing mode iki ora ana aplikasi sing nggunakake sambungan data sing bisa digunakake. Pengin metu saiki?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Tindakan sing dipilih ora kasedhiya ing mode telpon balik darurat. Telpon bakal ana ing mode iki suwene%s menit. Pengin metu saiki?</item>
+        <item quantity="one">Tindakan sing dipilih ora kasedhiya ing mode telpon balik darurat. Telpon bakal ana ing mode iki suwene%s menit. Pengin metu saiki?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Yen layar mati, WLAN lan data seluler bakal sauntara dipateni, lan umume aplikasi bakal ora aktif. Sampeyan isih bisa nampa telpon, pesen SMS/MMS lan kabar tanggalan Sony™ uga swara weker Sony™. Pamuter musik lan radio FM bisa digunakake, undhuhan lan unggahan sing aktif bisa dirampungake.
+
+Yen layar urip, piranti bakal bisa digunakake kaya biasane.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Nalika layar mati, WLAN lan data ponsel bakal sauntara mati, lan pirang-pirang aplikasi bakal ora mlaku. Sampeyan bakal tetep nampa pesen SMS/MMS, kabar tanggalan Sony™ lan swara weker Sony™. Puter musik lan radio FM tetep mlaku, undhuh lan unggah sing lumaku tetep bisa nganti rampung.
+
+Nalika layar urip, piranti sampeyan bakal fungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Nalika layar mati, WLAN bakal sauntara mati, lan pirang-pirang aplikasi uga bakal mati. Sampeyan bakal tetep nampa kabar tanggalan Sony™ lan swara weker Sony™. Puter musik lan radio FM tetep mlaku, undhuh lan unggah sing lumaku tetep bisa nganti rampung.
+
+Nalika layar urip, piranti sampeyan bakal fungsi normal."</string>
+    <string name="notification_descr_ps">Mode baterei sithik bisa nambahi umur beterei dening contone mateni WLAN utawa nyuda padhange layar nalika beterei sithik.</string>
+    <string name="notification_text_lbw">Aktifke WLAN miturut panggonan</string>
+    <string name="notification_descr_lbw">WLAN aktif nanging sementara ora tau dinggo. Simpen daya dening ngaktifake WLAN miturut panggonan.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN urip nanging wis sauntara ora dianggo. Sampeyan bisa ngirit daya kanthi ngaktifake WLAN miturut panggonan. Atur wiwitan WLAN miturut panggonan?</string>
+    <string name="low_battery_mode_tip_dialog">Mode baterei sithik bisa nambah umur baterei kanthi kaya ta mateni WLAN utawa ngurangi padhang layar nalika baterei sithik. Atur wiwitan mode baterei sithik?</string>
+</resources>

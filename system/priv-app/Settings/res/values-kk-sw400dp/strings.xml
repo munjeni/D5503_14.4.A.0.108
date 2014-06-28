@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Фондық деректерді кезекке қою</string>
+    <string name="auto_sync_text">Автоқадамдастыру</string>
+    <string name="wifi_tether_settings_text">Жылжымалы Wi-Fi ыстық нүктесінің параметрлері</string>
+    <string name="stamina_xssm_add_applications_title">Күту режимінде белсенді қолданбалар</string>
+    <string name="auto_hide_notifications_title">Көрілген ескертулерді өшіру</string>
+</resources>

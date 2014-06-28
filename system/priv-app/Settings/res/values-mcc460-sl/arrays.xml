@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>groba lokacija</item>
+        <item>natančna lokacija</item>
+        <item>GPS</item>
+        <item>vibriranje</item>
+        <item>branje stikov</item>
+        <item>spreminjanje stikov</item>
+        <item>branje dnevnika klicev</item>
+        <item>spreminjanje dnevnika klicev</item>
+        <item>branje koledarja</item>
+        <item>spreminjanje koledarja</item>
+        <item>iskanje omrežij WLAN</item>
+        <item>obvestilo</item>
+        <item>iskanje celic mobilnega omrežja</item>
+        <item>klicanje telefonske številke</item>
+        <item>branje sporočil SMS</item>
+        <item>pisanje sporočil SMS</item>
+        <item>prejemanje sporočil SMS</item>
+        <item>prejemanje sporočil SMS v sili</item>
+        <item>prejemanje sporočil MMS</item>
+        <item>prejemanje potisnih sporočil WAP</item>
+        <item>pošiljanje sporočil SMS</item>
+        <item>branje sporočil SMS na kartici SIM</item>
+        <item>pisanje sporočil SMS na kartici SIM</item>
+        <item>spreminjanje nastavitev</item>
+        <item>vlečenje na vrh</item>
+        <item>dostop do obvestil</item>
+        <item>fotoaparat</item>
+        <item>snemanje zvoka</item>
+        <item>predvajanje zvoka</item>
+        <item>preberi odložišče</item>
+        <item>spremeni odložišče</item>
+        <item>gumbi za predstavnosti</item>
+        <item>fokus zvoka</item>
+        <item>glavna glasnost</item>
+        <item>glasnost glasu</item>
+        <item>glasnost zvonjenja</item>
+        <item>glasnost predstavnosti</item>
+        <item>glasnost alarma</item>
+        <item>glasnost obvestila</item>
+        <item>glasnost za Bluetooth</item>
+        <item>ohrani odklenjen zaslon</item>
+        <item>spremljanje lokacije</item>
+        <item>nadzor natančno določene lokacije</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Branje stikov</item>
+        <item>Spreminjanje stikov</item>
+        <item>Branje dnevnika klicev</item>
+        <item>Spreminjanje dnevnika klicev</item>
+        <item>Branje koledarja</item>
+        <item>Spreminjanje koledarja</item>
+        <item>Lokacija</item>
+        <item>Objava obvestila</item>
+        <item>Lokacija</item>
+        <item>Klicanje telefonske številke</item>
+        <item>Branje sporočil SMS/MMS</item>
+        <item>Pisanje sporočil SMS/MMS</item>
+        <item>Prejemanje sporočil SMS/MMS</item>
+        <item>Prejemanje sporočil SMS/MMS</item>
+        <item>Prejemanje sporočil SMS/MMS</item>
+        <item>Prejemanje sporočil SMS/MMS</item>
+        <item>Pošiljanje sporočil SMS/MMS</item>
+        <item>Branje sporočil SMS/MMS</item>
+        <item>Pisanje sporočil SMS/MMS</item>
+        <item>Spreminjanje nastavitev</item>
+        <item>Vlečenje na vrh</item>
+        <item>Dostop do obvestil</item>
+        <item>Kamera</item>
+        <item>Snemanje zvoka</item>
+        <item>Predvajanje zvoka</item>
+        <item>Branje odložišča</item>
+        <item>Spreminjanje odložišča</item>
+        <item>Gumbi za predstavnosti</item>
+        <item>Osredotočenost zvoka</item>
+        <item>Glavna glasnost</item>
+        <item>Glasnost glasu</item>
+        <item>Glasnost zvonjenja</item>
+        <item>Glasnost predstavnosti</item>
+        <item>Glasnost alarma</item>
+        <item>Glasnost obvestila</item>
+        <item>Glasnost Bluetootha</item>
+        <item>Ohrani odklenjen zaslon</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

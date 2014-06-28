@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">"Si vous n'utilisez pas le WLAN, vous ne pourrez pas utiliser Internet, l'email, ni les autres applications nécessitant une connexion de données. Désactiver la connexion de données mobile ?"</string>
+    <string name="sip_call_options_wifi_only_title">Appels Internet (WLAN uniquement)</string>
+    <string name="registration_status_no_wifi_data">Enregistrement du cpte interrompu faute de connexion WLAN.</string>
+    <string name="no_wifi_available_title">Aucune connexion WLAN</string>
+    <string name="no_wifi_available">Les appels Internet exigent une connexion WLAN (celle-ci peut être activée sous Réglages > Sans fil et réseaux)</string>
+</resources>

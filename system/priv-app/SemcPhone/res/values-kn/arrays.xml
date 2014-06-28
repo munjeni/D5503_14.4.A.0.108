@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>ನೆಟ್ ವರ್ಕ್ ಪೂರ್ವನಿಯೋಜಿತ</item>
+        <item>ಸಂಖ್ಯೆ ಅಡಗಿಸು</item>
+        <item>ಸಂಖ್ಯೆ ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>ಗ್ಲೋಬಲ್</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo ಮಾತ್ರ</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo ಸ್ವಯಂ</item>
+        <item>GSM / WCDMA ಸ್ವಯಂ</item>
+        <item>WCDMA ಮಾತ್ರ</item>
+        <item>GSM ಮಾತ್ರ</item>
+        <item>GSM/WCDMA ಗೆ ಆದ್ಯತೆ</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ಇಂಗ್ಲೀಷ್</item>
+        <item>ಫ್ರೆಂಚ್</item>
+        <item>ಸ್ಪಾನಿಶ್</item>
+        <item>ಜಪಾನಿಸ್</item>
+        <item>ಕೊರಿಯನ್</item>
+        <item>ಚೈನೀಸ್</item>
+        <item>ಹೀಬ್ರೂ</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (ಸ್ವಯಂ ಮೋಡ್)</item>
+        <item>WCDMA ಮಾತ್ರ</item>
+        <item>GSM ಮಾತ್ರ</item>
+        <item>GSM/WCDMA (WCDMA ಆದ್ಯತೆಯ)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ಹೋಂ ಮಾತ್ರ</item>
+        <item>ಸ್ವಯಂಚಾಲಿತ</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>ಹೋಮ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಮಾತ್ರ</item>
+        <item>ಸಂಯೋಜಿತ ನೆಟ್‌ವರ್ಕ್‌ಗಳು</item>
+        <item>ಯಾವುದೇ ನೆಟ್‌ ವರ್ಕ್</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA ಮಾತ್ರ</item>
+        <item>EvDo ಮಾತ್ರ</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>ಆರ್‌ಯುಐಎಮ್/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY ಆಫ್</item>
+        <item>TTY ಭರ್ತಿ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ದೀರ್ಘ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Võrgu vaikeseade</item>
+        <item>Peida number</item>
+        <item>Kuva number</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globaalne</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Ainult EvDo</item>
+        <item>EvDo-ta CDMA</item>
+        <item>CDMA/EvDo (automaatne)</item>
+        <item>GSM/WCDMA (automaatne)</item>
+        <item>Ainult WCDMA</item>
+        <item>Ainult GSM</item>
+        <item>GSM/WCDMA (eelistatud)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>inglise</item>
+        <item>prantsuse</item>
+        <item>hispaania</item>
+        <item>jaapani</item>
+        <item>korea</item>
+        <item>hiina</item>
+        <item>heebrea</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (aut. režiim)</item>
+        <item>Ainult WCDMA</item>
+        <item>Ainult GSM</item>
+        <item>GSM/WCDMA (eel: WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Ainult kodu</item>
+        <item>Automaatne</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Ainult koduvõrgud</item>
+        <item>Haruvõrgud</item>
+        <item>Mis tahes võrk</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Ainult CDMA</item>
+        <item>Ainult EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY väljas</item>
+        <item>Täis-TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Tavaline</item>
+        <item>Pikk</item>
+    </string-array>
+</resources>

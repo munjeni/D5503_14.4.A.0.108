@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Fila de dados de segundo plano</string>
+    <string name="auto_sync_text">Sincronização automática</string>
+    <string name="add_device_admin_msg">Ativar o administrador do dispositivo?</string>
+    <string name="wifi_tether_settings_text">Configuração do Roteador Wi-Fi portátil</string>
+    <string name="stamina_xssm_add_applications_title">Aplicativos ativos em modo de espera</string>
+    <string name="auto_hide_notifications_title">Limpar notificações visualizadas</string>
+</resources>

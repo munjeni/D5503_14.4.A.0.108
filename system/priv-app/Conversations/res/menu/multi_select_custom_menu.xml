@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/action_select_all" android:title="@string/conversations_strings_conversationlist_menu_deleteconversations_mark_all_txt" />
+    <item android:id="@id/action_deselect_all" android:title="@string/conversations_strings_conversationlist_menu_deleteconversations_unmark_all_txt" />
+</menu>

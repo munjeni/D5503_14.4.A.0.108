@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Cho phép ứng dụng nhận vị trí chính xác của bạn bằng cách sử dụng Hệ thống định vị toàn cầu (GPS) hoặc các nguồn vị trí mạng chẳng hạn như tháp điện thoại di động và WLAN. Các dịch vụ vị trí này phải được bật và có sẵn cho thiết bị của bạn để ứng dụng sử dụng chúng. Ứng dụng có thể sử dụng dịch vụ vị trí này để xác định vị trí của bạn và có thể tiêu hao thêm nguồn pin.</string>
+    <string name="permdesc_accessCoarseLocation">Cho phép ứng dụng nhận vị trí gần đúng của bạn. Vị trí này có được là do dịch vụ vị trí sử dụng các nguồn vị trí mạng chẳng hạn như tháp điện thoại di động và WLAN. Các dịch vụ vị trí này phải được bật và có sẵn cho thiết bị của bạn để ứng dụng sử dụng chúng. Ứng dụng có thể sử dụng dịch vụ vị trí này để xác định vị trí gần đúng của bạn.</string>
+    <string name="permlab_configureWifiDisplay">định cấu hình màn hình WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Cho phép ứng dụng định cấu hình và kết nối với màn hình WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kiểm soát màn hình WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Cho phép ứng dụng kiểm soát các tính năng cấp thấp của màn hình WLAN.</string>
+    <string name="permlab_accessWifiState">xem kết nối WLAN</string>
+    <string name="permdesc_accessWifiState">Cho phép ứng dụng xem thông tin về mạng WLAN, chẳng hạn như WLAN đã được bật chưa và tên của thiết bị WLAN được kết nối.</string>
+    <string name="permlab_changeWifiState">kết nối và ngắt kết nối WLAN</string>
+    <string name="permdesc_changeWifiState">Cho phép ứng dụng kết nối ngắt kết nối khỏi các điểm truy cập WLAN và để thực hiện thay đổi đối với cấu hình thiết bị cho mạng WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">cho phép nhận WLAN Phát đa phương</string>
+    <string name="permdesc_changeWifiMulticastState">Cho phép ứng dụng nhận các gói được gửi đến tất cả các thiết bị trên mạng WLAN các địa chỉ đa hướng, chứ không phải chỉ điện thoại của bạn. Chế độ này sử dụng nhiều năng lượng hơn chế độ không phát đa hướng.</string>
+    <string name="wifi_available_sign_in">Đăng nhập vào mạng WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Không thể kết nối với WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Khởi động WLAN Direct. Việc này sẽ tắt hoạt động của ứng dụng khách/điểm phát sóng WLAN.</string>
+    <string name="wifi_p2p_failed_message">Không thể khởi động WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct được bật</string>
+    <string name="wifi_p2p_frequency_conflict_message">Điện thoại sẽ tạm thời ngắt kết nối khỏi WLAN trong khi điện thoại được kết nối với %1$s</string>
+    <string name="data_usage_wifi_limit_title">Đã tắt dữ liệu WLAN</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Vượt quá giới hạn dữ liệu WLAN</string>
+    <string name="policylab_disableWifi">Vô hiệu hoá truy cập WLAN</string>
+    <string name="policydesc_disableWifi">Ngăn kết nối WLAN trên thiết bị.</string>
+    <string name="wifi_disabled_notification_title">Kết nối WLAN bị hạn chế</string>
+    <string name="wifi_disabled_notification_message">"Chính sách bảo mật hạn chế sử dụng WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Đang chuyển vùng qua WLAN</string>
+    <string name="ct_cplusw_notification_text">"Đã k.nối mạng WLAN CT. Liên hệ 10000 hoặc cửa hàng đ.phương để biết t.tin TT.
+
+"</string>
+    <string name="ct_cplusw_notification_title">Đã k.nối WLAN viễn thông TQ</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Bạn sẽ được kết nối với mạng WLAN của Tập đoàn Viễn thông Trung Quốc. Để biết chi tiết về cước phí, vui lòng liên hệ với dịch vụ khách hàng của Tập đoàn Viễn thông Trung Quốc. Tiếp tục?</string>
+    <string name="wifi_nonconcurrency_message">Khởi động máy khách WLAN. Thao tác này sẽ ngắt kết nối WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Khởi động máy khách WLAN. Thao tác này sẽ ngắt kết nối WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Mọi kết nối WLAN hiện có sẽ bị ngắt kết nối</string>
+    <string name="wifi_p2p_nonconcurrency_message">Khởi động WLAN Direct. Thao tác này sẽ ngắt kết nối WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Thao tác này sẽ ngắt kết nối bất kỳ kết nối WLAN nào hiện có</string>
+    <string name="wifi_p2p_noncuncurrency_message">Khởi động WLAN Direct. Thao tác này sẽ ngắt kết nối WLAN.</string>
+    <string name="tethered_notification_message_wifi">Tắt HotSpot Di động để bật lại WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN bị tắt</string>
+</resources>

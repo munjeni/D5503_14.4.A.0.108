@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d poe</item>
+        <item quantity="one">%d dinten</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d aksara</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 aksara</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d aksara leutik</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 aksara leutik</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d aksara gede</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 aksara gede</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d digit angka</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 digit angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d simbol husus</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 simbol husus</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Kecap akses kudu ngandung sakurang-kurangna %d karakter salain aksara</item>
+        <item quantity="one">Kecap akses kudu ngandung sakurang-kurangna 1 karakter salain aksara</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikasi tiasa maca bewara</item>
+        <item quantity="one">%d aplikasi tiasa maca bewara</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Kodeu PIN SIM salah, anjeun boga %d sesa tarekah.</item>
+        <item quantity="one">Kodeu PIN SIM salah, anjeun boga %d sesa tarekah sateuacan anjeun kudu naroskeun operator jang muka konci alat anjeun.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s panyitak kapanggih</item>
+        <item quantity="one">%1$s panyitak kapanggih</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d aplikasi nu ayeuna dina daptar</item>
+        <item quantity="one">%1$d aplikasi nu ayeuna dina daptar</item>
+    </plurals>
+</resources>

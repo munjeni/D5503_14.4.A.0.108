@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Стави ги заднинските податоци во низа</string>
+    <string name="auto_sync_text">Автоматска синхронизација</string>
+    <string name="wifi_tether_settings_text">Поставки за преносливо Wi-Fi „жешко“ место</string>
+    <string name="stamina_xssm_add_applications_title">Активни апликации во мирување</string>
+    <string name="auto_hide_notifications_title">Избриши прегледани известувања</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">Št. dni: %d</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+        <item quantity="one">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">V geslu mora najmanj toliko črk: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 črka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">V geslu mora biti najmanj toliko malih črk: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 mala črka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">V geslu mora biti najmanj toliko velikih črk: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 velika črka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">V geslu mora biti najmanj toliko števk: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 števka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">V geslu mora biti najmanj toliko posebnih simbolov: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 poseben simbol</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">V geslu mora biti najmanj toliko znakov, ki niso črke: %d</item>
+        <item quantity="one">V geslu mora biti najmanj 1 znak, ki ni črka</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Programi (%d) lahko berejo obvestila</item>
+        <item quantity="one">Program (%d) lahko bere obvestila</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Napačna koda PIN kartice SIM. Poskusite lahko še %d-krat.</item>
+        <item quantity="one">Napačna koda PIN kartice SIM. Na voljo imate še %d poskus. Potem se boste morali za odklenitev naprave obrniti na operaterja.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Število najdenih tiskalnikov: %1$s</item>
+        <item quantity="one">Najden %1$s tiskalnik</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Št. programov, ki so trenutno na seznamu: %d</item>
+        <item quantity="one">Št. programom, ki so trenutno na seznamu: %1$d</item>
+    </plurals>
+</resources>

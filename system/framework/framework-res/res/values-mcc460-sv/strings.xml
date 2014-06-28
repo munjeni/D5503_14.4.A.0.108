@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Tillåter att appen känner av din exakta position med hjälp av GPS eller platstjänster som mobilmaster och WLAN. Platstjänsterna måste vara aktiverade och tillgängliga på enheten för att appen ska kunna använda dem. Appar kan använda detta för att avgöra ungefär var du befinner dig och kan använda ytterligare batterikraft.</string>
+    <string name="permdesc_accessCoarseLocation">Tillåter att appen känner av din ungefärliga position. Platsen avgörs genom platstjänster med hjälp av nätverksplatskällor som mobilmaster och WLAN. Platstjänsterna måste vara aktiverade och tillgängliga på enheten för att appen ska kunna använda dem. Appar kan använda detta för att avgöra ungefär var du befinner dig.</string>
+    <string name="permlab_configureWifiDisplay">konfigurera WLAN-skärmar</string>
+    <string name="permdesc_configureWifiDisplay">Tillåter att appen konfigurerar och ansluter till WLAN-skärmar.</string>
+    <string name="permlab_controlWifiDisplay">kontrollera WLAN-skärmar</string>
+    <string name="permdesc_controlWifiDisplay">Tillåter att appen kontrollerar grundläggande funktioner för WLAN-skärmar.</string>
+    <string name="permlab_accessWifiState">visa WLAN-anslutningar</string>
+    <string name="permdesc_accessWifiState">Tillåter att appen kommer åt information om WLAN-nätverk, till exempel om WLAN är aktiverat och namn på anslutna WLAN-enheter.</string>
+    <string name="permlab_changeWifiState">anslut och koppla från WLAN</string>
+    <string name="permdesc_changeWifiState">Tillåter att appen ansluter till och kopplar från WLAN-åtkomstpunkter samt gör ändringar i enhetens konfiguration för WLAN-nätverk.</string>
+    <string name="permlab_changeWifiMulticastState">tillåt WLAN multicast-mottagning</string>
+    <string name="permdesc_changeWifiMulticastState">Tillåter att appen tar emot paket som skickats med multicast-adress till alla enheter i ett WLAN-nätverk och inte bara till den här telefonen. Detta drar mer batteri än när multicast-läget inte används.</string>
+    <string name="wifi_available_sign_in">Logga in på WLAN-nätverk</string>
+    <string name="wifi_watchdog_network_disabled">Det gick inte att ansluta till WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Starta WLAN Direct. Detta inaktiverar WLAN-användning med klient/hotspot.</string>
+    <string name="wifi_p2p_failed_message">Det gick inte att starta WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct är aktiverat</string>
+    <string name="wifi_p2p_frequency_conflict_message">Mobilen kommer tillfälligt att kopplas från WLAN när den är ansluten till %1$s</string>
+    <string name="data_usage_wifi_limit_title">Data via WLAN har inaktiverats</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Datagräns för WLAN har överskr.</string>
+    <string name="policylab_disableWifi">Inaktivera WLAN-åtkomst</string>
+    <string name="policydesc_disableWifi">Förhindra WLAN-anslutningar på enheten.</string>
+    <string name="wifi_disabled_notification_title">WLAN-anslutningen är begränsad</string>
+    <string name="wifi_disabled_notification_message">"En säkerhetspolicy begränsar WLAN-användningen. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN-roaming pågår</string>
+    <string name="ct_cplusw_notification_text">"CT:s WLAN-nätverk anslutet. Kontakta 10000 eller lokal affär för avgiftsinfo.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN-ansluten</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Du ansluts till China Telecoms WLAN-nätverk. Kontakta China Telecoms kundtjänst för information om debiteringar. Fortsätta?</string>
+    <string name="wifi_nonconcurrency_message">Starta WLAN-klienten. Detta kopplar från WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Starta WLAN-klienten. Detta kopplar från WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Detta kopplar från befintliga WLAN-anslutningar</string>
+    <string name="wifi_p2p_nonconcurrency_message">Starta WLAN Direct. Detta kopplar från WLAN-anslutningen.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Detta kopplar från befintliga WLAN-anslutningar</string>
+    <string name="wifi_p2p_noncuncurrency_message">Starta WLAN Direct. Detta kopplar från WLAN-anslutningen.</string>
+    <string name="tethered_notification_message_wifi">Stäng av Mobile HotSpot för att aktivera WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN inaktiverad</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Veţi putea utiliza Internetul, clientul de e-mail, sau alte aplicaţii care necesită o conexiune de date numai dacă utilizaţi funcţia WLAN. Dezactivaţi conexiunea de date de telefonie mobilă?</string>
+    <string name="sip_call_options_wifi_only_title">Utilizare apelare prin Internet (numai WLAN)</string>
+    <string name="registration_status_no_wifi_data">Nicio conexiune WLAN. Imposibil de înregistrat contul.</string>
+    <string name="no_wifi_available_title">Nicio conexiune WLAN</string>
+    <string name="no_wifi_available">Trebuie să vă conectaţi la o reţea WLAN pentru apelare prin Internet (Mergeţi la Setări > Wireless şi reţele).</string>
+</resources>

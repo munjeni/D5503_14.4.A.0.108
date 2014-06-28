@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">لا اتصال بيانات لمدة %s دقائق</item>
+        <item quantity="one">لا يوجد اتصال ب. لمدة %s دقيقة</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">سيكون الهاتف في وضع رد الاتصال الطارئ لمدة%sدقيقة. ويتعذر استخدام أية تطبيقات تستخدم اتصال بيانات أثناء تشغيل هذا الوضع. هل ترغب في الخروج الآن؟</item>
+        <item quantity="one">سيكون الهاتف في وضع رد الاتصال الطارئ لمدة%sدقيقة. ويتعذر استخدام أية تطبيقات تستخدم اتصال بيانات أثناء تشغيل هذا الوضع. هل ترغب في الخروج الآن؟</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">الإجراء المحدد غير متاح أثناء تشغيل وضع رد الاتصال الطارئ. سيعمل الهاتف في هذا الوضع لمدة%sدقائق. أترغب في الخروج الآن؟</item>
+        <item quantity="one">الإجراء المحدد غير متاح أثناء تشغيل وضع رد الاتصال الطارئ. سيعمل الهاتف في هذا الوضع لمدة%sدقيقة. هل ترغب في الخروج الآن؟</item>
+    </plurals>
+</resources>

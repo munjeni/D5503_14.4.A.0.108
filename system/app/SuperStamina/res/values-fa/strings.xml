@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کنترل کننده حالت اقتصادی</string>
+    <string name="dont_ask_me_again_txt">مجدداً از من سؤال نشود</string>
+    <string name="description_msg_txt">"وقتی صفحه خاموش است، Wi-Fi و داده تلفن همراه موقتاً غیرفعال می شوند، و اکثر برنامه ها غیرفعال خواهند شد. همچنان می توانید تماس های تلفنی، پیام های SMS/MMS و اعلان های تقویم Sony™‎ و زنگ هشدارهای Sony™‎ را دریافت کنید. پخش کننده موسیقی و رادیو FM کار می کنند و این اجازه داده می شود که دانلودها و آپلودهای در حال انجام، تکمیل شوند.
+
+وقتی صفحه روشن است، تلفن شما به صورت عادی کار می کند.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"هنگامی که صفحه خاموش است، Wi-Fi و داده های تلفن همراه موقتاً غیرفعال می شوند و اکثر برنامه ها غیرفعال خواهند بود. پیامک/پیام های MMS را همچنان دریافت می کنید، همچنین اعلان های تقویم Sony™‎‎ و زنگ هشدارهای Sony™‎‎ را دریافت خواهید کرد. پخش کننده موسیقی و رادیو FM کار می کنند و دانلودها و آپلودهایی که در حال انجام است را می توانید تمام کنید.
+
+هنگامی که صفحه روشن است، دستگاه به طور معمول کار می کند."</string>
+    <string name="description_msg_no_telephony_txt">"هنگامی که صفحه خاموش است، Wi-Fi موقتاً غیرفعال می شود و اکثر برنامه ها غیرفعال خواهند بود. اما همچنان اعلان های تقویم Sony™‎‎ و سیگنال های هشدار Sony™‎‎ را دریافت خواهید کرد. پخش کننده موسیقی و رادیو FM کار می کنند و دانلودها و آپلودهایی که در حال انجام است را می توانید تمام کنید.
+
+هنگامی که صفحه روشن است، دستگاه به طور معمول کار می کند."</string>
+    <string name="description_title_txt">توجه!</string>
+    <string name="low_battery_mode_description_msg_txt">"وقتی شارژ باتری پایین تر از یک سطح از پیش تنظیم شده است، برای غیرفعال کردن تنظیمات و ویژگی هایی که از نیروی زیادی استفاده می کنند، حالت باتری ضعیف را فعال کنید.
+"</string>
+    <string name="activate_txt">فعال کردن</string>
+    <string name="cancel_txt">لغو</string>
+    <string name="xssm_blocker_detector_title">نکات مربوط به مدیریت انرژی</string>
+    <string name="xssm_blocker_detector_msg">‏%s مانع از این می شود که حالت STAMINA در حالت آماده به کار، انرژی کمتری مصرف کند</string>
+    <string name="xssm_blocker_detector_long_msg">اگر معمولاً از این برنامه استفاده می کنید، این هشدار را نادیده بگیرید. در غیر اینصورت، برنامه را حذف کرده یا اینکه آن را متوقف کنید.</string>
+    <string name="xssm_blocker_detector_ignore">متوجه شدم. دوباره نشان داده نشود.</string>
+    <string name="network_detector_msg">‏%s در حالی که صفحه خاموش است داده ها را ارسال کرده و دریافت می کند و سبب تخلیه سریع تر باتری می شود.</string>
+    <string name="network_detector_long_msg">حذف آن ممکن است عملکرد دستگاه را بهبود بخشیده و طول عمر باتری را افزایش دهد.</string>
+    <string name="wakelock_detector_msg">‏%s به مدت چند هفته مورد استفاده قرار نگرفته است.</string>
+    <string name="wakelock_detector_long_msg">ممکن است دستگاه را از حالت آماده به کار خارج کند. حذف آن سبب بهبود عملکرد دستگاه می شود و طول عمر باتری را افزایش می دهد.</string>
+    <string name="notification_title_xssm">نکات مربوط به مدیریت انرژی</string>
+    <string name="notification_text_xssm">فعال کردن حالت STAMINA</string>
+    <string name="notification_descr_xssm">دستگاه شما معمولاً در حالت آماده به کار است. با فعال کردن حالت STAMINA، طول عمر باتری را افزایش دهید.</string>
+    <string name="notification_dont_show_again">متوجه شدم. دوباره نشان داده نشود.</string>
+    <string name="notification_title_ps">نکات مربوط به مدیریت انرژی</string>
+    <string name="notification_text_ps">فعال کردن حالت باتری ضعیف</string>
+    <string name="notification_descr_ps">حالت باتری ضعیف می تواند طول عمر باتری را افزایش دهد، به عنوان مثال با خاموش کردن Wi-Fi یا کاهش میزان روشنایی صفحه زمانی که باتری ضعیف است.</string>
+    <string name="notification_title_lbw">نکات مربوط به مدیریت انرژی</string>
+    <string name="notification_text_lbw">فعال کردن Wi-Fi مبتنی بر مکان</string>
+    <string name="notification_descr_lbw">‏Wi-Fi روشن است اما برای مدت زمانی از آن استفاده نشده است. با فعال کردن Wi-Fi مبتنی بر مکان، در مصرف انرژی صرفه جویی کنید.</string>
+    <string name="unused_application_title">راهنمایی در زمینه مدیریت انرژی</string>
+    <string name="unused_application_msg">برای مدت زمانی از %s استفاده نشده است</string>
+    <string name="unused_application_long_msg">اگر می خواهید این برنامه را حفظ کنید، هشدار را نادیده بگیرید. در غیر اینصورت، برنامه را حذف کنید.</string>
+    <string name="unused_application_ignore">متوجه شدم. دوباره نشان داده نشود.</string>
+    <string name="drain_dialog_title_txt">باتری شارژ نمی شود</string>
+    <string name="drain_dialog_text_usb_txt">منبع برق متصل، کافی نیست. سرعت تخلیه شارژ باتری در مقایسه با سرعت شارژ شدن آن بیشتر است. لطفاً از شارژر برق متناوب استفاده کنید.</string>
+    <string name="drain_dialog_text_wallcharger_txt">منبع برق متصل، کافی نیست. سرعت تخلیه شارژ باتری در مقایسه با سرعت شارژ شدن آن بیشتر است. میزان مصرف دستگاه خود را در حین شارژ به حداقل برسانید.</string>
+    <string name="extend_battery_tip_dialog_headar">نکاتی در رابطه با مدیریت برق</string>
+    <string name="location_based_wifi_tip_dialog">‏Wi-Fi روشن است اما برای مدتی از آن استفاده نشده است. با فعال کردن Wi-Fi مبتنی بر مکان، می توانید در مصرف برق صرفه جویی کنید. Wi-Fi مبتنی بر مکان را تنظیم می کنید؟</string>
+    <string name="low_battery_mode_tip_dialog">حالت باتری ضعیف می تواند طول عمر باتری را افزایش دهد، به عنوان مثال با خاموش کردن Wi-Fi یا کم کردن میزان روشنایی صفحه هنگامی که باتری ضعیف است. حالت باتری ضعیف تنظیم شود؟</string>
+    <string name="stamina_mode_tip_dialog">دستگاه شما معمولاً در حالت آماده به کار است. با فعال کردن حالت STAMINA، طول عمر باتری را افزایش دهید. حالت STAMINA تنظیم شود؟</string>
+    <string name="bad_app_notification">برنامه زیر در حال تخلیه انرژی باتری است:</string>
+    <string name="bad_standby_app_dialog">‏%s مانع از این می شود که حالت STAMINA بتواند در حالت آماده به کار در مصرف انرژی صرفه جویی کند. اگر معمولاً از این برنامه استفاده می کنید، این هشدار را نادیده بگیرید. در غیر اینصورت، روی دکمه اطلاعات برنامه ضربه بزنید و برنامه را لغو نصب کرده یا اینکه عملکرد آن را متوقف کنید.</string>
+    <string name="ignore_dialog_action">عدم پاسخگویی</string>
+    <string name="app_info_dialog_action">اطلاعات برنامه</string>
+    <string name="stamina_activation_notification">حالت STAMINA فعال شد</string>
+    <string name="lowbattery_trigger_level_notification">سطح باتری کمتر از %d%%</string>
+    <string name="lowbattery_activated_notification">حالت باتری ضعیف فعال شد</string>
+    <string name="app_not_used_notification">از این برنامه برای مدتی استفاده نشده است:</string>
+    <string name="app_not_used_tip_dialog">از %s برای مدتی استفاده نشده است. توصیه می کنیم که تمام برنامه ها را لغو نصب کنید تا در مصرف برق صرفه جویی شود.</string>
+    <string name="no_action_dialog">خیر</string>
+    <string name="yes_action_dialog">بله</string>
+    <string name="widget_remaining_battery_time">زمان محاسبه شده باتری</string>
+    <string name="widget_name">حالت STAMINA</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Lubab rakendusel hankida teie täpse asukoha globaalse positsioneerimissüsteemi (GPS) või võrgu asukohaallikate (nt mobiilimastide ja WLAN) järgi. Need asukohateenused peavad olema sisse lülitatud ja teie seadme jaoks saadaval, et rakendus saaks neid kasutada. Rakendused võivad kasutada seda teie asukoha tuvastamiseks ja tarbida akut.</string>
+    <string name="permdesc_accessCoarseLocation">Lubab rakendusel hankida juurdepääsu ligikaudsele asukohale. Asukoht tuletatakse asukohateenuste järgi, kasutades võrgu asukohaallikaid, nt mobiilimastid ja WLAN. Need asukohateenused peavad olema sisse lülitatud ja teie seadme jaoks saadaval, et rakendus saaks neid kasutada. Rakendused võivad kasutada seda teie ligikaudse asukoha tuvastamiseks.</string>
+    <string name="permlab_configureWifiDisplay">WLAN-ekraanide seadistamine</string>
+    <string name="permdesc_configureWifiDisplay">Lubab rakendusel seadistada WLAN-ekraane ja nendega ühendus luua.</string>
+    <string name="permlab_controlWifiDisplay">WLAN-ekraanide juhtimine</string>
+    <string name="permdesc_controlWifiDisplay">Lubab rakendusel juhtida WLAN-ekraanide madala taseme funktsioone.</string>
+    <string name="permlab_accessWifiState">vaadata WLAN-ühendusi</string>
+    <string name="permdesc_accessWifiState">Rakendusel on lubatud vaadata teavet WLAN-võrkude kohta, näiteks kas WLAN on sisse lülitatud ja ühendatud WLAN-seadmete nimesid.</string>
+    <string name="permlab_changeWifiState">ühendada ja katkestada ühendus WLAN-võrguga</string>
+    <string name="permdesc_changeWifiState">Rakendusel on lubatud luua ja katkestada ühendus WLAN-pöörduspunktidega ning teha muudatusi seadme konfiguratsioonis WLAN-võrkude jaoks.</string>
+    <string name="permlab_changeWifiMulticastState">lubada WLAN multisaate-vastuvõttu</string>
+    <string name="permdesc_changeWifiMulticastState">Rakendusel on lubatud vastu võtta pakette, mis on saadetud kõikidele WLAN-võrguga ühendatud seadmetele, mis kasutavad multiedastuse aadresse, mitte ainult teie telefoni. See võtab rohkem energiat kui mittemultiedastuse režiim.</string>
+    <string name="wifi_available_sign_in">Logi WLAN-võrku sisse</string>
+    <string name="wifi_watchdog_network_disabled">Ei saanud WLAN-ühendust luua</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Käivitage WLAN Direct. See lülitab välja WLAN kliendi/leviala.</string>
+    <string name="wifi_p2p_failed_message">WLAN Directi ei saanud käivitada</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct on sisse lülitatud</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefoni ühendus WLAN-ga katkestatakse ajutiselt, kui see on ühendatud seadmega %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-andmeside on keelatud</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN-andmepiirang on ületatud</string>
+    <string name="policylab_disableWifi">WLAN-le juurdepääsu keelamine</string>
+    <string name="policydesc_disableWifi">Saab seadmes takistada WLAN-ühendused.</string>
+    <string name="wifi_disabled_notification_title">WLAN-ühendus on piiratud</string>
+    <string name="wifi_disabled_notification_message">"Turbepoliitika piirab WLAN-ühenduse kasutamist. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN-rändlus on pooleli</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN-võrguga ühendatud. Arveldus-teave: tel-nr 10000 või kohalik esindus.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecomi WLAN ühendatud</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Luuakse ühendus China Telecomi WLAN-võrguga. Üksikasjalikku teavet tasude kohta saate China Telecomi klienditeenindusest. Kas jätkata?</string>
+    <string name="wifi_nonconcurrency_message">Käivita WLAN klient. WLAN Direct lülitatakse välja.</string>
+    <string name="wifi_noncuncurrency_message">Käivita WLAN klient. WLAN Direct lülitatakse välja.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Olemasolev WLAN-ühendus katkestatakse</string>
+    <string name="wifi_p2p_nonconcurrency_message">Käivita WLAN Direct. WLAN-ühendus katkestatakse.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Olemasolevad WLAN-ühendused katkestatakse</string>
+    <string name="wifi_p2p_noncuncurrency_message">Käivita WLAN Direct. WLAN-ühendus katkestatakse.</string>
+    <string name="tethered_notification_message_wifi">WLAN-ühenduse taasloomiseks lülitage mobiilne HotSpot välja</string>
+    <string name="tethered_notification_title_wifi">WLAN on välja lülitatud</string>
+</resources>

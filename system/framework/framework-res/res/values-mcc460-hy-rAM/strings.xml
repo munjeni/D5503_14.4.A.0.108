@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Թույլ է տալիս հավելվածին ստանալ ձեր ճշգրիտ տեղադրությունը` օգտագործելով Գլոբալ Դիրքավորման Համակարգը (GPS) կամ ցանցային տեղանքի աղբյուրները, ինչպես օրինակ` բջջային աշտարակները և WLAN-ը: Այս տեղադրության ծառայությունները պետք է միացվեն և հասանելի լինեն ձեր սարքի համար, որպեսզի հավելվածն օգտագործի դրանք: Հավելվածները կարող են սա օգտագործել` որոշելու համար ձեր գտնվելու վայրը և կարող են սպառել մարտկոցի լրացուցիչ լիցք:</string>
+    <string name="permdesc_accessCoarseLocation">Թույլ է տալիս հավելվածին ստանալ ձեր մոտավոր տեղադրությունը: Այս տեղադրությունը ստացվում է տեղանքի ծառայությունների կողմից, ինչպես օրինակ` բջջային աշտարակներից և WLAN-ից: Այս տեղանքի ծառայությունները պետք է միացված և հասանելի լինեն ձեր սարքին, որպեսզի հավելվածն օգտագործի դրանք: Հավելվածները կարող են սա օգտագործել` ձեր մոտավոր գտնվելու վայրը որոշելու համար:</string>
+    <string name="permlab_configureWifiDisplay">կարգավորել WLAN-ի ցուցադրումը</string>
+    <string name="permdesc_configureWifiDisplay">Թույլ է տալիս հավելվածին կարգավորել և միանալ WLAN ցուցադրիչներին:</string>
+    <string name="permlab_controlWifiDisplay">կառավարել WLAN-ի ցուցադրումը</string>
+    <string name="permdesc_controlWifiDisplay">Թույլ է տալիս հավելվածին կառավարել WLAN ցուցադրիչների ցածր մակարդակի գործառույթները:</string>
+    <string name="permlab_accessWifiState">դիտել WLAN կապերը</string>
+    <string name="permdesc_accessWifiState">Թույլ է տալիս հավելվածին տեսնել WLAN ցանցի տեղեկություններ, ինչպես օրինակ` արդյոք WLAN-ը միացված է, թե` ոչ, և միացված WLAN սարքի անունը:</string>
+    <string name="permlab_changeWifiState">միանալ WLAN-ին և անջատվել դրանից</string>
+    <string name="permdesc_changeWifiState">Թույլ է տալիս հավելվածին միանալ WLAN մուտքի կետերին և անջատվել այդ կետերից, ինչպես նաև կատարել սարքի կարգավորման փոփոխություններ WLAN ցանցերի համար:</string>
+    <string name="permlab_changeWifiMulticastState">թույլատրել Բազմասփյուռ WLAN-ի ընդունումը</string>
+    <string name="permdesc_changeWifiMulticastState">Թույլ է տալիս հավելվածին ստանալ WLAN ցանցի բոլոր սարքերին ուղարկված փաթեթները` օգտագործելով ոչ միայն ձեր հեռախոսը, այլ նաև բազմասփյուռ հասցեները: Այն օգտագործում է ավելի շատ լիցք, քան ոչ բազմասփյուռ ռեժիմը:</string>
+    <string name="wifi_available_sign_in">Մուտք գործեք WLAN ցանց</string>
+    <string name="wifi_watchdog_network_disabled">Չհաջողվեց միանալ WLAN-ին</string>
+    <string name="wifi_p2p_dialog_title">WLAN ուղիղ</string>
+    <string name="wifi_p2p_turnon_message">Մեկնարկել WLAN ուղին: Այն կանջատի WLAN հաճախորդ/թեժ կետ գործողությունը:</string>
+    <string name="wifi_p2p_failed_message">Չհաջողվեց մեկնարկել WLAN ուղին:</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN ուղիղն առցանց է</string>
+    <string name="wifi_p2p_frequency_conflict_message">Հեռախոսը ժամանակավորապես կանջատվի WLAN-ից, քանի դեռ այն միացված է %1$s-ին</string>
+    <string name="data_usage_wifi_limit_title">WLAN տվյալները անջատված են</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN տվյալների սահմանը գերազանցվել է</string>
+</resources>

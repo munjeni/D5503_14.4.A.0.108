@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.MessageBubbleView android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="end" android:id="@id/message_bubble" android:background="@drawable/conv_sent_bubble" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bubble_negative_vertical_margin" android:layout_marginBottom="@dimen/bubble_negative_vertical_margin" android:layout_marginStart="@dimen/bubble_min_free_width" android:layout_marginEnd="@dimen/bubble_generic_margin">
+        <ViewStub android:gravity="end" android:layout_gravity="center_vertical" android:id="@id/bubble_content_stub" android:inflatedId="@id/bubble_content" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.sonyericsson.conversations.ui.ConversationContactBadge android:layout_gravity="end|top|center" android:orientation="vertical" android:id="@id/contact_badge" android:clickable="true" android:addStatesFromChildren="true" android:layout_width="@dimen/quick_contact_box_size" android:layout_height="@dimen/quick_contact_box_size" android:layout_marginTop="@dimen/generic_margin" android:layout_marginEnd="@dimen/generic_margin" />
+    </FrameLayout>
+    <ViewStub android:layout_gravity="end" android:id="@id/message_item_header_stub" android:layout="@layout/somc_message_item_header" android:inflatedId="@id/message_item_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/generic_margin" android:layout_marginEnd="@dimen/generic_margin" />
+</com.sonyericsson.conversations.ui.MessageBubbleView>

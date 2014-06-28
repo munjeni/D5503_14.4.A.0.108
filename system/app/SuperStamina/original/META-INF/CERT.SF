@@ -1,0 +1,157 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: tis/Us7ISO7kFymdIpcNafSlrdo=
+
+Name: res/drawable-xhdpi/icon_off.png
+SHA1-Digest: A71czBGKM1hKXLNk+caT1cis4b8=
+
+Name: res/drawable-xxhdpi/icon_on.png
+SHA1-Digest: Cy2ctzg3JJuTdgY7Y7VJ5jgvSks=
+
+Name: res/drawable-xxhdpi/stamina_notification_action_got_it.png
+SHA1-Digest: IWj/Hwoalkq1W4cyrQa891RLHWM=
+
+Name: res/drawable-land-xxhdpi/icon_on.png
+SHA1-Digest: jGYxIsLQBFV/Eyemu8TcgcxOjwQ=
+
+Name: res/layout/super_stamina_dialog_content.xml
+SHA1-Digest: Z4zBFXBCt8pv8AEfa2nIdi/Vya0=
+
+Name: res/drawable-land-xxhdpi/icon_off.png
+SHA1-Digest: pcYGcPKnahPGf+1hJFZWcHc19RQ=
+
+Name: res/drawable-hdpi/icon_off.png
+SHA1-Digest: 1gnE8IEQP7slgfrMeJhisRxpxrY=
+
+Name: res/drawable-nodpi/plate.9.png
+SHA1-Digest: 3YYh678K5Ed8q4DBmDNb0GI4dV8=
+
+Name: res/drawable-xhdpi/stamina_notification_action_got_it.png
+SHA1-Digest: J8VKbdBZucpyFHuyilmdP/vQlrc=
+
+Name: res/drawable-hdpi/smallapps_launcher.png
+SHA1-Digest: D1gajY5Y8FCo6Qxf/wOpulxrZZY=
+
+Name: res/drawable-hdpi/stamina_notification_action_got_it.png
+SHA1-Digest: MYEWoPzuckkaheIZBnFJ52dYBQc=
+
+Name: res/drawable-xhdpi/button_plate.png
+SHA1-Digest: 2+IATaMYbAkooQmt76pJ1grv97A=
+
+Name: res/drawable/icon_on_color.xml
+SHA1-Digest: F9/iDcxT5Ivsg/spGdy6iiICU2Y=
+
+Name: res/drawable-hdpi/stamina_dialog_header_note.png
+SHA1-Digest: qJ6eNwU5BSHyGPJPivhf7xGVpl8=
+
+Name: res/drawable-xxhdpi/button_plate_pressed.png
+SHA1-Digest: LLmy2NB2/sbHax8geDqtrujZhqY=
+
+Name: res/drawable-land-xxhdpi/button_plate.png
+SHA1-Digest: q9/npMfnMFsZ7dOEolor+NYZYc0=
+
+Name: res/xml/stamina_appwidget_info.xml
+SHA1-Digest: UGzDBN9+zitjhT5pCVf/EbNiwkg=
+
+Name: res/drawable-hdpi/icon_on.png
+SHA1-Digest: lRFcfSpZKk41LBSKHwdX/cPwyrg=
+
+Name: res/drawable-land-hdpi/icon_off.png
+SHA1-Digest: 049PB7kb9ObF1AOjfDiGoy1PnQU=
+
+Name: res/drawable-xxhdpi/icon_off.png
+SHA1-Digest: TdOdRnT5GtbA1w/xsHpMHkELd90=
+
+Name: res/drawable-land-xhdpi/button_plate.png
+SHA1-Digest: HLf7EgLLov59e8wHhbX4tLAUwas=
+
+Name: res/drawable-xhdpi/stamina_statusbar_low_battery_mode.png
+SHA1-Digest: 2iYmgzd8kvic9KPch1uZuBsdx+g=
+
+Name: res/drawable-xxhdpi/widget_preview.png
+SHA1-Digest: OzYPMiCz9CveWXfjwsq0OT0bZVs=
+
+Name: res/drawable-hdpi/stamina_notification_power_tip.png
+SHA1-Digest: K38ZS3SGMItw0RjEFH8KB7ZPJng=
+
+Name: res/drawable-land-hdpi/button_plate_pressed.png
+SHA1-Digest: 13LKHSdpBJF/YUaylRPRGkgSL/c=
+
+Name: res/drawable-xhdpi/icon_on.png
+SHA1-Digest: G59BtqOl4q6Id2EcxojTT6txXU8=
+
+Name: resources.arsc
+SHA1-Digest: rrLs95hAIhhFkBukRogsMHorYL8=
+
+Name: res/drawable-xhdpi/button_plate_pressed.png
+SHA1-Digest: 3kbJW6PtTaTbnljEJzL4bB+Y8CU=
+
+Name: res/drawable-xhdpi/stamina_dialog_header_note.png
+SHA1-Digest: MDrcnaT6c6Rmt5+7Il3QdOxgxF4=
+
+Name: res/drawable-xxhdpi/stamina_dialog_header_note.png
+SHA1-Digest: HeaP34z/M1jUw6DhNhH3E2ZW7eU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: IU9czcxDJcM5x1rsxP01L/b1KnE=
+
+Name: res/drawable-xhdpi/smallapps_launcher.png
+SHA1-Digest: YW44Zp+N/1AQpm2IQ2QUkJ/n5PQ=
+
+Name: res/drawable-land-xhdpi/icon_off.png
+SHA1-Digest: KtEiZ5F4NBr0oLI8vhOfLbiAju4=
+
+Name: res/drawable-xxhdpi/button_plate.png
+SHA1-Digest: 3DMtcHxWs+yNTECHNbMVRlaqiXk=
+
+Name: res/drawable-xxhdpi/stamina_statusbar_low_battery_mode.png
+SHA1-Digest: N2K5C2NyYzdeYv5woeJ30bPekSs=
+
+Name: res/drawable-hdpi/button_plate.png
+SHA1-Digest: 24034ANv4PIPi0IUfPWaklf6CJ0=
+
+Name: res/drawable-xxhdpi/smallapps_launcher.png
+SHA1-Digest: 0LRAnmxQ2Dsu91oLHIcGFpJLh28=
+
+Name: res/layout/stamina_appwidget.xml
+SHA1-Digest: gjUc5lO+tSoQhydfh4HNEdi8Etg=
+
+Name: classes.dex
+SHA1-Digest: IMiLN+VI07DKHsdY+MsrKvCxLmU=
+
+Name: res/drawable-hdpi/stamina_statusbar_low_battery_mode.png
+SHA1-Digest: fB5NNLGXA2tAh8KX/AyJphWaTDY=
+
+Name: res/drawable-hdpi/widget_preview.png
+SHA1-Digest: 0wZMaxAuZA4K2cJSw0FwmJ6Z088=
+
+Name: res/drawable-land-hdpi/button_plate.png
+SHA1-Digest: ntFm6V+LMXKyYcgVmozz4Xu2p/o=
+
+Name: res/drawable-hdpi/button_plate_pressed.png
+SHA1-Digest: BX1Masa5NkRB/IYIZSneAMFqfzQ=
+
+Name: res/drawable-xxhdpi/stamina_notification_power_tip.png
+SHA1-Digest: 7T+DiIA1CIJxQMKWVgahNbSlRMU=
+
+Name: res/drawable-xhdpi/widget_preview.png
+SHA1-Digest: 21j4diIiKjRgC8uI6aboapbG2nM=
+
+Name: res/drawable-xhdpi/stamina_notification_power_tip.png
+SHA1-Digest: IjNeTEy8xkiQhH5Cec6MgItjHac=
+
+Name: res/drawable-land-xxhdpi/button_plate_pressed.png
+SHA1-Digest: O5KCo84Jc3CUkY/tK2BBQGZD2fY=
+
+Name: res/drawable-land-xhdpi/button_plate_pressed.png
+SHA1-Digest: 2shyAw5qv2FdBjfnAmh3858lOaw=
+
+Name: res/drawable-land-hdpi/icon_on.png
+SHA1-Digest: EocprIQmjwDbiqSgj+uLOlBsRrI=
+
+Name: res/drawable-land-xhdpi/icon_on.png
+SHA1-Digest: WdFVl2Mma5HjuSxLTY29WKv1i8o=
+
+Name: res/drawable/button_background.xml
+SHA1-Digest: WkWXvn0WnPgrQ06EMcW5uteOh84=
+

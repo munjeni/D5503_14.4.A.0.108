@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Tīkla nokl. vērtība</item>
+        <item>Slēpt numuru</item>
+        <item>Rādīt numuru</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globāli</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Tikai EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>CDMA/EvDo automātiski</item>
+        <item>GSM/WCDMA automātiski</item>
+        <item>Tikai WCDMA</item>
+        <item>Tikai GSM</item>
+        <item>Vēlams GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angļu</item>
+        <item>Franču</item>
+        <item>Spāņu</item>
+        <item>Japāņu</item>
+        <item>Korejiešu</item>
+        <item>Ķīniešu</item>
+        <item>Ivrits</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (aut. režīms)</item>
+        <item>Tikai WCDMA</item>
+        <item>Tikai GSM</item>
+        <item>GSM/WCDMA (WCDMA pref.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Tikai mājas</item>
+        <item>Automātiski</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Tikai mājas tīkli</item>
+        <item>Saistītie tīkli</item>
+        <item>Jebkurš tīkls</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Tikai CDMA</item>
+        <item>Tikai EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Teletaips izslēgts</item>
+        <item>Teletaips pilns</item>
+        <item>Teletaipa HCO</item>
+        <item>Teletaipa VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Parasts</item>
+        <item>Garš</item>
+    </string-array>
+</resources>

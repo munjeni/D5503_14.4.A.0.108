@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Privzeto omrežje</item>
+        <item>Skrij številko</item>
+        <item>Pokaži številko</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globalno</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Samo EvDo</item>
+        <item>CDMA brez EvDo</item>
+        <item>CDMA/EvDo – samodejno</item>
+        <item>GSM/WCDMA – samodejno</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+        <item>GSM/WCDMA – prednostno</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>angleščina</item>
+        <item>francoščina</item>
+        <item>španščina</item>
+        <item>japonščina</item>
+        <item>korejščina</item>
+        <item>kitajščina</item>
+        <item>hebrejščina</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (sam. način)</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+        <item>GSM/WCDMA (WCDMA pr.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo domače</item>
+        <item>Samodejno</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Samo domača omrežja</item>
+        <item>Pridružena omrežja</item>
+        <item>Poljubno omrežje</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Le CDMA</item>
+        <item>Samo EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Besedilni telefon izklop.</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalni</item>
+        <item>Dolgi</item>
+    </string-array>
+</resources>

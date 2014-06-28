@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>നെറ്റ്‌വ൪ക്ക് ഡിഫോള്‍ട്ട്</item>
+        <item>നമ്പര്‍ മറയ്ക്കുക</item>
+        <item>നമ്പര്‍ പ്രദര്‍ശിപ്പിക്കുക</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>ആഗോളം</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo മാത്രം</item>
+        <item>EvDo ഉള്ള/ഇല്ലാതെ CDMA</item>
+        <item>CDMA / EvDo ഓട്ടോ</item>
+        <item>GSM / WCDMA ഓട്ടോ</item>
+        <item>WCDMA മാത്രം</item>
+        <item>GSM മാത്രം</item>
+        <item>GSM/WCDMA അഭിലഷണീയം</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ഇംഗ്ലീഷ്</item>
+        <item>ഫ്രഞ്ച്</item>
+        <item>സ്പാനിഷ്</item>
+        <item>ജപ്പാനീസ്</item>
+        <item>കൊറിയന്‍</item>
+        <item>ചൈനീസ്</item>
+        <item>ഹീബ്രു</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (ഓട്ടോ മോഡ്)</item>
+        <item>WCDMA മാത്രം</item>
+        <item>GSM മാത്രം</item>
+        <item>GSM/WCDMA (ഇഷ്ടപ്പെട. WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ഹോം മാത്രം</item>
+        <item>യാന്ത്രികം</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>ഹോം നെറ്റ്‌വ൪ക്കുകള്‍ മാത്രം</item>
+        <item>അഫിലിയേറ്റ് ചെയ്ത നെറ്റ്‌.</item>
+        <item>ഏത് നെറ്റ്‌വ൪ക്കും</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA മാത്രം</item>
+        <item>EvDo മാത്രം</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY ഓഫ്</item>
+        <item>TTY പൂര്‍ണ്ണം</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ഡ്രൈ ക്ലീനറുകള്‍</item>
+        <item>നീളമുള്ളത്</item>
+    </string-array>
+</resources>

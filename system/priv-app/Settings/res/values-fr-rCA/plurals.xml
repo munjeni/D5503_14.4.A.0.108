@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d js</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 lettre</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit contenir au moins une lettre majuscule</item>
+        <item quantity="one">Le mot de passe doit contenir au moins une lettre minuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit contenir au moins %d lettres majuscules</item>
+        <item quantity="one">Le mot de passe doit contenir au moins une lettre majuscule</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit contenir au moins %d chiffres</item>
+        <item quantity="one">Le mot de passe doit contenir au moins un chiffre</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit contenir au moins %d caractères spéciaux</item>
+        <item quantity="one">Le mot de passe doit contenir au moins 1 caractère spécial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit contenir au moins %d caractères spéciaux</item>
+        <item quantity="one">Le mot de passe doit contenir au moins un caractère spécial</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Les applications %d peuvent lire les notifications</item>
+        <item quantity="one">"L'application %d peut lire les notifications"</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">NIP de carte SIM incorrect. Il vous reste %d tentative(s).</item>
+        <item quantity="one">NIP de carte SIM incorrect. Il vous reste %d tentative(s). Après cela, vous devrez communiquer avec votre fournisseur de services pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s imprimantes trouvées</item>
+        <item quantity="one">%1$s imprimante trouvée</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d appl actuellement dans la liste</item>
+        <item quantity="one">%1$d appl actuellement dans la liste</item>
+    </plurals>
+</resources>

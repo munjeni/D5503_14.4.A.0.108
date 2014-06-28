@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>okvirna lokacija</item>
+        <item>precizna lokacija</item>
+        <item>GPS</item>
+        <item>vibracija</item>
+        <item>čitanje kontakata</item>
+        <item>menjanje kontakata</item>
+        <item>čitanje evidencije poziva</item>
+        <item>menjanje evidencije poziva</item>
+        <item>čitanje kalendara</item>
+        <item>menjanje kalendara</item>
+        <item>WLAN skeniranje</item>
+        <item>obaveštenje</item>
+        <item>skeniranje telefona</item>
+        <item>pozivanje telefona</item>
+        <item>čitanje SMS poruka</item>
+        <item>pisanje SMS poruka</item>
+        <item>prijem SMS poruka</item>
+        <item>prijem hitnih SMS poruka</item>
+        <item>prijem MMS poruka</item>
+        <item>prijem push poruka preko WAP-a</item>
+        <item>slanje SMS poruka</item>
+        <item>čitanje ICC SMS poruka</item>
+        <item>pisanje ICC SMS poruka</item>
+        <item>menjanje podešavanja</item>
+        <item>povlačenje na vrh</item>
+        <item>pristup obaveštenjima</item>
+        <item>kamera</item>
+        <item>snimanje audio zapisa</item>
+        <item>puštanje audio zapisa</item>
+        <item>čitanje memorije</item>
+        <item>menjanje memorije</item>
+        <item>дугмад за медије</item>
+        <item>аудио фокус</item>
+        <item>главна јачина звука</item>
+        <item>јачина звука гласа</item>
+        <item>јачина звука звона</item>
+        <item>јачина звука медија</item>
+        <item>јачина звука аларма</item>
+        <item>јачина звука обавештења</item>
+        <item>јачина звука Bluetooth-а</item>
+        <item>задржавање ван стања спавања</item>
+        <item>праћење локације</item>
+        <item>надгледање локације са високим напоном</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibracija</item>
+        <item>Čitanje kontakata</item>
+        <item>Menjanje kontakata</item>
+        <item>Čitanje evidencije poziva</item>
+        <item>Menjanje evidencije poziva</item>
+        <item>"Čitanje kalendara "</item>
+        <item>"Menjanje kalendara "</item>
+        <item>Lokacija</item>
+        <item>Postavljanje obaveštenja</item>
+        <item>Lokacija</item>
+        <item>"Pozivanje telefona "</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Slanje SMS/MMS poruka</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Slanje SMS/MMS poruka</item>
+        <item>Prijem SMS/MMS poruka</item>
+        <item>Slanje SMS/MMS poruka</item>
+        <item>Menjanje podešavanja</item>
+        <item>Povlačenje na vrh</item>
+        <item>Pristup obaveštenjima</item>
+        <item>"Kamera "</item>
+        <item>"Snimanje audio zapisa "</item>
+        <item>Puštanje audio zapisa</item>
+        <item>"Čitanje memorije "</item>
+        <item>"Menjanje memorije "</item>
+        <item>Дугмад за медије</item>
+        <item>Аудио фокус</item>
+        <item>Главна јачина звука</item>
+        <item>Јачина звука гласа</item>
+        <item>Јачина звука звона</item>
+        <item>Јачина звука медија</item>
+        <item>Јачина звука аларма</item>
+        <item>Јачина звука обавештења</item>
+        <item>Јачина звука Bluetooth-а</item>
+        <item>Задржи ван стања спавања</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

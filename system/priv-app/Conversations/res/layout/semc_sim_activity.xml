@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:name="com.sonyericsson.conversations.ui.SimMessageListFragment" android:id="@id/sim_message_list_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

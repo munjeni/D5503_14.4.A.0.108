@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radioInfo_menu_viewADN">查看 UIM 卡地址簿</string>
+    <string name="security_settings_summary">设置我的位置、屏幕解锁、UIM 卡锁定和凭据存储锁定</string>
+    <string name="bluetooth_profile_sap">UIM访问</string>
+    <string name="bluetooth_sap_profile_summary_connected">已连接到UIM访问服务器</string>
+    <string name="bluetooth_sap_profile_summary_use_for">用于UIM访问</string>
+    <string name="sim_lock_settings">UIM 卡锁定设置</string>
+    <string name="sim_lock_settings_category">设置 UIM 卡锁定</string>
+    <string name="sim_lock_settings_title">UIM 卡锁定</string>
+    <string name="sim_pin_toggle">锁定 UIM 卡</string>
+    <string name="sim_pin_change">更改 UIM 卡 PIN</string>
+    <string name="sim_enter_pin">UIM 卡 PIN</string>
+    <string name="sim_enable_sim_lock">锁定 UIM 卡</string>
+    <string name="sim_disable_sim_lock">解锁 UIM 卡</string>
+    <string name="sim_enter_old">旧 UIM 卡 PIN</string>
+    <string name="sim_enter_new">新 UIM 卡 PIN</string>
+    <string name="sim_change_pin">UIM 卡 PIN</string>
+    <string name="sim_absent">无UIM/RUIM</string>
+    <string name="sim_change_succeeded">已成功更改 UIM 卡 PIN</string>
+    <string name="sim_lock_failed">"无法更改UIM卡锁定状态。
+PIN可能不正确。"</string>
+    <string name="multi_sim_settings_title">Multi UIM设定</string>
+    <string name="multi_sim_settings_summary">针对语音、数据和短信设置Multi UIM设定</string>
+    <string name="sim_lock_disabled">UIM卡锁已禁用</string>
+    <string name="sim_lock_enabled">UIM卡锁已启用</string>
+    <string name="bluetooth_sap_profile_summary_not_connected">未连接到UIM访问服务器</string>
+    <string name="sim_change_failed_enable_sim_lock">无法更改UIM/RUIM PIN。启用UIM/RUIM锁。</string>
+    <string name="sim_lock_change_not_supported">"无法更改UIM/RUIM锁。
+UIM/RUIM不支持。"</string>
+</resources>

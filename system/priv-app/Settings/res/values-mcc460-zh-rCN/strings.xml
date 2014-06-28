@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA模式包括：
+
+• 扩展待机
+通过在屏幕处于关闭状态时暂时禁用WLAN和移动数据来节省电池电量。大多数应用程序将处于不活动状态。
+当屏幕打开时，您的手机将能正常工作。
+如果您希望在扩展待机打开时将某些应用程序保持活动状态，请将其添加到“待机时仍启用应用程序”列表中。
+
+• 扩展使用
+通过在设备处于使用状态时限制硬件性能来节省电池电量。
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>什么是STAMINA模式？</u>"
+STAMINA模式一种Sony™省电功能。它通过在屏幕处于关闭状态时禁用功能来延长电池使用寿命。
+
+"<u>基本用法</u>"
+要激活STAMINA模式，请使用下一个屏幕上的开关。
+当屏幕关闭时，所有网络数据将暂时禁用，并且大多数应用程序将处于不活动状态，以节省电池电量。
+当屏幕打开时，您的设备将能正常工作。
+
+"<u>高级用法</u>"
+如果您希望在屏幕关闭时将某些应用程序保持活动状态，只需将其添加到“待机模式下活动的应用程序”列表中即可。
+
+"<u>注意</u>"
+如果在待机模式下禁用某些应用程序，则它们可能无法正常工作。如果某个应用程序无法正常工作，请将其添加到“待机模式下活动的应用程序”列表中，如果此举无法解决问题，请取消激活STAMINA模式。"</string>
+    <string name="location_based_wi_fi_label">基于位置的WLAN</string>
+    <string name="location_based_wi_fi_descr">处于已保存的WLAN网络区域内时自动启用WLAN</string>
+    <string name="powersaver_feature_wifi">WLAN关闭</string>
+    <string name="install_wapi_certs">安装WLAN证书</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">管理WLAN、蓝牙、飞行模式、移动网络和VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">打开WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN设定</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">选择WLAN</string>
+    <string name="wifi_starting">正在打开WLAN...</string>
+    <string name="wifi_stopping">正在关闭WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">仅在WLAN互联网连接状况良好时使用WLAN网络</string>
+    <string name="wifi_scan_always_available_summary">即使在WLAN关闭时，也允许Google的位置服务和其他应用扫描网络。</string>
+    <string name="wifi_scan_notify_text_location_on">为了提高位置信息精确度以及其他目的，Google和其他应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”>“随时都可扫描”进行设定。</string>
+    <string name="wifi_scan_notify_text_location_off">应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”>“随时都可扫描”进行设定。</string>
+    <string name="wifi_setting_sleep_policy_title">在睡眠状态下保持WLAN连接</string>
+    <string name="wifi_suspend_optimizations">WLAN优化</string>
+    <string name="wifi_suspend_optimizations_summary">开启WLAN时尽可能节约电池用量</string>
+    <string name="wifi_access_points">WLAN网络</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">要查看可用网络，请打开WLAN。</string>
+    <string name="wifi_empty_list_wifi_on">正在搜索WLAN网络…</string>
+    <string name="wifi_empty_list_user_restricted">您无权更改WLAN网络</string>
+    <string name="wifi_required_info_text">要完成设置，您的平板电脑需要访问WLAN网络。设置完毕后，您将可以在移动数据网络和WLAN网络之间切换。</string>
+    <string name="wifi_wps_setup_title">WLAN保护设置</string>
+    <string name="wifi_wps_onstart_pbc">请按下您路由器上的WLAN保护设置按钮，它可能会标为“WPS”或包含此符号：</string>
+    <string name="wifi_wps_onstart_pin">请在WLAN路由器上输入PIN %1$s。设置过程最多可能需要两分钟时间才能完成。</string>
+    <string name="wifi_wps_connected">已连接到WLAN网络%s</string>
+    <string name="wifi_scan_always_turnon_message">"为了提高位置信息精确度以及其他目的，%1$s请求启用网络扫描功能（在关闭了WLAN时也可进行扫描）。
+
+是否对所有需要进行扫描的应用批准这项请求？"</string>
+    <string name="wifi_connect_failed_message">手机无法连接到此WLAN网络。</string>
+    <string name="wifi_advanced_titlebar">高级WLAN设定</string>
+    <string name="wifi_setting_frequency_band_title">WLAN频带</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">移动热点</string>
+    <string name="wifi_tether_failed_subtext">移动热点错误</string>
+    <string name="wifi_tether_configure_ap_text">设置WLAN热点</string>
+    <string name="wifi_tether_configure_subtext">"%1$s 移动热点。
+安全性：%2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC地址</string>
+    <string name="location_mode_high_accuracy_description">使用GPS、WLAN和移动网络确定位置</string>
+    <string name="location_mode_battery_saving_description">使用WLAN和移动网络确定位置</string>
+    <string name="location_neighborhood_level">允许系统向Google发送匿名位置数据。同时允许具有权限的应用程序使用来自WLAN和移动网络等来源的数据，以便确定您所在的大概位置。</string>
+    <string name="location_neighborhood_level_wifi">通过WLAN确定位置</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN开启时间</string>
+    <string name="bluetooth_on_time">WLAN开启时间</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN正在运行</string>
+    <string name="usage_type_data_wifi_send">发送的WLAN数据量</string>
+    <string name="usage_type_data_wifi_recv">接收的WLAN数据量</string>
+    <string name="battery_action_wifi">WLAN设定</string>
+    <string name="battery_desc_wifi">WLAN所耗电量</string>
+    <string name="battery_sugg_wifi">不使用WLAN或其不可用时将其关闭</string>
+    <string name="gadget_toggle_wifi">正在更新WLAN设定</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">将应用程序数据、WLAN 密码和其他设定备份至服务器</string>
+    <string name="backup_erase_dialog_message">要停止备份您的WLAN密码、书签、其他设定以及应用程序数据，并清除服务器上的所有副本吗？</string>
+    <string name="wifi_setup_title">WLAN设定</string>
+    <string name="wifi_setup_title_editing_network">连接到WLAN网络“%s”</string>
+    <string name="wifi_setup_title_connecting_network">正在连接WLAN网络“%s”...</string>
+    <string name="wifi_setup_title_connected_network">已连接到WLAN网络“%s”</string>
+    <string name="wifi_setup_eap_not_supported">不能在设定过程中配置EAP WLAN连接。设定完成后，您可以在“设定”>“无线和网络”下进行配置。</string>
+    <string name="wifi_setup_description_connected">触摸<b>下一步</b>"可继续进行设定。
+
+触摸"<b>返回</b>可连接到其他WLAN网络。</string>
+    <string name="data_usage_menu_show_wifi">显示WLAN使用情况</string>
+    <string name="data_usage_disable_wifi_limit">设定WLAN数据限制</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">如果限制后台移动数据，那么除非您已连接到WLAN网络，否则部分应用程序和服务会无法运行。</string>
+    <string name="data_usage_restrict_background_multiuser">"如果您限制后台移动数据，则在未连接到WLAN网络时，部分应用和服务将会无法运行。
+
+
+
+此设置会影响这部手机上的所有用户。"</string>
+    <string name="data_usage_metered_body">选择属于移动热点的WLAN网络。这样可限制应用程序在后台使用这些网络。应用程序在使用这些网络下载较大的文件前，还可能会发出警告。</string>
+    <string name="data_usage_metered_wifi">WLAN网络</string>
+    <string name="data_usage_metered_wifi_disabled">要选择移动热点，请打开WLAN。</string>
+    <string name="user_add_user_message_long">"您可以通过创建新用户来与其他人共享此设备。每个用户都会有自己的空间，其中可以容纳他们自己的应用、壁纸等内容。用户可以调整WLAN等会影响到所有用户的平板电脑设置。
+
+
+
+您创建新用户后，该用户必须完成设置流程。
+
+
+
+任何用户均可代表其他所有用户接受应用的新权限。"</string>
+    <string name="restriction_wifi_config_title">WLAN和移动网络</string>
+    <string name="restriction_wifi_config_summary">允许修改WLAN和移动网络设定</string>
+    <string name="ct_wifi_connected_text">已连接中国电信WLAN网络。</string>
+    <string name="cw_network_priority">优先使用中国电信WLAN网络</string>
+    <string name="cw_network_priority_summary">相对其他WLAN网络优先连接中国电信WLAN网络</string>
+    <string name="data_traffic_disabled_text">因为已禁用数据通信，无法连接中国电信WLAN网络。是否立即启用数据通信？</string>
+    <string name="location_based_wifi">基于位置的WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">自动连接到AT&amp;T的移动热点区</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN自动连接</string>
+    <string name="wifi_calling_mode_title">WLAN呼叫</string>
+    <string name="wifi_context_menu_change_wapi_certificate">更改WLAN证书</string>
+    <string name="wifi_p2p_settings">WLAN Direct设定</string>
+    <string name="wifi_security_verbose_wapi_cert">使用WLAN CERT提供保护</string>
+    <string name="wifi_security_verbose_wapi_psk">使用WLAN PSK提供保护</string>
+    <string name="wifi_tether_explanation_dialog_text">"您可以将您的设备用作移动热点。这将允许其他设备（最多10个）通过WLAN网络与其相连接。连接的设备将能够通过您手机的移动网络连接访问互联网。移动热点使用移动数据，会产生额外的费用。
+
+移动热点会消耗更多的电池电量。请将设备连接到电源插座以延长电池使用寿命。"</string>
+    <string name="wifi_tether_settings_subtext">设置和管理移动热点</string>
+    <string name="wifi_tether_settings_text">移动热点设定</string>
+    <string name="wifi_wps_category_title">设定WLAN网络</string>
+    <string name="cw_network_notification">启用中国电信WLAN通知</string>
+    <string name="stamina_xssm_summary">当屏幕关闭时禁用移动数据和WLAN</string>
+    <string name="tethering_no_sim_warning_txt">请插入SIM卡，以便与使用移动热点或USB绑定访问互联网的其他设备共享手机的数据连接。</string>
+    <string name="wifi_offload_checkbox_summary">打开应用后，如果WLAN可用，请告诉我</string>
+    <string name="wifi_offload_checkbox_title">显示WLAN弹出式窗口</string>
+    <string name="wifi_offload_notify_available_networks">WLAN通知</string>
+    <string name="wifi_offload_notify_available_networks_summary">如果WLAN网络可用，请通知我</string>
+    <string name="wifi_offload_option_title">可用的WLAN网络</string>
+</resources>

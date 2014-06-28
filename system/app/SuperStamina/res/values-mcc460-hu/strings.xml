@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"A képernyő kikapcsolásakor a WLAN és a mobilhálózati adatok ideiglenesen letiltottak, és a legtöbb alkalmazás inaktív lesz. Továbbra is fogad viszont telefonhívásokat, SMS/MMS-üzeneteket, valamint Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió nem működik, a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"A képernyő kikapcsolásakor a WLAN és a mobilhálózati adatok ideiglenesen letiltottak, és a legtöbb alkalmazás inaktív lesz. Továbbra is fogad viszont SMS/MMS-üzeneteket, Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió működik, és a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+
+A képernyő bekapcsolásakor az eszköz rendesen működik."</string>
+    <string name="description_msg_no_telephony_txt">"A képernyő kikapcsolásakor a WLAN ideiglenesen letiltott, a legtöbb alkalmazás pedig inaktív lesz. Továbbra is fogad viszont Sony™ naptári értesítéseket és Sony™-riasztásokat. A zenelejátszó és az FM-rádió működik, és a folyamatban lévő letöltések és feltöltések befejeződhetnek.
+
+A képernyő bekapcsolásakor az eszköz rendesen működik."</string>
+    <string name="notification_descr_ps">A Merülő akku mód megnövelheti az akkumulátor üzemidejét, ha alacsony töltöttség esetén lekapcsolja a WLAN-t vagy csökkenti a képernyő fényerejét.</string>
+    <string name="notification_text_lbw">Helyalapú WLAN aktiválása</string>
+    <string name="notification_descr_lbw">A WLAN be van kapcsolva, de egy ideje már nincs használatban. A helyalapú WLAN aktiválásával energiát takaríthat meg.</string>
+    <string name="location_based_wifi_tip_dialog">A WLAN be van kapcsolva, de egy ideje nem használja. Energiát takaríthat meg, ha bekapcsolja a helyalapú WLAN-t. Beállítja a helyalapú WLAN-t?</string>
+    <string name="low_battery_mode_tip_dialog">A Merülő akku mód megnövelheti az akkumulátor üzemidejét, ha alacsony töltöttség esetén lekapcsolja a WLAN-t vagy csökkenti a képernyő fényerejét. Beállítja a Merülő akku módot?</string>
+</resources>

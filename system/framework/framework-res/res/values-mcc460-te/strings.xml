@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">గ్లోబల్ పొజిషనింగ్ సిస్టమ్ (GPS) మరియు సెల్ టవర్‌లు మరియు WLAN వంటి నెట్‌వర్క్ సర్వీసు వనరులను ఉపయోగించి మీ ఖచ్చితమైన స్థానాన్ని తెలుసుకోవడానికి యాప్‌ను అనుమతిస్తుంది. ఈ స్థాన సర్వీసులను మీ యాప్ ఉపయోగించడానికి వీలుగా ప్రారంభించబడి మరియు అందుబాటులో ఉండాలి. యాప్స్ మీరు ఎక్కడ ఉన్నారో తెలుసుకోవడానికి ఉపయోగించవచ్చు మరియు అదనపు బ్యాటరీ పవర్‌ను ఉపయోగించవచ్చు.</string>
+    <string name="permdesc_accessCoarseLocation">మీ సమీప స్థానాన్ని పొందడానికి యాప్‌ను అనుమతిస్తుంది. సెల్ టవర్ మరియు WLAN వంటి నెట్‌వర్క్ మూలాలను ఉపయోగించి స్థాన ప్రొవైడర్‌ల నుండి ఈ స్థానం నిర్ధారించబడుతుంది. ఈ స్థాన సర్వీసులను ఉపయోగించడానికి అవి ప్రారంభించబడి, మీ పరికరానికి అందుబాటులో ఉండాలి. మీరు ఎక్కడ ఉన్నారో తెలుసుకోవడానికి దీనిని యాప్స్ ఉపయోగించవచ్చు.</string>
+    <string name="permlab_configureWifiDisplay">WLAN డిస్‌ప్లేలను కాన్ఫిగర్ చేయండి</string>
+    <string name="permdesc_configureWifiDisplay">WLAN డిస్‌ప్లేలను కాన్ఫిగర్ చేయడానికి మరియు కనెక్ట్ చేయడానికి యాప్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_controlWifiDisplay">WLAN డిస్‌ప్లేలను నియంత్రించండి</string>
+    <string name="permdesc_controlWifiDisplay">WLAN డిస్‌ప్లేల స్వల్ప-స్థాయి ఫీచర్‌లను నియంత్రించడానికి యాప్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_accessWifiState">WLAN కనెక్షన్‌లను వీక్షించు</string>
+    <string name="permdesc_accessWifiState">WLAN ఎనేబుల్ అయిందో లేదో మరియు కనెక్ట్ చేయబడిన WLAN పరికరాల పేర్లు వంటి, WLAN నెట్‌వర్కింగ్ గురించిన సమాచారాన్ని వీక్షించడానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_changeWifiState">WLANకు కనెక్ట్ చేయండి మరియు డిస్‌కనెక్ట్ చేయండి</string>
+    <string name="permdesc_changeWifiState">WLAN ప్రాప్యత పాయింట్‌లకు కనెక్ట్ చేయడానికి మరియు డిస్‌కనెక్ట్ చేయడానికి మరియు WLAN నెట్‌వర్క్‌లకి పరికర కన్ఫిగరేషన్‌ను మార్చడానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN మల్టీకాస్ట్‌ ప్రతిస్పందనను అనుమతించండి</string>
+    <string name="permdesc_changeWifiMulticastState">మీ ఫోన్ మాత్రమే కాకుండా మల్టీకాస్ట్ చిరునామాలను ఉపయోగించి WLAN నెట్‌వర్క్ ద్వారా అన్ని పరికరాలకు పంపబడిన ప్యాకెట్‌లను అందుకోవడానికి అప్లికేషన్‌ను అనుమతిస్తుంది. మల్టీకాస్ట్-ఏతర పద్దతి కన్నా ఇది ఎక్కవ పవర్‌ను వినియోగిస్తుంది.</string>
+    <string name="wifi_available_sign_in">WLAN నెట్‌వర్క్‌కు సైన్ ఇన్ చేయండి</string>
+    <string name="wifi_watchdog_network_disabled">WLAN అల్ప సామర్థ్య స్థితిలో ఇంటర్నెట్ కనెక్షన్‌ను కలిగి</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct ప్రారంభించండి. ఇది WLAN క్లయింట్/హాట్‌స్పాట్‌ను ఆపివేస్తుంది.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct ప్రారంభించడం సాధ్యం కాలేదు.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct ఆన్‌లో ఉంది</string>
+    <string name="wifi_p2p_frequency_conflict_message">ఫోన్ %1$sకు కనెక్ట్ అయినప్పుడు WLAN నుండి తాత్కాలికంగా డిస్‌కనెక్ట్ చేయబడుతుంది</string>
+    <string name="data_usage_wifi_limit_title">WLAN డేటా డిసేబుల్ చేయబడింది</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN డేటా పరిమితి మించిపోయింది</string>
+    <string name="policylab_disableWifi">WLANకు ప్రాప్యతను నిలిపివేయండి</string>
+    <string name="policydesc_disableWifi">పరికరంలో WLAN కనెక్షన్‌లను నిరోధించండి.</string>
+    <string name="wifi_disabled_notification_title">WLAN కనెక్షన్ పరిమితం చేయబడింది.</string>
+    <string name="wifi_disabled_notification_message">"WLAN ఉపయోగాన్ని భద్రతా విధానం పరిమితం చేస్తోంది. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">ప్రోగ్రస్‌లో ఉన్న WLAN రోమింగ్</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN నెట్‌వర్క్ కనెక్ట్ చేయబడింది. బిల్లింగ్ సమాచారాన్ని 10000 లేదా స్థానిక స్టోర్‌లో పొందండి.
+
+"</string>
+    <string name="ct_cplusw_notification_title">చైనా టెలికామ్ WLAN కనెక్షన్</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">మీరు China Telecom యొక్క WLAN నెట్‌వర్క్‌కు కనెక్ట్ చేయబడతారు. చార్జీల వివరాలు కోసం, దయచేసి China Telecom కస్టమర్ సర్వీసును సంప్రదించండి. కొనసాగాలా?</string>
+    <string name="wifi_nonconcurrency_message">WLAN క్లయింట్ ప్రారంభించండి. ఈ WLAN Direct ఆపివేస్తుంది.</string>
+    <string name="wifi_noncuncurrency_message">WLAN క్లయింట్ ప్రారంభించండి. ఈ WLAN Direct ఆపివేస్తుంది.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">ఇప్పటికే ఉన్న ఏదైనా WLAN కనెక్షన్ డిస్‌కనెక్ట్ చేయబడుతుంది</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct ప్రారంభించండి. ఈ WLAN కనెక్షన్ ఆపివేస్తుంది.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">ఇది ఇప్పటికే ఉన్నటువంటి WLAN కనెక్షన్ ఆపివేస్తుంది</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct ప్రారంభించండి. ఈ WLAN కనెక్షన్ ఆపివేస్తుంది.</string>
+    <string name="tethered_notification_message_wifi">WLANని ఆన్‌‌‌‌‌‌కు మార్చడానికి Mobile HotSpot‌‌‌‌‌‌‌‌‌ను ఆపివేయండి</string>
+    <string name="tethered_notification_title_wifi">WLAN ఆపివెయ్యబడింది</string>
+</resources>

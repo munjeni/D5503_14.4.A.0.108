@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контролер на реж. на пестене</string>
+    <string name="dont_ask_me_again_txt">Не ме питай отново</string>
+    <string name="description_msg_txt">"При изключен екран Wi-Fi и мобилните данни ще бъдат временно забранени, а повечето приложения ще бъдат неактивни. Все още ще можете да получавате телефонни обаждания, SMS/MMS съобщения, известия от календара на Sony™ и алармени сигнали на Sony™. Музикалният плейър и FM радиото ще работят, а започнатите изтеглянията и качванията ще бъдат завършени.
+
+При включен екран телефонът ще функционира нормално.\\n"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Когато екранът е изключен, Wi-Fi и мобилните данни ще бъдат временно забранени и повечето приложения ще бъдат неактивни. Все още ще получавате SMS/MMS съобщения, известия от календара на Sony™ и алармени сигнали на Sony™. Музикалният плейър и FM радиото ще работят, а изтегляния и качвания в ход на изпълнение ще бъдат разрешени за завършване.
+
+Когато екранът е включен, устройството ще функционира нормално."</string>
+    <string name="description_msg_no_telephony_txt">"Когато екранът е изключен, Wi-Fi връзката ще бъде временно забранена и повечето приложения ще бъдат неактивни. Все още ще получавате известия от календара на Sony™ и алармени сигнали на Sony™. Музикалният плейър и FM радиото ще работят, а изтеглянията и качванията в ход на изпълнение ще може да завършат.
+
+Когато екранът е включен, устройството ще функционира нормално."</string>
+    <string name="description_title_txt">Забележка!</string>
+    <string name="low_battery_mode_description_msg_txt">"Разрешете на режима на изтощена батерия да изключва консумиращи енергия функции и настройки, когато батерията се изтощи до предварително зададено ниво. Натиснете \"Режим на изтощена батерия\" за промяна на настройките.
+"</string>
+    <string name="activate_txt">Включи</string>
+    <string name="cancel_txt">Отказ</string>
+    <string name="xssm_blocker_detector_title">Съвет за упр. захр.</string>
+    <string name="xssm_blocker_detector_msg">%s забранява на режим STAMINA да спестява енергия в режим на готовност</string>
+    <string name="xssm_blocker_detector_long_msg">Ако използвате приложението често, игнорирайте това предупреждение. Ако не го използвате често, деинсталирайте или спрете принудително приложението.</string>
+    <string name="xssm_blocker_detector_ignore">Разбирам. Не показвай отново.</string>
+    <string name="network_detector_msg">%s изпраща и получава данни, когато екранът е изключен и причинява по-бързо изтощаване на батерията.</string>
+    <string name="network_detector_long_msg">Деинсталирането му може да подобри производителността на устройството и дълготрайността на батерията.</string>
+    <string name="wakelock_detector_msg">%s не е използвано няколко седмици.</string>
+    <string name="wakelock_detector_long_msg">Приложението може да извади устройството от режим готовност. Деинсталирането му може да подобри производителността на устройството и дълготрайността на батерията.</string>
+    <string name="notification_title_xssm">Съвет за упр. захр.</string>
+    <string name="notification_text_xssm">Активиране на режим STAMINA</string>
+    <string name="notification_descr_xssm">Устройството често е в режим на готовност. Удължете издръжливостта на батерията, като активирате режим STAMINA.</string>
+    <string name="notification_dont_show_again">Разбирам. Не показвай отново.</string>
+    <string name="notification_title_ps">Съвет за упр. захр.</string>
+    <string name="notification_text_ps">Акт. режим на изтощена батерия</string>
+    <string name="notification_descr_ps">Режимът на изтощена батерия може да удължи живота на батерията, като напр. изключи Wi-Fi или намали яркостта на екрана при изтощена батерия.</string>
+    <string name="notification_title_lbw">Съвет за упр. захр.</string>
+    <string name="notification_text_lbw">Актив. Wi-Fi, базир. на местопол.</string>
+    <string name="notification_descr_lbw">Wi-Fi мрежата е включена, но не е използвана известно време. Спестете енергия, като активирате Wi-Fi, базирана на местоположението.</string>
+    <string name="unused_application_title">Съвет за захранването</string>
+    <string name="unused_application_msg">%s не е било използвано известно време</string>
+    <string name="unused_application_long_msg">Ако желаете да запазите приложението, пренебрегнете това предупреждение. Ако не желаете да го запазите, деинсталирайте приложението.</string>
+    <string name="unused_application_ignore">Разбрано. Не показвай отново.</string>
+    <string name="drain_dialog_title_txt">Батерията не се зарежда</string>
+    <string name="drain_dialog_text_usb_txt">Свързаният източник на захранване не е достатъчен. Батерията се разрежда по-бързо, отколкото се зарежда. Сменете със зарядното устройство за променлив ток.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Свързаният източник на захранване не е достатъчен. Батерията се разрежда по-бързо, отколкото се зарежда. Използвайте минимално устройството по време на зареждане.</string>
+    <string name="extend_battery_tip_dialog_headar">Съвет за управление на захранването</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi мрежата е включена, но не е използвана известно време. Може да спестите захранване, като активирате Wi-Fi, базирана на местоположението. Искате ли да настроите Wi-Fi, базирана на местоположението?</string>
+    <string name="low_battery_mode_tip_dialog">Режимът на изтощена батерия може да удължи живота на батерията например чрез изключване на Wi-Fi мрежата или намаляване на яркостта на екрана при изтощена батерия. Искате ли да настроите режима на изтощена батерия?</string>
+    <string name="stamina_mode_tip_dialog">Вашето устройство често е в режим на готовност. Удължете трайността на заряда на батерията, като активирате режим STAMINA. Искате ли да настроите режим STAMINA?</string>
+    <string name="bad_app_notification">Това приложение изтощава батерията:</string>
+    <string name="bad_standby_app_dialog">%s пречи на режим STAMINA да спестява захранване в режим на готовност. Ако използвате често това приложение, игнорирайте предупреждението. Ако не го използвате често, натиснете бутона \"Информация за приложението\" и деинсталирайте приложението или го спрете принудително.</string>
+    <string name="ignore_dialog_action">Игнориране</string>
+    <string name="app_info_dialog_action">Инф. за прилож.</string>
+    <string name="stamina_activation_notification">Режим STAMINA е активиран</string>
+    <string name="lowbattery_trigger_level_notification">Нивото на батерията е под %d%%</string>
+    <string name="lowbattery_activated_notification">Реж. изтощена батерия е актив.</string>
+    <string name="app_not_used_notification">Това приложение не е използвано скоро:</string>
+    <string name="app_not_used_tip_dialog">%s не е използвано известно време. Препоръчително е да деинсталирате приложението, за да спестите захранване.</string>
+    <string name="no_action_dialog">Не</string>
+    <string name="yes_action_dialog">Да</string>
+    <string name="widget_remaining_battery_time">Оставащо време за заряда на батерията</string>
+    <string name="widget_name">Режим STAMINA</string>
+</resources>

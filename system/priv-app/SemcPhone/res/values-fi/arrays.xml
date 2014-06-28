@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Verkon oletus</item>
+        <item>Piilota numero</item>
+        <item>Näytä numero</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Yleiset</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Vain EvDo</item>
+        <item>CDMA ilman EvDoa</item>
+        <item>Automaattinen CDMA/EvDo</item>
+        <item>Automaattinen GSM/WCDMA</item>
+        <item>Vain WCDMA</item>
+        <item>Vain GSM</item>
+        <item>GSM/WCDMA ensisijainen</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Englanti</item>
+        <item>Ranska</item>
+        <item>Espanja</item>
+        <item>Japani</item>
+        <item>Korea</item>
+        <item>Kiina</item>
+        <item>Heprea</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (autom. tila)</item>
+        <item>Vain WCDMA</item>
+        <item>Vain GSM</item>
+        <item>GSM/WCDMA (WCDMA ensisijainen)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Vain kotiverkko</item>
+        <item>Automaattinen</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Vain kotiverkot</item>
+        <item>Liittyvät verkot</item>
+        <item>Mikä tahansa verkko</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Vain CDMA</item>
+        <item>Vain EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY pois</item>
+        <item>TTY - täysi</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normaali</item>
+        <item>Pitkä</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="generic_item_height">72.0dip</dimen>
+    <dimen name="date_separator_padding_vertical">20.0dip</dimen>
+    <dimen name="bubble_checkbox_end_margin">16.0dip</dimen>
+    <dimen name="conversation_actionbar_height">56.0dip</dimen>
+</resources>

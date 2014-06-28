@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>नेटवर्क मूलनिर्धारित</item>
+        <item>क्रमांक लपवा</item>
+        <item>क्रमांक दाखवा</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>वैश्विक</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>"केवळ EvDo "</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo स्वयं</item>
+        <item>GSM/WCDMA स्वयं</item>
+        <item>"केवळ WCDMA "</item>
+        <item>"केवळ GSM "</item>
+        <item>GSM/WCDMA अधिक पसंत</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>इंग्लिश</item>
+        <item>फ्रेंच</item>
+        <item>स्पॅनिश</item>
+        <item>जापानी</item>
+        <item>कोरियन</item>
+        <item>चायनिज</item>
+        <item>हिब्रू</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (स्वयंचलित मोड)</item>
+        <item>फक्त WCDMA</item>
+        <item>फक्त GSM</item>
+        <item>GSM/WCDMA (WCDMA प्राधान्यित)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>फक्त होम</item>
+        <item>स्वयंचलित</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>फक्त होम नेटवर्क्स</item>
+        <item>संलग्न नेटवर्क्स</item>
+        <item>कोणतेही नेटवर्क</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>फक्त CDMA</item>
+        <item>फक्त EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY बंद</item>
+        <item>TTY पूर्ण भरलेले</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>सामान्य</item>
+        <item>दीर्घ</item>
+    </string-array>
+</resources>

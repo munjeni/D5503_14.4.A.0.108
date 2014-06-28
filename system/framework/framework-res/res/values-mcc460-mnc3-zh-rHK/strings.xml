@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="needPuk">您UIM卡的PUK已鎖定，請輸入PUK碼以解除鎖定UIM卡。</string>
+    <string name="needPuk2">請輸入PUK2以解除鎖定UIM卡。</string>
+    <string name="enablePin">未成功。請啟用UIM/RUIM上鎖。</string>
+    <string name="permdesc_readSms">允許應用程式讀取儲存在手機或UIM卡上的SMS簡訊。惡意程式可能會利用此功能讀取您的機密簡訊。</string>
+    <string name="permdesc_writeSms">允許應用程式編輯儲存在手機或UIM卡上的SMS簡訊。惡意應用程式可能會刪除您的簡訊。</string>
+    <string name="lockscreen_missing_sim_message_short">沒有UIM卡。</string>
+    <string name="lockscreen_missing_sim_message">手機中未插入UIM卡。</string>
+    <string name="lockscreen_missing_sim_instructions">請插入UIM卡。</string>
+    <string name="lockscreen_missing_sim_instructions_long">找不到UIM卡或無法讀取UIM卡，請插入UIM卡。</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"您的UIM卡已永久停用。
+請與您的無線服務供應商聯絡，以取得其他UIM卡。"</string>
+    <string name="lockscreen_sim_puk_locked_message">UIM卡的PUK已鎖定。</string>
+    <string name="lockscreen_sim_locked_message">UIM卡已鎖定。</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">正在解除鎖定UIM卡…</string>
+    <string name="sim_removed_title">UIM卡已移除</string>
+    <string name="sim_removed_message">您必須先插入有效的UIM卡再重新啟動手機，才能使用流動網絡。</string>
+    <string name="sim_added_title">UIM卡已新增</string>
+    <string name="unregistered_sim">未註冊的UIM卡</string>
+    <string name="mmcc_imsi_unknown_in_hlr">UIM卡未提供MM #2</string>
+    <string name="mmcc_illegal_ms">UIM卡不允許MM #3</string>
+    <string name="mmcc_authentication_reject">UIM卡不允許</string>
+    <string name="carrier_invalid_sim_card">UIM卡無效</string>
+    <string name="keyguard_pin_unblocked">已將UIM卡上鎖解鎖</string>
+    <string name="lockscreen_strings_sim_locked_out_header_txt">UIM卡已被封鎖</string>
+    <string name="lockscreen_strings_sim_puk_locked_header_txt">UIM卡已被鎖定</string>
+    <string name="lockscreen_perso_locked_message">UIM/RUIM已由個人上鎖</string>
+    <string name="lockscreen_sim_error_message">UIM卡無效。</string>
+</resources>

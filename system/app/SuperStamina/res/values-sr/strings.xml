@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontroler eko režima</string>
+    <string name="dont_ask_me_again_txt">Ne pitaj me ponovo</string>
+    <string name="description_msg_txt">"Kada se ekran isključi, Wi-Fi i mobilni podaci će privremeno biti onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete dobijati telefonske pozive, SMS/MMS poruke i Sony™obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremenja koja su u toku će moći da se završe. 
+
+Kada se ekran uključi, telefon normalno funkcioniše.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kada se ekran isključi, Wi-Fi i mobilni podaci privremeno će biti onemogućeni, a većina aplikacija će biti neaktivna. I dalje ćete dobijati SMS/MMS poruke i Sony™ obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremanja koja su u toku moći će da se završe.
+
+Kada se ekran uključi, uređaj će normalno funkcionisati."</string>
+    <string name="description_msg_no_telephony_txt">"Kada se ekran isključi, Wi-Fi će privremeno biti onemogućen, a većina aplikacija će biti neaktivna. I dalje ćete dobijati Sony™ obaveštenja kalendara, kao i Sony™ signale alarma. Muzički plejer i FM radio će funkcionisati, a preuzimanja i otpremanja koja su u toku moći će da se završeh.
+
+Kada se ekran uključi, uređaj će normalno funkcionisati."</string>
+    <string name="description_title_txt">Napomena!</string>
+    <string name="low_battery_mode_description_msg_txt">"Omogućite režim baterije na izmaku da biste isključili funkcije i postavke koje troše mnogo energije kada je baterija na nivou ispod unapred podešenog. Tapnite na „Režim baterije na izmaku“ da biste promenili postavke.
+"</string>
+    <string name="activate_txt">Aktiviraj</string>
+    <string name="cancel_txt">Otkaži</string>
+    <string name="xssm_blocker_detector_title">Savet za upravlj. napajanjem</string>
+    <string name="xssm_blocker_detector_msg">%s sprečava STAMINA režim da štedi energiju u stanju pripravnosti</string>
+    <string name="xssm_blocker_detector_long_msg">Ako često koristite ovu aplikaciju, zanemarite ovo upozorenje. Ako ne, deinstalirajte aplikaciju ili nametnite njeno zaustavljanje.</string>
+    <string name="xssm_blocker_detector_ignore">Shvatio sam. Ne prikazuj ponovo.</string>
+    <string name="network_detector_msg">%s šalje i prima podatke dok je ekran isključen i dovodi do bržeg trošenja baterije.</string>
+    <string name="network_detector_long_msg">Deinstaliranje može poboljšati performanse uređaja i produžiti trajanje baterije.</string>
+    <string name="wakelock_detector_msg">%s se ne koristi nekoliko sedmica.</string>
+    <string name="wakelock_detector_long_msg">To može probuditi uređaj iz režima pripravnosti. Deinstaliranjem se mogu poboljšati performanse uređaja i produžiti trajanje baterije.</string>
+    <string name="notification_title_xssm">Savet za upravlj.napajanjem</string>
+    <string name="notification_text_xssm">Aktiviraj STAMINA režim</string>
+    <string name="notification_descr_xssm">Vaš uređaj je često u stanju pripravnosti. Produžite trajanje baterije tako što ćete aktivirati STAMINA režim.</string>
+    <string name="notification_dont_show_again">Shvatio sam. Ne prikazuj ponovo.</string>
+    <string name="notification_title_ps">Savet za upravlj.napajanjem</string>
+    <string name="notification_text_ps">Aktiviraj režim baterije na izmaku</string>
+    <string name="notification_descr_ps">Režim baterije na izmaku može da produži trajanje baterije tako što npr. isključi Wi-Fi ili smanji svetlinu ekrana kada je baterija na izmaku.</string>
+    <string name="notification_title_lbw">Savet za upravlj.napajanjem</string>
+    <string name="notification_text_lbw">Aktiviraj Wi-Fi vezu zasnovanu na lokaciji</string>
+    <string name="notification_descr_lbw">Wi-Fi je uključen, ali nije korišćen neko vreme. Uštedite energiju tako što ćete aktivirati Wi-Fi vezu zasnovanu na lokaciji.</string>
+    <string name="unused_application_title">Savet za upravljanje napajanjem</string>
+    <string name="unused_application_msg">%s se ne koristi već neko vreme</string>
+    <string name="unused_application_long_msg">Ako želite da zadržite ovu aplikaciju, zanemarite ovo obaveštenje. Ako ne želite, deinstalirajte aplikaciju.</string>
+    <string name="unused_application_ignore">Razumem. Ne prikazuj ponovo.</string>
+    <string name="drain_dialog_title_txt">Baterija se ne puni</string>
+    <string name="drain_dialog_text_usb_txt">Povezani izbor napajanja nije dovoljan. Baterija se prazni brže nego što se puni. Pređite na punjač naizmeničnom strujom.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Povezani izbor napajanja nije dovoljan. Baterija se prazni brže nego što se puni. Smanjite korišćenje uređaja tokom punjenja.</string>
+    <string name="extend_battery_tip_dialog_headar">Savet za upravljanjem napajanjem</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi je uključen, ali se ne koristi već neko vreme. Možete uštedeti energiju aktiviranjem opcije „Wi-Fi zasnovan na lokaciji“. Podesiti Wi-Fi zasnovan na lokaciji?</string>
+    <string name="low_battery_mode_tip_dialog">Režim baterije na izmaku može produžiti trajanje baterije npr. isključivanjem Wi-Fi mreže ili smanjenjem svetline ekrana kada je baterija na izmaku. Podesiti režim baterije na izmaku?</string>
+    <string name="stamina_mode_tip_dialog">Vaš uređaj je često u režimu pripravnosti. Produžite vreme trajanja baterije aktiviranjem STAMINA režima. Podesiti STAMINA režim?</string>
+    <string name="bad_app_notification">Sledeća aplikacija prazni bateriju:</string>
+    <string name="bad_standby_app_dialog">%s sprečava STAMINA režim da uštedi napajanje prilikom stanja pripravnosti. Ako često koristite ovu aplikaciju, zanemarite ovo upozorenje. Ako to nije slučaj, tapnite dugme „Informacije o aplikaciji“ i deinstalirajte aplikaciju ili nametnite zaustavljanje aplikacije.</string>
+    <string name="ignore_dialog_action">Zanemari</string>
+    <string name="app_info_dialog_action">Inform. o aplikaciji</string>
+    <string name="stamina_activation_notification">STAMINA režim je aktiviran</string>
+    <string name="lowbattery_trigger_level_notification">Nivo baterije ispod %d%%</string>
+    <string name="lowbattery_activated_notification">Aktiv. režim baterije na izmaku</string>
+    <string name="app_not_used_notification">Ova aplikacija nije korišćena neko vreme:</string>
+    <string name="app_not_used_tip_dialog">Aplikacija %s nije korišćena neko vreme. Preporučujemo da deinstalirate aplikaciju da biste uštedeli energiju.</string>
+    <string name="no_action_dialog">Ne</string>
+    <string name="yes_action_dialog">Da</string>
+    <string name="widget_remaining_battery_time">Predviđeno vreme baterije</string>
+    <string name="widget_name">STAMINA režim</string>
+</resources>

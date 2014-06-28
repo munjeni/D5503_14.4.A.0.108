@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Προσθήκη δεδομένων παρασκηνίου σε ουρά</string>
+    <string name="auto_sync_text">Αυτόματος συγχρονισμός</string>
+    <string name="wifi_tether_settings_text">Ρυθμίσεις φορητού Wi-Fi hotspot</string>
+    <string name="stamina_xssm_add_applications_title">Ενεργές εφαρμογές στην κατάσταση αναμονής</string>
+    <string name="auto_hide_notifications_title">Εκκαθάριση αναγνωσμένων ειδοποιήσεων</string>
+</resources>

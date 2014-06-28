@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d день</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
+        <item quantity="one">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Минимальное количество букв в пароле: %d</item>
+        <item quantity="one">Минимальное количество букв в пароле: 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Минимальное количество строчных букв в пароле: %d</item>
+        <item quantity="one">Минимальное количество строчных букв в пароле: 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Минимальное количество заглавных букв в пароле: %d</item>
+        <item quantity="one">Минимальное количество заглавных букв в пароле: 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Минимальное количество цифр в пароле: %d</item>
+        <item quantity="one">Минимальное количество цифр в пароле: 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Минимальное количество специальных символов в пароле: %d</item>
+        <item quantity="one">Минимальное количество специальных символов в пароле: 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Минимальное количество небуквенных символов в пароле: %d</item>
+        <item quantity="one">Минимальное количество небуквенных символов в пароле: 1</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложений с доступом к уведомлениям: %d</item>
+        <item quantity="one">Приложений с доступом к уведомлениям: %d</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код SIM-карты. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код SIM-карты. Осталось попыток: %d. Затем, чтобы разблокировать устройство, вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Найдено принтеров: %1$s</item>
+        <item quantity="one">Найден %1$s принтер</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Приложений в списке: %d</item>
+        <item quantity="one">Приложений в списке: %1$d</item>
+    </plurals>
+</resources>

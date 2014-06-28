@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Керування екорежимом</string>
+    <string name="dont_ask_me_again_txt">Більше не запитувати</string>
+    <string name="description_msg_txt">"Коли екран вимкнуто, Wi-Fi, передавання мобільних даних і більшість програм буде тимчасово вимкнуто. Ви зможете отримувати телефонні дзвінки, SMS/MMS-повідомлення, сповіщення календаря Sony™ та сигнали будильника Sony™. Музичний плеєр і FM-радіо працюватимуть, а поточні завантаження та надсилання даних буде доведено до кінця.
+
+Коли екран ввімкнуто, телефон працюватиме у звичайному режимі.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Коли екран вимкнуто, Wi-Fi, передавання мобільних даних і більшість програм буде тимчасово вимкнуто. Ви зможете отримувати SMS/MMS-повідомлення, сповіщення календаря Sony™ та сигнали будильника Sony™. Музичний плеєр і FM-радіо працюватимуть, а поточні завантаження та надсилання даних буде доведено до кінця.
+
+Коли екран ввімкнуто, пристрій працюватиме у звичайному режимі."</string>
+    <string name="description_msg_no_telephony_txt">"Коли екран вимкнуто, Wi-Fi і більшість програм буде тимчасово вимкнуто. Ви зможете отримувати сповіщення календаря Sony™ та сигнали будильника Sony™. Музичний плеєр і FM-радіо працюватимуть, а поточні завантаження та надсилання даних буде доведено до кінця.
+
+Коли екран ввімкнуто, пристрій працюватиме у звичайному режимі."</string>
+    <string name="description_title_txt">Увага!</string>
+    <string name="low_battery_mode_description_msg_txt">"Увімкніть режим низького заряду акумулятора, щоб вимкнути функції й установки, що споживають багато енергії, коли рівень заряду акумулятора нижчий за попередньо вказане значення. Торкніться режиму низького заряду акумулятора, щоб змінити установки.
+"</string>
+    <string name="activate_txt">Увімкнути</string>
+    <string name="cancel_txt">Скасувати</string>
+    <string name="xssm_blocker_detector_title">Порада з керув. живленням</string>
+    <string name="xssm_blocker_detector_msg">%s заважає режиму STAMINA заощаджувати енергію в режимі очікування</string>
+    <string name="xssm_blocker_detector_long_msg">Якщо ви часто користуєтеся цією програмою, проігноруйте це попередження. Якщо ні, видаліть або примусово зупиніть цю програму.</string>
+    <string name="xssm_blocker_detector_ignore">Зрозуміло. Більше не показувати.</string>
+    <string name="network_detector_msg">Програма «%s» надсилає й отримує дані, коли вимкнуто екран. Через це акумулятор розряджається швидше.</string>
+    <string name="network_detector_long_msg">Її видалення може покращити продуктивність пристрою та час роботи від акумулятора.</string>
+    <string name="wakelock_detector_msg">Програма «%s» не використовувалася кілька тижнів.</string>
+    <string name="wakelock_detector_long_msg">Це може вивести пристрій із режиму очікування. Видалення цієї програми може покращити продуктивність пристрою та час роботи від акумулятора.</string>
+    <string name="notification_title_xssm">Порада з керув. живленням</string>
+    <string name="notification_text_xssm">Увімкніть режим STAMINA</string>
+    <string name="notification_descr_xssm">Пристрій часто перебуває в режимі очікування. Збільште час роботи від акумулятора, увімкнувши режим STAMINA.</string>
+    <string name="notification_dont_show_again">Зрозуміло. Більше не показувати.</string>
+    <string name="notification_title_ps">Порада з керув. живленням</string>
+    <string name="notification_text_ps">Увімкніть режим низького заряду</string>
+    <string name="notification_descr_ps">Режим низького заряду акумулятора може подовжити час роботи від акумулятора, наприклад, вимкнувши Wi-Fi або зменшивши яскравість екрана за низького заряду акумулятора.</string>
+    <string name="notification_title_lbw">Порада з керув. живленням</string>
+    <string name="notification_text_lbw">Увімкніть Wi-Fi за розташуванням</string>
+    <string name="notification_descr_lbw">Wi-Fi увімкнуто, але ця функція не використовується протягом певного часу. Заощадьте заряд акумулятора, увімкнувши параметр «Wi-Fi за розташуванням».</string>
+    <string name="unused_application_title">Порада з керування живленням</string>
+    <string name="unused_application_msg">Програма «%s» не використовувалася протягом певного часу</string>
+    <string name="unused_application_long_msg">Якщо ця програма вам потрібна, ігноруйте це попередження. Якщо ні, видаліть програму.</string>
+    <string name="unused_application_ignore">Зрозуміло. Більше не показувати.</string>
+    <string name="drain_dialog_title_txt">Акумулятор не заряджається</string>
+    <string name="drain_dialog_text_usb_txt">Підключене джерело живлення недостатньо потужне. Акумулятор розряджається швидше, ніж заряджається. Переключіться на зарядний пристрій змінного струму.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Підключене джерело живлення недостатньо потужне. Акумулятор розряджається швидше, ніж заряджається. Мінімізуйте використання пристрою під час заряджання.</string>
+    <string name="extend_battery_tip_dialog_headar">Порада з керування живленням</string>
+    <string name="location_based_wifi_tip_dialog">Функція Wi-Fi увімкнута, але вона довго не використовувалася. Ви можете заощадити заряд акумулятора, увімкнувши Wi-Fi за розташуванням. Установити Wi-Fi за розташуванням?</string>
+    <string name="low_battery_mode_tip_dialog">Режим низького заряду акумулятора може подовжити час роботи від акумулятора, наприклад, вимикаючи Wi-Fi або зменшуючи яскравість екрана, коли рівень заряду акумулятора низький. Установити режим низького заряду акумулятора?</string>
+    <string name="stamina_mode_tip_dialog">Ваш пристрій часто перебуває в режимі очікування. Збільште час роботи від акумулятора, увімкнувши режим STAMINA. Установити режим STAMINA?</string>
+    <string name="bad_app_notification">Ця програма розряджає акумулятор:</string>
+    <string name="bad_standby_app_dialog">Програма %s заважає режиму STAMINA заощаджувати заряд акумулятора в режимі очікування. Якщо ви часто користуєтеся цією програмою, проігноруйте це попередження. Якщо ні, торкніться кнопки «Дані програми» та видаліть або примусово зупиніть цю програму.</string>
+    <string name="ignore_dialog_action">Ігнорувати</string>
+    <string name="app_info_dialog_action">Дані програми</string>
+    <string name="stamina_activation_notification">Режим STAMINA ввімкнуто</string>
+    <string name="lowbattery_trigger_level_notification">Рівень заряду акумулятора нижче %d%%</string>
+    <string name="lowbattery_activated_notification">Увімкнуто режим низьк. заряду</string>
+    <string name="app_not_used_notification">Цією програмою довго не користувалися:</string>
+    <string name="app_not_used_tip_dialog">Програма %s не використовувалася протягом довгого часу. Рекомендуємо видалити програму, щоб заощадити заряд акумулятора.</string>
+    <string name="no_action_dialog">Ні</string>
+    <string name="yes_action_dialog">Так</string>
+    <string name="widget_remaining_battery_time">Приблизний час роботи від акумулятора</string>
+    <string name="widget_name">Режим STAMINA</string>
+</resources>

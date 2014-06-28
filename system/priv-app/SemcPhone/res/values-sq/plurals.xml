@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">"S'ka lidh. dhëna. pas %s min."</item>
+        <item quantity="one">"S'ka lidh. të dhën. pas %s min."</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefoni do të jetë në modalitetin e kthimit të telefonatave të urgjencës pas %s minutash. Ndërsa është në këtë gjendje, nuk mund të përdoret asnjë aplikacion që përdor lidhje për të dhënat. Dëshironi të dilni tani?</item>
+        <item quantity="one">Telefoni do të jetë në modalitetin e kthimit të telefonatave të urgjencës pas %s minute. Ndërsa është në këtë gjendje, nuk mund të përdoret asnjë aplikacion që përdor lidhje për të dhënat. Dëshironi të dilni tani?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Veprimi i përzgjedhur nuk është i disponueshëm gjatë modalitetit të kthimit të telefonatave të urgjencës. Telefoni do të jetë në këtë gjendje pas%s minutash. Dëshironi të dilni tani?</item>
+        <item quantity="one">Veprimi i përzgjedhur nuk është i disponueshëm gjatë gjendjes së kthimit të telefonatave të urgjencës. Telefoni do të jetë në këtë gjendje pas%s minute. Dëshironi të dilni tani?</item>
+    </plurals>
+</resources>

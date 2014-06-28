@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Wanneer het scherm uit is, worden WLAN en mobiele data tijdelijk uitgeschakeld en worden de meeste applicaties inactief. Telefonische oproepen, SMS/MMS-berichten, Sony™-kalenderherinneringen en Sony™-wekkersignalen blijft u gewoon ontvangen. De muziekspeler en FM-radio werken, en downloads en uploads die al zijn begonnen, worden afgemaakt.
+
+Wanneer het scherm aan is, functioneert de telefoon op normale wijze.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Als het scherm is uitgeschakeld, worden WLAN en mobiele data tijdelijk uitgeschakeld en zijn de meeste applicaties inactief. U kunt nog steeds SMS- of MMS-berichten, Sony™-agendameldingen en Sony™-alarmsignalen ontvangen. De muziekplayer en de FM-radio functioneren, en downloads en uploads die aan de gang zijn, worden voltooid.
+
+Als het scherm is ingeschakeld, functioneert uw apparaat normaal."</string>
+    <string name="description_msg_no_telephony_txt">"Als het scherm is uitgeschakeld, wordt WLAN tijdelijk uitgeschakeld en zijn de meeste applicaties inactief. U kunt nog steeds Sony™-agendameldingen en Sony™-alarmsignalen ontvangen. De muziekplayer en de FM-radio functioneren, en downloads en uploads die aan de gang zijn, worden voltooid.
+
+Als het scherm is ingeschakeld, functioneert uw apparaat normaal."</string>
+    <string name="notification_descr_ps">Batterijbesparingsmodus kan batterijduur verlengen door bijv. WLAN uit te schakelen of helderheid van scherm te verlagen wanneer batterij bijna leeg is.</string>
+    <string name="notification_text_lbw">WLAN op locatie activeren</string>
+    <string name="notification_descr_lbw">WLAN staat aan maar is al enige tijd niet gebruikt. Bespaar energie door WLAN op locatie te activeren.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN is ingeschakeld maar is al enige tijd niet gebruikt. U kunt stroom besparen door WLAN op locatiebasis te activeren. WLAN op locatiebasis instellen?</string>
+    <string name="low_battery_mode_tip_dialog">De batterijbesparingsmodus kan de batterijduur verlengen door bijvoorbeeld WLAN uit te schakelen of de helderheid van het scherm te verlagen wanneer de batterij bijna leeg is. Batterijbesparingsmodus instellen?</string>
+</resources>

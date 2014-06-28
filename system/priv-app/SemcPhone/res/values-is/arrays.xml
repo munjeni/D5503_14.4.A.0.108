@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Valið af símkerfi</item>
+        <item>Fela númer</item>
+        <item>Birta númer</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Altæk</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Aðeins EvDo</item>
+        <item>CDMA án EvDo</item>
+        <item>CDMA/EvDo sjálfvirkt</item>
+        <item>GSM/WCDMA sjálfvirkt</item>
+        <item>Aðeins WCDMA</item>
+        <item>Aðeins GSM</item>
+        <item>GSM/WCDMA með forgang</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Enska</item>
+        <item>Franska</item>
+        <item>Spænska</item>
+        <item>Japanska</item>
+        <item>Kóreska</item>
+        <item>Kínverska</item>
+        <item>Hebreska</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (sjálfvirkt)</item>
+        <item>Aðeins WCDMA</item>
+        <item>Aðeins GSM</item>
+        <item>GSM/WCDMA (WCDMA-forg.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Aðeins heima</item>
+        <item>Sjálfvirkt</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Heimanet eingöngu</item>
+        <item>Tengd net</item>
+        <item>Öll net</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Aðeins CDMA</item>
+        <item>Aðeins EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Textasími af</item>
+        <item>Textasími - allt</item>
+        <item>Textasími - HCO</item>
+        <item>Textasími - VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Venjulegt</item>
+        <item>Langt</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>ఈరోజు</item>
+        <item>నిన్న</item>
+        <item>శనివారం</item>
+        <item>శుక్రవారం</item>
+        <item>గురువారం</item>
+        <item>బుధవారం</item>
+        <item>మంగళవారం</item>
+        <item>సోమవారం</item>
+        <item>ఆదివారం</item>
+        <item>ఒక వారం క్రితం</item>
+        <item>రెండు వారాలు క్రితం</item>
+        <item>ఒక నెల క్రితం</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 సెకను</item>
+        <item>2 సెకన్లు</item>
+        <item>3 సెకన్లు</item>
+        <item>4 సెకన్లు</item>
+        <item>5 సెకన్లు</item>
+        <item>6 సెకన్లు</item>
+        <item>7 సెకన్లు</item>
+        <item>8 సెకన్లు</item>
+        <item>9 సెకన్లు</item>
+        <item>10 సెకన్లు</item>
+        <item>ఇతర...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>మీరు ఎక్కడ ఉన్నారు?</item>
+        <item>మీరు ఏమి చేస్తున్నారు?</item>
+        <item>త్వరగా! దయచేసి ASAP ప్రత్యుత్తరమివ.</item>
+        <item>క్షమిం., ఇప్పుడు సమావే.లో ఉన్నాను.</item>
+        <item>నేను బావున్నాను. బాధపడవద్దు.</item>
+        <item>నేను ఇంటికి వెళుతున్నాను.</item>
+        <item>నేను మళ్లీ కాల్ చేస్తాను.</item>
+        <item>నేను అక్కడికి వస్తాను.</item>
+        <item>దీనిని తనిఖీ చేయండి!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Antaa sovelluksen käyttää tarkkaa sijaintiasi, joka määritetään GPS:n tai verkon sijaintilähteiden kuten radiomastojen ja WLAN-verkkojen avulla. Sijaintipalveluiden täytyy olla käytössä ja laitteesi saatavilla, jotta sovellus voi käyttää niitä. Sovellus voi määrittää tämän luvan avulla sijaintisi ja lisätä akun käyttöä.</string>
+    <string name="permdesc_accessCoarseLocation">Antaa sovelluksen käyttää likimääräistä sijaintiasi. Sijainnin määrittävät sijaintipalvelut verkon sijaintilähteiden kuten radiomastojen ja WLAN-verkkojen avulla. Sijaintipalveluiden täytyy olla käytössä ja laitteesi saatavilla, jotta sovellus voi käyttää niitä. Sovellus voi määrittää tämän luvan avulla likimääräisen sijaintisi.</string>
+    <string name="permlab_configureWifiDisplay">määritä WLAN-näyttöjen asetukset</string>
+    <string name="permdesc_configureWifiDisplay">Antaa sovelluksen määrittää WLAN-näyttöjä ja muodostaa yhteyden niihin.</string>
+    <string name="permlab_controlWifiDisplay">hallitse WLAN-näyttöjä</string>
+    <string name="permdesc_controlWifiDisplay">Antaa sovelluksen hallita WLAN-näyttöjen matalan tason ominaisuuksia.</string>
+    <string name="permlab_accessWifiState">näytä WLAN-yhteydet</string>
+    <string name="permdesc_accessWifiState">Antaa sovelluksen tarkastella WLAN-verkkoja koskevia tietoja, kuten sitä, onko WLAN käytössä ja mihin WLAN-laitteisiin on muodostettu yhteys.</string>
+    <string name="permlab_changeWifiState">muodosta ja katkaise WLAN-yhteys</string>
+    <string name="permdesc_changeWifiState">Antaa sovelluksen yhdistää WLAN-tukiasemiin tai katkaista yhteyden sekä tehdä muutoksia määritettyihin WLAN-verkkoihin.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN Multicast -vastaanoton salliminen</string>
+    <string name="permdesc_changeWifiMulticastState">Antaa sovelluksen vastaanottaa kaikille laitteille, ei vain puhelimellesi, WLAN-verkon kautta monilähetystilassa lähetettyjä paketteja. Tämä käyttää enemmän virtaa kuin tavallinen lähetystila.</string>
+    <string name="wifi_available_sign_in">Kirjaudu WLAN-verkkoon</string>
+    <string name="wifi_watchdog_network_disabled">WLAN-yhteyden muodostaminen epäonnistui</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Käynnistä WLAN Direct-yhteys. WLAN-asiakas/-hotspot poistetaan käytöstä.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct käynnistäminen epäonnistui</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct on käytössä</string>
+    <string name="wifi_p2p_frequency_conflict_message">Puhelimen yhteys WLAN-verkkoon katkaistaan väliaikaisesti puhelimen ollessa yhdistettynä laitteeseen %1$s</string>
+    <string name="data_usage_wifi_limit_title">WLAN-tiedonsiirto pois käytöstä</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN-tiedonsiirtoraja ylitetty</string>
+    <string name="policylab_disableWifi">WLAN-käytön käytöstä poisto</string>
+    <string name="policydesc_disableWifi">Laitteen WLAN-yhteyksien esto.</string>
+    <string name="wifi_disabled_notification_title">WLAN-yhteyttä on rajoitettu</string>
+    <string name="wifi_disabled_notification_message">"Suojauskäytäntö rajoittaa WLAN-käyttöä. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN-roaming käynnissä</string>
+    <string name="ct_cplusw_notification_text">"CT:n WLAN-verkossa. Laskutustiedot nu-merosta 10000 tai paikallisesta pisteestä.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecomin WLAN-yhteys</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Sinut yhdistetään China Telecomin WLAN-verkkoon. Jos haluat lisätietoja maksuista, ota yhteys China Telecomin asiakaspalveluun. Jatketaanko?</string>
+    <string name="wifi_nonconcurrency_message">Käynnistä WLAN-asiakas. Tämä katkaisee WLAN Direct -yhteyden.</string>
+    <string name="wifi_noncuncurrency_message">Käynnistä WLAN-asiakas. Tämä katkaisee WLAN Direct -yhteyden.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Kaikki muodostetut WLAN-yhteydet katkaistaan</string>
+    <string name="wifi_p2p_nonconcurrency_message">Käynnistä WLAN Direct. Tämä katkaisee WLAN-yhteyden.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Tämä katkaisee kaikki muodostetut WLAN-yhteydet</string>
+    <string name="wifi_p2p_noncuncurrency_message">Käynnistä WLAN Direct. Tämä katkaisee WLAN-yhteyden.</string>
+    <string name="tethered_notification_message_wifi">Poista Mobile HotSpot käytöstä, jotta WLAN otetaan takaisin käyttöön</string>
+    <string name="tethered_notification_title_wifi">WLAN on poistettu käytöstä</string>
+</resources>

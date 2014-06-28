@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tagakontrol ng eco mode</string>
+    <string name="dont_ask_me_again_txt">Huwag muling itanong sa akin</string>
+    <string name="description_msg_txt">"Kapag naka-off ang screen, pansamantalang hindi papaganahin ang Wi-Fi at mobile data, at hindi magiging aktibo ang karamihan sa mga application. Makakatanggap ka pa rin ng mga tawag sa telepono, SMS/MMS message at mga notification sa Sony™calendar at mga alarm signal sa Sony™. Gagana ang music player at FM radio at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang tumatakbo.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong telepono.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kapag naka-off ang screen, pansamantalang idi-disable ang Wi-Fi at mobile data, at magiging di-aktibo ang karamihan ng mga application. Makakatanggap ka pa rin ng mga SMS/MMS message, pagpapaalam sa kalendaryo ng Sony™ at signal sa alarma ng Sony™. Gagana ang music player at FM radio, at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang ginagawa.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong device."</string>
+    <string name="description_msg_no_telephony_txt">"Kapag naka-off ang screen, pansamantalang idi-disable ang Wi-Fi, at magiging hindi aktibo ang karamihan ng mga application. Makakatanggap ka pa rin ng mga pagpapaalam sa kalendaryo ng Sony™ at signal sa alarma ng Sony™. Gagana ang music player at FM radio, at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang ginagawa.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong device."</string>
+    <string name="description_title_txt">Tandaan!</string>
+    <string name="low_battery_mode_description_msg_txt">"Paganahin ang Mode ng mahinang baterya upang i-off ang mga feature at setting na kumokonsumo ng kuryente kapag bumaba sa isang preset na level ang baterya. Tapikin ang Mode ng mahinang baterya upang baguhin ang mga setting.
+"</string>
+    <string name="activate_txt">Isaaktibo</string>
+    <string name="cancel_txt">Ikansela</string>
+    <string name="xssm_blocker_detector_title">Tip sa pamamahala ng power</string>
+    <string name="xssm_blocker_detector_msg">Hinahadlangan ng %s ang STAMINA mode na magtipid ng power kapag naka-standby</string>
+    <string name="xssm_blocker_detector_long_msg">Kung palagi mong ginagamit ang application na ito, huwag pansinin ang babalang ito. Kung hindi, i-uninstall o puwersahang ihinto ang application.</string>
+    <string name="xssm_blocker_detector_ignore">Nakuha ko. Huwag itong ipakita muli.</string>
+    <string name="network_detector_msg">Nagpapadala at tumatanggap ng data ang %s habang naka-off ang screen at nagsasanhi sa baterya na mas mabilis na maubos.</string>
+    <string name="network_detector_long_msg">Kapag in-uninstall ito, maaari nitong mapabuti ang pagganap ng device at mapatagal ang buhay ng baterya.</string>
+    <string name="wakelock_detector_msg">Hindi nagamit ang %s nang ilang linggo.</string>
+    <string name="wakelock_detector_long_msg">Maaari nitong gisingin ang device mula sa standby mode. Maaaring mapabuti ng pag-uninstall ang pagganap ng device at mapatagal ang buhay ng baterya.</string>
+    <string name="notification_title_xssm">Tip sa pamamahala ng power</string>
+    <string name="notification_text_xssm">Isaaktibo ang STAMINA mode</string>
+    <string name="notification_descr_xssm">Karaniwang nasa standby mode ang iyong device. Patagalin ang baterya sa pamamagitan ng pagsasaaktibo ng STAMINA mode.</string>
+    <string name="notification_dont_show_again">Nakuha ko. Huwag itong ipakita muli.</string>
+    <string name="notification_title_ps">Tip sa pamamahala ng power</string>
+    <string name="notification_text_ps">Isaaktibo ang Mode ng mahinang baterya</string>
+    <string name="notification_descr_ps">Maaaring pahabain ng mode ng mahinang baterya ang buhay ng baterya hal. pag-off sa Wi-Fi o pagbawas ng liwanag ng screen kapag mababa ang baterya.</string>
+    <string name="notification_title_lbw">Tip sa pamamahala ng power</string>
+    <string name="notification_text_lbw">Isaaktibo ang Wi-Fi batay sa Lokasyon</string>
+    <string name="notification_descr_lbw">Naka-on ang Wi-Fi ngunit matagal nang hindi ginamit. Magtipid ng power sa pamamagitan ng pagsasaaktibo sa Wi-Fi na nakabatay sa Lokasyon.</string>
+    <string name="unused_application_title">Tip sa pamamahala sa power</string>
+    <string name="unused_application_msg">Matagal nang hindi nagagamit ang %s</string>
+    <string name="unused_application_long_msg">Kung nais mong panatilihin ang application na ito, balewalain ang babalang ito. Kung hindi man, i-uninstall ang application.</string>
+    <string name="unused_application_ignore">Nakuha ko. Huwag nang muling ipakita.</string>
+    <string name="drain_dialog_title_txt">Hindi nagcha-charge ang baterya</string>
+    <string name="drain_dialog_text_usb_txt">Hindi sapat ang nakakonektang pagmumulan ng power. Mas mabilis nauubos ang baterya kaysa mag-charge. Mangyaring lumipat sa iyong AC charger.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Hindi sapat ang nakakonektang pagmumulan ng power. Mas mabilis nauubos ang baterya kaysa mag-charge. Bawasan ang iyong paggamit ng device habang nagcha-charge.</string>
+    <string name="extend_battery_tip_dialog_headar">Tip sa pamamahala sa power</string>
+    <string name="location_based_wifi_tip_dialog">Naka-on ang Wi-Fi ngunit medyo matagal nang hindi ginagamit. Maaari kang magtipid ng power sa pamamagitan ng pag-a-aktibo ng Wi-Fi na Nakabatay sa Lokasyon. I-set up ang Wi-Fi na Nakabatay sa Lokasyon?</string>
+    <string name="low_battery_mode_tip_dialog">Maaaring pahabain ng Mode ng mahinang baterya ang baterya sa pamamagitan hal. ng pag-off sa Wi-Fi o pagbawas ng liwanag ng screen kapag mahina na ang baterya. I-set up ang Mode ng mahinang baterya?</string>
+    <string name="stamina_mode_tip_dialog">Kadalasang nasa standby mode ang iyong device. Patagalin ang baterya sa pamamagitan ng pag-aktibo sa STAMINA mode. I-set up ang STAMINA mode?</string>
+    <string name="bad_app_notification">Kinokonsumo ng sunod na app ang baterya:</string>
+    <string name="bad_standby_app_dialog">Hinahadlangan ng %s ang STAMINA mode na magtipid ng power tuwing naka-standby. Kung madalas mong ginagamit ang application na ito, balewalain ang babalang ito. Kung hindi, i-tap ang button na Impormasyon ng app at i-uninstall o puwersahang ihinto ang application.</string>
+    <string name="ignore_dialog_action">Balewalain</string>
+    <string name="app_info_dialog_action">Impormasyon ng app</string>
+    <string name="stamina_activation_notification">Na-aktibo ang STAMINA mode</string>
+    <string name="lowbattery_trigger_level_notification">Mas mababa sa %d%% ang lakas ng baterya</string>
+    <string name="lowbattery_activated_notification">Na-aktibo Mode ng hinang bat.</string>
+    <string name="app_not_used_notification">Matagal nang di ginagamit ang app na ito:</string>
+    <string name="app_not_used_tip_dialog">Medyo matagal nang hindi ginagamit ang %s. Inirerekomenda naming i-uninstall mo ang application upang makatipid ng power.</string>
+    <string name="no_action_dialog">Hindi</string>
+    <string name="yes_action_dialog">Oo</string>
+    <string name="widget_remaining_battery_time">Tinatantyang tagal ng baterya</string>
+    <string name="widget_name">STAMINA mode</string>
+</resources>

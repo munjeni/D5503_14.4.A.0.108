@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/scrollView" android:paddingTop="2.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:paddingStart="14.0dip" android:paddingEnd="10.0dip">
+        <TextView android:id="@id/text_field" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/textAppearanceMedium" />
+    </ScrollView>
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="54.0dip">
+        <EditText android:id="@id/input_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:imeOptions="actionDone" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="54.0dip">
+        <Button android:layout_gravity="left" android:id="@id/submit_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/send_button" android:layout_weight="1.0" />
+        <Button android:layout_gravity="right" android:id="@id/cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

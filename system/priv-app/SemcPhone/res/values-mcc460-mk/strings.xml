@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Доколку не користите WLAN, повеќе нема да може да користите интернет, е-пошта или други апликации што бараат конекција со податоци. Да се исклучи конекцијата со мобилни податоци?</string>
+    <string name="sip_call_options_wifi_only_title">Користи интернет-повик. (само WLAN)</string>
+    <string name="registration_status_no_wifi_data">Нема WLAN конекција. Не може да се регистрира сметката.</string>
+    <string name="no_wifi_available_title">Нема WLAN конекција</string>
+    <string name="no_wifi_available">Мора да се поврзете на WLAN мрежа за интернет повикување (појдете во Поставки > Безжично и мрежи)</string>
+</resources>

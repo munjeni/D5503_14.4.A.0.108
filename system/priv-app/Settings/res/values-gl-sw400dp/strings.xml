@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Poñer en cola os datos en segundo plano</string>
+    <string name="auto_sync_text">Sincronización automática</string>
+    <string name="wifi_tether_settings_text">Axustes de punto de conexión Wi-Fi portátil</string>
+</resources>

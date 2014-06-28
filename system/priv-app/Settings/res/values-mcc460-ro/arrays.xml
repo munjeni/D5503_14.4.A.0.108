@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>locație imprecisă</item>
+        <item>locație exactă</item>
+        <item>GPS</item>
+        <item>vibrează</item>
+        <item>citește agenda</item>
+        <item>modifică agenda</item>
+        <item>citește jurnalul de apeluri</item>
+        <item>modifică jurnalul de apeluri</item>
+        <item>citește calendarul</item>
+        <item>modifică calendarul</item>
+        <item>scanează WLAN</item>
+        <item>notificare</item>
+        <item>scanează semnal mobil</item>
+        <item>apelează un telefon</item>
+        <item>citește mesaje SMS</item>
+        <item>scrie mesaje SMS</item>
+        <item>Primire SMS-uri</item>
+        <item>primește mesaje SMS de urgență</item>
+        <item>primește mesaje MMS</item>
+        <item>primește mesaje WAP push</item>
+        <item>trimite mesaje SMS</item>
+        <item>citește mesaje ICC SMS</item>
+        <item>scrie mesaje ICC SMS</item>
+        <item>modifică setările</item>
+        <item>desenează deasupra</item>
+        <item>accesează notificări</item>
+        <item>cameră foto</item>
+        <item>înregistrează conținut audio</item>
+        <item>redă conținut audio</item>
+        <item>citește clipboardul</item>
+        <item>modifică clipboardul</item>
+        <item>butoane media</item>
+        <item>focalizare audio</item>
+        <item>volum principal</item>
+        <item>volum voce</item>
+        <item>volum sonerie</item>
+        <item>volum media</item>
+        <item>volum alarmă</item>
+        <item>volum notificări</item>
+        <item>volumul Bluetooth</item>
+        <item>mențineți activ</item>
+        <item>monitorizarea locației</item>
+        <item>monitorizarea localizării cu consum ridicat de energie</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Locaţie</item>
+        <item>Locaţie</item>
+        <item>Locaţie</item>
+        <item>Vibrare</item>
+        <item>Citire persoane de contact</item>
+        <item>Modificare agendă</item>
+        <item>Citire jurnal de apeluri</item>
+        <item>Modificare jurnal de apeluri</item>
+        <item>Citire calendar</item>
+        <item>Modificare calendar</item>
+        <item>Locaţie</item>
+        <item>Postare notificare</item>
+        <item>Locaţie</item>
+        <item>Apelare telefon</item>
+        <item>Citiţi mesaje SMS/MMS</item>
+        <item>Scrieţi mesaje SMS/MMS</item>
+        <item>Primire SMS-uri/MMS-uri</item>
+        <item>Primire SMS-uri/MMS-uri</item>
+        <item>Primire SMS-uri/MMS-uri</item>
+        <item>Primire SMS-uri/MMS-uri</item>
+        <item>Trimitere SMS-uri/MMS-uri</item>
+        <item>Citiţi mesaje SMS/MMS</item>
+        <item>Scrieţi mesaje SMS/MMS</item>
+        <item>Modificare setări</item>
+        <item>Desenare peste</item>
+        <item>Accesare notificări</item>
+        <item>Aparat foto</item>
+        <item>Înregistrare audio</item>
+        <item>Redare audio</item>
+        <item>Citire clipboard</item>
+        <item>Modificare clipboard</item>
+        <item>Butoane media</item>
+        <item>Focalizare audio</item>
+        <item>Volum principal</item>
+        <item>Volum voce</item>
+        <item>Volum sonerie</item>
+        <item>Volum media</item>
+        <item>Volum alarmă</item>
+        <item>Volum notificări</item>
+        <item>Volum Bluetooth</item>
+        <item>Păstrare în activitate</item>
+        <item>Locație</item>
+        <item>Locație</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

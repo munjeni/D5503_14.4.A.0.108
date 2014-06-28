@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Der STAMINA-Modus umfasst:
+
+• Erweiterter Standby
+Bei ausgeschaltetem Bildschirm wird Energie gespart, indem WLAN und mobile Daten vorübergehend deaktiviert werden. Die meisten Anwendungen sind inaktiv.
+Bei EINgeschaltetem Bildschirm funktioniert das Mobiltelefon normal.
+Wenn einige Apps trotz EINgeschaltetem Erweitertem Standby aktiv bleiben sollen, fügen Sie die Apps zur Liste AKTIVE APPS IM STANDBY hinzu.
+
+• Erweiterte Nutzung
+Spart Energie bei der Nutzung Ihres Geräts durch Einschränkung der Hardwareleistung.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Wobei handelt es sich beim STAMINA-Modus?</u>"
+Der STAMINA-Modus ist eine Energiesparfunktion von Sony™. Er optimiert die Akkulaufzeit, indem Funktionen bei ausgeschaltetem Bildschirm deaktiviert werden.
+
+"<u>Grundlegende Verwendung</u>"
+Zum Aktivieren des STAMINA-Modus müssen Sie im nächsten Bildschirm auf die Schaltfläche tippen. 
+Wenn der Bildschirm ausgeschaltet ist, werden alle Netzdaten vorübergehend deaktiviert, ebenso wie die meisten Anwendungen, um den Akku zu schonen.
+Wenn der Bildschirm eingeschaltet ist, funktioniert Ihr Gerät normal.
+
+"<u>Erweiterte Verwendung</u>"
+Wenn einige Apps bei ausgeschaltetem Bildschirm weiterhin aktiv sein sollen, fügen Sie sie einfach zur Liste „AKTIVE APPS IM STANDBY“ hinzu.
+
+"<u>Hinweis</u>"
+Einige Anwendungen funktionieren möglicherweise nicht richtig, wenn sie im Standby deaktiviert wurden. Wenn eine Anwendung nicht richtig funktioniert, fügen Sie sie zur Liste „AKTIVE APPS IM STANDBY“ hinzu oder, wenn dies nicht hilft, deaktivieren Sie den STAMINA-Modus."</string>
+    <string name="location_based_wi_fi_label">Ortsbezogenes WLAN</string>
+    <string name="location_based_wi_fi_descr">WLAN wird im Bereich eines bekannten WLAN-Netzwerks automatisch aktiviert</string>
+    <string name="powersaver_feature_wifi">WLAN deaktiviert</string>
+    <string name="install_wapi_certs">WLAN-Zertifikate installieren</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, Flugmodus, Mobilfunknetze und VPNs verwalten</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN aktivieren</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-Einstellungen</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_settings_summary">WLAN-Zugangspunkte festlegen und verwalten</string>
+    <string name="wifi_setup_wizard_title">WLAN auswählen</string>
+    <string name="wifi_starting">WLAN wird aktiviert...</string>
+    <string name="wifi_stopping">WLAN wird deaktiviert...</string>
+    <string name="wifi_poor_network_detection_summary">WLAN nur bei guter Internetverbindung verwenden</string>
+    <string name="wifi_scan_always_available_summary">Der Standortdienst von Google und andere Apps sollen auch bei deaktiviertem WLAN nach Netzwerken suchen.</string>
+    <string name="wifi_scan_notify_text_location_on">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzen in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter „Erweitert“ > „Scannen immer verfügbar“ ändern.</string>
+    <string name="wifi_scan_notify_text_location_off">Apps können auch bei deaktiviertem WLAN nach Netzen in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter „Erweitert“ > „Scannen immer verfügbar“ ändern.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN in Standby aktiv lassen</string>
+    <string name="wifi_suspend_optimizations">WLAN-Optimierung</string>
+    <string name="wifi_suspend_optimizations_summary">Akkuverbrauch bei aktiviertem WLAN minimieren</string>
+    <string name="wifi_access_points">WLAN-Netze</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">WLAN aktivieren, um verfügbare Netze abzurufen</string>
+    <string name="wifi_empty_list_wifi_on">Suche nach WLAN-Netzwerken läuft…</string>
+    <string name="wifi_empty_list_user_restricted">Sie verfügen nicht über die Berechtigung zum Ändern des WLAN-Netzes.</string>
+    <string name="wifi_required_info_text">Ihr Tablet muss eine WLAN-Verbindung haben, damit die Einrichtung abgeschlossen werden kann. Nach der Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
+    <string name="wifi_wps_setup_title">Geschützte WLAN-Einrichtung</string>
+    <string name="wifi_wps_onstart_pbc">Wählen Sie die Schaltfläche \"WLAN Protected Setup\" auf Ihrem Router aus. Eventuell lautet sie auch \"WPS\" oder enthält dieses Symbol:</string>
+    <string name="wifi_wps_onstart_pin">Geben Sie die PIN %1$s auf Ihrem WLAN-Router ein. Die Einrichtung kann bis zu 2 Minuten dauern.</string>
+    <string name="wifi_wps_connected">Mit WLAN-Netzwerk %s verbunden</string>
+    <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Standortgenauigkeit und zu anderen Zwecken möchte %1$s die Netzwerküberprüfung aktivieren, auch wenn WLAN deaktiviert ist.
+
+Möchten Sie dies für alle Apps zulassen, die eine Überprüfung durchführen möchten?"</string>
+    <string name="wifi_connect_failed_message">Das Telefon konnte nicht auf dieses WLAN-Netzwerk zugreifen.</string>
+    <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-Frequenzband</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Mobiler WLAN-Hotspot</string>
+    <string name="wifi_tether_failed_subtext">Fehler bei mobilem WLAN-Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-Hotspot einrichten</string>
+    <string name="wifi_tether_configure_subtext">"%1$s Tragbarer WLAN-Hotspot.
+Sicherheit: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN-MAC-Adresse</string>
+    <string name="location_mode_high_accuracy_description">GPS/WLAN/Mobilfunknetz zur Standortbestimmung nutzen</string>
+    <string name="location_mode_battery_saving_description">WLAN/Mobilfunknetz zur Standortbestimmung nutzen</string>
+    <string name="location_neighborhood_level">Anonyme Standortdaten dürfen an Google gesendet werden. Außerdem können bestimmte Apps Daten aus Quellen wie WLAN und Mobilfunknetzen für die Bestimmung des ungefähren Standorts nutzen.</string>
+    <string name="location_neighborhood_level_wifi">Standort über WLAN bestimmt</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN-Aktivzeit</string>
+    <string name="bluetooth_on_time">WLAN-Aktivzeit</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN aktiv</string>
+    <string name="usage_type_data_wifi_send">WLAN-Daten gesendet</string>
+    <string name="usage_type_data_wifi_recv">WLAN-Daten empfangen</string>
+    <string name="battery_action_wifi">WLAN-Einstellungen</string>
+    <string name="battery_desc_wifi">Akkuverbrauch durch WLAN</string>
+    <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit deaktivieren</string>
+    <string name="gadget_toggle_wifi">WLAN-Einstellungen werden aktualisiert</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Sichern Sie App-Daten, WLAN-Kennwörter und andere Einstellungen auf Google-Servern.</string>
+    <string name="backup_erase_dialog_message">Möchten Sie die Sicherung Ihrer WLAN-Kennwörter, Lesezeichen und anderen Einstellungen sowie App-Daten beenden und alle Kopien auf den Google-Servern löschen?</string>
+    <string name="wifi_setup_title">WLAN-Einrichtung</string>
+    <string name="wifi_setup_title_editing_network">Verbindung zu WLAN-Netzwerk %s</string>
+    <string name="wifi_setup_title_connecting_network">Verbindung mit WLAN-Netzwerk %s wird hergestellt...</string>
+    <string name="wifi_setup_title_connected_network">Verbunden mit WLAN-Netzwerk %s</string>
+    <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies nach der Einrichtung unter \"Einstellungen\" > \"Drahtlos &amp; Netzwerke\" vornehmen.</string>
+    <string name="wifi_setup_description_connected">Tippen Sie auf <b>Weiter</b>", um mit der Einrichtung fortzufahren.
+
+Tippen Sie auf "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+    <string name="data_usage_menu_show_wifi">WLAN anzeigen</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-Datenlimit festlegen</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Wenn Sie die mobilen Hintergrunddaten beschränken, funktionieren einige Apps und Dienste nur bei verfügbarer WLAN-Verbindung.</string>
+    <string name="data_usage_restrict_background_multiuser">"Wenn Sie die mobilen Hintergrunddaten beschränken, funktionieren einige Apps und Dienste nur bei verfügbarer WLAN-Verbindung.
+
+
+
+Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
+    <string name="data_usage_metered_body">Wählen Sie die WLAN-Netzwerke aus, die mobile Hotspots sind. Die Verwendung dieser Netzwerke kann für Apps im Hintergrund eingeschränkt werden. Eventuell senden Apps auch eine Warnung, bevor diese Netzwerke für umfangreiche Downloads verwendet werden.</string>
+    <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
+    <string name="data_usage_metered_wifi_disabled">Aktivieren Sie WLAN, um mobile Hotspots auszuwählen.</string>
+    <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Benutzer erstellen. Jeder Benutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. Benutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Benutzer betreffen.
+
+
+
+Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen.
+
+
+
+Jeder Benutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Benutzer akzeptieren."</string>
+    <string name="restriction_wifi_config_title">WLAN und mobile Nutzung</string>
+    <string name="restriction_wifi_config_summary">Änderungen an Einstellungen für WLAN und mobile Nutzung zulassen</string>
+    <string name="ct_wifi_connected_text">Mit China Telecom WLAN verbd.</string>
+    <string name="cw_network_priority">Vorrang für China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom-WLAN-Netze werden anderen WLAN-Netzen in der Verbindung vorgezogen.</string>
+    <string name="data_traffic_disabled_text">Es konnte keine Verbindung mit den China Telecom WLAN-Netzen hergestellt werden, da der Datenverkehr deaktiviert ist. Datenverkehr jetzt aktivieren?</string>
+    <string name="location_based_wifi">Ortsbezogenes WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatisch mit WLAN-Hotspot des Betreibers verbinden</string>
+    <string name="operator_auto_connect_hotspot_txt">WLAN automatisch verb.</string>
+    <string name="wifi_calling_mode_title">Telefonieren über WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN-Zertifikat ändern</string>
+    <string name="wifi_p2p_settings">WLAN Direct-Einstellungen</string>
+    <string name="wifi_security_verbose_wapi_cert">Gesichert mit WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Gesichert mit WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Sie können Ihr Gerät als mobilen Hotspot verwenden. Dies ermöglicht es anderen Geräten (max. 10), sich mit ihm über ein WLAN-Netz zu verbinden. Die verbundenen Geräte haben über die Mobilfunkverbindung Ihres Mobiltelefons Zugriff auf das Internet. Ein mobiler Hotspot nutzt mobile Daten, daher können zusätzliche Gebühren anfallen.
+
+Ein mobiler Hotspot benötigt mehr Energie. Schließen Sie Ihr Gerät daher an die Steckdose an, damit sich der Akku nicht entlädt."</string>
+    <string name="wifi_tether_settings_subtext">Einrichten und verwalten eines mobilen WLAN-Hotspots</string>
+    <string name="wifi_tether_settings_text">Einstell. für mobilen WLAN-Hotspot</string>
+    <string name="wifi_wps_category_title">WLAN-Netzwerk einrichten</string>
+    <string name="cw_network_notification">Benachr. zu WLAN von CT aktiv.</string>
+    <string name="stamina_xssm_summary">Deaktiviert mobile Daten und WLAN, wenn der Bildschirm ausgeschaltet ist.</string>
+    <string name="tethering_no_sim_warning_txt">SIM-Karte eingeben, um die Datenverbindung zwischen Smartphone und anderen Geräten freizugeben, die mobile WLAN HotSpots oder USB-Anbindung für Internetzugang verwenden.</string>
+    <string name="wifi_offload_checkbox_summary">Beim Öffnen von Apps mitteilen, wenn WLAN verfügbar ist</string>
+    <string name="wifi_offload_checkbox_title">WLAN-Popup-Meld. anz.</string>
+    <string name="wifi_offload_notify_available_networks">WLAN-Benachrichtigungen</string>
+    <string name="wifi_offload_notify_available_networks_summary">Mich benachrichtigen, wenn WLAN-Netze verfügbar sind</string>
+    <string name="wifi_offload_option_title">Verfügbare WLAN-Netze</string>
+</resources>

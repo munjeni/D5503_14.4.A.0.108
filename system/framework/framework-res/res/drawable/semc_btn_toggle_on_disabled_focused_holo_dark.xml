@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/semc_btn_toggle_on_disabled_focused_holo_dark_normal" />
+    <item>
+        <com.sonyericsson.uxp.drawable.ColorizableDrawable somc:drawable="@drawable/semc_btn_toggle_on_disabled_holo_dark_colored" somc:color="@com.sonyericsson.uxp:color/somc_theme_accent_color_dark"
+          xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />
+    </item>
+</layer-list>

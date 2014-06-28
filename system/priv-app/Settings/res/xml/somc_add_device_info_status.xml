@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnResource="@bool/config_removeImeiSv" settings:targetKey="imei_sv" />
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnResource="@bool/config_removeSignalStrength" settings:targetKey="signal_strength" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="maintenancemenu" settings:dependOnIsValidIntent="true" settings:after="battery_level" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.maintenancemenu" android:targetClass="com.sonyericsson.maintenancemenu.batteryhealthcheck.BatteryHealthCheckActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

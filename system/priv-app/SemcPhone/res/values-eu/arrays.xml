@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Sare lehenespena</item>
+        <item>Ezkutatu zenbakia</item>
+        <item>Erakutsi zenbakia</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Orokorra</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo soilik</item>
+        <item>CDMA EvDo gabe</item>
+        <item>CDMA/EvDo automatikoa</item>
+        <item>GSM/WCDMA automatikoa</item>
+        <item>WCDMA soilik</item>
+        <item>GSM soilik</item>
+        <item>GSM/WCDMA hobetsia</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Ingelesa</item>
+        <item>Frantsesa</item>
+        <item>Gaztelania</item>
+        <item>Japoniera</item>
+        <item>Koreera</item>
+        <item>Txinera</item>
+        <item>Hebreera</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto.)</item>
+        <item>WCDMA soilik</item>
+        <item>GSM soilik</item>
+        <item>GSM/WCDMA (WCDMA hob.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Etxekoak soilik</item>
+        <item>Automatikoa</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Etxeko sareak soilik</item>
+        <item>Harpidetutako sareak</item>
+        <item>Edozein sare</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA soilik</item>
+        <item>EvDo soilik</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY desaktibatuta</item>
+        <item>TTY osoa</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normala</item>
+        <item>Luzea</item>
+    </string-array>
+</resources>

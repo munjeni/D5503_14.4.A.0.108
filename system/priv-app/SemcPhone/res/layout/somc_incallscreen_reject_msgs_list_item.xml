@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/reject_with_message_list_item_text_size" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/text" android:paddingLeft="@dimen/somc_incallscreen_reject_msgs_drawer_list_paddingLeft" android:layout_width="fill_parent" android:layout_height="@dimen/somc_incallscreen_reject_msgs_drawer_list_height" android:maxLines="2" android:scrollHorizontally="true" android:drawablePadding="@dimen/somc_incallscreen_reject_msgs_drawer_list_drawablePadding" android:fontFamily="sans-serif-light"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

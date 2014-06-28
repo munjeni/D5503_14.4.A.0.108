@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/display_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference android:title="brightness original" android:key="brightness" android:summary="Preference" />
+    <PreferenceCategory android:title="test_category original" android:key="test_category">
+        <PreferenceScreen android:title="wallpaper original" android:key="wallpaper" android:summary="PreferenceScreen" android:fragment="com.android.settings.WallpaperTypeSettings" />
+    </PreferenceCategory>
+    <CheckBoxPreference android:title="accelerometer original" android:key="accelerometer" android:summary="CheckBoxPreference" />
+    <com.sonymobile.settings.preference.IncludePreference android:title="somc_mock_add_settings" android:key="somc_mock_add_settings_key" android:summary="Sony IncludePreference" settings:include="@xml/somc_mock_add_settings" />
+</PreferenceScreen>

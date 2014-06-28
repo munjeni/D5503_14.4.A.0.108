@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Medmindre du bruger WLAN, kan du ikke længere bruge internettet, mail eller andre apps, der kræver en dataforbindelse. Vil du slå den mobile dataforbindelse fra?</string>
+    <string name="sip_call_options_wifi_only_title">Benyt internetopkald (kun WLAN)</string>
+    <string name="registration_status_no_wifi_data">Kontotilmeldingen blev afbrudt, fordi der ikke er nogen WLAN-forbindelse</string>
+    <string name="no_wifi_available_title">Ingen WLAN-forbindelse</string>
+    <string name="no_wifi_available">Du skal have forbindelse til et WLAN-netværk for internetopkald (brug Indstillinger for trådløs og netværk)</string>
+</resources>

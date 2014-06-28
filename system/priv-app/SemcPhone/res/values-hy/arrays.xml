@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Ցանցի լռելյայն</item>
+        <item>Համարը թաքցնել</item>
+        <item>Համար ցույց տալ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Գլոբալ</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo միայն</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo ինքնաբերաբար</item>
+        <item>GSM/WCDMA ինքնաբերաբար</item>
+        <item>WCDMA միայն</item>
+        <item>GSM միայն</item>
+        <item>GSM/WCDMA նախընտրելի</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Անգլերեն</item>
+        <item>Ֆրանսերեն</item>
+        <item>Իսպաներեն</item>
+        <item>Ճապոներեն</item>
+        <item>Կորեերեն</item>
+        <item>Չինարեն</item>
+        <item>Հրեական</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (ինքն. ռեժիմ)</item>
+        <item>WCDMA միայն</item>
+        <item>GSM միայն</item>
+        <item>GSM/WCDMA (WCDMA նախընտր)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Միայն տանը</item>
+        <item>Ինքնաբար</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Միայն Տնային ցանցեր</item>
+        <item>Աֆիլիատ ցանցեր</item>
+        <item>Ցանկացած ցանց</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA միայն</item>
+        <item>EvDo միայն</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Տեքստաֆոնը անջատված է</item>
+        <item>Տեքստաֆոնը լիքն է</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Սովորական</item>
+        <item>Երկար</item>
+    </string-array>
+</resources>

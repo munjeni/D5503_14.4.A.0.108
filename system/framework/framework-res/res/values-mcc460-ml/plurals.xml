@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ ലഭ്യമാണ്</item>
+        <item quantity="one">WLAN നെറ്റ്‌വര്‍ക്ക് ലഭ്യമാണ്</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">ഓപ്പണ്‍ WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ ലഭ്യമാണ്</item>
+        <item quantity="one">ഓപ്പണ്‍ WLAN നെറ്റ്‌വര്‍ക്ക് ലഭ്യമാണ്</item>
+    </plurals>
+</resources>

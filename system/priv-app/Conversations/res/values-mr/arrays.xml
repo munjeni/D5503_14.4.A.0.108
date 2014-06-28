@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>आज</item>
+        <item>काल</item>
+        <item>शनिवार</item>
+        <item>शुक्रवार</item>
+        <item>गुरूवार</item>
+        <item>बुधवार</item>
+        <item>मंगळवार</item>
+        <item>सोमवार</item>
+        <item>रविवार</item>
+        <item>एक आठवड्यापूर्वी</item>
+        <item>दोन आठवड्यांपूर्वी</item>
+        <item>एक महिन्यापूर्वी</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 सेकंद</item>
+        <item>2 सेकंद</item>
+        <item>3 सेकंद</item>
+        <item>4 सेकंद</item>
+        <item>5 सेकंद</item>
+        <item>6 सेकंद</item>
+        <item>7 सेकंद</item>
+        <item>8 सेकंद</item>
+        <item>9 सेकंद</item>
+        <item>10 सेकंद</item>
+        <item>इतर...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>कुठे आहेस?</item>
+        <item>काय चाललं आहे?</item>
+        <item>तातडीचे! लवकरात लवकर प्रत्युत्तर देणे.</item>
+        <item>क्षमस्व, मी आत्ता बैठकीत आहे.</item>
+        <item>मी ठीक आहे. काळजी नसावी.</item>
+        <item>घराच्या मार्गावर आहे.</item>
+        <item>मी परत फोन करीन.</item>
+        <item>मी पोहोचेन.</item>
+        <item>हे बघ!</item>
+    </string-array>
+</resources>

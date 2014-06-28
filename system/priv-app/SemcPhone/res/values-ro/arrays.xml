@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Setare implicită reţea</item>
+        <item>Ascundere număr</item>
+        <item>Afişare număr</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Numai EvDo</item>
+        <item>CDMA fără EvDo</item>
+        <item>CDMA/EvDo automat</item>
+        <item>GSM/WCDMA automat</item>
+        <item>Numai WCDMA</item>
+        <item>Numai GSM</item>
+        <item>De preferinţă GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Engleză</item>
+        <item>Franceză</item>
+        <item>Spaniolă</item>
+        <item>Japoneză</item>
+        <item>Coreeană</item>
+        <item>Chineză</item>
+        <item>Ebraică</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (mod auto.)</item>
+        <item>Numai WCDMA</item>
+        <item>Numai GSM</item>
+        <item>GSM/WCDMA (preferat WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Numai rezidenţiale</item>
+        <item>Automat</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Numai reţele rezidenţiale</item>
+        <item>Reţele afiliate</item>
+        <item>Orice reţea</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Numai CDMA</item>
+        <item>Numai EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY dezactivat</item>
+        <item>TTY plin</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Prelungit</item>
+    </string-array>
+</resources>

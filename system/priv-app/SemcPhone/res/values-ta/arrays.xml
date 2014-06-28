@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>இயல்புநிலை நெட்வ.</item>
+        <item>எண்ணை மறை</item>
+        <item>எண்ணைக் காண்பி</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>உலகளாவிய</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo மட்டும்</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo தானியங்கு</item>
+        <item>GSM/WCDMA தானியங்கு</item>
+        <item>WCDMA மட்டும்</item>
+        <item>GSM மட்டுமே</item>
+        <item>GSM/WCDMA விருப்பம்</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ஆங்கிலம்</item>
+        <item>ஃப்ரெஞ்ச்</item>
+        <item>ஸ்பானிஷ்</item>
+        <item>ஜப்பனீஸ்</item>
+        <item>கொரியன்</item>
+        <item>சீனர்கள்</item>
+        <item>ஹீப்ரூ</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (தானியங்கு பயன்)</item>
+        <item>WCDMA மட்டும்</item>
+        <item>GSM மட்டுமே</item>
+        <item>GSM/WCDMA (WCDMA பரிந்துரை)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>முகப்பு மட்டுமே</item>
+        <item>தானியக்கம்</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>வீட்டு பிணையங்கள் மட்டுமே</item>
+        <item>தொடர்புடைய பிணையங்கள்</item>
+        <item>எந்த நெட்வொர்க்கும்</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA மட்டும்</item>
+        <item>EvDo மட்டும்</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/சிம்</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY முடக்கத்தில்</item>
+        <item>TTY நிரம்பியது</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>இயல்பு</item>
+        <item>நீளம்</item>
+    </string-array>
+</resources>

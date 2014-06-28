@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/buttonRow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/button1" layout="@layout/somc_incall_panel_button" />
+    <include android:id="@id/button2" layout="@layout/somc_incall_panel_button" />
+    <include android:id="@id/button3" layout="@layout/somc_incall_panel_button" />
+    <include android:id="@id/button5" layout="@layout/somc_incall_panel_button" />
+    <include android:id="@id/button4" layout="@layout/somc_incall_panel_button" />
+</LinearLayout>

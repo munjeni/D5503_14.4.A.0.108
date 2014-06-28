@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Zaradiť dáta na pozadí do frontu</string>
+    <string name="auto_sync_text">Automatická synchronizácia</string>
+    <string name="wifi_tether_settings_text">Nastavenia prenosného prístupového bodu pre Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">Aplikácie aktívne aj v pohotovostnom režime</string>
+    <string name="auto_hide_notifications_title">Skryť prečítané upozornenia</string>
+</resources>

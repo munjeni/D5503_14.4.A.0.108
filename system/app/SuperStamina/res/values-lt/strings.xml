@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekonominio režimo valdiklis</string>
+    <string name="dont_ask_me_again_txt">Daugiau neklausti</string>
+    <string name="description_msg_txt">"Išjungus ekraną „Wi-Fi“ ir mobilieji duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios. Ir toliau gausite telefono skambučius, SMS / MMS žinutes ir „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, telefonas veiks įprastai.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Išjungus ekraną „Wi-Fi“ ir mobilieji duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios. Ir toliau gausite SMS / MMS žinutes ir „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, prietaisas veiks įprastai."</string>
+    <string name="description_msg_no_telephony_txt">"Išjungus ekraną „Wi-Fi“ bus laikinai pasyvintas, o dauguma programų bus neaktyvios. Ir toliau gausite „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, prietaisas veiks įprastai."</string>
+    <string name="description_title_txt">Pastaba!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktyvinkite senkančio akumuliatoriaus režimą, kad išjungtumėte visas energiją naudojančias funkcijas ir nustatymus, kai akumuliatoriaus įkrova nesieks iš anksto nustatyto lygio. Norėdami keisti nustatymus, bakstelėkite „Senkančio akumuliatoriaus režimas“.
+"</string>
+    <string name="activate_txt">Aktyvinti</string>
+    <string name="cancel_txt">Atšaukti</string>
+    <string name="xssm_blocker_detector_title">Energijos valdymo patarimas</string>
+    <string name="xssm_blocker_detector_msg">„%s“ neleidžia režimui STAMINA taupyti energijos budėjimo režimu</string>
+    <string name="xssm_blocker_detector_long_msg">Jei dažnai naudojate šią programą, nepaisykite šio įspėjimo. Jei nedažnai, pašalinkite arba priverstinai sustabdykite programą.</string>
+    <string name="xssm_blocker_detector_ignore">Supratau. Daugiau neberodyti.</string>
+    <string name="network_detector_msg">„%s“ siunčia ir gauna duomenis, kai ekranas išjungtas, todėl akumuliatorius greičiau išsikrauna.</string>
+    <string name="network_detector_long_msg">Pašalinus galima pagerinti prietaiso našumą ir pailginti akumuliatoriaus veikimo trukmę.</string>
+    <string name="wakelock_detector_msg">„%s“ nebuvo naudota keletą savaičių.</string>
+    <string name="wakelock_detector_long_msg">Ji gali suaktyvinti prietaisą veikiantį budėjimo režimu. Pašalinus galima pagerinti prietaiso našumą ir pailginti akumuliatoriaus veikimo trukmę.</string>
+    <string name="notification_title_xssm">Energijos valdymo patarimas</string>
+    <string name="notification_text_xssm">Aktyvinti režimą STAMINA</string>
+    <string name="notification_descr_xssm">Jūsų prietaisas dažnai veikia budėjimo režimu. Pailginkite akumuliatoriaus veikimo laiką aktyvindami režimą STAMINA.</string>
+    <string name="notification_dont_show_again">Supratau. Daugiau neberodyti.</string>
+    <string name="notification_title_ps">Energijos valdymo patarimas</string>
+    <string name="notification_text_ps">Aktyvinkite senkančio akum. režimą</string>
+    <string name="notification_descr_ps">Senkančio akumuliatoriaus režimas gali pailginti akumuliatoriaus veikimo trukmę, pvz., išjungdamas „Wi-Fi“ arba sumažindamas ekrano ryškumą, kai akumuliatorius senka.</string>
+    <string name="notification_title_lbw">Energijos valdymo patarimas</string>
+    <string name="notification_text_lbw">Aktyvinkite vieta pagrįstą „Wi-Fi“</string>
+    <string name="notification_descr_lbw">„Wi-Fi“ įjungtas, tačiau tam tikrą laiką nebuvo naudotas. Taupykite energiją aktyvindami vieta pagrįstą „Wi-Fi“.</string>
+    <string name="unused_application_title">Energijos valdymo patarimas</string>
+    <string name="unused_application_msg">„%s“ kurį laiką nebuvo naudojama</string>
+    <string name="unused_application_long_msg">Jei norite palikti šią programą, nepaisykite šio įspėjimo. Jei ne, programą pašalinkite.</string>
+    <string name="unused_application_ignore">Supratau. Daugiau nerodyti.</string>
+    <string name="drain_dialog_title_txt">Akumuliatorius neįkraunamas</string>
+    <string name="drain_dialog_text_usb_txt">Prijungto maitinimo šaltinio nepakanka. Akumuliatorius išsikrauna greičiau, nei įkraunamas. Prijunkite kintamosios srovės įkroviklį.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Prijungto maitinimo šaltinio nepakanka. Akumuliatorius išsikrauna greičiau, nei įkraunamas. Įkrovimo metu mažiau naudokite prietaisą.</string>
+    <string name="extend_battery_tip_dialog_headar">Energijos valdymo patarimas</string>
+    <string name="location_based_wifi_tip_dialog">„Wi-Fi“ įjungtas, tačiau tam tikrą laiką nebuvo naudotas. Taupykite energiją aktyvindami vieta pagrįstą „Wi-Fi“. Ar nustatyti vieta pagrįstą „Wi-Fi“?</string>
+    <string name="low_battery_mode_tip_dialog">Senkančio akumuliatoriaus režimas gali pailginti akumuliatoriaus veikimo trukmę, pvz., išjungdamas „Wi-Fi“ arba sumažindamas ekrano ryškumą, kai akumuliatorius senka. Ar nustatyti senkančio akumuliatoriaus režimą?</string>
+    <string name="stamina_mode_tip_dialog">Jūsų prietaisas dažnai veikia budėjimo režimu. Pailginkite akumuliatoriaus veikimo laiką aktyvindami režimą STAMINA. Ar nustatyti režimą STAMINA?</string>
+    <string name="bad_app_notification">Ši programa eikvoja akum. energiją:</string>
+    <string name="bad_standby_app_dialog">„%s“ neleidžia režimui STAMINA taupyti akumuliatoriaus energijos budėjimo režimu. Jei dažnai naudojate šią programą, nepaisykite šio įspėjimo. Jei nedažnai, bakstelėkite mygtuką „Programos informacija“ ir pašalinkite arba priverstinai sustabdykite programą.</string>
+    <string name="ignore_dialog_action">Nepaisyti</string>
+    <string name="app_info_dialog_action">Programos inform.</string>
+    <string name="stamina_activation_notification">Režimas STAMINA aktyvintas</string>
+    <string name="lowbattery_trigger_level_notification">Akumuliatoriaus lygis nesiekia %d%%</string>
+    <string name="lowbattery_activated_notification">Senkančio akum. rež. aktyvintas</string>
+    <string name="app_not_used_notification">Ši programa kurį laiką nebuvo naudojama:</string>
+    <string name="app_not_used_tip_dialog">„%s“ tam tikrą laiką nebuvo naudojama. Rekomenduojame pašalinti programą, kad sutaupytumėte energijos.</string>
+    <string name="no_action_dialog">Ne</string>
+    <string name="yes_action_dialog">Taip</string>
+    <string name="widget_remaining_battery_time">Apskaičiuota akumuliatoriaus veikimo trukmė</string>
+    <string name="widget_name">Režimą STAMINA</string>
+</resources>

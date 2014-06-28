@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINAモードとは:
+
+• 拡張待ち受け
+画面がOFFの時、WLANとモバイルデータ通信を一時的に無効にして、消費電力を抑えます。多くのアプリも停止中の状態になります。
+画面がONになると、機器は通常の動作に戻ります。
+拡張待ち受けがONの状態で、アプリを有効にしておきたい場合は、アプリを[待ち受け中実行アプリ]リストに追加してください。
+
+• 拡張使用
+機器がハードウェア動作を制限している場合、消費電力を抑えます。
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINAモードとは</u>"
+STAMINAモードは、SONYの省電力機能です。画面がOFFの時に、電力消費を抑えます。
+
+"<u>基本的な使い方</u>"
+STAMINAモードを有効にするには、次の画面のスイッチを使用します。
+画面がOFFの時、電力消費を抑えるため、すべてのネットワーク上のデータ通信は一時的に無効になり、多くのアプリケーションも無効になります。
+画面がONになると、通常の動作をします。
+
+"<u>上手な使い方</u>"
+画面がOFFの時でも使用したいアプリがある場合、それらを[待ち受け中実行アプリ]に追加してください。
+
+"<u>注意</u>"
+待ち受け中に無効である場合、正常に動作しないアプリケーションもあります。アプリケーションが正常に動作しない場合は、[待ち受け中実行アプリ]に追加するか、それでも正常に動作しない場合は、STAMINAモードを無効にしてください。"</string>
+    <string name="location_based_wi_fi_label">エリア連動WLAN</string>
+    <string name="location_based_wi_fi_descr">登録されたWLANネットワークの圏内に入るとWLANは自動的に有効になります</string>
+    <string name="powersaver_feature_wifi">WLANをOFF</string>
+    <string name="install_wapi_certs">WLAN証明書のインストール</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN、Bluetooth、機内モード、モバイルネットワーク、VPNの設定</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLANをONにする</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN設定</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLANの選択</string>
+    <string name="wifi_starting">WLANをONにしています...</string>
+    <string name="wifi_stopping">WLANをOFFにしています...</string>
+    <string name="wifi_poor_network_detection_summary">安定したインターネット接続があるときのみWLANネットワークを使用する</string>
+    <string name="wifi_scan_always_available_summary">WLANがOFFの場合でも、Googleの位置情報サービスと他のアプリでネットワークをスキャンする。</string>
+    <string name="wifi_scan_notify_text_location_on">位置情報の精度向上やその他の目的で、WLANがOFFの場合でもGoogleやその他のアプリは近くのネットワークをスキャンすることができます。このスキャンが必要ない場合は、[詳細設定] > [スキャンを常に実行する]に移動してください。</string>
+    <string name="wifi_scan_notify_text_location_off">WLANがOFFの場合でもアプリは近くのネットワークをスキャンすることができます。このスキャンが必要ない場合は、[詳細設定] > [スキャンを常に実行する]に移動してください。</string>
+    <string name="wifi_setting_sleep_policy_title">スリープ時のWLAN接続</string>
+    <string name="wifi_suspend_optimizations">WLAN最適化</string>
+    <string name="wifi_suspend_optimizations_summary">WLANがONの時に電池使用量を節約する</string>
+    <string name="wifi_access_points">WLANネットワーク</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">利用可能なネットワークを表示するにはWLANをONにしてください</string>
+    <string name="wifi_empty_list_wifi_on">WLANネットワークを検索中…</string>
+    <string name="wifi_empty_list_user_restricted">WLANネットワークを変更する権限がありません</string>
+    <string name="wifi_required_info_text">設定を完了するには、タブレットでWLANに接続する必要があります。設定後にモバイルデータ通信とWLANを切り替えられます。</string>
+    <string name="wifi_wps_setup_title">WLAN保護設定</string>
+    <string name="wifi_wps_onstart_pbc">ルーターのWLAN保護設定ボタンを押します。[WPS]と表記されている場合や、次のような記号が表示されている場合もあります</string>
+    <string name="wifi_wps_onstart_pin">WLANルーターでPIN[%1$s]を入力します。設定の完了まで最大2分ほどかかることがあります。</string>
+    <string name="wifi_wps_connected">WLANネットワーク%sに接続しました</string>
+    <string name="wifi_scan_always_turnon_message">"位置情報の精度向上やその他の目的で、WLANがOFFの場合でも%1$sがネットワークスキャンをONにすることを要求します。
+
+スキャンを必要とするすべてのアプリでスキャンを許可しますか?"</string>
+    <string name="wifi_connect_failed_message">携帯電話からこのWLANネットワークに接続できませんでした。</string>
+    <string name="wifi_advanced_titlebar">WLAN詳細設定</string>
+    <string name="wifi_setting_frequency_band_title">WLANの周波数帯</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">WLANテザリング</string>
+    <string name="wifi_tether_failed_subtext">WLANテザリングエラー</string>
+    <string name="wifi_tether_configure_ap_text">WLANテザリング設定</string>
+    <string name="wifi_tether_configure_subtext">"WLANテザリング: %1$s
+セキュリティ: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MACアドレス</string>
+    <string name="location_mode_high_accuracy_description">GPS、WLAN、モバイルネットワークで位置情報を特定する</string>
+    <string name="location_mode_battery_saving_description">WLANとモバイルネットワークで位置情報を特定する</string>
+    <string name="location_neighborhood_level">匿名の現在地データをGoogleへ送信することを許可します。WLAN、モバイルネットワークなどのデータを使用したおおよその位置の特定もアプリに許可します。</string>
+    <string name="location_neighborhood_level_wifi">WLANで検出される位置情報</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLANをONにしている時間</string>
+    <string name="bluetooth_on_time">WLANをONにしている時間</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN使用</string>
+    <string name="usage_type_data_wifi_send">送信したWLANデータ</string>
+    <string name="usage_type_data_wifi_recv">受信したWLANデータ</string>
+    <string name="battery_action_wifi">WLAN設定</string>
+    <string name="battery_desc_wifi">WLANの電池使用量</string>
+    <string name="battery_sugg_wifi">未使用時または電波が届かないときはWLANをOFFにします</string>
+    <string name="gadget_toggle_wifi">WLAN設定の更新</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">アプリのデータ、WLANパスワードなどの設定をGoogleサーバーにバックアップする</string>
+    <string name="backup_erase_dialog_message">WLANパスワード、ブックマーク、その他の設定、アプリのデータのバックアップを停止し、Googleサーバー上のすべてのコピーを削除しますか?</string>
+    <string name="wifi_setup_title">WLANセットアップ</string>
+    <string name="wifi_setup_title_editing_network">WLANネットワーク「%s」に接続</string>
+    <string name="wifi_setup_title_connecting_network">WLANネットワーク「%s」に接続しています...</string>
+    <string name="wifi_setup_title_connected_network">WLANネットワーク「%s」に接続しました</string>
+    <string name="wifi_setup_eap_not_supported">セットアップ中にEAP WLAN接続は設定できません。セットアップ後に、[設定] > [無線とネットワーク]で設定できます。</string>
+    <string name="wifi_setup_description_connected">セットアップを続けるには[<b>次へ</b>"]をタップします。
+
+別のWLANネットワークに接続するには["<b>戻る</b>]をタップします。</string>
+    <string name="data_usage_menu_show_wifi">WLANの使用状況を表示</string>
+    <string name="data_usage_disable_wifi_limit">WLANデータの制限を設定</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">バックグラウンドのモバイルデータを制限すると、アプリやサービスの一部は、WLANネットワークに接続するまで機能しません。</string>
+    <string name="data_usage_restrict_background_multiuser">"バックグラウンドのモバイルデータ通信を制限すると、アプリやサービスによっては、WLANネットワーク未接続時に機能しない場合があります。
+
+この設定はこの携帯電話上のすべてのユーザーに影響します。"</string>
+    <string name="data_usage_metered_body">モバイルアクセスポイントであるWLANネットワークを選択します。このネットワークの使用をバックグラウンド中のアプリに禁止することができます。このネットワークで大量のダウンロードをする前に、アプリが警告することもできます。</string>
+    <string name="data_usage_metered_wifi">WLANネットワーク</string>
+    <string name="data_usage_metered_wifi_disabled">モバイルアクセスポイントを選択するには、WLANをONにします。</string>
+    <string name="user_add_user_message_long">"追加ユーザーを作成すると、この機器を他のユーザーと共有できます。各ユーザーは各自のスペースを所有でき、アプリや壁紙などを使用してカスタマイズできます。WLANなど、すべてのユーザーに影響するタブレット設定を変更することもできます。
+
+新しいユーザーを作成したら、そのユーザーは設定を完了する必要があります。
+
+すべてのユーザーは他のユーザーの代わりに更新されたアプリの許可を承認できます。"</string>
+    <string name="restriction_wifi_config_title">WLANとモバイル</string>
+    <string name="restriction_wifi_config_summary">WLANとモバイルの設定の変更を許可する</string>
+    <string name="ct_wifi_connected_text">China TelecomのWLANに接続</string>
+    <string name="cw_network_priority">China TelecomのWLANを優先</string>
+    <string name="cw_network_priority_summary">China TelecomのWLANネットワークに優先的に接続します</string>
+    <string name="data_traffic_disabled_text">データ通信が無効なため、China TelecomのWLANネットワークに接続できませんでした。今すぐデータ通信を有効にしますか?</string>
+    <string name="location_based_wifi">エリア連動WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;TのWLANﾎｯﾄｽﾎﾟｯﾄに自動接続します</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN自動接続</string>
+    <string name="wifi_calling_mode_title">WLAN通話</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN証明書の変更</string>
+    <string name="wifi_p2p_settings">WLAN Direct設定</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERTでセキュリティ保護</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSKでセキュリティ保護</string>
+    <string name="wifi_tether_explanation_dialog_text">"この機器をモバイルホットスポットとして使用することができます。これにより、他の機器(最大10台)がWLANネットワーク経由で接続することができます。接続された機器は、この携帯電話のモバイルネットワーク接続経由でインターネットにアクセスできます。モバイルホットスポットはモバイルデータ通信を使用するため、追加料金が発生することがあります。
+
+モバイルホットスポットはより多くの電池を消費します。電池の消費を抑えるために機器をコンセントに接続してください。"</string>
+    <string name="wifi_tether_settings_subtext">WLANテザリングを設定および管理する</string>
+    <string name="wifi_tether_settings_text">WLANテザリング設定</string>
+    <string name="wifi_wps_category_title">WLANネットワークを設定</string>
+    <string name="cw_network_notification">CTのWLAN通知を有効にする</string>
+    <string name="stamina_xssm_summary">画面がOFFの状態の時、モバイルデータ通信とWLANを無効にします</string>
+    <string name="tethering_no_sim_warning_txt">インターネットにアクセスするため、携帯電話のデータ接続を、モバイルWLANホットスポットやUSBテザリングを利用して他の機器と共有するには、SIMカードを挿入してください。</string>
+    <string name="wifi_offload_checkbox_summary">アプリ開始時、WLANが利用可能な場合に通知する</string>
+    <string name="wifi_offload_checkbox_title">WLANポップアップを表示する</string>
+    <string name="wifi_offload_notify_available_networks">WLAN通知</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLANネットワークが利用可能な場合に通知する</string>
+    <string name="wifi_offload_option_title">利用可能なWLANネットワーク</string>
+</resources>

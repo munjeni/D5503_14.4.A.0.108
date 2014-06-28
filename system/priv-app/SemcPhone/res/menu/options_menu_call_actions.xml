@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/options_menu_start_record_call" android:title="@string/phone_strings_turn_on_call_recording_action_bar_list_option_txt" />
+    <item android:id="@id/options_menu_stop_record_call" android:title="@string/phone_strings_turn_off_call_recording_action_bar_list_option_txt" />
+</menu>

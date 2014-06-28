@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Når skærmen er slukket, vil WLAN og mobildata midlertidigt være deaktiveret, og de fleste apps vil være inaktive. Du vil stadig modtage opkald, SMS-/MMS-beskeder og Sony™-kalendermeddelelser og Sony™-alarmsignaler. Musikafspilleren og FM-radioen vil fungere, og igangværende overførsler og hentninger vil gennemføres.
+
+Når skærmen er tændt, fungerer telefonen normalt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Når skærmen er slået fra, deaktiveres WLAN og mobildata midlertidigt, og de fleste programmer vil være inaktive. Du vil fortsat modtage SMS/MMS-beskeder, Sony™ kalenderpåmindelser og Sony™ alarmsignaler. Musikafspilleren og FM-radio vil fungere, og filer, du er ved at hente eller overføre, afsluttes korrekt.
+
+Når skærmen er slået til, fungerer din enhed normalt."</string>
+    <string name="description_msg_no_telephony_txt">"Når skærmen er slået fra, deaktiveres WLAN midlertidigt, og de fleste programmer vil være inaktive. Du vil fortsat modtage Sony™-kalenderpåmindelser og Sony™-alarmsignaler. Musikafspilleren og FM-radio vil fungere, og filer, du er ved at hente eller overføre, afsluttes korrekt..
+
+Når skærmen er slået til, fungerer din enhed normalt."</string>
+    <string name="notification_descr_ps">Tilstanden for lavt batteriforbrug kan forlænge batteriets levetid, f.eks. ved at slå WLAN fra eller sænke skærmens lysstyrke, når batteriet er lavt.</string>
+    <string name="notification_text_lbw">Aktivér placeringsbaseret WLAN</string>
+    <string name="notification_descr_lbw">WLAN er slået til, men har ikke været anvendt et stykke tid. Spar strøm ved at aktivere placeringsbaseret WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN er slået til, men har ikke været brugt i et stykke tid. Du kan spare strøm ved at aktivere Placeringsbaseret WLAN. Opsæt Placeringsbaseret WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Tilstanden for lavt batteriforbrug kan forlænge batteriets levetid, f.eks. ved at slå WLAN fra eller sænke skærmens lysstyrke, når batteriet er lavt. Konfigurer tilstanden for lavt batteriforbrug?</string>
+</resources>

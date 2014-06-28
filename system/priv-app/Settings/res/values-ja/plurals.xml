@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">デベロッパーになるまであと%1$dステップです。</item>
+        <item quantity="one">デベロッパーになるまであと%1$dステップです。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">パスワードには少なくとも英字を%d文字入力してください</item>
+        <item quantity="one">パスワードには少なくとも英字を1文字入力してください</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">パスワードには少なくとも小文字を%d文字入力してください</item>
+        <item quantity="one">パスワードには少なくとも小文字を1文字入力してください</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">パスワードには少なくとも大文字を%d文字入力してください</item>
+        <item quantity="one">パスワードには少なくとも大文字を1文字入力してください</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">パスワードには少なくとも数字を%d文字入力してください</item>
+        <item quantity="one">パスワードには少なくとも数字を1文字入力してください</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">パスワードには少なくとも特殊記号を%dつ入力してください</item>
+        <item quantity="one">パスワードには少なくとも特殊記号を1つ入力してください</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">パスワードには少なくとも記号または数字を%dつ入力してください</item>
+        <item quantity="one">パスワードには少なくとも記号または数字を1つ入力してください</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d個のアプリが通知を読み取ることができます</item>
+        <item quantity="one">%d個のアプリが通知を読み取ることができます</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PINコードが無効です。入力できるのはあと%d回です。</item>
+        <item quantity="one">SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えると、お使いの機器をロック解除するのに通信事業者にお問い合わせいただく必要があります。</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s台のプリンターが見つかりました</item>
+        <item quantity="one">%1$s台のプリンターが見つかりました</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d個のアプリがリスト内にあります</item>
+        <item quantity="one">%1$d個のアプリがリスト内にあります</item>
+    </plurals>
+</resources>

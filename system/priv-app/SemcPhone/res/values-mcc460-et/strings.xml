@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">V.a kui kasutate WLAN-t, ei saa te enam kasutada Internetti, e-posti ega muid andmesideühendust vajavaid rakendusi. Kas mobiilandmesideühendus välja lülitada?</string>
+    <string name="sip_call_options_wifi_only_title">Interneti-kõnede (ainult WLAN) kasutus</string>
+    <string name="registration_status_no_wifi_data">WLAN-ühendust pole. Kontot ei saanud registreerida.</string>
+    <string name="no_wifi_available_title">WLAN-ühendust pole</string>
+    <string name="no_wifi_available">Interneti-kõnede jaoks peate looma ühenduse WLAN-võrguga (valige Seaded > Traadita side võrgud).</string>
+</resources>

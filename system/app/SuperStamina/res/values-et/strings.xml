@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ökorežiimi kontroller</string>
+    <string name="dont_ask_me_again_txt">Ära enam küsi</string>
+    <string name="description_msg_txt">"Kui ekraan on väljas, siis lülitatakse WiFi ja andmeliiklus ajutiselt välja ning enamik rakendustest on passiivsed. Sissetulevad kõned, SMS- ja MMS-sõnumid ning Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad jätkuvalt. Muusikamängija ja FM-raadio töötavad ning pooleliolevad allalaadimised ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sees, siis töötab telefon tavapäraselt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kui ekraan on väljas, siis lülitatakse WiFi ja mobiilandmeside ajutiselt välja ning enamik rakendustest on passiivsed. SMS- ja MMS-sõnumid ning Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad jätkuvalt. Muusikamängija ja FM-raadio töötavad ning pooleliolevad allalaadimised ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sees, siis töötab telefon tavapäraselt."</string>
+    <string name="description_msg_no_telephony_txt">"Kui ekraan on välja lülitatud, lülitatakse ka Wi-Fi ajutiselt välja ning enamik rakendusi on passiivsed. Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad edasi. Muusikamängija ja FM-raadio töötavad ning pooleli olevad alla- ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sisse lülitatud, töötab seade tavalisel viisil."</string>
+    <string name="description_title_txt">NB!</string>
+    <string name="low_battery_mode_description_msg_txt">"Kui aku täitumus on eelmääratud tasemest väiksem, lubage energiamahukate funktsioonide ja seadete väljalülitamiseks tühjavõitu aku režiim. Koputage seadete muutmiseks valikut Tühjavõitu aku režiim.
+"</string>
+    <string name="activate_txt">Aktiveeri</string>
+    <string name="cancel_txt">Tühista</string>
+    <string name="xssm_blocker_detector_title">Toitehalduse näpunäide</string>
+    <string name="xssm_blocker_detector_msg">%s takistab STAMINA-režiimis ooterežiimi energiasäästu</string>
+    <string name="xssm_blocker_detector_long_msg">Kui kasutate seda rakendust sageli, eirake seda hoiatust. Kui ei, desinstallige rakendus või sundpeatage see.</string>
+    <string name="xssm_blocker_detector_ignore">Selge. Ära enam kuva.</string>
+    <string name="network_detector_msg">Kui ekraan on väljas, siis %s saadab ja võtab vastu andmeid ning põhjustab seeläbi aku kiiremat tühjenemist.</string>
+    <string name="network_detector_long_msg">Rakenduse desinstallimine võib seadme jõudlust parandada ja aku tööaega pikendada.</string>
+    <string name="wakelock_detector_msg">Rakendust %s pole mitu nädalat kasutatud.</string>
+    <string name="wakelock_detector_long_msg">See võib seadme ooterežiimist äratada. Rakenduse desintallimine aitab seadme jõudlust parandada ja aku tööaega pikendada.</string>
+    <string name="notification_title_xssm">Toitehalduse näpunäide</string>
+    <string name="notification_text_xssm">Aktiveerige STAMINA-režiim</string>
+    <string name="notification_descr_xssm">Teie seade on sageli ooterežiimis. Kui aktiveerite STAMINA-režiimi, pikeneb aku kasutusaeg.</string>
+    <string name="notification_dont_show_again">Selge. Ära enam kuva.</string>
+    <string name="notification_title_ps">Toitehalduse näpunäide</string>
+    <string name="notification_text_ps">Aktiveerige tühjavõitu aku režiim</string>
+    <string name="notification_descr_ps">Tühjavõitu aku režiim võib pikendada aku kasutusaega, lülitades tühjavõitu aku korral näiteks WiFi välja või vähendades ekraani heledust.</string>
+    <string name="notification_title_lbw">Toitehalduse näpunäide</string>
+    <string name="notification_text_lbw">Aktiveerige asukohapõhine WiFi</string>
+    <string name="notification_descr_lbw">WiFi on sisse lülitatud, kuid seda pole mõnda aega kasutatud. Lülitage energia säästmiseks sisse asukohapõhine WiFi.</string>
+    <string name="unused_application_title">Toitehalduse näpunäide</string>
+    <string name="unused_application_msg">Rakendust %s pole mõnda aega kasutatud</string>
+    <string name="unused_application_long_msg">Kui soovite rakenduse alles jätta, eirake seda hoiatust. Kui ei, siis desinstallige rakendus.</string>
+    <string name="unused_application_ignore">Sain aru. Ära enam kuva.</string>
+    <string name="drain_dialog_title_txt">Akut ei laeta</string>
+    <string name="drain_dialog_text_usb_txt">Ühendatud toiteallikas pole piisav. Aku tühjeneb kiiremini, kui seda laetakse. Kasutage selle asemel vahelduvvoolulaadijat.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Ühendatud toiteallikas pole piisav. Aku tühjeneb kiiremini, kui seda laetakse. Kasutage laadimise ajal seadet võimalikult vähe.</string>
+    <string name="extend_battery_tip_dialog_headar">Näpunäide toite säästmiseks</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi on sees, kuid seda pole mõnda aega kasutatud. Toite säästmiseks saate aktiveerida asukohapõhise Wi-Fi. Kas seadistada asukohapõhine Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Tühjavõitu aku režiim võib aku tööaega pikendada (nt lülitatakse tühjavõitu aku korral Wi-Fi välja või vähendatakse ekraani heledust). Kas seadistada tühjavõitu aku režiim?</string>
+    <string name="stamina_mode_tip_dialog">Teie seade on tihti ooterežiimis. Aku tööaja pikendamiseks saate aktiveerida STAMINA režiimi. Kas seadistada STAMINA režiim?</string>
+    <string name="bad_app_notification">Järgmine rakendus tühjendab akut:</string>
+    <string name="bad_standby_app_dialog">%s ei lase STAMINA režiimil ooterežiimis energiat säästa. Kui kasutate seda rakendust sageli, siis eirake seda hoiatust. Vastasel juhul koputage nuppu Rakenduse teave ja desinstallige või peatage rakendus.</string>
+    <string name="ignore_dialog_action">Eira</string>
+    <string name="app_info_dialog_action">Rakenduse teave</string>
+    <string name="stamina_activation_notification">STAMINA režiim on aktiveeritud</string>
+    <string name="lowbattery_trigger_level_notification">Aku laetus on vähem kui %d%%</string>
+    <string name="lowbattery_activated_notification">Tühjavõitu aku režiim aktiveeritud</string>
+    <string name="app_not_used_notification">Rakendust pole mõnda aega kasutatud:</string>
+    <string name="app_not_used_tip_dialog">Rakendust %s pole mõnda aega kasutatud. Toite säästmiseks soovitame teil rakenduse desinstallida.</string>
+    <string name="no_action_dialog">Ei</string>
+    <string name="yes_action_dialog">Jah</string>
+    <string name="widget_remaining_battery_time">Hinnanguline aeg aku tühjenemiseni</string>
+    <string name="widget_name">STAMINA-režiim</string>
+</resources>

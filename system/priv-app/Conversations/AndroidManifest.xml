@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.sonyericsson.conversations" package="com.sonyericsson.conversations">
+    <permission android:description="@string/permdesc_conversations_internal_txt" android:label="@string/permlab_conversations_internal_txt" android:name="com.sonyericsson.permission.CONVERSATIONS_INTERNAL" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_conversations_settings_provider_txt" android:label="@string/permlab_conversations_settings_provider_txt" android:name="com.sonyericsson.permission.CONVERSATIONS_SETTINGS_PROVIDER" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/permdesc_conversations_message_notification_service_txt" android:label="@string/permlab_conversations_message_notification_service_txt" android:name="com.sonyericsson.permission.CONVERSATIONS_MESSAGE_NOTIFICATION_SERVICE" android:protectionLevel="signature"/>
+    <permission android:name="com.sonyericsson.permission.CONVERSATIONS_RECEIVE_NOTIFICATIONS" android:protectionLevel="signature"/>
+    <permission android:name="com.sonyericsson.permission.CONVERSATIONS_BROADCAST_NOTIFICATIONS" android:protectionLevel="signature"/>
+    <permission android:name="android.permission.MMS_PUSH" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.sonyericsson.permission.CONVERSATIONS_INTERNAL"/>
+    <uses-permission android:name="com.sonyericsson.permission.CONVERSATIONS_SETTINGS_PROVIDER"/>
+    <uses-permission android:name="com.sonyericsson.permission.CONVERSATIONS_BROADCAST_NOTIFICATIONS"/>
+    <uses-permission android:name="com.sonyericsson.permission.WAP_PUSH_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_MMS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS"/>
+    <uses-permission android:name="com.sonyericsson.permission.CONTACTS_PICK_CONVERSATIONS_TARGET"/>
+    <uses-permission android:name="com.sonyericsson.permission.SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="com.sonyericsson.permission.CREDENTIALMANAGER"/>
+    <uses-permission android:name="com.sonyericsson.permission.IDD"/>
+    <uses-permission android:name="android.permission.READ_PROFILE"/>
+    <uses-permission android:name="com.sonyericsson.pws.permission.EMERGENCY_ALERTS"/>
+    <uses-permission android:name="android.permission.MMS_PUSH"/>
+    <uses-permission android:name="com.sonymobile.permission.ENTERPRISE_API"/>
+    <uses-permission android:name="com.sonyericsson.permission.ACCESS_PROTECTED_CONTACTS"/>
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE"/>
+    <uses-permission android:name="com.sonymobile.providers.landownerprovider.permission.READ"/>
+    <uses-permission android:name="com.somc.permissions.WRITE_SMSC"/>
+    <uses-permission android:name="com.somc.permissions.READ_MMS_SMS_CAPABILITY"/>
+    <supports-screens android:anyDensity="true" android:smallScreens="true"/>
+    <application android:allowTaskReparenting="true" android:backupAgent="com.sonyericsson.conversations.backup.MessagesBackupAgent" android:debuggable="false" android:icon="@drawable/conv_application_launcher" android:killAfterRestore="false" android:label="@string/conversations_strings_app_title_txt" android:name="ConversationsApp" android:supportsRtl="true" android:taskAffinity="android.task.mms" android:theme="@style/ConversationsTheme">
+        <uses-library android:name="com.sonyericsson.idd"/>
+        <uses-library android:name="com.google.protobuf-2.3.0"/>
+        <uses-library android:name="com.sonymobile.settings.illumination.api" android:required="false"/>
+        <uses-library android:name="com.sonyericsson.mimetype"/>
+        <uses-library android:name="com.sonyericsson.privateapis_1p"/>
+        <uses-library android:name="com.google.android.maps" android:required="false"/>
+        <service android:exported="false" android:name="com.android.mms.transaction.TransactionService"/>
+        <service android:exported="false" android:name="com.android.mms.transaction.SmsReceiverService"/>
+        <service android:exported="true" android:name="com.sonyericsson.conversations.notifications.MessageReceivedNotificationService" android:permission="com.sonyericsson.permission.CONVERSATIONS_MESSAGE_NOTIFICATION_SERVICE"/>
+        <service android:name="com.sonyericsson.conversations.ui.persist.SaveDraftService"/>
+        <activity android:configChanges="locale" android:name="com.sonyericsson.conversations.ui.ExpandedPileViewActivity" android:theme="@style/ConversationsTheme.Translucent"/>
+        <activity android:hardwareAccelerated="false" android:name="com.android.mms.ui.EditSlideDurationActivity" android:theme="@style/ConversationsTheme.Dialog"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:hardwareAccelerated="false" android:name="com.android.mms.ui.SlideEditorActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/conversations_strings_class_0_message_title_txt" android:launchMode="singleTop" android:name="com.android.mms.ui.ClassZeroActivity" android:theme="@style/ConversationsTheme.Dialog"/>
+        <activity-alias android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/conversations_strings_class_0_message_title_txt" android:launchMode="singleTop" android:name="com.android.mms.ui.CellBroadcastActivity" android:targetActivity="com.android.mms.ui.ClassZeroActivity" android:theme="@style/ConversationsTheme.Dialog"/>
+        <receiver android:name="com.android.mms.transaction.PushReceiver" android:permission="android.permission.BROADCAST_WAP_PUSH">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_DELIVER"/>
+                <data android:mimeType="application/vnd.wap.mms-message"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.MmsContentChangedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.CONTENT_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.android.mms.transaction.MmsConnectivityReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.CellBroadcastReceiver" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_CB_RECEIVED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.telephony.SMS_CB_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.PrivilegedSmsReceiver" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_DELIVER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.SmsSendReceiver" android:permission="android.permission.SEND_SMS">
+            <intent-filter>
+                <action android:name="com.android.mms.transaction.SEND_MESSAGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.MmsSystemPushMsgReceiver" android:permission="android.permission.MMS_PUSH">
+            <intent-filter>
+                <action android:name="android.intent.action.MMS_PUSH"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.PrivilegedSmsSentReceiver" android:permission="com.sonyericsson.permission.CONVERSATIONS_INTERNAL">
+            <intent-filter>
+                <action android:name="com.android.mms.transaction.MESSAGE_SENT"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.android.mms.transaction.SmsSendQueuedMessagesReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SERVICE_STATE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.android.mms.transaction.SmsUpdateNotificationsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.android.mms.transaction.SmsFailedUpdateNotificationsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.MessageStatusReceiver" android:permission="com.sonyericsson.permission.CONVERSATIONS_INTERNAL">
+            <intent-filter>
+                <action android:name="com.android.mms.transaction.MessageStatusReceiver.MESSAGE_STATUS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.SimFullReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SIM_FULL"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.mms.transaction.SmsRejectedReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_REJECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.android.mms.transaction.MmsBootRetryReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sonyericsson.conversations.settings.MasterResetReceiver" android:permission="android.permission.MASTER_CLEAR">
+            <intent-filter>
+                <action android:name="com.sonyericsson.settings.MASTERRESET"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sonyericsson.conversations.notifications.NotificationClearReceiver">
+            <intent-filter>
+                <action android:name="com.sonyericsson.conversations.NOTIFICATION_CLEAR"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sonymobile.multiuser.DisableOnGuestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:hardwareAccelerated="true" android:label="@string/conversations_strings_app_title_txt" android:launchMode="singleTop" android:name=".ui.ConversationListActivity" android:theme="@style/ConversationsTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.APP_MESSAGING"/>
+                <category android:name="android.intent.category.MONKEY"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.dir/mms"/>
+                <data android:mimeType="vnd.android-dir/mms-sms"/>
+                <data android:mimeType="vnd.android-dir/mms"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android-dir/mms-sms"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="sms"/>
+                <data android:scheme="smsto"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" android:resource="@xml/searchable"/>
+        </activity>
+        <activity android:enabled="false" android:name=".ui.ShareMediaActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/x-vcard"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="video/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="audio/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/ogg"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="mailto"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="mmsto"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.sonyericsson.conversations" android:exported="true" android:name="com.sonyericsson.conversations.provider.ConversationsSettingsProvider" android:permission="com.sonyericsson.permission.CONVERSATIONS_SETTINGS_PROVIDER"/>
+        <activity android:allowTaskReparenting="false" android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/conversations_strings_conversationlist_menu_settings_txt" android:launchMode="singleTop" android:name="com.sonyericsson.conversations.ui.SettingsActivity" android:permission="com.sonyericsson.permission.SETTINGS" android:screenOrientation="behind" android:taskAffinity="">
+            <meta-data android:name="com.sonyericsson.preference.title" android:resource="@string/conversations_strings_settings_screen_title_txt"/>
+            <meta-data android:name="com.sonyericsson.preference.summary" android:resource="@string/conversations_strings_settings_screen_summary_txt"/>
+        </activity>
+        <activity android:allowTaskReparenting="false" android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/conversations_strings_settings_sim_messages_txt" android:launchMode="singleTop" android:name="com.sonyericsson.conversations.ui.SimMessagesActivity" android:screenOrientation="behind" android:taskAffinity="">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/conversations_strings_conversationlist_menu_starredmessage_txt" android:name="com.sonyericsson.conversations.ui.StarredMessageListActivity" android:theme="@style/ConversationsTheme.Dialog"/>
+        <activity android:allowTaskReparenting="false" android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/conversations_strings_settings_text_template_txt" android:launchMode="singleTop" android:name="com.sonyericsson.conversations.ui.setting.template.TextTemplateActivity" android:screenOrientation="behind" android:taskAffinity="">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:hardwareAccelerated="false" android:name="com.sonyericsson.conversations.ui.SlideshowActivity" android:screenOrientation="behind"/>
+        <activity android:name="com.sonyericsson.conversations.ui.SaveVCardActivity" android:theme="@style/ConversationsTheme.Dialog"/>
+        <activity android:hardwareAccelerated="false" android:name="com.sonyericsson.conversations.ui.GifViewerActivity" android:theme="@style/ConversationsTheme.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.sonyericsson.conversations.ui.MmsOnePageViewActivity" android:theme="@style/ConversationsTheme.OnePageView"/>
+        <meta-data android:name="android.app.default_searchable" android:value="com.sonyericsson.conversations.ui.ConversationActivity"/>
+        <provider android:authorities="com.android.mms.SuggestionsProvider" android:exported="true" android:name="com.android.mms.SuggestionsProvider" android:readPermission="android.permission.READ_SMS">
+            <path-permission android:pathPrefix="/search_suggest_query" android:readPermission="android.permission.GLOBAL_SEARCH"/>
+            <path-permission android:pathPrefix="/search_suggest_shortcut" android:readPermission="android.permission.GLOBAL_SEARCH"/>
+        </provider>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="LocationEditActivity" android:name="com.sonyericsson.conversations.location.ui.LocationEditActivity" android:screenOrientation="portrait" android:theme="@style/ConversationsTheme.ActionBarInsideActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="com.sonyericsson.applicationid" android:value="com.sonyericsson.maps.appid.2"/>
+            <meta-data android:name="android.app.searchable" android:resource="@xml/location_searchable"/>
+        </activity>
+        <activity-alias android:configChanges="keyboardHidden|orientation|screenSize" android:label="LocationActivity" android:name="com.sonyericsson.conversations.location.ui.LocationActivity" android:screenOrientation="portrait" android:targetActivity="com.sonyericsson.conversations.location.ui.LocationEditActivity" android:theme="@style/ConversationsTheme.ActionBarInsideActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="com.sonyericsson.applicationid" android:value="com.sonyericsson.maps.appid.4"/>
+            <meta-data android:name="android.app.searchable" android:resource="@xml/location_searchable"/>
+        </activity-alias>
+        <service android:exported="true" android:name="com.sonyericsson.conversations.ui.NoConfirmationSendService" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE">
+            <intent-filter>
+                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sms"/>
+                <data android:scheme="smsto"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="mmsto"/>
+            </intent-filter>
+        </service>
+        <activity android:configChanges="orientation|screenSize" android:name="com.sonyericsson.conversations.ui.SimMessageItemViewActivity"/>
+    </application>
+</manifest>

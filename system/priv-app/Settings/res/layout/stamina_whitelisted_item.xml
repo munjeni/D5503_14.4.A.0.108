@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="fitCenter" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:textAlignment="viewStart" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+    <ImageView android:id="@id/del" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/stamina_list_action_remove" android:scaleType="center" />
+    <ImageView android:id="@id/info" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/stamina_list_action_info" android:scaleType="center" />
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Økomoduskontroller</string>
+    <string name="dont_ask_me_again_txt">Ikke spør meg igjen</string>
+    <string name="description_msg_txt">"Når skjermen er av, er Wi-Fi og mobildata midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta anrop, SMS-/MMS-meldinger og Sony™-kalendervarsler og -alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført. 
+
+Når skjermen er på, fungerer telefonen som normalt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Når skjermen er av, er Wi-Fi og mobildata midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta SMS-/MMS-meldinger, Sony™-kalendervarsler og Sony™-alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført.
+
+Når skjermen er på, fungerer enheten som normalt."</string>
+    <string name="description_msg_no_telephony_txt">"Når skjermen er av, er Wi-Fi midlertidig deaktivert, og de fleste appene er inaktive. Du vil fremdeles motta Sony™-kalendervarsler og Sony™-alarmsignaler. Musikkspilleren og FM-radioen fungerer, og nedlastinger og opplastinger som pågår, blir fullført.
+
+Når skjermen er på, fungerer enheten som normalt."</string>
+    <string name="description_title_txt">Merk!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktiver Lavt batterinivå-modus for å slå av strømforbrukende funksjoner og innstillinger når batterikapasiteten kommer under et forhåndangitt nivå. Ta hurtig på Lavt batterinivå-modus for å endre innstillingene.
+"</string>
+    <string name="activate_txt">Aktiver</string>
+    <string name="cancel_txt">Avbryt</string>
+    <string name="xssm_blocker_detector_title">Strømstyringstips</string>
+    <string name="xssm_blocker_detector_msg">%s hindrer STAMINA-modus i å spare strøm i standby-modus</string>
+    <string name="xssm_blocker_detector_long_msg">Hvis du bruker denne appen ofte, kan du ignorere denne advarselen. Hvis ikke kan du avinstallere eller fremtvinge avslutning av appen.</string>
+    <string name="xssm_blocker_detector_ignore">Skjønner. Ikke vis dette igjen.</string>
+    <string name="network_detector_msg">%s sender og mottar data mens skjermen er av, og gjør at batteriet utlades raskere.</string>
+    <string name="network_detector_long_msg">Hvis du avinstallerer det, kan det føre til bedre enhetsytelse og lengre batterivarighet.</string>
+    <string name="wakelock_detector_msg">%s har ikke blitt brukt på flere uker.</string>
+    <string name="wakelock_detector_long_msg">Det kan føre til at enheten aktiveres fra standby-modus. Hvis du avinstallerer appen, kan det føre til bedre enhetsytelse og lengre batterivarighet.</string>
+    <string name="notification_title_xssm">Strømstyringstips</string>
+    <string name="notification_text_xssm">Aktiver STAMINA-modus</string>
+    <string name="notification_descr_xssm">Enheten er ofte i standby-modus. Forleng batteritiden ved å aktivere STAMINA-modus.</string>
+    <string name="notification_dont_show_again">Skjønner. Ikke vis dette igjen.</string>
+    <string name="notification_title_ps">Strømstyringstips</string>
+    <string name="notification_text_ps">Aktiver Lavt batterinivå-modus</string>
+    <string name="notification_descr_ps">Lavt batterinivå-modusen kan forlenge batterilevetiden ved for eksempel å slå av Wi-Fi eller redusere lysstyrken på skjermen når batterinivået er lavt.</string>
+    <string name="notification_title_lbw">Strømstyringstips</string>
+    <string name="notification_text_lbw">Aktiver stedsbasert Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi er på, men har ikke blitt brukt på en stund. Spar strøm ved å aktivere stedsbasert Wi-Fi.</string>
+    <string name="unused_application_title">Strømstyringstips</string>
+    <string name="unused_application_msg">%s har ikke blitt brukt på en stund</string>
+    <string name="unused_application_long_msg">Hvis du vil beholde denne appen, kan du ignorere denne advarselen. Hvis ikke kan du avinstallere appen.</string>
+    <string name="unused_application_ignore">Skjønner. Ikke vis dette igjen.</string>
+    <string name="drain_dialog_title_txt">Batteriet lades ikke</string>
+    <string name="drain_dialog_text_usb_txt">Den tilkoblede strømkilden er ikke tilstrekkelig. Batteriet lades ut raskere enn det lades. Bytt til en AC-lader.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Den tilkoblede strømkilden er ikke tilstrekkelig. Batteriet lades ut raskere enn det lades. Bruk enheten minst mulig under lading.</string>
+    <string name="extend_battery_tip_dialog_headar">Strømstyringstips</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi er på, men har ikke vært i bruk på en stund. Du kan spare strøm ved å aktivere Stedsbasert Wi-Fi. Konfigurere Stedsbasert Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Lavt batterinivå-modus kan forlenge batterilevetiden ved for eksempel å slå av Wi-Fi eller redusere lysstyrken på skjermen når batterinivået er lavt. Konfigurere Lavt batterinivå-modus?</string>
+    <string name="stamina_mode_tip_dialog">Enheten din er ofte i standby-modus. Du kan forlenge batterilevetiden ved å aktivere STAMINA-modus. Konfigurere STAMINA-modus?</string>
+    <string name="bad_app_notification">Følgende app bruker mye batteri:</string>
+    <string name="bad_standby_app_dialog">%s hindrer STAMINA-modus i å spare strøm i standby-modus. Hvis du bruker denne appen ofte, kan du ignorere denne advarselen. Hvis ikke kan du ta hurtig på knappen Info om app og enten avinstallere eller fremtvinge avslutning av appen.</string>
+    <string name="ignore_dialog_action">Ignorer</string>
+    <string name="app_info_dialog_action">Info om app</string>
+    <string name="stamina_activation_notification">STAMINA-modus aktivert</string>
+    <string name="lowbattery_trigger_level_notification">Batterinivå under %d%%</string>
+    <string name="lowbattery_activated_notification">Lavt batterinivå-modus aktivert</string>
+    <string name="app_not_used_notification">Appen har ikke blitt brukt på en stund:</string>
+    <string name="app_not_used_tip_dialog">%s har ikke vært i bruk på en stund. Vi anbefaler at du avinstallerer appen for å spare strøm.</string>
+    <string name="no_action_dialog">Nei</string>
+    <string name="yes_action_dialog">Ja</string>
+    <string name="widget_remaining_battery_time">Anslått batterilevetid</string>
+    <string name="widget_name">STAMINA-modus</string>
+</resources>

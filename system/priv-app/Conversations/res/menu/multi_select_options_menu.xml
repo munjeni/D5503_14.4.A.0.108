@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/conv_delete_template" android:id="@id/menu_delete" android:title="@string/conversations_strings_conversationlist_menu_deleteconversations_delete_txt" android:showAsAction="always" />
+</menu>

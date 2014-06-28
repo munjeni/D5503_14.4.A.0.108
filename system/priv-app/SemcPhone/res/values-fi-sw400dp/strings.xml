@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Neuvottelupuhelun osallistujat</string>
+    <string name="add_fdn_contact">Lisää kiinteän numeron yhteyshenkilö</string>
+</resources>

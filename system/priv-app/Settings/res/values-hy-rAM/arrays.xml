@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Ամերիկա</item>
+        <item>Եվրոպա</item>
+        <item>Աֆրիկա</item>
+        <item>Ասիա</item>
+        <item>Ավստրալիա</item>
+        <item>Խաղաղօվկիանոսյան</item>
+        <item>Բոլորը</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 վայրկյան</item>
+        <item>30 վայրկյան</item>
+        <item>1 րոպե</item>
+        <item>2 րոպե</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>30 րոպե</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Երբեք</item>
+        <item>15 վայրկյան</item>
+        <item>30 վայրկյան</item>
+        <item>1 րոպե</item>
+        <item>2 րոպե</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>30 րոպե</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Անմիջապես</item>
+        <item>5 վայրկյան</item>
+        <item>15 վայրկյան</item>
+        <item>30 վայրկյան</item>
+        <item>1 րոպե</item>
+        <item>2 րոպե</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>30 րոպե</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Փոքր</item>
+        <item>Սովորական</item>
+        <item>Մեծ</item>
+        <item>Շատ մեծ</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Շատ դանդաղ</item>
+        <item>Դանդաղ</item>
+        <item>Սովորական</item>
+        <item>Արագ</item>
+        <item>Ավելի արագ</item>
+        <item>Շատ արագ</item>
+        <item>Արագընթաց</item>
+        <item>Շատ արագընթաց</item>
+        <item>Ամենաարագ</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Շատ ցածր</item>
+        <item>Ցածր</item>
+        <item>Սովորական</item>
+        <item>Բարձր</item>
+        <item>Շատ բարձր</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Տեսածրում է…</item>
+        <item>Կապակցում է…</item>
+        <item>Նույնականացնում է…</item>
+        <item>Ստանում է IP հասցե…</item>
+        <item>Կապակցված</item>
+        <item>Կասեցված է</item>
+        <item>Անջատում…</item>
+        <item>Անջատված է</item>
+        <item>Անհաջող</item>
+        <item>Արգելափակված</item>
+        <item>Ժամանակավորապես չի միանում թույլ կապակցմանը</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Տեսածրում է…</item>
+        <item>Կապակցում է %1$s-ին…</item>
+        <item>Նույնականացնում է %1$s-ի հետ…</item>
+        <item>Ստանում է IP հասցե %1$s-ից…</item>
+        <item>Կապակցված է %1$s-ին</item>
+        <item>Կասեցված է</item>
+        <item>Անջատում է %1$s-ից…</item>
+        <item>Անջատված է</item>
+        <item>Անհաջող</item>
+        <item>Արգելափակված</item>
+        <item>Ժամանակավորապես չի միանում թույլ կապակցմանը</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Սեղմակոճակ</item>
+        <item>PIN հավասարազոր սարքից</item>
+        <item>PIN այս սարքից</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Կապակցված</item>
+        <item>Հրավիրված</item>
+        <item>Անհաջող</item>
+        <item>Մատչելի</item>
+        <item>Ընդգրկույթից դուրս</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 րոպե</item>
+        <item>5 րոպե</item>
+        <item>1 ժամ</item>
+        <item>Երբեք չժամասպառել</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Թույլ</item>
+        <item>Ուժեղ</item>
+        <item>Լավ</item>
+        <item>Գերազանց</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Միշտ</item>
+        <item>Միայն երբ միացված է հոսանքին</item>
+        <item>Երբեք (մեծաց է տվյ օգտագործ)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Միշտ</item>
+        <item>Միայն երբ միացված է հոսանքին</item>
+        <item>Երբեք</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Ինքնաշխատ</item>
+        <item>Միայն 5 ԳՀց</item>
+        <item>Միայն 2,4 ԳՀց</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Օգտ ժաման</item>
+        <item>Թողարկել հաշվարկը</item>
+        <item>Գործադիրի անուն</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ոչ մեկը</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ոչ մի</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Վիճակագր</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ոչ մի</item>
+        <item>Ձեռքով</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Անջատած</item>
+        <item>Զգուշացում</item>
+        <item>Թրթռում</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Ոչ մի</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP կամ CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Հատկորոշված չէ</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ոչ մի</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Ներքին սարքի հիշասարք</item>
+        <item>Հեռացվող SD քարտ</item>
+        <item>Թող համակարգը որոշի</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Տեղադրություն</item>
+        <item>Անձնական</item>
+        <item>Հաղորդագրությունների կառավարում</item>
+        <item>Մեդիա</item>
+        <item>Սարք</item>
+        <item>Bootup</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Մոտավոր տեղադրություն</item>
+        <item>Ճշգրիտ տեղադրություն</item>
+        <item>GPS</item>
+        <item>Թրթռալ</item>
+        <item>Կարդալ կոնտակտները</item>
+        <item>Փոփոխել կոնտակտները</item>
+        <item>Կարդալ կանչերի մատյանը</item>
+        <item>Փոփոխել կանչերի մատյանը</item>
+        <item>Կարդալ օրացույցը</item>
+        <item>Փոփոխել օրացույցը</item>
+        <item>Wi-Fi-ի տեսածրում</item>
+        <item>Ծանուցում</item>
+        <item>Բջջի տեսածրում</item>
+        <item>Զանգել հեռախոսահամարին</item>
+        <item>Կարդալ SMS</item>
+        <item>Գրել SMS</item>
+        <item>ստանալ SMS</item>
+        <item>Ստանալ արտակարգ իրավիճակի SMS</item>
+        <item>Ստանալ MMS</item>
+        <item>Ստանալ WAP հրում</item>
+        <item>Ուղարկել SMS</item>
+        <item>Կարդալ ICC SMS</item>
+        <item>Գրել ICC SMS</item>
+        <item>Փոփոխել պարամետրերը</item>
+        <item>Նկարել վրայից</item>
+        <item>Մուտք գործել ծանուցումներ</item>
+        <item>Խցիկ</item>
+        <item>Ձայնագրել</item>
+        <item>Նվագարկել ձայն</item>
+        <item>Կարդալ սեղմատախտակը</item>
+        <item>Փոփոխել սեղմատախտակը</item>
+        <item>մեդիա կոճակներ</item>
+        <item>աուդիո ֆոկուս</item>
+        <item>ձայնի հիմնական բարձրություն</item>
+        <item>ձայնի բարձրություն</item>
+        <item>զանգի բարձրություն</item>
+        <item>մեդիանյութերի ձայնի բարձրություն</item>
+        <item>զարթուցիչի ձայնի բարձրություն</item>
+        <item>ծանուցման ձայնի բարձրություն</item>
+        <item>bluetooth-ի ձայնի բարձրություն</item>
+        <item>արթուն պահել</item>
+        <item>վերահսկել տեղադրությունը</item>
+        <item>մշտադիտարկել էներգատար տեղանքները</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Տեղադրություն</item>
+        <item>Տեղադրություն</item>
+        <item>Տեղադրություն</item>
+        <item>Թրթռալ</item>
+        <item>Կարդալ կոնտակտները</item>
+        <item>Փոփոխել կոնտակտները</item>
+        <item>Կարդալ կանչերի մատյանը</item>
+        <item>Փոփոխել կանչերի մատյանը</item>
+        <item>Կարդալ օրացույցը</item>
+        <item>Փոփոխել օրացույցը</item>
+        <item>Տեղադրություն</item>
+        <item>Փոստարկել ծանուցում</item>
+        <item>Տեղադրություն</item>
+        <item>Զանգել հեռախոսահամարին</item>
+        <item>Կարդալ SMS/MMS</item>
+        <item>Գրել SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ուղարկել SMS/MMS</item>
+        <item>Կարդալ SMS/MMS</item>
+        <item>Գրել SMS/MMS</item>
+        <item>Փոփոխել պարամետրերը</item>
+        <item>Նկարել վրայից</item>
+        <item>Մուտք գործել ծանուցումներ</item>
+        <item>Խցիկ</item>
+        <item>Ձայնագրել</item>
+        <item>Նվագարկել ձայն</item>
+        <item>Կարդալ սեղմատախտակը</item>
+        <item>Փոփոխել սեղմատախտակը</item>
+        <item>Մեդիա կոճակներ</item>
+        <item>Աուդիո ֆոկուս</item>
+        <item>Ձայնի հիմնական բարձրություն</item>
+        <item>Ձայնի բարձրություն</item>
+        <item>Զանգի բարձրություն</item>
+        <item>Մեդիանյութերի ձայնի բարձրություն</item>
+        <item>Զարթուցիչի ձայնի բարձրություն</item>
+        <item>Ծանուցման ձայնի բարձրություն</item>
+        <item>Bluetooth-ի ձայնի բարձրություն</item>
+        <item>Արթուն պահել</item>
+        <item>Տեղադրություն</item>
+        <item>Տեղադրություն</item>
+        <item>Wifi change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Կարճ</item>
+        <item>Միջին</item>
+        <item>Երկար</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Կանխադրված</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif խտացրած</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Շատ փոքր</item>
+        <item>Փոքր</item>
+        <item>Սովորական</item>
+        <item>Մեծ</item>
+        <item>Շատ մեծ</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Ոչ մեկը</item>
+        <item>Ուրվագիծ</item>
+        <item>Ստվեր</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Սպիտակը սևի վրա</item>
+        <item>Սևը սպիտակի վրա</item>
+        <item>Դեղինը սևի վրա</item>
+        <item>Դեղինը կապույտի վրա</item>
+        <item>Հատուկ</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (վրիպազերծում)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Օգտագործել Dalvik</item>
+        <item>Օգտագործել ART</item>
+        <item>Օգտագործել ART վրիպազերծման ծրագրատարբերակը</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Երբեք չստուգել</item>
+        <item>Ստուգել միայն DRM բովանդակությունը</item>
+        <item>Միշտ ստուգել</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Երբեք չօգտագործել HDCP ստուգումը</item>
+        <item>Օգտագործել HDCP ստուգումը միայն DRM բովանդակության համար</item>
+        <item>Միշտ օգտագործել HDCP ստուգումը</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Շարժունացումն անջատված է</item>
+        <item>Շարժունացման սանդղակը .5x</item>
+        <item>Շարժունացման սանդղակը 1x</item>
+        <item>Շարժունացման սանդղակը 1.5x</item>
+        <item>Շարժունացման սանդղակը 2x</item>
+        <item>Շարժունացման սանդղակը 5x</item>
+        <item>Շարժունացման սանդղակը 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Շարժունացումն անջատված է</item>
+        <item>Շարժուն սանդղ .5x</item>
+        <item>Շարժուն սանդղակ 1x</item>
+        <item>Շարժուն սանդղակ 1.5x</item>
+        <item>Շարժուն սանդղակ 2x</item>
+        <item>Շարժուն սանդղակ 5x</item>
+        <item>Շարժուն սանդղակ 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Շարժունացումն անջատված է</item>
+        <item>Շարժունացման սանդղակը .5x</item>
+        <item>Շարժունացման սանդղակը 1x</item>
+        <item>Շարժունացման սանդղակը 1.5x</item>
+        <item>Շարժունացման սանդղակը 2x</item>
+        <item>Շարժունացման սանդղակը 5x</item>
+        <item>Շարժունացման սանդղակը 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ոչ մի</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (անվտանգ)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (անվտանգ)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (անվտանգ)</item>
+        <item>1280x720 tvdpi և 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ոչ մի</item>
+        <item>Logcat</item>
+        <item>Համակ հետագիծ (Գրաֆիկաներ)</item>
+        <item>Կանչի շեղջ glGetError-ում</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Անջատած</item>
+        <item>Նկարել ոչ-ուղղանկյուն պատկերի տարածք կապույտ գույնով</item>
+        <item>Նշել փորձարկված նկարելու հրամանները կանաչ գույնով</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Անջատած</item>
+        <item>Էկրանի վրա գծիկների տեսքով</item>
+        <item>Էկրանի վրա գծերի տեսքով</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Անջատված է</item>
+        <item>Ցույց տալ գերազանցված հատվածները</item>
+        <item>Ցույց տալ տարածքներ Դեյտերանոմալիայի համար</item>
+        <item>Ցուցադրել սահմանաչափի գերազանցման հաշվիչը</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Ստանդարտ սահմանաչափ</item>
+        <item>Խորքային ընթացքներ չկան</item>
+        <item>1 ընթացքից ոչ ավել</item>
+        <item>2 ընթացքից ոչ ավել</item>
+        <item>3 ընթացքից ոչ ավել</item>
+        <item>4 ընթացքից ոչ ավել</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN-ը նախահամօգտագործած բանալիներով</item>
+        <item>L2TP/IPSec VPN-ը վկայագրերով</item>
+        <item>IPSec VPN-ը նախահամօգտագործած բանալիներով և Xauth նույնականացմամբ</item>
+        <item>IPSec VPN-ը վկայագրերով և Xauth նույնականացմամբ</item>
+        <item>IPSec VPN-ը վկայագրերով և խառնածին նույնականացմամբ</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Անջատված է</item>
+        <item>Սկզբնավորում է…</item>
+        <item>Կապակցում է…</item>
+        <item>Կապակցված</item>
+        <item>Ժամասպառում</item>
+        <item>Անհաջող</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Հարցնել</item>
+        <item>Երբեք թույլ չտալ</item>
+        <item>Միշտ թույլ տալ</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>նորմալ</item>
+        <item>չափավոր</item>
+        <item>ցածր</item>
+        <item>կրիտիկական</item>
+    </string-array>
+</resources>

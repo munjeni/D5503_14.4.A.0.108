@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Valor predeterminado</item>
+        <item>Ocultar número</item>
+        <item>Mostrar número</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo solamente</item>
+        <item>CDMA sin EvDo</item>
+        <item>CDMA/EvDo automático</item>
+        <item>GSM/WCDMA automático</item>
+        <item>WCDMA solamente</item>
+        <item>GSM solamente</item>
+        <item>GSM/WCDMA(preferida)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Español</item>
+        <item>Japonés</item>
+        <item>Coreano</item>
+        <item>Chino</item>
+        <item>Hebreo</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (modo auto)</item>
+        <item>WCDMA solamente</item>
+        <item>GSM solamente</item>
+        <item>GSM/WCDMA (WCDMA pref)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Sólo local</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Sólo redes locales</item>
+        <item>Redes afiliadas</item>
+        <item>Cualquier red</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA solamente</item>
+        <item>Sólo EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY desactivado</item>
+        <item>TTY total</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Largo</item>
+    </string-array>
+</resources>

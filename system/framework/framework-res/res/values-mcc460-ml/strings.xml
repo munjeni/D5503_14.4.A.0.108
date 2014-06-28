@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">ഗ്ലോബല്‍ പൊസിഷനിംഗ് സിസ്റ്റം (GPS) അല്ലെങ്കില്‍ സെല്‍ ടവറുകളും WLAN-യും പോലുള്ള നെറ്റ്‌വര്‍ക്ക് ലൊക്കേഷന്‍ സോഴ്സുകള്‍ ഉപയോഗിച്ച് നിങ്ങളുടെ കൃത്യമായ സ്ഥാനം കണ്ടെത്താന്‍ ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു. ആപ്ലിക്കേഷന് അവ ഉപയോഗിക്കുന്നതിനായി ഈ സ്ഥാന സേവനങ്ങള്‍ ഓണാക്കുകയും നിങ്ങളുടെ ഉപകരണത്തിന് ലഭ്യമാക്കുകയും വേണം. നിങ്ങള്‍ എവിടെയാണെന്ന് നിര്‍ണ്ണയിക്കുന്നതിനായി ആപ്ലിക്കേഷനുകള്‍ ഇത് ഉപയോഗിച്ചേക്കാം, ഇത് കൂടുതല്‍ ബാറ്ററി പവര്‍ ഉപയോഗിച്ചേക്കാം.</string>
+    <string name="permdesc_accessCoarseLocation">നിങ്ങളുടെ ഏകദേശ സ്ഥാനം നേടാന്‍ ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു. സെല്‍ ടവറുകളും WLAN-യും പോലുള്ള നെറ്റ്‌വര്‍ക്ക് ലൊക്കേഷന്‍ ഉറവിടങ്ങള്‍ ഉപയോഗിച്ചാണ് ഈ സ്ഥാനം നേടുന്നത്. ആപ്ലിക്കേഷന് അവ ഉപയോഗിക്കുന്നതിനായി ഈ സ്ഥാന സേവനങ്ങള്‍ ഓണാക്കുകയും നിങ്ങളുടെ ഉപകരണത്തിന് ലഭ്യമാക്കുകയും വേണം. ഏകദേശം നിങ്ങള്‍ എവിടെയാണെന്ന് നിര്‍ണ്ണയിക്കാന്‍ ആപ്ലിക്കേഷനുകള്‍ ഇത് ഉപയോഗിച്ചേക്കാം.</string>
+    <string name="permlab_configureWifiDisplay">WLAN ഡിസ്പ്ലേകള്‍ കോണ്‍ഫിഗര്‍ ചെയ്യുക</string>
+    <string name="permdesc_configureWifiDisplay">കോണ്‍‌ഫിഗര്‍ ചെയ്യാനും WLAN പ്രദര്‍ശനങ്ങളിലേക്ക് കണക്ടുചെയ്യാനും ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
+    <string name="permlab_controlWifiDisplay">WLAN ഡിസ്പ്ലേകള്‍ നിയന്ത്രിക്കുക</string>
+    <string name="permdesc_controlWifiDisplay">WLAN പ്രദര്‍ശനങ്ങളുടെ താഴ്ന്ന തലത്തിലുള്ള സവിശേഷതകള്‍ നിയന്ത്രിക്കാന്‍ ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
+    <string name="permlab_accessWifiState">WLAN കണക്ഷനുകള്‍ കാണുക</string>
+    <string name="permdesc_accessWifiState">WLAN പ്രവര്‍ത്തനസജ്ജമാക്കിയിട്ടുണ്ടോയെന്നും കണക്ടുചെയ്തിട്ടുള്ള WLAN ഉപകരണങ്ങളുടെ പേരും പോലെയുള്ള WLAN നെറ്റ്‌വര്‍ക്കിംഗ് സംബന്ധിച്ച വിവരങ്ങള്‍ വീക്ഷിക്കുന്നതിന് ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
+    <string name="permlab_changeWifiState">WLAN-യിലേക്ക് കണക്ടുചെയ്യുക, അതില്‍ നിന്ന് വിച്ഛേദിക്കുക</string>
+    <string name="permdesc_changeWifiState">WLAN അക്സസ് പോയിന്‍റിലേക്ക് കണക്ടുചെയ്യുന്നതിനും വിച്ഛേദിക്കുന്നതിനും WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ക്കായുള്ള ഉപകരണ കോണ്‍ഫിഗറേഷനില്‍ മാറ്റങ്ങള്‍ വരുത്തുന്നതിനും ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN മള്‍ട്ടീകാസ്റ്റ് സ്വീകരണം അനുവദിക്കുക</string>
+    <string name="permdesc_changeWifiMulticastState">നിങ്ങളുടെ ഫോണ്‍ മാത്രമല്ല മള്‍ട്ടികാസ്റ്റ് വിലാസങ്ങള്‍ ഉപയോഗിച്ച് ഒരു WLAN നെറ്റ്‌വര്‍ക്കിലെ എല്ലാ ഉപകരണങ്ങളിലേക്കും അയച്ച പാക്കറ്റുകള്‍ സ്വീകരിക്കുന്നതിന് ആപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
+    <string name="wifi_available_sign_in">WLAN നെറ്റ്‌വര്‍ക്കില്‍ സൈന്‍ ഇന്‍ ചെയ്യുക</string>
+    <string name="wifi_watchdog_network_disabled">WLAN -യില്‍ കണക്ടുചെയ്യാന്‍ കഴിഞ്ഞില്ല</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct ആരംഭിക്കുക. ഇത് WLAN ക്ലയന്‍റ്/ഹോട്ട്‌സ്പോട്ട് ഓഫാക്കും.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct ആരംഭിക്കാന്‍ കഴിഞ്ഞില്ല.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct ഓണാണ്</string>
+    <string name="wifi_p2p_frequency_conflict_message">%1$s എന്നതിലേക്ക് കണക്ടു ചെയ്തിരിക്കുമ്പോൾ WLAN-യിൽ നിന്ന് ഫോൺ താൽക്കാലികമായി വിച്ഛേദിക്കപ്പെടും.</string>
+    <string name="data_usage_wifi_limit_title">WLAN ഡാറ്റ പ്രവര്‍ത്തനരഹിതമാക്കി</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN ഡാറ്റ പരിധി കവിഞ്ഞു</string>
+    <string name="policylab_disableWifi">WLAN-ലേക്ക് അക്സസ് പ്രവര്‍ത്തനരഹിതമാക്കുക</string>
+    <string name="policydesc_disableWifi">ഉപകരണത്തിലെ WLAN കണക്ഷനുകള്‍ തടയുക.</string>
+    <string name="wifi_disabled_notification_title">WLAN കണക്ഷന്‍ നിയന്ത്രിക്ക.</string>
+    <string name="wifi_disabled_notification_message">"WLANയുടെ ഉപയോഗം ഒരു സുരക്ഷാ നയം നിയന്ത്രിക്കുന്നു. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN റോമിങ്ങ് പുരോഗതിയിൽ</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN നെറ്റ്‍വര്‍ക്ക് കണക്ടു ചെയ്യപ്. ബി. വി. 10000 എ. പ്ര. സ്റ്റ. ബന.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN കണ. ചെ.</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">നിങ്ങള്‍ China Telecom-ന്‍റെ WLAN നെറ്റ്‌വര്‍ക്കിലേക്ക് കണക്ടുചെയ്യപ്പെടും. നിരക്കുകളേക്കുറിച്ചുള്ള വിവരങ്ങള്‍ക്ക് China Telecom കസ്റ്റമര്‍ സര്‍വീസുമായി ബന്ധപ്പെടുക. മുന്നോട്ട് പോകണോ?</string>
+    <string name="wifi_nonconcurrency_message">WLAN ക്ലയന്‍റ് ആരംഭിക്കുക. ഇത് WLAN Direct-നെ വിച്ഛേദിക്കും.</string>
+    <string name="wifi_noncuncurrency_message">WLAN ക്ലയന്‍റ് ആരംഭിക്കുക. ഇത് WLAN Direct-നെ വിച്ഛേദിക്കും.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">ഇത് നിലവിലെ ഏത് WLAN കണക്ഷനും വിച്ഛേദിക്കപ്പെടും</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct ആരംഭിക്കുക. ഇത് WLAN കണക്ഷനെ വിച്ഛേദിക്കും.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">ഇത് നിലവിലെ ഏത് WLAN കണക്ഷനേയും വിച്ഛേദിക്കും</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct ആരംഭിക്കുക. ഇത് WLAN കണക്ഷനെ വിച്ഛേദിക്കും.</string>
+    <string name="tethered_notification_message_wifi">WLAN-യിലേക്ക് തിരികെ തമ്മിൽ മാറാൻ Mobile HotSpot ഓഫാക്കുക</string>
+    <string name="tethered_notification_title_wifi">WLAN ഓഫാണ്</string>
+</resources>

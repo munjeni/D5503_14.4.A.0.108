@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layoutDirection="locale">
+        <ImageView android:id="@id/answeringMachineCircleIcon" android:background="@drawable/answering_machine_circle_icn" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/incall_screen_answering_machine_circle_margin_top" />
+    </RelativeLayout>
+    <com.android.phone.am.SomcAmAnimationView android:layout_gravity="center_horizontal" android:id="@id/answeringMachineAnimation" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/incall_screen_answering_machine_counter_margin_top" android:layout_centerHorizontal="true" android:layoutDirection="locale">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/incall_screen_answering_machine_counter_text_size" android:textColor="#ff86bb1a" android:id="@id/answeringMachinePlayingCounter" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/incall_screen_answering_machine_counter_text_size" android:textColor="#ffd92017" android:id="@id/answeringMachineRecordingCounter" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layoutDirection="locale">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/incall_screen_answering_machine_indicator_text_size" android:textColor="@android:color/black" android:id="@id/answeringMachineIndicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/incall_screen_answering_machine_indicator_margin_top" android:singleLine="true" android:shadowColor="@android:color/white" android:shadowDx="2.0" android:shadowDy="2.0" android:shadowRadius="2.0" />
+    </RelativeLayout>
+</RelativeLayout>

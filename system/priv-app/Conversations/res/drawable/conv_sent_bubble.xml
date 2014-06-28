@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/conv_sent_bubble_internal" />
+    <item android:id="@id/conv_bubble_border" android:drawable="@drawable/conv_sent_bubble_border" />
+</layer-list>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Valor predet. da rede</item>
+        <item>Ocultar número</item>
+        <item>Amosar número</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Só EvDo</item>
+        <item>CDMA sen EvDo</item>
+        <item>CDMA/EvDo automático</item>
+        <item>GSM/WCDMA automático</item>
+        <item>Só WCDMA</item>
+        <item>Só GSM</item>
+        <item>GSM/WCDMA preferente</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Español</item>
+        <item>Xaponés</item>
+        <item>Coreano</item>
+        <item>Chinés</item>
+        <item>Hebreo</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (modo auto.)</item>
+        <item>Só WCDMA</item>
+        <item>Só GSM</item>
+        <item>GSM/WCDMA (WCDMA pref.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Só domésticas</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Só redes domésticas</item>
+        <item>Redes afiliadas</item>
+        <item>Calquera rede</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Só CDMA</item>
+        <item>Só EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY desactivado</item>
+        <item>TTY cheo</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normais</item>
+        <item>Longos</item>
+    </string-array>
+</resources>

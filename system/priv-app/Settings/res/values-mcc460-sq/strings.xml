@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Regjimi STAMINA përfshin:
+
+• Regjimin Në gatishmëri i zgjeruar
+Kursen energjinë kur ekrani është joaktiv, duke çaktivizuar përkohësisht WLAN dhe të dhënat celulare. Shumica e aplikacioneve do të jenë joaktive.
+Kur ekrani është AKTIV, telefoni juaj do të funksionojë normalisht.
+Nëse dëshironi të mbani disa aplikacione aktive kur regjimi Në gatishmëri i zgjeruar është AKTIV, shtoni aplikacionet në listën APLIKACIONET AKTIVE NË GJENDJE GATISHMËRIE.
+
+• Përdorimin e zgjeruar
+Kursen energjinë kur pajisja juaj është duke u përdorur, duke kufizuar funksionimin e harduerit.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Çfarë është regjimi STAMINA?</u>"
+Regjimi STAMINA është një funksion i Sony™ për kursimin e energjisë. Ai rrit kohëzgjatjen e baterisë duke çaktivizuar funksionalitetin kur ekrani është joaktiv.
+
+"<u>Përdorimi bazë</u>"
+Për të aktivizuar regjimin STAMINA, përdorni çelësin në ekranin tjetër. 
+Kur ekrani është joaktiv, për të kursyer baterinë, të gjitha të dhënat e rrjetit do të çaktivizohen përkohësisht dhe shumica e aplikacioneve do të jenë joaktive.
+Kur ekrani është aktiv, pajisja do të funksionojë normalisht.
+
+"<u>Përdorimi i përparuar</u>"
+Nëse dëshironi të mbani aktive disa aplikacione kur ekrani është joaktiv, shtojini ato në listën APLIKACIONET AKTIVE NË GJENDJE GATISHMËRIE.
+
+"<u>Shënim</u>"
+Disa aplikacione mund të mos funksionojnë siç duhet kur janë të çaktivizuara në gatishmëri. Nëse një aplikacion nuk funksionon siç duhet, shtojeni në listën APLIKACIONET AKTIVE NË GJENDJE GATISHMËRIE ose nëse kjo nuk funksionon, çaktivizoni regjimin STAMINA."</string>
+    <string name="location_based_wi_fi_label">WLAN sipas vendndodhjes</string>
+    <string name="location_based_wi_fi_descr">WLAN aktivizohet automatikisht kur ndodhet brenda shtrirjes së rrjetit WLAN të ruajtur</string>
+    <string name="powersaver_feature_wifi">WLAN i çaktivizuar</string>
+    <string name="install_wapi_certs">Instalo certifikatat e WLAN-t</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Menaxhoni WLAN, Bluetooth, mënyrën Në avion, rrjetet celulare dhe VPN-të</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Aktivizo WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">"Cilësimet e WLAN "</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Përzgjidhni WLAN</string>
+    <string name="wifi_starting">Duke aktivizuar WLAN</string>
+    <string name="wifi_stopping">Duke çaktivizuar WLAN</string>
+    <string name="wifi_poor_network_detection_summary">Mos përdor një rrjet WLAN nëse, nuk ka lidhje të mirë interneti</string>
+    <string name="wifi_scan_always_available_summary">Lejo shërbimin e vendndodhjes të Google dhe aplikacionet e tjera që të skanojnë për rrjete, edhe kur WLAN të jetë joaktiv.</string>
+    <string name="wifi_scan_notify_text_location_on">Për të përmirësuar saktësinë e vendndodhjes dhe për qëllime të tjera, Google dhe aplikacionet e tjera mund të skanojnë për rrjete në afërsi, edhe kur WLAN është joaktiv. Nëse nuk dëshironi që të ndodhë kjo gjë, shkoni te Të përparuara > Skanimi gjithmonë i disponueshëm.</string>
+    <string name="wifi_scan_notify_text_location_off">Aplikacionet mund të skanojnë për rrjete në afërsi, edhe kur WLAN është joaktiv. Nëse nuk dëshironi që të ndodhë kjo gjë, shkoni te Të përparuara > Skanimi gjithmonë i disponueshëm.</string>
+    <string name="wifi_setting_sleep_policy_title">Mbaj WLAN aktiv gjatë fjetjes</string>
+    <string name="wifi_suspend_optimizations">Optimizimi i WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimizo përdorimin e baterisë kur WLAN është aktiv</string>
+    <string name="wifi_access_points">Rrjetet WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Aktivizoni WLAN, për të parë rrjetet e disponueshme.</string>
+    <string name="wifi_empty_list_wifi_on">Duke kërkuar për rrjete WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Nuk keni leje për të ndryshuar rrjetin WLAN</string>
+    <string name="wifi_required_info_text">Për të përfunduar konfigurimin, tableti duhet të qaset në WLAN. Pas konfigurimit, mund të ndërroni midis tyre të dhënat celulare dhe WLAN.</string>
+    <string name="wifi_wps_setup_title">Konfigurimi i WLAN të mbrojtur</string>
+    <string name="wifi_wps_onstart_pbc">Shtypni butonin e Konfigurimit të WLAN të mbrojtur në rrugëzuesin tuaj. Ai mund të quhet \"WPS\" ose përmban këtë simbol:</string>
+    <string name="wifi_wps_onstart_pin">Futni pin-in %1$s në rrugëzuesin tuaj WLAN. Konfigurimi mund të dojë deri në dy minuta që të përfundojë.</string>
+    <string name="wifi_wps_connected">U lidh me rrjetin WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Për të përmirësuar saktësinë e vendndodhjes dhe për qëllime të tjera, %1$s dëshiron të aktivizojë skanimin e rrjeteve, edhe kur WLAN është joaktiv.
+
+Të lejohet kjo për të gjitha aplikacionet që dëshironi të skanoni?"</string>
+    <string name="wifi_connect_failed_message">Telefoni nuk ishte në gjendje të lidhej me këtë rrjet WLAN.</string>
+    <string name="wifi_advanced_titlebar">WLAN i përparuar</string>
+    <string name="wifi_setting_frequency_band_title">Brezi i frekuencave WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Pikë aktive WLAN e lëvizshme</string>
+    <string name="wifi_tether_failed_subtext">Gabim i pikës aktive WLAN të lëvizshme</string>
+    <string name="wifi_tether_configure_ap_text">Konfig. zon. internet. me valë WLAN</string>
+    <string name="wifi_tether_configure_subtext">"%1$s Pika aktive WLAN e lëvizshme.
+Siguria: %2$s"</string>
+    <string name="status_wifi_mac_address">Adresa MAC e WLAN</string>
+    <string name="location_mode_high_accuracy_description">Përdorni GPS, WLAN dhe rrjetet celulare për përcaktimin e vendndodhjes</string>
+    <string name="location_mode_battery_saving_description">Përdorni WLAN dhe rrjetet celulare për përcaktimin e vendndodhjes</string>
+    <string name="location_neighborhood_level">Lejoni dërgimin te Google të të dhënave anonime të vendndodhjes. Lejoni gjithashtu aplikacionet e lejuara të përdorin të dhëna nga burime të tilla si rrjetet WLAN dhe ato celulare, për të përcaktuar vendndodhjen tuaj të përafërt.</string>
+    <string name="location_neighborhood_level_wifi">Vendndodhja u përcaktua nga WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Koha e aktivizimit të WLAN</string>
+    <string name="bluetooth_on_time">Koha e aktivizimit të WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">"Ekzekutimi i WLAN "</string>
+    <string name="usage_type_data_wifi_send">Të dhënat e WLAN u dërguan</string>
+    <string name="usage_type_data_wifi_recv">Të dhënat e WLAN u morën</string>
+    <string name="battery_action_wifi">Cilësimet e WLAN</string>
+    <string name="battery_desc_wifi">Bateria e përdorur nga WLAN</string>
+    <string name="battery_sugg_wifi">Çaktivizoni WLAN kur nuk e përdorni ose kur nuk është i disponueshëm</string>
+    <string name="gadget_toggle_wifi">Duke përditësuar cilësimin e WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Krijoni kopje rezervë të të dhënave të aplikacionit, të fjalëkalimeve të WLAN dhe të cilësime të tjera në serverët e Google</string>
+    <string name="backup_erase_dialog_message">"Të ndalohet krijimi i kopjeve rezervë të fjalëkalimeve të WLAN, kujtesoreve, cilësimeve të tjera dhe të dhënave të aplikacioneve tuaja, si edhe të fshihen të gjitha kopjet në serverët e Google? "</string>
+    <string name="wifi_setup_title">Konfigurimi i WLAN</string>
+    <string name="wifi_setup_title_editing_network">Lidhu me rrjetin WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Duke u lidhur me rrjetin WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">U lidh me rrjetin WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Nuk mund të konfiguroni një rrjet WLAN EAP gjatë konfigurimit. Pas konfigurimit, mund ta bëni këtë te Cilësimet > Rrjetet pa tel.</string>
+    <string name="wifi_setup_description_connected">Prekni <b>Tjetër</b>" për të vazhduar me konfigurimin.
+
+Prekni "<b>Kthehu</b>" për t'u lidhur me një rrjet tjetër WLAN."</string>
+    <string name="data_usage_menu_show_wifi">Afisho përdorimin e WLAN</string>
+    <string name="data_usage_disable_wifi_limit">"Cilëso kufirin e të dhënave WLAN "</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Nëse kufizoni të dhënat celulare në sfond, disa aplikacione dhe shërbime nuk do të punojnë nëse nuk jeni lidhur me një rrjet WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Nëse kufizoni të dhënat celulare në sfond, disa aplikacione dhe shërbime nuk do të funksionojnë nëse nuk lidheni me një rrjet WLAN.
+
+
+
+Ky cilësim ndikon në të gjithë përdoruesit e këtij telefoni."</string>
+    <string name="data_usage_metered_body">"Përzgjidhni rrjetet WLAN të cilat janë zona të internetit me valë celulare. Aplikacionet mund t'i përdorin në mënyrë të kufizuar këto rrjete kur janë në sfond. Aplikacionet gjithashtu mund të paralajmërojnë para përdorimit të këtyre rrjeteve për shkarkime të mëdha."</string>
+    <string name="data_usage_metered_wifi">Rrjetet WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Aktivizoni WLAN, për të përzgjedhur zonat e internetit me valë celulare.</string>
+    <string name="user_add_user_message_long">"Mund ta bashkëndani këtë pajisje me persona të tjerë duke krijuar përdorues shtesë. Çdo përdorues ka hapësirën e tij, të cilën mund ta përshtasë me aplikacionet e tij, me sfondin e kështu me radhë. Përdoruesit mund të rregullojnë edhe cilësimet e tabletit, si WLAN, që ndikojnë te të gjithë.
+
+
+
+Pasi të krijoni një përdorues të ri, ai person duhet të kalojë nëpër një proces konfigurimi.
+
+
+
+Çdo përdorues mund të pranojë leje të përditësuara të aplikacioneve në emër të të gjithë përdoruesve të tjerë."</string>
+    <string name="restriction_wifi_config_title">WLAN dhe celulare</string>
+    <string name="restriction_wifi_config_summary">Lejoni modifikimin e cilësimeve të WLAN dhe celulare</string>
+    <string name="ct_wifi_connected_text">WLAN i China Telecom u lidh</string>
+    <string name="cw_network_priority">Përparësi WLAN i China Telecom</string>
+    <string name="cw_network_priority_summary">Rrjetet WLAN të China Telecom do të kenë përparësi nga rrjetet e tjera në lidhje</string>
+    <string name="data_traffic_disabled_text">Nuk mund të lidhej me rrjetet WLAN të China Telecom përderisa trafiku i të dhënave është i çaktivizuar. Të aktivizohet trafiku i të dhënave tani?</string>
+    <string name="location_based_wifi">WLAN sipas vendndodhjes</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Lidhje auto. me zonën e internetit me valë WLAN të AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Lidh. auto. WLAN e AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Telefonimi nëpërmjet WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Ndrysho certifikatën e WLAN-t</string>
+    <string name="wifi_p2p_settings">Cilësimet e WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Siguruar me WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Siguruar me WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Mund ta përdorni pajisjen tuaj si një zonë interneti me valë celulare. Kjo i lejon pajisjet e tjera (maksimumi 10) të lidhen me të nëpërmjet një rrjeti WLAN. Pajisjet e lidhura do të mund të qasen në internet nëpërmjet lidhjes së rrjetit celular të telefonit tuaj. Zona e internetit me valë celulare përdor të dhëna celulare dhe mund të ketë si rezultat tarifa shtesë.
+
+Zona e internetit me valë celulare konsumon më shumë bateri. Për të zgjatur jetën e baterisë, vëreni pajisjen në prizë."</string>
+    <string name="wifi_tether_settings_subtext">Konfiguroni dhe menaxhoni zonën portative të internetit me valë WLAN</string>
+    <string name="wifi_tether_settings_text">Cilës. zon. portat. internet. val. WLAN</string>
+    <string name="wifi_wps_category_title">Konfiguro rrjetin WLAN</string>
+    <string name="cw_network_notification">Aktivizo njoftimin e CT WLAN</string>
+    <string name="stamina_xssm_summary">Çaktivizon të dhënat celulare dhe WLAN kur ekrani është joaktiv</string>
+    <string name="tethering_no_sim_warning_txt">Futni kartën SIM për të bashkëndarë lidhjen e të dhënave të telefonit me pajisjet e tjera duke përdorur zonën e internetit me valë celulare WLAN ose bashkëndarjen e internetit me USB për qasjen në internet.</string>
+    <string name="wifi_offload_checkbox_summary">Gjatë hapjes së aplikacioneve, më thoni kur WLAN është i disponueshëm</string>
+    <string name="wifi_offload_checkbox_title">Afisho pop-up-et e WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Njoftimet e WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Më njoftoni kur rrjetet WLAN janë të disponueshme</string>
+    <string name="wifi_offload_option_title">Rrjetet e disponueshme WLAN</string>
+</resources>

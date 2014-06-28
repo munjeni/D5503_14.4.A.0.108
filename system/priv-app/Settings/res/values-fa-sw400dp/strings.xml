@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">همگام سازی خودکار</string>
+    <string name="wifi_tether_settings_text">تنظیمات نقطه دسترسی سیار Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">برنامه های فعال در حالت آماده به کار</string>
+</resources>

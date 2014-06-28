@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>დღეს</item>
+        <item>გუშინ</item>
+        <item>შაბათი</item>
+        <item>პარასკევი</item>
+        <item>ხუთშაბათი</item>
+        <item>ოთხშაბათი</item>
+        <item>სამშაბათი</item>
+        <item>ორშაბათი</item>
+        <item>კვირა</item>
+        <item>ერთი კვირის წინ</item>
+        <item>ორი კვირის წინ</item>
+        <item>ერთი თვის წინ</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 წამი</item>
+        <item>2 წამი</item>
+        <item>3 წამი</item>
+        <item>4 წამი</item>
+        <item>5 წამი</item>
+        <item>6 წამი</item>
+        <item>7 წამი</item>
+        <item>8 წამი</item>
+        <item>9 წამი</item>
+        <item>10 წამი</item>
+        <item>სხვა</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>სად ხართ?</item>
+        <item>რას აპირებთ?</item>
+        <item>სასწრაფოა! მიპასუხე.</item>
+        <item>ამჟამად შეხვედრაზე ვარ.</item>
+        <item>კარგად ვარ. ნუ ნერვიულობ.</item>
+        <item>ამჟამად სახლში მივდივარ.</item>
+        <item>დაგიკავშირდები.</item>
+        <item>იქ ვიქნები.</item>
+        <item>შეამოწმე!</item>
+    </string-array>
+</resources>

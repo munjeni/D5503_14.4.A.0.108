@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>अस्पष्ट स्थान</item>
+        <item>सटीक स्थान</item>
+        <item>GPS</item>
+        <item>कंपन</item>
+        <item>संपर्क पढ़ें</item>
+        <item>संपर्कों को बदलें</item>
+        <item>कॉल लॉग पढ़ें</item>
+        <item>कॉल लॉग बदलें</item>
+        <item>कैलेंडर पढ़ें</item>
+        <item>कैलेंडर बदलें</item>
+        <item>wi-fi स्कैन</item>
+        <item>सूचना</item>
+        <item>सेल स्कैन</item>
+        <item>फ़ोन पर कॉल करें</item>
+        <item>SMS पढ़ें</item>
+        <item>SMS लिखें</item>
+        <item>SMS प्राप्त करें</item>
+        <item>आपातकालीन SMS प्राप्त करें</item>
+        <item>MMS प्राप्त करें</item>
+        <item>WAP पुश प्राप्त करें</item>
+        <item>SMS भेजें</item>
+        <item>ICC SMS पढ़ें</item>
+        <item>ICC SMS लिखें</item>
+        <item>सेटिंग बदलें</item>
+        <item>ऊपर बनाएं</item>
+        <item>सूचनाओं को एक्सेस करें</item>
+        <item>कैमरा</item>
+        <item>ऑडियो रिकॉर्ड करें</item>
+        <item>ऑडियो चलाएं</item>
+        <item>क्लिपबोर्ड पढ़ें</item>
+        <item>क्लिपबोर्ड बदलें</item>
+        <item>मीडिया बटन</item>
+        <item>ऑडियो फ़ोकस</item>
+        <item>मास्टर आवाज़</item>
+        <item>ध्वनि आवाज़</item>
+        <item>रिंग आवाज़</item>
+        <item>मीडिया वॉल्‍यूम</item>
+        <item>अलार्म आवाज़</item>
+        <item>सूचना वॉल्‍यूम</item>
+        <item>bluetooth आवाज़</item>
+        <item>सचेत रखें</item>
+        <item>मॉनिटर का स्थान</item>
+        <item>उच्च पावर वाले स्थान की निगरानी करें</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>कंपन</item>
+        <item>संपर्क पढ़ें</item>
+        <item>संपर्कों को संशोधित करें</item>
+        <item>कॉल लॉग पढ़ें</item>
+        <item>कॉल लॉग संशोधित करें</item>
+        <item>कैलेंडर पढ़ें</item>
+        <item>कैलेंडर संशोधित करें</item>
+        <item>स्थान</item>
+        <item>सूचना पोस्ट करें</item>
+        <item>स्थान</item>
+        <item>फ़ोन पर कॉल करें</item>
+        <item>एस एम एस/ MMS पढ़ें</item>
+        <item>एस एम एस/MMS लिखें</item>
+        <item>SMS/MMS प्राप्त करें</item>
+        <item>SMS/MMS प्राप्त करें</item>
+        <item>SMS/MMS प्राप्त करें</item>
+        <item>SMS/MMS प्राप्त करें</item>
+        <item>SMS/MMS भेजें</item>
+        <item>एस एम एस/MMS पढ़ें</item>
+        <item>एस एम एस/MMS लिखें</item>
+        <item>सेटिंग संशोधित करें</item>
+        <item>ऊपर ड्रॉ करें</item>
+        <item>सूचनाओं को एक्सेस करें</item>
+        <item>कैमरा</item>
+        <item>ऑडियो रिकॉर्ड करें</item>
+        <item>ऑडियो चलाएं</item>
+        <item>क्लिपबोर्ड पढ़ें</item>
+        <item>क्लिपबोर्ड संशोधित करें</item>
+        <item>मीडिया बटन</item>
+        <item>ऑडियो फ़ोकस</item>
+        <item>मास्टर आवाज़</item>
+        <item>ध्वनि आवाज़</item>
+        <item>रिंग आवाज़</item>
+        <item>मीडिया वॉल्‍यूम</item>
+        <item>अलार्म आवाज़</item>
+        <item>सूचना वॉल्‍यूम</item>
+        <item>Bluetooth वॉल्‍यूम</item>
+        <item>सचेत रखें</item>
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

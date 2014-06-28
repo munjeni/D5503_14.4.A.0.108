@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">延長待機模式控制器</string>
+    <string name="dont_ask_me_again_txt">不要再詢問</string>
+    <string name="description_msg_txt">"當螢幕關閉時，暫時停用Wi-Fi和行動數據連線，且無法使用大部份的應用程式。您仍可接聽電話、接收SMS/MMS訊息、Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，也可完成進行中的下載和上傳。
+
+當螢幕開啟時，您的手機便可正常運作。
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"當螢幕關閉時，暫時停用Wi-Fi和行動數據連線，且無法使用大部份的應用程式。您仍可接收SMS/MMS訊息、Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，也可完成進行中的下載和上傳。
+
+當螢幕開啟時，您的裝置便可正常運作。"</string>
+    <string name="description_msg_no_telephony_txt">"螢幕關閉時，Wi-Fi將暫時停用，大部分應用程式將停止作用。您仍會收到Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，而進行中的下載和上傳仍可完成。
+
+螢幕開啟時，您的裝置將正常運作。"</string>
+    <string name="description_title_txt">注意！</string>
+    <string name="low_battery_mode_description_msg_txt">"啟用低電量模式可以在電池低於預設電量水準時關閉耗電功能和設定。輕觸[低電量模式]可變更設定。
+"</string>
+    <string name="activate_txt">啟動</string>
+    <string name="cancel_txt">取消</string>
+    <string name="xssm_blocker_detector_title">電源管理秘訣</string>
+    <string name="xssm_blocker_detector_msg">%s正阻止STAMINA模式於待機時節省電源</string>
+    <string name="xssm_blocker_detector_long_msg">如您經常使用此應用程式，請略過此警告。如否，請解除安裝或強制停用此應用程式。</string>
+    <string name="xssm_blocker_detector_ignore">知道了。請不要再顯示警告。</string>
+    <string name="network_detector_msg">%s在螢幕關閉時一直收發資料，造成電池電力加速耗盡。</string>
+    <string name="network_detector_long_msg">解除安裝可改善裝置效能並延長電池使用時間。</string>
+    <string name="wakelock_detector_msg">已數週未使用%s。</string>
+    <string name="wakelock_detector_long_msg">可將裝置從待機模式中喚醒。解除安裝可改善裝置效能並延長電池使用時間。</string>
+    <string name="notification_title_xssm">電源管理秘訣</string>
+    <string name="notification_text_xssm">啓動STAMINA模式</string>
+    <string name="notification_descr_xssm">您的裝置經常處於待機模式。啓動STAMINA模式可延長電池夀命。</string>
+    <string name="notification_dont_show_again">知道了。請不要再顯示警告。</string>
+    <string name="notification_title_ps">電源管理秘訣</string>
+    <string name="notification_text_ps">啟動低電量模式</string>
+    <string name="notification_descr_ps">低電量模式可延長電池壽命，例如當電量低時關閉Wi-Fi或降低螢幕亮度。</string>
+    <string name="notification_title_lbw">電源管理秘訣</string>
+    <string name="notification_text_lbw">啓動行動定位Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi已開啓但有一段時間未使用。啓動行動定位Wi-Fi可節省電源。</string>
+    <string name="unused_application_title">電源管理祕訣</string>
+    <string name="unused_application_msg">%s已有一段時間未使用</string>
+    <string name="unused_application_long_msg">若您想保留此應用程式，請忽略此警告。若否，請解除安裝應用程式。</string>
+    <string name="unused_application_ignore">知道了。不要再顯示警告。</string>
+    <string name="drain_dialog_title_txt">電池未充電</string>
+    <string name="drain_dialog_text_usb_txt">您所連線的電源不足。電池的放電速度大於充電速度。請改用AC充電器。</string>
+    <string name="drain_dialog_text_wallcharger_txt">您所連線的電源不足。電池的放電速度大於充電速度。充電期間請盡可能減少使用裝置。</string>
+    <string name="extend_battery_tip_dialog_headar">電源管理祕訣</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi開啟中，但已有一段時間未使用。您可以視地點啟動Wi-Fi以省電。是否設定視地點啟動Wi-Fi？</string>
+    <string name="low_battery_mode_tip_dialog">低電量模式可延長電池壽命，例如當電量低時關閉Wi-Fi或降低螢幕亮度。是否要設定低電量模式？</string>
+    <string name="stamina_mode_tip_dialog">裝置常在待機模式。可啟動STAMINA延長電池時間。是否設定STAMINA模式？</string>
+    <string name="bad_app_notification">下列應用程式正在耗用電力：</string>
+    <string name="bad_standby_app_dialog">%s造成STAMINA模式無法在待機時省電。若您常用此應用程式，請忽略此警告。若不常用，請輕觸[應用程式資訊]按鈕解除安裝或強制停止此應用程式。</string>
+    <string name="ignore_dialog_action">忽略</string>
+    <string name="app_info_dialog_action">應用程式資訊</string>
+    <string name="stamina_activation_notification">STAMINA模式已啟動</string>
+    <string name="lowbattery_trigger_level_notification">電力低於%d%%</string>
+    <string name="lowbattery_activated_notification">低電量模式已啟動</string>
+    <string name="app_not_used_notification">此應用程式已有一段時間未使用：</string>
+    <string name="app_not_used_tip_dialog">%s已有一段時間未使用。建議您解除安裝此應用程式以省電。</string>
+    <string name="no_action_dialog">否</string>
+    <string name="yes_action_dialog">是</string>
+    <string name="widget_remaining_battery_time">預估電池電力時間</string>
+    <string name="widget_name">STAMINA模式</string>
+</resources>

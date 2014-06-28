@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="audio_ring_notif_vibrate">@android:drawable/ic_audio_ring_notif_vibrate_light</item>
+</resources>

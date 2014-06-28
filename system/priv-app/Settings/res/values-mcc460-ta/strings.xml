@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA பயன்முறை இவற்றை உள்ளடக்கியது:
+
+• நீட்டிக்கப்பட்ட காத்திருநிலை
+WLAN மற்றும் மொபைல் தரவை தற்காலிகமாக முடக்குவதன் மூலம் மின்திறனை சேமிக்கிறது. பெரும்பாலான பயன்பாடுகள் செயலற்ற நிலையில் இருக்கும்.
+திரை இயக்கப்பட்டிருக்கும்போது, உங்கள் தொலைபேசி சாதாரணமாக செயல்புரியும்.
+நீட்டிக்கப்பட்ட காத்திருநிலை இயக்கப்பட்டிருக்கும்போது சில பயன்பாடுகளை நீங்கள் செயலில் வைக்க வேண்டுமென்றால், காத்திருநிலையில் செயலில் இருக்கும் பயன்பாடுகள் பட்டியலில் அவற்றை சேர்க்கவும்.
+
+• நீட்டிக்கப்பட்ட பயன்பாடு
+வன்பொருள் செயல்திறனைத் தடைசெய்யும் சாதனங்களால் பயன்படுத்தப்படும்போது மின்திறனை சேமிக்கிறது.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA பயன்முறை என்றால் என்ன?</u>"
+STAMINA பயன்முறை என்பது Sony™ இன் ஒரு மின்திறன் சேமிப்பு செயல்பாடு ஆகும். இது திரை அணைக்கப்பட்டிருக்கும் போது செயல்படும்விதத்தை முடக்குவதன் மூலம் பேட்டரியின் ஆயுள்காலத்தை நீட்டிக்கிறது.
+
+"<u>அடிப்படைப் பயன்பாடு</u>"
+STAMINA பயன்முறையை செயல்படுத்த, அடுத்த திரையிலுள்ள சுவிட்சைப் பயன்படுத்தவும்.
+திரை அணைக்கப்பட்டிருக்கும் போது, அனைத்துப் பிணையத் தரவும் தற்காலிகமாக முடக்கப்படும், மேலும் பேட்டரியை சேமிக்கும் பொருட்டு பெரும்பாலான பயன்பாடுகள் செயலற்ற நிலையில் இருக்கும்.
+திரை இயக்கப்படும் போது, உங்கள் சாதனம் சாதாரணமாகச் செயல்படும்.
+
+"<u>மேம்பட்ட பயன்பாடு</u>"
+திரை அணைக்கப்பட்டிருக்கும் போது சில பயன்பாடுகள் செயல்பாட்டில் இருக்கவேண்டும் என்று நீங்கள் கருதினால், அவற்றை APPS ACTIVE IN STANDBY பட்டியலில் சேர்க்கவும்.
+
+"<u>குறிப்பு</u>"
+காத்திருநிலையில் முடக்கப்பட்டிருக்கும் போது சில பயன்பாடுகள் சரியாக வேலை செய்யாமல் போகலாம். ஒரு பயன்பாடு சரியாக வேலை செய்யவில்லை என்றால், அவற்றை APPS ACTIVE IN STANDBY பட்டியலில் சேர்க்கவும், அல்லது இது வேலை செய்யவில்லை என்றால், STAMINA பயன்முறையை செயல்முடக்கவும்."</string>
+    <string name="location_based_wi_fi_label">இடம்-சார்ந்த WLAN</string>
+    <string name="location_based_wi_fi_descr">சேமிக்கப்பட்ட WLAN நெட்வொர்க் வரம்பில் இருக்கும்போது WLAN தானாக செயல்படுத்தப்படும்</string>
+    <string name="powersaver_feature_wifi">WLAN அணைப்பு</string>
+    <string name="install_wapi_certs">WLAN சான்றிதழ்களை நிறுவு</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, விமான ப.முறை, கைபேசி வலையமைப்., &amp; VPNகள் நிர்வகி</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">" WLAN ஐ இயக்கவும்"</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN அமைப்புகள்</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN ஐத் தேர்ந்தெடு</string>
+    <string name="wifi_starting">WLAN ஐ இயக்குகிறது…</string>
+    <string name="wifi_stopping">WLAN அணைக்கிறது…</string>
+    <string name="wifi_poor_network_detection_summary">WLAN பிணையம் ஒரு சிறந்த இணைய இணைப்பைக் கொண்டிருந்தால் அன்றி, அதைப் பயன்படுத்த வேண்டாம்.</string>
+    <string name="wifi_scan_always_available_summary">"WLAN ஆஃப் செய்யப்பட்டிருந்தாலும், பிணையங்களை ஸ்கேன் செய்ய Google's இடச் சேவை மற்றும் மற்ற பயன்பாடுகளை அனுமதிக்கலாம்."</string>
+    <string name="wifi_scan_notify_text_location_on">WLAN ஆஃப் செய்யப்பட்டிருந்தாலும், இடத் துல்லியத்தை மேம்படுத்தவும் மேலும் மற்ற காரணங்களுக்காகவும் Google மற்றும் மற்ற பயன்பாடுகள் அருகிலுள்ள பிணையங்களைத் தேடலாம். இது நடைபெற நீங்கள் விரும்பவில்லை என்றால், மேம்பட்ட > கிடைக்கின்ற போது எப்போதும் ஸ்கேன் செய் என்பதற்கு செல்லவும்.</string>
+    <string name="wifi_scan_notify_text_location_off">WLAN ஆஃப் செய்யப்பட்டிருந்தாலும், பயன்பாடுகள் அருகிலுள்ள பிணையங்களைத் தேடலாம். இது நடைபெற நீங்கள் விரும்பவில்லை என்றால், மேம்பட்ட > கிடைக்கின்ற போது எப்போதும் ஸ்கேன் செய் என்பதற்கு செல்லவும்.</string>
+    <string name="wifi_setting_sleep_policy_title">உறக்கத்தில் WLAN இயக்கி வை</string>
+    <string name="wifi_suspend_optimizations">WLAN மேம்படுத்தல்</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ஆன் செய்திருக்கையில் பேட்டரி பயன்பாட்டைக் குறைக்கவும்</string>
+    <string name="wifi_access_points">WLAN பிணையங்கள்</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">கிடைக்கும் பிணையங்களைப் பார்க்க, WLAN ஐ இயக்கவும்.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN பிணையங்களைத் தேடுகிறது...</string>
+    <string name="wifi_empty_list_user_restricted">WLAN பிணையத்தை மாற்ற உங்களுக்கு அனுமதி இல்லை</string>
+    <string name="wifi_required_info_text">அமைப்பை நிறைவு செய்ய உங்கள் டாப்ளெட் WLAN ஐ அணுக வேண்டியுள்ளது. அமைப்புக்குப் பிறகு நீங்கள் மொபைல் தரவு மற்றும் WLAN என விரும்பும் இணைப்புக்கு மாற்றிக்கொள்ளலாம்.</string>
+    <string name="wifi_wps_setup_title">WLAN பாதுகாக்கப்பட்ட அமைவு</string>
+    <string name="wifi_wps_onstart_pbc">உங்கள் திரைவியிலுள்ள WLAN பாதுகாக்கப்பட்ட அமைவு பொத்தானை அழுத்தவும். இது \"WPS\" என அழைக்கப்படக்கூடும் அல்லது இந்தச் சின்னத்தைக் கொண்டிருக்கலாம்:</string>
+    <string name="wifi_wps_onstart_pin">உங்கள் WLAN திரைவியில் பின் %1$s ஐ உள்ளிடவும். அமைவை முடிக்க இரண்டு நிமிடங்கள் வரை எடுக்கலாம்.</string>
+    <string name="wifi_wps_connected">WLAN பிணையம் %s க்கு இணைக்கப்பட்டது</string>
+    <string name="wifi_scan_always_turnon_message">"WLAN ஆஃப் செய்யப்பட்டிருந்தாலும், இடத் துல்லியத்தை மேம்படுத்தவும் மேலும் மற்ற காரணத்திற்காவும் பிணைய ஸ்கேன் செய்தலை %1$s இயக்க விரும்புகிறது.
+
+ஸ்கேன் செய்ய விரும்பும் அனைத்து பயன்பாடுகளுக்கும் இதை அனுமதிக்கவா?"</string>
+    <string name="wifi_connect_failed_message">ஃபோனால் இந்த WLAN நெட்வொர்க்குடன் இணைக்க முடியவில்லை.</string>
+    <string name="wifi_advanced_titlebar">மேம்பட்ட WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN அலைவரிசை பேண்ட்</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">கையடக். WLAN ஹாட்ஸ்பாட்</string>
+    <string name="wifi_tether_failed_subtext">கையடக்க WLAN ஹாட்ஸ்பாட் பிழை</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ஹாட்ஸ்பாட்டை அமை</string>
+    <string name="wifi_tether_configure_subtext">"%1$s கையடக்க WLAN ஹாட்ஸ்பாட்.
+பாதுகாப்பு: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC முகவரி</string>
+    <string name="location_mode_high_accuracy_description">இடத்தை தீர்மானிக்க GPS, WLAN மற்றும் கைபேசி வலையமைப்புகளைப் பயன்படுத்து</string>
+    <string name="location_mode_battery_saving_description">இடத்தை தீர்மானிக்க WLAN மற்றும் கைபேசி வலையமைப்புகளைப் பயன்படுத்து</string>
+    <string name="location_neighborhood_level">உங்களது தோராயமான இடத்தை கண்டறிய WLAN மற்றும் மொ. பி. போன்ற மூலங். தர. apps பயன்படுத்தட்டும்</string>
+    <string name="location_neighborhood_level_wifi">WLANமூலம் இடம் வரையறுக்கப்பட்டது</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN இயங்கும் நேரம்</string>
+    <string name="bluetooth_on_time">WLAN இயக்க நேரம்</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN இயங்கு</string>
+    <string name="usage_type_data_wifi_send">WLAN தரவு அனுப்பப்பட்ட.</string>
+    <string name="usage_type_data_wifi_recv">WLAN தரவு பெறப்பட்டது</string>
+    <string name="battery_action_wifi">WLAN அமைப்புகள்</string>
+    <string name="battery_desc_wifi">WLAN ஆல் பேட்டரி பயன்படுத்தப்படுகிறது</string>
+    <string name="battery_sugg_wifi">WLAN ஐ பயன்படுத்தாத போது அல்லது அது கிடைக்கக்கூடியதாக இருக்கும் போது அணைக்கவும்</string>
+    <string name="gadget_toggle_wifi">WLAN அமைப்பைப் புதுப்பிக்கிறது</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">"பயன்பாட்டுத் தரவு, WLAN கடவுச்சொற்கள் மற்றும் Google  சேவையகங்களுக்கான இதர அமைப்புகளை பேக் அப் செய்யவும்"</string>
+    <string name="backup_erase_dialog_message">WLAN கடவுச்சொற்கள், புத்தகக்குறிகள், இதர அமைப்புகள், மற்றும் பயன்பாட்டுத் தரவு மறுபிரதி செய்வதை நிறுத்திவிட்டு, அதனுடன் Google சேவையகத்தில், அனைத்து பிரதிகளையும் அழிக்கவா?</string>
+    <string name="wifi_setup_title">WLAN அமைவு</string>
+    <string name="wifi_setup_title_editing_network">WLAN பிணையம் %s க்கு இணைக்கவும்</string>
+    <string name="wifi_setup_title_connecting_network">WLAN பிணையம் %s க்கு இணைக்கிறது…</string>
+    <string name="wifi_setup_title_connected_network">WLAN பிணையம் %s க்கு இணைக்கப்பட்டது</string>
+    <string name="wifi_setup_eap_not_supported">அமைவின்போது நீங்கள் ஒரு EAP WLAN இணைப்பை உள்ளமைக்க முடியாது. அமைவின் பின், இதை அமைப்புகள் > கம்பியில்லா &amp; பிணையங்கள் என்பதில் செய்யலாம்.</string>
+    <string name="wifi_setup_description_connected">அமைவைத் தொடர <b>Next</b> என்பதைத் தொடவும். வேறொரு WLAN பிணையத்துக்கு இணைக்க <b>Back</b> ஐத் தொடவும்.</string>
+    <string name="data_usage_menu_show_wifi">WLAN பயன்பாடு காண்பி</string>
+    <string name="data_usage_disable_wifi_limit">WLAN தரவு வரம்பை அமைக்கவும்</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">"பின்னணி மொபைல் தரவை நீங்கள் கட்டுப்படுத்தினால், ஒரு WLAN  பிணையத்தில் நீங்கள் இணையும் வரை சில பயன்பாடுகள் மற்றும் சேவைகள் சரிவர இயங்காது."</string>
+    <string name="data_usage_restrict_background_multiuser">"பின்னணி மொபைல் தரவை நீங்கள் வரையறைக்குட்படுத்தினால், ஒரு WLAN பிணையத்துடன் இணைக்கும் வரையில் சில பயன்பாடுகள் மற்றும் சேவைகள் பணிபுரியாது.
+
+
+
+இந்த அமைப்பு ஃபோனிலுள்ள அனைத்து பயனர்களையும் பாதிக்கும்."</string>
+    <string name="data_usage_metered_body">மொபைல் ஹாட்ஸ்பாட்டுகளாக இருக்கும், WLAN பிணையங்களை தேர்ந்தெடுக்கவும். பின்னணியில் உள்ள போது இந்த பிணையங்களைப் பயன்படுத்துவதில் இருந்து பயன்பாடுகள் கட்டுப்படுத்தப்படலாம். மிகப்பெரிய இறக்கங்களுக்கு இப்பிணையங்களைப் பயன்படுத்துவதற்கு முன்பு பயன்பாடுகள் எச்சரிக்கையையும் வழங்கக் கூடும்.</string>
+    <string name="data_usage_metered_wifi">WLAN பிணையங்கள்</string>
+    <string name="data_usage_metered_wifi_disabled">மொபைல் ஹாட்ஸ்பாட்டுகளைத் தேர்ந்தெடுக்க, WLANஐ இயக்கவும்.</string>
+    <string name="user_add_user_message_long">"கூடுதல் பயனர்களை உருவாக்குவதன் மூலம் இந்த சாதனத்தை நீங்கள் மற்றவர்களுடன் பகிரலாம். ஒவ்வொரு பயனருக்கும் என தனி வெளி உண்டு, அதைக் கொண்டு அவர்கள் தங்கள் விருப்பமான வகையில் பயன்பாடுகள், வால்பேப்பர் போன்றவற்றை தனிப்பயனாக்கம் செய்துகொள்ளலாம். பயனர்கள் எல்லோரையும் பாதிக்கின்ற WLAN போன்ற டாப்ளெட் அமைப்புகளையும் சரிசெய்யலாம்.
+
+
+
+நீங்கள் புதிய பயனரை உருவாக்கிய பிறகு, அவர் ஒரு அமைப்பு செயலாக்கத்தை முடிக்க வேண்டும்.
+
+
+
+எந்த பயனரும் மற்ற பயனர்கள் சார்பில் புதுப்பிக்கப்பட்ட பயன்பாட்டு அனுமதிகளை ஏற்கலாம்."</string>
+    <string name="restriction_wifi_config_title">WLAN மற்றும் மொபைல்</string>
+    <string name="restriction_wifi_config_summary">WLAN மற்றும் மொபைல் அமைப்புகள் மாற்றுவதை அனுமதி</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN இண.</string>
+    <string name="cw_network_priority">China Telecom WLAN -ஐ முன்.</string>
+    <string name="cw_network_priority_summary">இணைப்பில் உள்ள பிற WLAN நெட்வொர்க்குகளின் மூலம் China Telecom WLAN நெட்வொர்க்குகள் முன்னிலைப்படுத்தப்படும்</string>
+    <string name="location_based_wifi">இடம்-சார்ந்த WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN ஹாட்ஸ்பாட்டிற்கு தானாக இணை</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN தானிய. இணை</string>
+    <string name="wifi_calling_mode_title">WLAN அழைப்பு</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN சான்றிதழை மாற்ற</string>
+    <string name="wifi_p2p_settings">WLAN Direct அமைப்புகள்</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT உடன் பாதுகாக்கப்பட்டது</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK உடன் பாதுகாக்கப்பட்டது</string>
+    <string name="wifi_tether_explanation_dialog_text">"உங்கள் சாதனத்தை மொபைல் ஹாட்ஸ்பாட்டாக நீங்கள் பயன்படுத்தலாம். WLAN நெட்வொர்க் மூலம் மற்ற சாதனங்களை (அதிகபட்சம் 10) இதனுடன் இணைக்க இது அனுமதிக்கும். உங்கள் தொலைபேசியின் மொபைல் பிணைய இணைப்பு மூலம் இணைக்கப்பட்டுள்ள சாதனங்கள் இணையத்தை அணுகலாம். மொபைல் ஹாட்ஸ்பாட்டானது மொபைல் தரவைப் பயன்படுத்தும் இது கூடுதல் கட்டணங்களை ஏற்படுத்தலாம்.
+
+மொபைல் ஹாட்ஸ்பாட்டானது கூடுதல் பேட்டரியை எடுத்துக்கொள்ளும். நீடித்த பேட்டரி ஆயுட்காலத்திற்கு சாதனத்தை ஒரு அவுட்லெட்டில் இணைக்கவும்."</string>
+    <string name="wifi_tether_settings_subtext">போர்ட்டபிள் WLAN ஹாட்ஸ்பாட்டை அமைத்து நிர்வகிக்கவும்</string>
+    <string name="wifi_tether_settings_text">கையட. WLAN ஹாட்ஸ்பா. அமை.</string>
+    <string name="wifi_wps_category_title">WLAN நெட்வொர்க் அமைவு</string>
+    <string name="cw_network_notification">CT WLAN அறிவி. செயல்படு.</string>
+    <string name="stamina_xssm_summary">திரை அணைக்கப்படும்போது மொபைல் தரவு மற்றும் WLAN -ஐ முடக்குகிறது</string>
+    <string name="tethering_no_sim_warning_txt">இணைய அணுகலுக்காக Mobile WLAN HotSpot அல்லது USB டீத்தரிங்கைப் பயன்படுத்தி உங்கள் தொலைபேசியின் தரவு இணைப்பை மற்ற சாதனங்களுடன் பகிர்ந்து கொள்வதற்காக சிம் கார்டை தயவு செய்து செருகவும்.</string>
+    <string name="wifi_offload_checkbox_summary">பயன்பாடுகளைத் திறக்கையில், WLAN கிடைக்கும்போது எனக்குத் தெரிவி</string>
+    <string name="wifi_offload_checkbox_title">WLAN பாப்-அப்களை காண்.</string>
+    <string name="wifi_offload_notify_available_networks">WLAN அறிவிப்புகள்</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN பிணையங்கள் கிடைக்கும்போது எனக்கு அறிவி</string>
+    <string name="wifi_offload_option_title">கிடைக்கக்கூடிய WLAN பிணையங்கள்</string>
+</resources>

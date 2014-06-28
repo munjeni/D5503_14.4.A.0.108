@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d అక్షరాలను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 అక్షరాన్ని కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d లోయర్‌కేస్ అక్షరాలను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 లోయర్‌కేస్ అక్షరాన్ని కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d అప్పర్‌కేస్ అక్షరాలను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 అప్పర్‌కేస్ అక్షరాన్ని కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d సంఖ్యా అక్షరాలను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 సంఖ్యా అక్షరాన్ని కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d ప్రత్యేక గుర్తులను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 ప్రత్యేక గుర్తును కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">పాస్‌వర్డ్ కనీసం %d అక్షరేతర అక్షరాలను కలిగి ఉండాలి</item>
+        <item quantity="one">పాస్‌వర్డ్ కనీసం 1 అక్షరేతర అక్షరాన్ని కలిగి ఉండాలి</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d అప్లికేషన్లు నోటిఫికేషన్లను చదవగలవు</item>
+        <item quantity="one">%d అప్లికేషన్ నోటిఫికేషన్లను చదవగలదు</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">తప్పు SIM PIN కోడ్, మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</item>
+        <item quantity="one">తప్పు SIM PIN కోడ్, మీ పరికరానికి అన్‌లాక్ చేయడానికి మీరు మీ క్యారియర్‌ను సంప్రదించే ముందు మీకు %d ప్రయత్నం మిగిలి ఉంది.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s ప్రింటర్లు కనుగొనబడ్డాయి</item>
+        <item quantity="one">%1$s ప్రింటర్ కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d అనువర్తనాలు ప్రస్తుతం జాబితాలో ఉన్నాయి</item>
+        <item quantity="one">%1$d అనువర్తన ప్రస్తుతం జాబితాలో ఉంది</item>
+    </plurals>
+</resources>

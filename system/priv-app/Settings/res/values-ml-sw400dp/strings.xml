@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">പശ്ചാത്തല ഡാറ്റ ക്യൂവാക്കൂ</string>
+    <string name="wifi_tether_settings_text">പോര്‍ട്ടബിള്‍ Wi-Fi ഹോട്സ്പോട്ട് ക്രമീകരണം</string>
+    <string name="stamina_xssm_add_applications_title">സ്റ്റാൻഡ്ബൈയിൽ സജീവമായ ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="auto_hide_notifications_title">കണ്ട അറിയിപ്പ് മായ്ക്കൂ</string>
+</resources>

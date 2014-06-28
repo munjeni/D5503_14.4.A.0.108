@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Jaringan standar</item>
+        <item>Sumputkeun nomer</item>
+        <item>Tingalikeun nomer</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo wungkul</item>
+        <item>CDMA tanpa EvDo</item>
+        <item>CDMA/EvDo otomatis</item>
+        <item>GSM/WCDMA otomatis</item>
+        <item>WCDMA wungkul</item>
+        <item>GSM wungkul</item>
+        <item>GSM/WCDMA pilihan</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inggris</item>
+        <item>Prancis</item>
+        <item>Spanyol</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+        <item>Cina</item>
+        <item>Ibrani</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (otomatis)</item>
+        <item>WCDMA wungkul</item>
+        <item>GSM wungkul</item>
+        <item>GSM/WCDMA (WCDMA diplih)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Bumi hungkul</item>
+        <item>Otomatis</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Jar. Wewengkon wungkul</item>
+        <item>Jaringan Afiliasi</item>
+        <item>Jaringan Nu Mana Wae</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>CDMA wungkul</item>
+        <item>EvDo hungkul</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Pareum</item>
+        <item>TTY Lengkep</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Panjang</item>
+    </string-array>
+</resources>

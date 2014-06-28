@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Chế STAMINA bao gồm: 
+
+• Chế độ chờ kéo dài 
+Tiết kiệm năng lượng khi màn hình tắt bằng cách tạm thời vô hiệu hóa WLAN và dữ liệu di động. Hầu hết các ứng dụng sẽ không hoạt động. 
+Khi màn hình bật, điện thoại của bạn sẽ hoạt động bình thường. 
+Nếu bạn muốn giữ cho một số ứng dụng hoạt động khi chế độ Chờ kéo dài được bật, hãy thêm ứng dụng vào danh sách ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ. 
+
+• Sử dụng kéo dài 
+Tiết kiệm năng lượng khi thiết bị của bạn đang được sử dụng bằng cách hạn chế hiệu suất phần cứng.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Chế độ STAMINA là gì?</u>"
+Chế độ STAMINA là chức năng tiết kiệm năng lượng của Sony™. Chức năng này giúp kéo dài tuổi thọ pin bằng cách tắt chức năng khi màn hình tắt.
+
+"<u>Cách sử dụng cơ bản</u>"
+Để kích hoạt chế độ STAMINA, hãy sử dụng công tắc trên màn hình tiếp theo. 
+Khi màn hình tắt, tất cả dữ liệu mạng sẽ bị tắt tạm thời và phần lớn ứng dụng của bạn sẽ tạm thời không hoạt động, để tiết kiệm pin.
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường.
+
+"<u>Cách sử dụng nâng cao</u>"
+Nếu bạn muốn duy trì hoạt động của một số ứng dụng khi màn hình tắt, chỉ cần thêm chúng vào danh sách ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ.
+
+"<u>Lưu ý</u>"
+Một số ứng dụng có thể không hoạt động động bình thường khi bị tắt ở chế độ chờ. Nếu ứng dụng không hoạt động bình thường, hãy thêm ứng dụng đó vào danh sách ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ hoặc nếu cách này không có hiệu quả, hãy tắt chế độ STAMINA."</string>
+    <string name="location_based_wi_fi_label">WLAN dựa trên vị trí</string>
+    <string name="location_based_wi_fi_descr">WLAN được tự động kích hoạt khi nằm trong phạm vi của mạng WLAN đã lưu</string>
+    <string name="powersaver_feature_wifi">Tắt WLAN</string>
+    <string name="install_wapi_certs">C.đặt các chứng nhận WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Quản lý WLAN, Bluetooth, chế độ máy bay, mạng di động, &amp; VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Bật WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Cài đặt WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Chọn WLAN</string>
+    <string name="wifi_starting">Đang bật WLAN…</string>
+    <string name="wifi_stopping">Đang tắt WLAN…</string>
+    <string name="wifi_poor_network_detection_summary">Không sử dụng mạng WLAN trừ khi mạng này có kết nối Internet tốt</string>
+    <string name="wifi_scan_always_available_summary">Cho phép dịch vụ định vị và các ứng dụng khác của Google quét tìm mạng, ngay cả khi WLAN bị tắt</string>
+    <string name="wifi_scan_notify_text_location_on">Để nâng cao độ chính xác và cho các mục đích khác, Google và các ứng dụng khác có thể quét tìm các mạng gần đó, ngay cả khi WLAN bị tắt. Nếu bạn không muốn điều này xảy ra, hãy đi đến Nâng cao > Tùy chọn quét luôn sẵn sàng.</string>
+    <string name="wifi_scan_notify_text_location_off">Ứng dụng có thể quét tìm các mạng gần đó, ngay cả khi WLAN bị tắt. Nếu bạn không muốn điều này xảy ra, hãy đi đến Nâng cao > Tùy chọn quét luôn sẵn sàng.</string>
+    <string name="wifi_setting_sleep_policy_title">Bật WLAN khi ngủ</string>
+    <string name="wifi_suspend_optimizations">Tối ưu hóa WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Giảm thiểu sử dụng pin khi WLAN bật</string>
+    <string name="wifi_access_points">Các mạng WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Để xem các mạng sẵn có, hãy bật WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Đang tìm kiếm mạng WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Bạn không có quyền thay đổi mạng WLAN.</string>
+    <string name="wifi_required_info_text">Để hoàn tất quá trình thiết lập, máy tính bảng của bạn cần quyền truy cập vào WLAN. Sau khi thiết lập, bạn có thể chuyển giữa dữ liệu di động và WLAN.</string>
+    <string name="wifi_wps_setup_title">Thiết lập WLAN được bảo vệ</string>
+    <string name="wifi_wps_onstart_pbc">Nhấn nút Thiết lập WLAN được bảo vệ trên bộ định tuyến của bạn. Quá trình này có thể được gọi là \"WPS\" hoặc chứa ký hiệu sau:</string>
+    <string name="wifi_wps_onstart_pin">Nhập mã pin %1$s trên bộ định tuyến WLAN của bạn. Thiết lập có thể mất tới hai phút để hoàn tất.</string>
+    <string name="wifi_wps_connected">Đã kết nối với mạng WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Để nâng cao độ chính xác vị trí và phục vụ các mục đích khác, %1$s muốn bật tính năng quét mạng ngay cả khi WLAN đang tắt.
+
+Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</string>
+    <string name="wifi_connect_failed_message">Điện thoại không thể kết nối với mạng WLAN này.</string>
+    <string name="wifi_advanced_titlebar">WLAN nâng cao</string>
+    <string name="wifi_setting_frequency_band_title">Dải tần số WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_failed_subtext">Lỗi điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_configure_ap_text">Thiết lập điểm phát sóng WLAN</string>
+    <string name="wifi_tether_configure_subtext">"%1$s điểm phát sóng WLAN di động.
+Bảo mật: %2$s"</string>
+    <string name="status_wifi_mac_address">Địa chỉ MAC của WLAN</string>
+    <string name="location_mode_high_accuracy_description">Sử dụng mạng GPS, WLAN và di động để xác định vị trí</string>
+    <string name="location_mode_battery_saving_description">Sử dụng mạng WLAN và di động để xác định vị trí</string>
+    <string name="location_neighborhood_level">Cho phép gửi dữ liệu vị trí ẩn danh cho Google. Đồng thời cho phép các ứng dụng được phép sử dụng dữ liệu từ nguồn như WLAN và mạng di động để xác định vị trí gần đúng của bạn.</string>
+    <string name="location_neighborhood_level_wifi">Vị trí được xác định bởi WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Thời gian bật WLAN</string>
+    <string name="bluetooth_on_time">Thời gian bật WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Đang chạy WLAN</string>
+    <string name="usage_type_data_wifi_send">Đã gửi dữ liệu WLAN</string>
+    <string name="usage_type_data_wifi_recv">Đã nhận dữ liệu WLAN</string>
+    <string name="battery_action_wifi">Cài đặt WLAN</string>
+    <string name="battery_desc_wifi">Pin do WLAN sử dụng</string>
+    <string name="battery_sugg_wifi">Tắt WLAN khi không sử dụng hoặc khi không khả dụng</string>
+    <string name="gadget_toggle_wifi">Cập nhật cài đặt WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Sao lưu dữ liệu ứng dụng, mật khẩu WLAN và cài đặt khác sang máy chủ Google</string>
+    <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu WLAN, dấu trang, các cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên máy chủ Google?</string>
+    <string name="wifi_setup_title">Thiết đặt WLAN</string>
+    <string name="wifi_setup_title_editing_network">Kết nối với mạng WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Đang kết nối với mạng WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Đã kết nối với mạng WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Bạn không thể định cấu hình kết nối EAP WLAN trong khi thiết lập. Sau khi thiết lập, bạn có thể thực hiện việc đó trong Cài đặt >Không dây &amp; mạng.</string>
+    <string name="wifi_setup_description_connected">Chạm <b>Tiếp theo</b>" để tiếp tục thiết lập.
+
+Chạm "<b>Quay lại</b> để kết nối với mạng WLAN khác.</string>
+    <string name="data_usage_menu_show_wifi">Hiển thị t.tin s.d WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Đặt giới hạn dữ liệu WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Nếu bạn giới hạn dữ liệu di động nền, một số ứng dụng và dịch vụ sẽ không hoạt động trừ khi bạn kết nối với mạng WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Nếu bạn giới hạn dữ liệu nền trên thiết bị di động, một số ứng dụng và dịch vụ sẽ không hoạt động trừ khi bạn kết nối với mạng WLAN.
+
+
+
+Cài đặt này ảnh hưởng đến tất cả người dùng trên điện thoại này."</string>
+    <string name="data_usage_metered_body">Chọn mạng WLAN là điểm phát sóng di động. Ứng dụng có thể bị hạn chế sử dụng các mạng này khi chạy dưới nền. Ứng dụng cũng có thể cảnh báo trước khi sử dụng các mạng này để tải xuống tệp có kích thước lớn.</string>
+    <string name="data_usage_metered_wifi">Mạng WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Để chọn điểm phát sóng di động, hãy bật WLAN.</string>
+    <string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với những người khác bằng cách tạo thêm người dùng. Mỗi người dùng có không gian riêng của họ mà họ có thể tùy chỉnh với các ứng dụng, hình nền riêng, v.v.. Người dùng cũng có thể điều chỉnh các cài đặt máy tính bảng ảnh hưởng tới mọi người, chẳng hạn như WLAN.
+
+
+
+Sau khi bạn tạo người dùng mới, người đó cần thực hiện quy trình thiết lập.
+
+
+
+Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của ứng dụng được cập nhật thay mặt tất cả những người dùng khác."</string>
+    <string name="restriction_wifi_config_title">WLAN và Di động</string>
+    <string name="restriction_wifi_config_summary">Cho phép sửa đổi cài đặt Di động và WLAN</string>
+    <string name="ct_wifi_connected_text">Đã k.nối WLAN viễn thông TQ</string>
+    <string name="cw_network_priority">Tối ưu hoá WLAN viễn thông TQ</string>
+    <string name="cw_network_priority_summary">Mạng WLAN viễn thông TQ sẽ được tối ưu hoá qua mạng WLAN khác khi k.nối</string>
+    <string name="data_traffic_disabled_text">Không thể k.nối mạng WLAN viễn thông TQ vì lưu lượng dữ liệu đã bị tắt. Bật lưu lượng DL ngay?</string>
+    <string name="location_based_wifi">WLAN dựa trên vị trí</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Tự động Kết nối với Điểm phát sóng WLAN của AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">T.động k.nối WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Gọi qua WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Thay đổi Chứng nhận WLAN</string>
+    <string name="wifi_p2p_settings">Cài đặt WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Bảo mật với WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Bảo mật với WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Bạn có thể sử dụng thiết bị của mình làm Điểm phát sóng di động. Điều này cho phép các thiết bị khác (tối đa 10) kết nối với thiết bị này qua mạng WLAN. Thiết bị được kết nối sẽ có quyền truy cập Internet qua kết nối mạng di động của điện thoại của bạn. Điểm phát sóng di động sử dụng dữ liệu di động và bạn có thể mất thêm phí.
+
+Điểm phát sóng di động tiêu hao nhiều pin hơn. Kết nối thiết bị với ổ cắm để kéo dài tuổi thọ pin."</string>
+    <string name="wifi_tether_settings_subtext">Thiết lập &amp; quản lý điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_settings_text">C.đặt điểm phát sóng WLAN d.động</string>
+    <string name="wifi_wps_category_title">Thiết lập mạng WLAN</string>
+    <string name="cw_network_notification">Bật t.b k.nối WLAN của V.T TQ</string>
+    <string name="stamina_xssm_summary">Vô hiệu hóa dữ liệu di động và WLAN khi màn hình tắt</string>
+    <string name="tethering_no_sim_warning_txt">Vui lòng lắp thẻ SIM để chia sẻ kết nối dữ liệu trên điện thoại của bạn với các thiết bị khác bằng Mobile WLAN HotSpot hoặc kết nối USB để truy cập Internet.</string>
+    <string name="wifi_offload_checkbox_summary">Khi mở ứng dụng, hãy cho tôi biết khi WLAN khả dụng</string>
+    <string name="wifi_offload_checkbox_title">Hiển thị cửa sổ bật lên WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Thông báo qua WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Thông báo cho tôi khi mạng WLAN khả dụng</string>
+    <string name="wifi_offload_option_title">Mạng WLAN khả dụng</string>
+</resources>

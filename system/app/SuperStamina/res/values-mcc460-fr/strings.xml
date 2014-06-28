@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Lorsque l'écran est éteint, le WLAN et les données mobiles sont temporairement désactivés, et la plupart des applications sont inactives. Vous continuerez à recevoir des appels, des SMS/MMS et des notifications de calendrier Sony™ ainsi que des signaux d'alarme. Le lecteur de musique et la radio FM fonctionneront, et les téléchargements et transferts en cours pourront être achevés.
+
+
+
+Une fois l'écran allumé, votre téléphone fonctionnera normalement.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Avec l'écran éteint, le WLAN et les données mobiles seront temporairement désactivés et la plupart des applications sont inactives. Vous continuerez de recevoir les SMS/MMS, les notifications du calendrier Sony™ et les alarmes Sony™. Le lecteur de musique et la radio fonctionneront, et les téléchargements et transferts en cours pourront se terminer.
+
+Votre appareil fonctionnera normalement avec l'écran allumé."</string>
+    <string name="description_msg_no_telephony_txt">"Avec l'écran éteint, le WLAN sera temporairement désactivé et la plupart des applications, inactives. Vous continuerez de recevoir les notifications du calendrier Sony™ et les alarmes Sony™. Le lecteur de musique et la radio FM fonctionneront, et les téléchargements et transferts en cours pourront se terminer.
+
+Avec l'écran allumé, votre appareil fonctionnera normalement."</string>
+    <string name="notification_descr_ps">"Le mode Batterie faible peut prolonger la durée de vie de la batterie en désactivant par exemple le WLAN, ou en réduisant la luminosité de l'écran quand la batterie est faible."</string>
+    <string name="notification_text_lbw">Activer la géolocalisation WLAN</string>
+    <string name="notification_descr_lbw">"Le WLAN est activé, mais n'a pas été utilisé depuis un moment. Économisez de l'énergie en activant la géolocalisation WLAN."</string>
+    <string name="location_based_wifi_tip_dialog">"Le WLAN est activé mais n'a pas été utilisé depuis longtemps. Vous pouvez économiser de l'énergie en activant la Géolocalisation WLAN. Activer la Géolocalisation WLAN ?"</string>
+    <string name="low_battery_mode_tip_dialog">"Le mode Batterie faible peut prolonger la durée de vie de la batterie par exemple en mettant le WLAN hors fonction ou en réduisant la luminosité de l'écran lorsque la batterie est faible. Activer le mode Batterie faible ?"</string>
+</resources>

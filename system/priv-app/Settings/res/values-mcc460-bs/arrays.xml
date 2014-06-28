@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Gruba lokacija</item>
+        <item>Precizna lokacija</item>
+        <item>GPS</item>
+        <item>Vibracija</item>
+        <item>Čitaj kontakte</item>
+        <item>Modificiraj kontakte</item>
+        <item>Pročitaj registar poziva</item>
+        <item>Modificiraj registar poziva</item>
+        <item>Pročitaj kalendar</item>
+        <item>Modificiraj kalendar</item>
+        <item>WLAN skeniranje</item>
+        <item>Obavještenje</item>
+        <item>Skeniranje ćelije</item>
+        <item>Poziv</item>
+        <item>Pročitaj SMS</item>
+        <item>Piši SMS</item>
+        <item>primanje SMS poruka</item>
+        <item>Primanje hitnih SMS poruka</item>
+        <item>Primanje MMS poruka</item>
+        <item>Primanje WAP push poruka</item>
+        <item>Pošalji SMS</item>
+        <item>Pročitaj ICC SMS</item>
+        <item>Piši ICC SMS</item>
+        <item>Modificiraj postavke</item>
+        <item>Crtaj preko</item>
+        <item>Pristupi obavještenjima</item>
+        <item>Kamera</item>
+        <item>Snimanje zvuka</item>
+        <item>Reproduciraj audio</item>
+        <item>Pročitaj međuspremnik</item>
+        <item>Modificiraj međuspremnik</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibracija</item>
+        <item>Čitaj kontakte</item>
+        <item>Modificiraj kontakte</item>
+        <item>Pročitaj registar poziva</item>
+        <item>Modificiraj registar poziva</item>
+        <item>Pročitaj kalendar</item>
+        <item>Modificiraj kalendar</item>
+        <item>Lokacija</item>
+        <item>Postavi obavještenje</item>
+        <item>Lokacija</item>
+        <item>Poziv</item>
+        <item>Pročitaj SMS/MMS</item>
+        <item>Napiši SMS/MMS</item>
+        <item>Primi SMS/MMS</item>
+        <item>Primi SMS/MMS</item>
+        <item>Primi SMS/MMS</item>
+        <item>Primi SMS/MMS</item>
+        <item>Pošalji SMS/MMS</item>
+        <item>Pročitaj SMS/MMS</item>
+        <item>Napiši SMS/MMS</item>
+        <item>Modificiraj postavke</item>
+        <item>Crtaj preko</item>
+        <item>Pristupi obavještenjima</item>
+        <item>Kamera</item>
+        <item>Snimanje zvuka</item>
+        <item>Reproduciraj audio</item>
+        <item>Pročitaj međuspremnik</item>
+        <item>Modificiraj međuspremnik</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

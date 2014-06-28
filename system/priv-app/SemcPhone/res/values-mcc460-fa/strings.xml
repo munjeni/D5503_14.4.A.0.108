@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">بدون وصل شدن به WLAN نمی توانید از اینترنت، ایمیل یا سایر برنامه هایی که نیاز به اتصال داده دارند، استفاده کنید. اتصال داده تلفن همراه خاموش شود؟</string>
+    <string name="sip_call_options_wifi_only_title">استفاده از تماس اینترنتی (فقط WLAN)</string>
+    <string name="registration_status_no_wifi_data">اتصال WLAN برقرار نیست. ثبت نام اشتراک ممکن نیست.</string>
+    <string name="no_wifi_available_title">اتصال WLAN وجود ندارد</string>
+    <string name="no_wifi_available">شما باید جهت برقراری تماس اینترنتی، به یک شبکه WLAN متصل شوید (به تنظیمات > بی سیم و شبکه ها بروید).</string>
+</resources>

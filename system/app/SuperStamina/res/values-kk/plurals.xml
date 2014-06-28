@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="widget_remaining_time_format_days">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">%d күн</item>
+    </plurals>
+    <plurals name="widget_remaining_time_format_hours">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">%d сағат</item>
+    </plurals>
+</resources>

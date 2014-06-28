@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Režim STAMINA zahrnuje:
+
+• Rozšířený pohotovostní režim
+Je-li obrazovka vypnuta, bude dočasně vypnuto připojení k WLAN i mobilní data. Většina aplikací nebude aktivní.
+Je-li obrazovka zapnuta, zařízení pracuje normálně.
+Pokud chcete, aby některá aplikace byla aktivní i v rozšířeném pohotovostním režimu, přidejte ji do seznamu aplikací aktivních v pohotovostním režimu.
+
+• Další možnosti
+Úspora energie během používání zařízení díky omezení výkonu.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Co je režim STAMINA?</u>"
+Režim STAMINA je funkcí úspory energie společnosti Sony™. Prodlužuje životnost baterie zakázáním některých funkcí, když je obrazovka vypnuta.
+
+"<u>Základní použití</u>"
+Chcete-li režim STAMINA aktivovat, použijte přepínač na další obrazovce.
+Je-li obrazovka vypnuta, budou dočasně zakázány všechny datové přenosy a většina aplikací bude neaktivních, aby se šetřila baterie.
+Je-li obrazovka zapnuta, zařízení pracuje normálně.
+
+"<u>Rozšířené použití</u>"
+Chcete-li, aby při vypnuté obrazovce zůstaly některé aplikace aktivní, přidejte je do seznamu aplikací aktivních v pohotovostním režimu.
+
+"<u>Poznámka</u>"
+Některé aplikace nemusí při zákazu v pohotovostním režimu pracovat správně. Pokud aplikace nepracuje správně, přidejte ji do seznamu aplikací aktivních v pohotovostním režimu, a pokud to nepomůže, deaktivujte režim STAMINA."</string>
+    <string name="location_based_wi_fi_label">WLAN podle místa</string>
+    <string name="location_based_wi_fi_descr">WLAN se aktivuje automaticky v rozsahu uložené sítě WLAN</string>
+    <string name="powersaver_feature_wifi">WLAN - vypnuto</string>
+    <string name="install_wapi_certs">Instalovat certifikáty WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Spravovat WLAN, Bluetooth, režim V letadle, mobilní sítě a sítě VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Zapnout WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Nastavení WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Vybrat síť WLAN</string>
+    <string name="wifi_starting">Zapínání WLAN...</string>
+    <string name="wifi_stopping">Vypínání WLAN...</string>
+    <string name="wifi_poor_network_detection_summary">Nepoužívat síť WLAN, pokud nemá dostatečně kvalitní internetové připojení.</string>
+    <string name="wifi_scan_always_available_summary">Povolit službě určování polohy Google a ostatním aplikacím hledat sítě, i když je síť WLAN vypnutá</string>
+    <string name="wifi_scan_notify_text_location_on">Za účelem zvýšení přesnosti a k dalším účelům mohou aplikace Google a další aplikace vyhledávat sítě WLAN v okolí, i když je WLAN vypnuta. Chcete-li to zakázat, přejděte do části Pokročilé > Hledání vždy zapnuto.</string>
+    <string name="wifi_scan_notify_text_location_off">Aplikace mohou vyhledávat sítě v okolí i v případě, že je WLAN vypnuta. Chcete-li nastavení změnit, přejděte do části Pokročilé > Hledání vždy zapnuto.</string>
+    <string name="wifi_setting_sleep_policy_title">Ponechat WLAN během spánku</string>
+    <string name="wifi_suspend_optimizations">Optimalizace WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimalizuje využití baterie při zapnuté síti WLAN</string>
+    <string name="wifi_access_points">Sítě WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Chcete-li zobrazit sítě k dispozici, zapněte síť WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Vyhledávání sítí WLAN…</string>
+    <string name="wifi_empty_list_user_restricted">Nemáte oprávnění ke změně sítě WLAN.</string>
+    <string name="wifi_required_info_text">K dokončení nastavení tablet potřebuje přístup k síti WLAN. Po nastavení můžete přepínat mezi mobilním datovým připojením a sítí WLAN.</string>
+    <string name="wifi_wps_setup_title">Chráněné nastavení WLAN</string>
+    <string name="wifi_wps_onstart_pbc">Stiskněte na směrovači tlačítko Chráněné nastavení WLAN. Může být označeno textem „WPS“ nebo tímto symbolem:</string>
+    <string name="wifi_wps_onstart_pin">Zadejte ve svém směrovači sítě WLAN kód PIN %1$s. Proces nastavení může trvat až dvě minuty.</string>
+    <string name="wifi_wps_connected">Připojeno k síti WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Aplikace %1$s chce zapnout vyhledávání sítí (kvůli lepšímu určení polohy i kvůli jiným účelům) a hledat sítě i v případě, že je vypnut modul WLAN.
+
+Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sítě?"</string>
+    <string name="wifi_connect_failed_message">Telefonu se nepodařilo připojit k této síti WLAN.</string>
+    <string name="wifi_advanced_titlebar">Pokročilá nastavení WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frekvenční pásmo WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Přenosný přístupový bod WLAN</string>
+    <string name="wifi_tether_failed_subtext">Chyba přenosného přístupového bodu WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Nastavit hotspot sítě WLAN</string>
+    <string name="wifi_tether_configure_subtext">"%1$s přenosný přístupový bod WLAN.
+Zabezpečení: %2$s"</string>
+    <string name="status_wifi_mac_address">Adresa MAC sítě WLAN</string>
+    <string name="location_mode_high_accuracy_description">K určení polohy použít GPS, WLAN a mobilní sítě</string>
+    <string name="location_mode_battery_saving_description">K odhadu polohy použít WLAN a mobilní sítě</string>
+    <string name="location_neighborhood_level">Povolit odesílání anonymních dat o poloze do Googlu a současně umožnit povoleným aplikacím, aby k určení vaší přibližné polohy využívaly data ze zdrojů, jako jsou sítě WLAN a mobilní sítě.</string>
+    <string name="location_neighborhood_level_wifi">Poloha určená sítí WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Doba provozu sítě WLAN</string>
+    <string name="bluetooth_on_time">Doba provozu sítě WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN je aktivní</string>
+    <string name="usage_type_data_wifi_send">Data odeslaná přes WLAN</string>
+    <string name="usage_type_data_wifi_recv">Data přijatá přes WLAN</string>
+    <string name="battery_action_wifi">Nastavení WLAN</string>
+    <string name="battery_desc_wifi">Využití baterie sítí WLAN</string>
+    <string name="battery_sugg_wifi">Vypněte síť WLAN, když ji nepoužíváte nebo když není k dispozici</string>
+    <string name="gadget_toggle_wifi">Aktualizace nastavení WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Zálohovat data aplikací, hesla sítí WLAN a další nastavení na serverech Google</string>
+    <string name="backup_erase_dialog_message">Chcete zrušit zálohování hesel sítí WLAN, záložek a dalších nastavení a dat aplikací a vymazat všechny kopie těchto dat na serverech Google?</string>
+    <string name="wifi_setup_title">Nastavení sítě WLAN</string>
+    <string name="wifi_setup_title_editing_network">Připojit k síti WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Připojování k síti WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Připojeno k síti WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Připojení WLAN EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v nabídce Nastavení v části Bezdrátová připojení a sítě.</string>
+    <string name="wifi_setup_description_connected">Chcete-li pokračovat v nastavení, dotkněte se možnosti <b>Další</b>".
+
+Chcete-li se připojit k jiné síti WLAN, dotkněte se možnosti "<b>Zpět</b>.</string>
+    <string name="data_usage_menu_show_wifi">Zobrazit využití WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Nastavit limit dat sítě WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Pokud omezíte mobilní data na pozadí, budou některé aplikace a služby fungovat pouze v případě, že bude k dispozici síť WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Pokud omezíte používání mobilních dat na pozadí, budou některé aplikace a služby fungovat, pouze když budete připojeni k síti WLAN.
+
+
+
+Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
+    <string name="data_usage_metered_body">Vyberte sítě WLAN, které jsou mobilními hotspoty. Aplikacím na pozadí může být používání těchto sítí zakázáno. Aplikace také mohou před stahováním velkých souborů pomocí těchto sítí zobrazit upozornění.</string>
+    <string name="data_usage_metered_wifi">Sítě WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Chcete-li vybrat mobilní hotspoty, zapněte připojení WLAN.</string>
+    <string name="user_add_user_message_long">"Vytvořením dalších uživatelů můžete toto zařízení sdílet s jinými lidmi. Každý uživatel má své prostředí, které může personalizovat, nainstalovat své aplikace, tapetu atd. Uživatelé také mohou upravit nastavení tabletu (např. WLAN), která ovlivní všechny ostatní uživatele.
+
+
+
+Když vytvoříte nového uživatele, bude muset provést nastavení.
+
+
+
+Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem všech ostatních uživatelů."</string>
+    <string name="restriction_wifi_config_title">Sítě WLAN a mobilní sítě</string>
+    <string name="restriction_wifi_config_summary">Povolit úpravu nastavení sítí WLAN a mobilních sítí</string>
+    <string name="ct_wifi_connected_text">Připojeno WLAN China Telecom</string>
+    <string name="cw_network_priority">Upřednostňovat WLAN CT</string>
+    <string name="cw_network_priority_summary">Sítě WLAN společnosti China Telecom budou při připojení upřednostňovány před jinými sítěmi WLAN</string>
+    <string name="data_traffic_disabled_text">Nelze se připojit k sítím WLAN společnosti China Telecom, protože přenos dat je vypnut. Chcete ho nyní povolit?</string>
+    <string name="location_based_wifi">WLAN podle místa</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automaticky připojit k přístupovému bodu WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. připoj. WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Volání WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Změnit certifikát WLAN</string>
+    <string name="wifi_p2p_settings">Nastavení WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Zabezpečeno WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Zabezpečeno WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Své zařízení můžete využívat jako mobilní přístupový bod. Vytvoříte tak síť WLAN, ke které se může připojit až 10 jiných zařízení. Připojená zařízení budou mít přístup k internetu přes vaše mobilní datové připojení. Funkce mobilního přístupového bodu tedy využívá mobilní data, za která vám mohou být účtovány poplatky.
+
+Funkce Mobilní přístupový bod spotřebovává mnoho energie. Výdrž baterie prodloužíte připojením nabíječky."</string>
+    <string name="wifi_tether_settings_subtext">Vytvoření a správa přístupového bodu WLAN</string>
+    <string name="wifi_tether_settings_text">Nastavení přístupového bodu WLAN</string>
+    <string name="wifi_wps_category_title">Nastavit síť WLAN</string>
+    <string name="cw_network_notification">Povolit oznámení CT WLAN</string>
+    <string name="stamina_xssm_summary">Zakáže mobilní data a WLAN při vypnutí obrazovky.</string>
+    <string name="tethering_no_sim_warning_txt">Vložte kartu SIM, chcete-li sdílet datové připojení telefonu s dalšími zařízeními pomocí funkce mobilního přístupového bodu sítě WLAN nebo sdílení připojení pomocí USB.</string>
+    <string name="wifi_offload_checkbox_summary">Při spouštění aplikací oznámit, kdy je dostupná síť WLAN</string>
+    <string name="wifi_offload_checkbox_title">Zobr. zprávy v oknech WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Oznámení sítě WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Upozornit, když jsou dostupné sítě WLAN</string>
+    <string name="wifi_offload_option_title">Dostupné sítě WLAN</string>
+</resources>

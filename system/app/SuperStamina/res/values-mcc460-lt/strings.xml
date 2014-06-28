@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Išjungus ekraną „WLAN“ ir mobilieji duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios. Ir toliau gausite telefono skambučius, SMS / MMS žinutes ir „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, telefonas veiks įprastai.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Išjungus ekraną „WLAN“ ir mobilieji duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios. Ir toliau gausite SMS / MMS žinutes ir „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, prietaisas veiks įprastai."</string>
+    <string name="description_msg_no_telephony_txt">"Išjungus ekraną „WLAN“ bus laikinai pasyvintas, o dauguma programų bus neaktyvios. Ir toliau gausite „Sony™“ kalendoriaus pranešimus bei „Sony™“ žadintuvo signalus. Veiks muzikos grotuvas ir FM radijas, taip pat bus galima užbaigti vykdomus atsisiuntimus ir nusiuntimus.
+
+Įjungus ekraną, prietaisas veiks įprastai."</string>
+    <string name="notification_descr_ps">Senkančio akumuliatoriaus režimas gali pailginti akumuliatoriaus veikimo trukmę, pvz., išjungdamas „WLAN“ arba sumažindamas ekrano ryškumą, kai akumuliatorius senka.</string>
+    <string name="notification_text_lbw">Aktyvinkite vieta pagrįstą „WLAN“</string>
+    <string name="notification_descr_lbw">„WLAN“ įjungtas, tačiau tam tikrą laiką nebuvo naudotas. Taupykite energiją aktyvindami vieta pagrįstą „WLAN“.</string>
+    <string name="location_based_wifi_tip_dialog">„WLAN“ įjungtas, tačiau tam tikrą laiką nebuvo naudotas. Taupykite energiją aktyvindami vieta pagrįstą „WLAN“. Ar nustatyti vieta pagrįstą „WLAN“?</string>
+    <string name="low_battery_mode_tip_dialog">Senkančio akumuliatoriaus režimas gali pailginti akumuliatoriaus veikimo trukmę, pvz., išjungdamas „WLAN“ arba sumažindamas ekrano ryškumą, kai akumuliatorius senka. Ar nustatyti senkančio akumuliatoriaus režimą?</string>
+</resources>

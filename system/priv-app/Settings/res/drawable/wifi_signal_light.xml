@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <item android:drawable="@drawable/wifi_signal_hotspot2" settings:state_hs20="true" />
+    <item android:drawable="@drawable/wifi_signal_limited_lock" settings:state_encrypted="true" settings:state_limited="true" />
+    <item android:drawable="@drawable/wifi_signal_lock_light" settings:state_encrypted="true" settings:state_limited="false" />
+    <item android:drawable="@drawable/wifi_signal_limited_open" settings:state_encrypted="false" settings:state_limited="true" />
+    <item android:drawable="@drawable/wifi_signal_open_light" settings:state_encrypted="false" settings:state_limited="false" />
+</selector>

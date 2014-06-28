@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_settings_text">Cài đặt điểm phát sóng Wi-Fi di động</string>
+    <string name="stamina_xssm_add_applications_title">Các ứng dụng hoạt động ở chế độ chờ</string>
+</resources>

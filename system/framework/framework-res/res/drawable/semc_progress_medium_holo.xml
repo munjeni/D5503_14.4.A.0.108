@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_00" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_01" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_02" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_03" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_04" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_05" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_06" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_07" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_08" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_09" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_10" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_11" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_12" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_13" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_14" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_15" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_16" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_17" />
+    <item android:duration="50" android:drawable="@drawable/semc_spinner_48_18" />
+    <item android:duration="250" android:drawable="@drawable/semc_spinner_48_19" />
+</animation-list>

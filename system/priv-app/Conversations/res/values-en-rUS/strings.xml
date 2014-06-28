@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversations_strings_empty_starredmessage_hint_txt">No starred message available. Add star to your favorite message.</string>
+    <string name="conversations_strings_composer_toast_message_size_change">%d character text message</string>
+    <string name="conversations_strings_settings_smsc_number_title_txt">SMS center number</string>
+    <string name="conversations_strings_settings_notification_enabled_info_txt">Notify in status bar for new messages</string>
+    <string name="conversations_strings_fdn_blocked_txt">Cannot send message. Number not in fixed dialing number list.</string>
+    <string name="conversations_strings_ssc_duration_zero_txt">Duration must be greater than zero second</string>
+    <string name="conversations_strings_location_textinput_txt">"I'm here:"</string>
+    <string name="conversations_strings_sms_contact_organization_txt">Organization</string>
+    <string name="conversations_strings_idd_fail_txt">“+” could not be converted to the corresponding international direct dial number. Please enter the number manually instead of “+”.</string>
+    <string name="conversations_strings_action_confirm_conversation_delete_star_txt">Delete conversation? (Conversation with starred message will not be deleted)</string>
+    <string name="conversations_strings_action_confirm_conversation_delete_several_star_txt">Delete conversations? (Conversation with starred message will not be deleted)</string>
+    <string name="conversations_strings_action_confirm_message_delete_star_txt">Delete message? (Starred message will not be deleted)</string>
+    <string name="conversations_strings_action_confirm_message_delete_several_star_txt">Delete messages? (Starred message will not be deleted)</string>
+    <string name="conversations_strings_action_confirm_message_delete_star_checkbox_txt">Check to delete all selected messages</string>
+</resources>

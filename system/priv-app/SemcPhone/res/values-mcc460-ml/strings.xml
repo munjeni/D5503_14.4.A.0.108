@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">നിങ്ങൾ WLAN ഉപയോഗിക്കുന്നില്ലെങ്കിൽ, ഇന്റർനെറ്റോ ഇമെയിലോ ഡാറ്റാ കണക്ഷൻ ആവശ്യമുള്ള മറ്റ് ഡാറ്റാ സേവനങ്ങളോ ഉപയോഗിക്കാൻ നിങ്ങൾക്കാകില്ല. തുടരണോ?</string>
+    <string name="sip_call_options_wifi_only_title">ഇന്‍റര്‍നെറ്റ് കോളിംഗ് ഉപ. (WLAN മാത്രം)</string>
+    <string name="registration_status_no_wifi_data">WLAN കണക്ഷനില്ല. അക്കൌണ്ട് രജിസ്റ്റര്‍ ചെയ്യാന്‍ കഴിഞ്ഞില്ല.</string>
+    <string name="no_wifi_available_title">WLAN കണക്ഷനില്ല</string>
+    <string name="no_wifi_available">ഇന്‍റര്‍നെറ്റ് കോളിംഗിനായി ഒരു WLAN നെറ്റ്‌വര്‍ക്കിലേക്ക് നിങ്ങള്‍ കണക്ടുചെയ്തിരിക്കണം (ക്രമീകരണങ്ങള്‍ > വയര്‍‌ലസും നെറ്റ്‌വര്‍ക്കുകളും എന്നതിലേക്ക് പോകുക).</string>
+</resources>

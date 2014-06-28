@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Când ecranul este dezactivat, conexiunea WLAN şi datele de telefonie mobilă vor fi dezactivate temporar, iar majoritatea aplicaţiilor va fi inactivă. Veţi primi în continuare apeluri telefonice, mesaje SMS/MMS, notificări de calendar Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM vor funcţiona şi se va permite finalizarea descărcărilor şi încărcărilor în desfăşurare.
+
+Când ecranul este activat, telefonul va funcţiona normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Dacă ecranul este inactiv, funcţia WLAN şi conexiunea de date de telefonie mobilă vor fi dezactivate temporar şi cele mai multe aplicaţii vor fi inactive. Veţi primi în continuare mesaje SMS/MMS, notificări despre evenimentele din calendarul Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM radio vor funcţiona, iar finalizarea descărcărilor şi încărcărilor în desfăşurare va fi permisă.
+
+Dacă ecranul este activ, dispozitivul va funcţiona normal."</string>
+    <string name="description_msg_no_telephony_txt">"Dacă ecranul este dezactivat, funcţia WLAN va fi dezactivată temporar şi cele mai multe aplicaţii vor fi inactive. Veţi primi în continuare notificări despre evenimentele din calendarul Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM radio vor funcţiona, iar finalizarea descărcărilor şi încărcărilor în desfăşurare va fi permisă.
+
+Dacă ecranul este activ, dispozitivul va funcţiona normal."</string>
+    <string name="notification_descr_ps">Modul Baterie descărcată poate prelungi furata de funcţionare a bateriei, de exemplu, prin dezactivarea funcţiei WLAN sau prin reducerea luminozităţii ecranului atunci când bateria este descărcată.</string>
+    <string name="notification_text_lbw">Activaţi WLAN în funcţie de locaţie</string>
+    <string name="notification_descr_lbw">Funcţia WLAN este activată, dar nu a mai fost utilizată de ceva timp. Economisiţi energia activând WLAN în funcţie de locaţie.</string>
+    <string name="location_based_wifi_tip_dialog">Funcţia WLAN este activată, dar nu a fost utilizată de ceva timp. Puteţi economisi energia activând funcţia WLAN în funcţie de locaţie. Configuraţi WLAN în funcţie de locaţie?</string>
+    <string name="low_battery_mode_tip_dialog">Modul Baterie descărcată poate prelungi durata de funcţionare a bateriei, de exemplu, dezactivând funcţia WLAN sau reducând luminozitatea ecranului atunci când bateria este descărcată. Configuraţi modul Baterie descărcată?</string>
+</resources>

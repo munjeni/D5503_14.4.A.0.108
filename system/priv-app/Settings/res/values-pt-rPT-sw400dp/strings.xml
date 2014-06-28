@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Colocar em fila dados em segundo plano</string>
+    <string name="auto_sync_text">Sincronização automática</string>
+    <string name="auto_hide_notifications_title">Apagar notificações visualizadas</string>
+</resources>

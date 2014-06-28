@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Kehittäjäasetukset otetaan käyttöön %1$d vaiheen päästä.</item>
+        <item quantity="one">Kehittäjäasetukset otetaan käyttöön %1$d vaiheen päästä.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Salasanassa on oltava vähintään %d kirjainta</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 kirjain</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Salasanassa on oltava vähintään %d pientä kirjainta</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 pieni kirjain</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Salasanassa on oltava vähintään %d isoa kirjainta</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 iso kirjain</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Salasanassa on oltava vähintään %d numeroa</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 numero</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Salasanassa on oltava vähintään %d erikoissymbolia</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 erikoissymboli</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Salasanassa on oltava vähintään %d merkkiä, jotka eivät ole kirjaimia</item>
+        <item quantity="one">Salasanassa on oltava vähintään 1 merkki, joka ei ole kirjain</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d sovellusta voi lukea ilmoituksia</item>
+        <item quantity="one">%d sovellus voi lukea ilmoituksia</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+        <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä, ennen kuin sinun on otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Löytyi %1$s tulostinta</item>
+        <item quantity="one">Löytyi %1$s tulostin</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d sovellusta luettelossa</item>
+        <item quantity="one">%1$d sovellus luettelossa</item>
+    </plurals>
+</resources>

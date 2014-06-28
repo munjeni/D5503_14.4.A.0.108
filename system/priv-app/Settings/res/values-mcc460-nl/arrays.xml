@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>geschatte locatie</item>
+        <item>nauwkeurige locatie</item>
+        <item>GPS</item>
+        <item>trillen</item>
+        <item>contacten lezen</item>
+        <item>contacten aanpassen</item>
+        <item>oproeplogboek lezen</item>
+        <item>oproeplogboek aanpassen</item>
+        <item>agenda lezen</item>
+        <item>agenda aanpassen</item>
+        <item>WLAN-scan</item>
+        <item>melding</item>
+        <item>mobiele scan</item>
+        <item>nummer bellen</item>
+        <item>sms lezen</item>
+        <item>sms schrijven</item>
+        <item>sms ontvangen</item>
+        <item>nood-sms ontvangen</item>
+        <item>mms ontvangen</item>
+        <item>WAP-push ontvangen</item>
+        <item>sms verzenden</item>
+        <item>ICC sms lezen</item>
+        <item>ICC sms schrijven</item>
+        <item>instellingen aanpassen</item>
+        <item>bovenop tekenen</item>
+        <item>toegang tot meldingen</item>
+        <item>camera</item>
+        <item>audio opnemen</item>
+        <item>audio afspelen</item>
+        <item>klembord lezen</item>
+        <item>klembord aanpassen</item>
+        <item>mediaknoppen</item>
+        <item>audiofocus</item>
+        <item>hoofdvolume</item>
+        <item>stemvolume</item>
+        <item>beltoonvolume</item>
+        <item>mediavolume</item>
+        <item>alarmvolume</item>
+        <item>meldingsvolume</item>
+        <item>bluetooth-volume</item>
+        <item>ingeschakeld houden</item>
+        <item>monitorlocatie</item>
+        <item>locatie met hoog energieverbruik controleren</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Locatie</item>
+        <item>Locatie</item>
+        <item>Locatie</item>
+        <item>Trillen</item>
+        <item>Contacten lezen</item>
+        <item>Contacten aanpassen</item>
+        <item>Oproeplogboek lezen</item>
+        <item>Oproeplogboek aanpassen</item>
+        <item>Agenda lezen</item>
+        <item>Agenda aanpassen</item>
+        <item>Locatie</item>
+        <item>Melding verzenden</item>
+        <item>Locatie</item>
+        <item>Nummer bellen</item>
+        <item>SMS/MMS lezen</item>
+        <item>SMS/MMS schrijven</item>
+        <item>Sms/mms ontvangen</item>
+        <item>Sms/mms ontvangen</item>
+        <item>Sms/mms ontvangen</item>
+        <item>Sms/mms ontvangen</item>
+        <item>Sms/mms verzenden</item>
+        <item>SMS/MMS lezen</item>
+        <item>SMS/MMS schrijven</item>
+        <item>Instellingen aanpassen</item>
+        <item>Bovenop tekenen</item>
+        <item>Toegang tot meldingen</item>
+        <item>Camera</item>
+        <item>Audio opnemen</item>
+        <item>Audio afspelen</item>
+        <item>Klembord lezen</item>
+        <item>Klembord aanpassen</item>
+        <item>Mediaknoppen</item>
+        <item>Audiofocus</item>
+        <item>Hoofdvolume</item>
+        <item>Stemvolume</item>
+        <item>Beltoonvolume</item>
+        <item>Mediavolume</item>
+        <item>Alarmvolume</item>
+        <item>Meldingsvolume</item>
+        <item>Bluetooth-volume</item>
+        <item>Ingeschakeld houden</item>
+        <item>Locatie</item>
+        <item>Locatie</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

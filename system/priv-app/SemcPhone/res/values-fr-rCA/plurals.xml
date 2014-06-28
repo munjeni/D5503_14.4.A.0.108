@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Auc cnnex donn pdt %smn</item>
+        <item quantity="one">Auc cnnex donn pdt %smn</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">"Le téléphone sera en mode de rappel d'urgence pendant %s minutes. Aucune application utilisant la connexion des données ne peut être utilisée lorsque le téléphone est dans ce mode. Voulez-vous quitter maintenant?"</item>
+        <item quantity="one">"Le téléphone sera en mode de rappel d'urgence pendant %s minute. Aucune application utilisant la connexion des données ne peut être utilisée lorsque le téléphone est dans ce mode. Voulez-vous quitter maintenant?"</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"L'action sélectionnée n'est pas disponible lorsque le téléphone est en mode de rappel d'urgence. Le téléphone sera dans ce mode pendant %s minutes. Voulez-vous quitter maintenant?"</item>
+        <item quantity="one">"L'action sélectionnée n'est pas disponible lorsque le téléphone est en mode de rappel d'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez-vous quitter maintenant?"</item>
+    </plurals>
+</resources>

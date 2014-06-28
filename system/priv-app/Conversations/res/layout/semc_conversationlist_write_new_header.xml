@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.ConversationListHeaderView android:layout_width="fill_parent" android:layout_height="@dimen/generic_item_height" android:minHeight="@dimen/generic_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/conversationlist_write_new" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/generic_item_height" android:text="@string/conversations_strings_conversationlist_header_write_new_txt" android:singleLine="true" android:layout_weight="1.0" android:paddingStart="@dimen/unread_icon_width" style="?android:attr/textAppearanceMedium" />
+    <CheckedTextView android:layout_gravity="end|center" android:id="@id/conversationlistcheckable_item_checkbox" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorMultiple" android:layout_marginEnd="@dimen/conv_list_item_margin_right" />
+</com.sonyericsson.conversations.ui.ConversationListHeaderView>

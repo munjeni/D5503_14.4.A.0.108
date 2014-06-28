@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Kasama sa STAMINA mode ang:
+
+• Pinahabang standby
+Nakakatipid ng power kapag naka-off ang screen sa pamamagitan ng pansamantalang hindi pagpapagana sa WLAN at mobile data. Hindi magiging aktibo ang karamihan ng mga application.
+Kapag NAKA-ON ang screen, gagana nang normal ang iiyong telepono.
+Kung gusto mong panatilihing aktibo ang ilang apps habang NAKA-ON ang Pinahabang standby, idagdag ang apps sa listahan ng APPS NA AKTIBO KAPAG NAKA-STANDBY.
+
+• Pinahabang paggamit
+Nakakatipid ng power kapag ginagamit ang iyong device sa pamamagitan ng paglimita sa pagganap ng hardware.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Ano ang STAMINA mode?</u>"
+Ang STAMINA mode ay isang power save na function ng Sony™. Pinapahaba nito ang tagal ng buhay ng baterya sa pamamagitan ng pag-disable ng functionality habang naka-off ang screen.
+
+"<u>Pangunahing paggamit</u>"
+Upang i-aktibo ang STAMINA mode, gamitin ang switch sa susunod na screen. 
+Kapag naka-off ang screen, pansamantalang madi-disable ang lahat ng network data, at magiging di-aktibo ang karamihan ng iyong mga application, upang makatipid ng baterya.
+Kapag naka-on ang screen, gagana nang normal ang iyong device.
+
+"<u>Advanced na paggamit</u>"
+Kung gusto mong panatilihing aktibo ang ilang apps kapag naka-off ang screen, idagdag lang ang mga iyon sa listahan ng APPS NA AKTIBO SA STANDBY.
+
+"<u>Tandaan</u>"
+Maaaring hindi gumana nang wasto ang ilang application kapag naka-disable sa standby. Kung hindi gumagana nang wasto ang isang application, idagdag ito sa listahan ng APPS NA AKTIBO SA STANDBY, o kung hindi ito gagana ay ideaktibo ang STAMINA mode."</string>
+    <string name="location_based_wi_fi_label">WLAN batay sa lokasyon</string>
+    <string name="location_based_wi_fi_descr">Awtomatikong isinasaaktibo ang WLAN kapag malapit sa isang naka-save na WLAN network</string>
+    <string name="powersaver_feature_wifi">Naka-off ang WLAN</string>
+    <string name="install_wapi_certs">Install WLAN certificates</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Pamahalaan ang WLAN, Bluetooth, airplane mode, mga mobile network, at mga VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">I-on ang WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Mga setting ng WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Piliin ang WLAN</string>
+    <string name="wifi_starting">Ino-on ang WLAN…</string>
+    <string name="wifi_stopping">Ino-off ang WLAN…</string>
+    <string name="wifi_poor_network_detection_summary">Huwag gumamit ng WLAN network maliban kung mayroon itong mahusay na koneksyon sa Internet</string>
+    <string name="wifi_scan_always_available_summary">Hayaang mag-scan ng mga network ang serbisyo sa lokasyon ng Google at iba pang apps, kahit na naka-off ang WLAN.</string>
+    <string name="wifi_scan_notify_text_location_on">Upang mapahusay ang katumpakan ng lokasyon at para sa iba pang mga layunin, maaaring mag-scan ang Google at ang iba pang apps kung may mga network sa malapit, kahit na naka-off ang WLAN. Kung hindi mo ito gustong mangyari, pumunta sa Advanced > Palaging available ang pag-scan.</string>
+    <string name="wifi_scan_notify_text_location_off">Maaaring mag-scan ang apps kung may mga network sa malapit, kahit na naka-off ang WLAN. Kung hindi mo ito gustong mangyari, pumunta sa Advanced > Palaging available ang pag-scan.</string>
+    <string name="wifi_setting_sleep_policy_title">Panatilihin on WLAN pag sleep</string>
+    <string name="wifi_suspend_optimizations">Pag-optimize sa WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Bawasan ang paggamit ng baterya kapag naka-on ang WLAN</string>
+    <string name="wifi_access_points">Mga network ng WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Upang makita available na network, i-on ang WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Naghahanap ng mga WLAN network...</string>
+    <string name="wifi_empty_list_user_restricted">Wala kang pahintulot na baguhin ang WLAN network</string>
+    <string name="wifi_required_info_text">Upang makumpleto ang pag-setup, kailangan ng iyong tablet ng access sa WLAN. Pagkatapos ng pag-setup, maaari kang magpalipat-lipat sa pagitan ng mobile data at WLAN.</string>
+    <string name="wifi_wps_setup_title">Protektadong Setup ng WLAN</string>
+    <string name="wifi_wps_onstart_pbc">Pindutin ang pindutang Protektadong Setup ng WLAN sa iyong router. Maaaring tinatawag itong \"WPS\" o naglalaman ng simbolong ito:</string>
+    <string name="wifi_wps_onstart_pin">Ipasok ang pin na %1$s ng iyong WLAN router. Maaaring tumagal ang pag-setup nang hanggang dalawang minuto upang matapos.</string>
+    <string name="wifi_wps_connected">Nakakonekta sa WLAN network na %s</string>
+    <string name="wifi_scan_always_turnon_message">"Upang mapahusay ang katumpakan ng lokasyon at para sa iba pang mga layunin, gustong i-on ng %1$s ang pag-scan ng network, kahit na naka-off ang WLAN.
+
+Payagan ito para sa lahat ng apps na gustong mag-scan?"</string>
+    <string name="wifi_connect_failed_message">Hindi nagawang kumonekta ng telepono sa WLAN network na ito.</string>
+    <string name="wifi_advanced_titlebar">Advanced na WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Frequency band ng WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Portable na hotspot ng WLAN</string>
+    <string name="wifi_tether_failed_subtext">Error sa portable na hotspot ng WLAN</string>
+    <string name="wifi_tether_configure_ap_text">I-set up ang WLAN hotspot</string>
+    <string name="wifi_tether_configure_subtext">"%1$s portable na WLAN hotspot.
+Seguridad: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC address</string>
+    <string name="location_mode_high_accuracy_description">Gamitin ang GPS, WLAN, at mga mobile network upang matukoy ang lokasyon</string>
+    <string name="location_mode_battery_saving_description">Gamitin ang WLAN at mga mobile network upang matukoy ang lokasyon</string>
+    <string name="location_neighborhood_level">Payagang maipadala sa Google ang hindi kilalang data ng lokasyon. Payagan din ang mga pinahihintulutang app na gamitin ang data mula sa mga pinagmulan gaya ng WLAN at mga mobile network upang tukuyin ang iyong tinatayang lokasyon.</string>
+    <string name="location_neighborhood_level_wifi">Natukoy ang lokasyon sa pamamagitan ng WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN na nasa oras</string>
+    <string name="bluetooth_on_time">WLAN na nasa oras</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Tumatakbo WLAN</string>
+    <string name="usage_type_data_wifi_send">Napadala ang data ng WLAN</string>
+    <string name="usage_type_data_wifi_recv">Natanggap ang data ng WLAN</string>
+    <string name="battery_action_wifi">Mga setting ng WLAN</string>
+    <string name="battery_desc_wifi">Bateryang ginagamit ng WLAN</string>
+    <string name="battery_sugg_wifi">I-off ang WLAN kapag hindi ito ginagamit o kapag hindi ito available</string>
+    <string name="gadget_toggle_wifi">Ina-update ang setting ng WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">I-back up ang data ng app, mga password ng WLAN, at iba pang mga setting sa mga server ng Google</string>
+    <string name="backup_erase_dialog_message">Ihinto ang pag-back up ng iyong mga password ng WLAN, bookmark, iba pang mga setting, at data ng app, at burahin ang lahat ng kopya sa mga server ng Google?</string>
+    <string name="wifi_setup_title">Setup ng WLAN</string>
+    <string name="wifi_setup_title_editing_network">Kumonekta sa WLAN network na %s</string>
+    <string name="wifi_setup_title_connecting_network">Kumokonekta sa WLAN network na %s…</string>
+    <string name="wifi_setup_title_connected_network">Nakakonekta sa WLAN network na %s</string>
+    <string name="wifi_setup_eap_not_supported">Hindi ka makakapag-configure ng isang koneksyon sa EAP WLAN sa panahon ng pag-setup. Pagkatapos ng pag-setup, magagawa mo iyon sa Mga Setting > Wireless at mga network.</string>
+    <string name="wifi_setup_description_connected">Pindutin ang <b>Susunod</b>" upang magpatuloy sa setup.
+
+Pindutin ang "<b>Bumalik</b> upang kumonekta sa ibang WLAN network.</string>
+    <string name="data_usage_menu_show_wifi">Ipakita paggamit ng WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Itakda limitasyon ng WLAN data</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Kung hihigpitan mo ang background na mobile data, hindi gagana ang ilang apps at mga serbisyo maliban kung nakakonekta ka sa isang WLAN na network.</string>
+    <string name="data_usage_restrict_background_multiuser">"Kung paghihigpitan mo ang background na mobile data, hindi gagana ang ilang mga app at serbisyo hanggang sa makakonekta ka sa isang WLAN network.
+
+
+
+Naaapektuhan ng setting na ito ang lahat ng user sa teleponong ito."</string>
+    <string name="data_usage_metered_body">Piliin ang mga WLAN network na mga mobile hotspot. Maaaring paghigpitan ang mga app mula sa paggamit sa mga network na ito kapag nasa background. Maaari ring magbabala ang mga app bago gamitin ang mga network na ito para sa malalaking pag-download.</string>
+    <string name="data_usage_metered_wifi">Mga WLAN network</string>
+    <string name="data_usage_metered_wifi_disabled">Upang pumili ng mga mobile hotspot, buksan ang WLAN.</string>
+    <string name="user_add_user_message_long">"Maibabahagi mo ang device na ito sa iba pang mga tao sa pamamagitan ng paglikha ng mga karagdagang user. May sariling espasyo ang bawat user, na maaari nilang i-customize gamit ang kanilang sariling mga app, wallpaper, at higit pa. Maaari ding ayusin ng mga user ang mga setting ng tablet tulad ng WLAN na makakaapekto sa lahat.
+
+
+
+Pagkatapos mong lumikha ng bagong user, kailangang sumailalim ng taong iyon sa proseso ng pag-setup.
+
+
+
+Ang sinumang user ay maaaring tumanggap ng na-update na mga pagpapahintulot sa app sa ngalan ng lahat ng iba pang user."</string>
+    <string name="restriction_wifi_config_title">WLAN at Mobile</string>
+    <string name="restriction_wifi_config_summary">Payagan ang pagbago sa mga setting ng WLAN at Mobile</string>
+    <string name="ct_wifi_connected_text">Konektado China Telecom WLAN</string>
+    <string name="cw_network_priority">I-prioritize China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">Ipa-prioritize ang mga China Telecom WLAN network kaysa ibang mga WLAN na nakakonekta</string>
+    <string name="data_traffic_disabled_text">Hindi makakonekta sa mga China Telecom WLAN network dahil hindi pinagana ang trapiko ng data. Paganahin ngayon ang trapiko ng data?</string>
+    <string name="location_based_wifi">WLAN na nakabatay sa lokasyon</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Awtomatikong kumonekta sa AT&amp;T WLAN hotspot</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN auto connect</string>
+    <string name="wifi_calling_mode_title">Pagtawag gamit ang WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Baguhin ang WLAN Certificate</string>
+    <string name="wifi_p2p_settings">Mga setting ng WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Na-secure gamit ang WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Na-secure gamit ang WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Maaari mong gamitin ang iyong device bilang isang Mobile Hotspot. Pinapayagan nito ang iba pang mga device (maximum na 10) na kumonekta dito sa pamamagitan ng isang WLAN network. Ang mga nakakonektang device ay magkakaroon ng access sa Internet sa pamamagitan ng koneksyon sa mobile network ng iyong telepono. Gumagamit ng mobile data ang Mobile Hotspot at maaari itong magresulta sa mga dagdag na singil.
+
+Kumokonsumo ng higit pang baterya ang Mobile Hotspot. Ikonekta ang device na ito sa isang outlet upang patagalin ang baterya."</string>
+    <string name="wifi_tether_settings_subtext">I-set up at pamahalaan ang portable na WLAN hotspot</string>
+    <string name="wifi_tether_settings_text">Setting ng Portable na WLAN hotspot</string>
+    <string name="wifi_wps_category_title">I-set up ang WLAN network</string>
+    <string name="cw_network_notification">Pagana CT WLAN pagpapaalam</string>
+    <string name="stamina_xssm_summary">Hindi pinapagana ang mobile data at WLAN kapag naka-off ang screen</string>
+    <string name="tethering_no_sim_warning_txt">Mangyaring maglagay ng SIM card upang ibahagi ang koneksyon sa data ng iyong telepono sa iba pang mga device gamit ang Mobile WLAN HotSpot o USB tethering para sa access sa Internet.</string>
+    <string name="wifi_offload_checkbox_summary">Kapag nagbubukas ng apps, sabihan ako kapag available ang WLAN</string>
+    <string name="wifi_offload_checkbox_title">Ipakita WLAN pop-ups</string>
+    <string name="wifi_offload_notify_available_networks">Mga abiso sa WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Abisuhan ako kapag available ang mga WLAN network</string>
+    <string name="wifi_offload_option_title">Mga available na WLAN network</string>
+</resources>

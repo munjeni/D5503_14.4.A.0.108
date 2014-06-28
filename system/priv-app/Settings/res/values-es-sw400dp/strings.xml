@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Sincronización automática</string>
+    <string name="wifi_tether_settings_text">Ajustes de la zona activa de Wi-Fi portátil</string>
+    <string name="auto_hide_notifications_title">Borrar las notificaciones vistas</string>
+</resources>

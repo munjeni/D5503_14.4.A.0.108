@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s মিন. জন্য কোনও ডেটা সংয. নেই</item>
+        <item quantity="one">%s মিন. জন্য কোনও ডেটা সংয. নেই</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">এই ফোনটি %s মিনিটের জন্যে জরুরীকালিন কলব্যাক ফোন থাকবে। এই মোডে ডাটা সংযোগ ব্যবহার করা কোনো অ্যাপ্লিকেশন ব্যবহার করা যায়না। আপনি কি প্রস্থান করতে চান?</item>
+        <item quantity="one">এই ফোনটি %s মিনিটের জন্যে জরুরীকালিন কলব্যাক ফোন থাকবে। এই মোডে ডাটা সংযোগ ব্যবহার করা কোনো অ্যাপ্লিকেশন ব্যবহার করা যায়না। আপনি কি প্রস্থান করতে চান?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">জরুরীকালিন কলব্যাক মোডে এই নির্বাচিত ক্রিয়া উপলভ্য নয়। ফোনটি%s মিনিটের জন্যে এই মোডে থাকবে। আপনি কি এখন প্রস্থান করতে চান?</item>
+        <item quantity="one">জরুরীকালিন কলব্যাক মোডে এই নির্বাচিত ক্রিয়া উপলভ্য নয়। ফোনটি%s মিনিটের জন্যে এই মোডে থাকবে। আপনি কি এখন প্রস্থান করতে চান?</item>
+    </plurals>
+</resources>

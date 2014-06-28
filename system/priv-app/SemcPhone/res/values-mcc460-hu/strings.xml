@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Csak WLAN használata esetén tudja a továbbiakban az internetet, az E-mail alkalmazást, valamint az adatkapcsolatot igénylő egyéb alkalmazásokat használni. Kikapcsolja a mobil adatkapcsolatot?</string>
+    <string name="sip_call_options_wifi_only_title">Internethívás haszn. (csak WLAN)</string>
+    <string name="registration_status_no_wifi_data">Nincs WLAN kapcsolat. Sikertelen a fiók regisztrálása.</string>
+    <string name="no_wifi_available_title">Nincs WLAN kapcsolat</string>
+    <string name="no_wifi_available">Internetes híváshoz WLAN hálózathoz kell kapcsolódnia (ugorjon a Beállítások > Vezeték nélküli és mobilhálózatok beállításra).</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kapag naka-off ang screen, pansamantalang hindi papaganahin ang WLAN at mobile data, at hindi magiging aktibo ang karamihan sa mga application. Makakatanggap ka pa rin ng mga tawag sa telepono, SMS/MMS message at mga notification sa Sony™calendar at mga alarm signal sa Sony™. Gagana ang music player at FM radio at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang tumatakbo.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong telepono.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kapag naka-off ang screen, pansamantalang idi-disable ang WLAN at mobile data, at magiging di-aktibo ang karamihan ng mga application. Makakatanggap ka pa rin ng mga SMS/MMS message, pagpapaalam sa kalendaryo ng Sony™ at signal sa alarma ng Sony™. Gagana ang music player at FM radio, at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang ginagawa.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong device."</string>
+    <string name="description_msg_no_telephony_txt">"Kapag naka-off ang screen, pansamantalang idi-disable ang WLAN, at magiging hindi aktibo ang karamihan ng mga application. Makakatanggap ka pa rin ng mga pagpapaalam sa kalendaryo ng Sony™ at signal sa alarma ng Sony™. Gagana ang music player at FM radio, at papayagang matapos ang mga pag-download at pag-upload na kasalukuyang ginagawa.
+
+Kapag naka-on ang screen, gagana nang normal ang iyong device."</string>
+    <string name="notification_descr_ps">Maaaring pahabain ng mode ng mahinang baterya ang buhay ng baterya hal. pag-off sa WLAN o pagbawas ng liwanag ng screen kapag mababa ang baterya.</string>
+    <string name="notification_text_lbw">Isaaktibo ang WLAN batay sa Lokasyon</string>
+    <string name="notification_descr_lbw">Naka-on ang WLAN ngunit matagal nang hindi ginamit. Magtipid ng power sa pamamagitan ng pagsasaaktibo sa WLAN na nakabatay sa Lokasyon.</string>
+    <string name="location_based_wifi_tip_dialog">Naka-on ang WLAN ngunit medyo matagal nang hindi ginagamit. Maaari kang magtipid ng power sa pamamagitan ng pag-a-aktibo ng WLAN na Nakabatay sa Lokasyon. I-set up ang WLAN na Nakabatay sa Lokasyon?</string>
+    <string name="low_battery_mode_tip_dialog">Maaaring pahabain ng Mode ng mahinang baterya ang baterya sa pamamagitan hal. ng pag-off sa WLAN o pagbawas ng liwanag ng screen kapag mahina na ang baterya. I-set up ang Mode ng mahinang baterya?</string>
+</resources>

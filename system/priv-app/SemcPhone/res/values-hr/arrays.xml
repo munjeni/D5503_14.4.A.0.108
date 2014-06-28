@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Zadana postavka mreže</item>
+        <item>Sakrij broj</item>
+        <item>Prikaži broj</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globalno</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Samo EvDo</item>
+        <item>CDMA bez EvDo-a</item>
+        <item>CDMA/EvDo automatski</item>
+        <item>GSM/WCDMA automatski</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+        <item>Preferira se GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>engleski</item>
+        <item>francuski</item>
+        <item>španjolski</item>
+        <item>japanski</item>
+        <item>korejski</item>
+        <item>kineski</item>
+        <item>hebrejski</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (au. na. rada)</item>
+        <item>Samo WCDMA</item>
+        <item>Samo GSM</item>
+        <item>GSM/WCDMA (pref. WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo domaće</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Samo domaće mreže</item>
+        <item>Povezane mreže</item>
+        <item>Bilo koja mreža</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Samo CDMA</item>
+        <item>Samo EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Isključi tekstofon</item>
+        <item>Puni TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalno</item>
+        <item>Dugačko</item>
+    </string-array>
+</resources>

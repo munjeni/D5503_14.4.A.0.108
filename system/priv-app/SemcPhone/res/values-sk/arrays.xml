@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Pôvod. nastavenia siete</item>
+        <item>Skryť číslo</item>
+        <item>Ukázať číslo</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globálne</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Iba sieť EvDo</item>
+        <item>Sieť CDMA bez siete EvDo</item>
+        <item>Automatický výber siete CDMA/EvDo</item>
+        <item>Automatický výber GSM/WCDMA</item>
+        <item>Iba sieť WCDMA</item>
+        <item>Iba sieť GSM</item>
+        <item>Preferované siete GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angličtina</item>
+        <item>Francúzština</item>
+        <item>Španielčina</item>
+        <item>Japončina</item>
+        <item>Kórejčina</item>
+        <item>Čínština</item>
+        <item>Hebrejčina</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (rež. Autom.)</item>
+        <item>Iba sieť WCDMA</item>
+        <item>Iba sieť GSM</item>
+        <item>GSM/WCDMA (pred. WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Iba domov</item>
+        <item>Automatické</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Iba domáce siete</item>
+        <item>Pridružené siete</item>
+        <item>Všetky siete</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Iba sieť CDMA</item>
+        <item>Iba sieť EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Vypnúť TTY</item>
+        <item>TTY – plné</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normálne</item>
+        <item>Dlhé</item>
+    </string-array>
+</resources>

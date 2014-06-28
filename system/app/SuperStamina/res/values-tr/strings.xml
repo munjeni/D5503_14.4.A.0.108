@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eco modu kontrolörü</string>
+    <string name="dont_ask_me_again_txt">Yeniden sorma</string>
+    <string name="description_msg_txt">"Ekran kapalı olduğunda Wi-Fi ile mobil veri geçici olarak devre dışı bırakılır ve uygulamaların çoğu devre dışı olur. Telefon çağrısı, SMS/MMS mesajları, Sony™ takvim bildirimleri ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır ve devam eden indirme ve yükleme işlemlerinizin tamamlanmasına izin verilir.
+
+Ekran açıldığında telefonunuzu normal bir şekilde çalışır.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Ekran kapalı olduğunda, Wi-Fi ve mobil veri geçici olarak devre dışı bırakılır ve çoğu uygulama devre dışı olur. SMS/MMS mesajlarını, Sony™ takvim bildirimlerini ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır; devam eden indirme ve karşıya yükleme işlemlerinin tamamlanmasına izin verilir.
+
+Ekran açıldığında, cihazınız normal şekilde çalışır."</string>
+    <string name="description_msg_no_telephony_txt">"Ekran kapalı olduğunda, Wi-Fi geçici olarak devre dışı bırakılır ve çoğu uygulama devre dışı kalır. Sony™ takvim bildirimlerini ve Sony™ alarm sinyallerini almaya devam edersiniz. Müzik çalar ve FM radyo çalışır, devam eden indirme ve yükleme işlemlerinin tamamlanmasına izin verilir.
+
+Ekran açıldığında cihazınız normal şekilde çalışır."</string>
+    <string name="description_title_txt">Not!</string>
+    <string name="low_battery_mode_description_msg_txt">"Pil şarjı normal seviyenin altına düştüğünde, güç tüketen özellik ve ayarları kapatmak için Az pil modunu etkinleştirin. Ayarları değiştirmek için Zayıf pil moduna dokunun.
+"</string>
+    <string name="activate_txt">Etkinleştir</string>
+    <string name="cancel_txt">İptal</string>
+    <string name="xssm_blocker_detector_title">Güç yönetimi ipucu</string>
+    <string name="xssm_blocker_detector_msg">%s uygulaması, STAMINA modunun bekleme modunda güç tasarrufu yapmasını engelliyor</string>
+    <string name="xssm_blocker_detector_long_msg">Bu uygulamayı sık kullanıyorsanız bu uyarıyı dikkate almayın. Sık kullanmıyorsanız uygulamayı kaldırın veya zorla durdurun.</string>
+    <string name="xssm_blocker_detector_ignore">Anladım. Bir daha gösterme.</string>
+    <string name="network_detector_msg">%s uygulaması ekran kapalıyken veri alıp gönderir ve bu durum pilin hızlı tükenmesine neden olur.</string>
+    <string name="network_detector_long_msg">Bu uygulamayı kaldırmak cihaz performansını ve pilin dayanma süresini arttırabilir.</string>
+    <string name="wakelock_detector_msg">%s uygulaması haftalardır kullanılmıyor.</string>
+    <string name="wakelock_detector_long_msg">Bu uygulama cihazı bekleme modundan uyandırabilir. Bu uygulamayı kaldırmak cihaz performansını ve pilin dayanma süresini arttırabilir.</string>
+    <string name="notification_title_xssm">Güç yönetimi ipucu</string>
+    <string name="notification_text_xssm">STAMINA modunu aktif hale getirin</string>
+    <string name="notification_descr_xssm">Cihazınız genelde bekleme modunda. STAMINA modunu aktif hale getirerek pil ömrünü uzatın.</string>
+    <string name="notification_dont_show_again">Anladım. Bir daha gösterme.</string>
+    <string name="notification_title_ps">Güç yönetimi ipucu</string>
+    <string name="notification_text_ps">Az pil modunu aktif hale getirin</string>
+    <string name="notification_descr_ps">Az pil modu, pil zayıfladığında örneğin Wi-Fi fonksiyonunu kapatarak veya ekran parlaklığını azaltarak pil ömrünü uzatabilir.</string>
+    <string name="notification_title_lbw">Güç yönetimi ipucu</string>
+    <string name="notification_text_lbw">"Konum tabanlı Wi-Fi'yi aktif hale getir"</string>
+    <string name="notification_descr_lbw">Wi-Fi açık, ancak bir süredir kullanılmıyor. Konum tabanlı Wi-Fi işlevini aktif hale getirerek güç tasarrufu yapın.</string>
+    <string name="unused_application_title">Güç yönetimi ipucu</string>
+    <string name="unused_application_msg">%s bir süredir kullanılmıyor</string>
+    <string name="unused_application_long_msg">Bu uygulamayı saklamak istiyorsanız bu uyarıyı yoksayın. İstemiyorsanız, uygulamayı kaldırın.</string>
+    <string name="unused_application_ignore">Anladım. Bir daha gösterme.</string>
+    <string name="drain_dialog_title_txt">Pil şarj edilmiyor</string>
+    <string name="drain_dialog_text_usb_txt">Bağlı güç kaynağı yeterli değil. Pil şarjı, şarj olma hızından daha yüksek bir hızda azalıyor. Lütfen AC şarj ünitenizi kullanın.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Bağlı güç kaynağı yeterli değil. Pilin şarjı, şarj olma hızından daha yüksek bir hızda azalıyor. Şarj sırasında cihaz kullanımınızı en aza indirin.</string>
+    <string name="extend_battery_tip_dialog_headar">Güç yönetimi ipucu</string>
+    <string name="location_based_wifi_tip_dialog">"Wi-Fi açık ancak bir süredir kullanılmıyor. Konum tabanlı Wi-Fi'ı etkinleştirerek güç tasarrufu yapabilirsiniz. Konum tabanlı Wi-Fi ayarlansın mı?"</string>
+    <string name="low_battery_mode_tip_dialog">"Az pil modu, pil düşük seviyedeyken Wi-Fi'ı kapatarak veya ekran parlaklığını azaltarak pil ömrünü uzatabilir. Düşük pil modu ayarlansın mı?"</string>
+    <string name="stamina_mode_tip_dialog">Cihazınız genellikle bekleme modunda. STAMINA modunu etkinleştirerek pil ömrünü uzatın. STAMINA modu ayarlansın mı?</string>
+    <string name="bad_app_notification">Aşağıdaki uygulamalar pili tüketiyor:</string>
+    <string name="bad_standby_app_dialog">%s bekleme modundayken STAMINA modunun güç tasarrufu yapmasını engelliyor. Bu uygulamayı sık kullanıyorsanız, bu uyarıyı göz ardı edin. Sık kullanmıyorsanız, Uygulama bilgileri düğmesine hafifçe vurun ve uygulamayı kaldırın ya da zorla durdurun.</string>
+    <string name="ignore_dialog_action">Yoksay</string>
+    <string name="app_info_dialog_action">Uygulama bilgileri</string>
+    <string name="stamina_activation_notification">STAMINA modu etkinleştirildi</string>
+    <string name="lowbattery_trigger_level_notification">Pil seviyesi %d%% değerinin altında</string>
+    <string name="lowbattery_activated_notification">Az pil modu etkinleştirildi</string>
+    <string name="app_not_used_notification">Bu uygulama bir süredir kullanılmıyor:</string>
+    <string name="app_not_used_tip_dialog">%s bir süredir kullanılmıyor. Güç tasarrufu yapmak için uygulamayı kaldırmanızı öneririz.</string>
+    <string name="no_action_dialog">Hayır</string>
+    <string name="yes_action_dialog">Evet</string>
+    <string name="widget_remaining_battery_time">Tahmini pil süresi</string>
+    <string name="widget_name">STAMINA modu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">除非使用WLAN，否則您將無法繼續使用網際網路、電子郵件或其他需要數據連線的應用程式。是否要關閉行動數據連線？</string>
+    <string name="sip_call_options_wifi_only_title">撥打網路電話 (僅限 WLAN)</string>
+    <string name="registration_status_no_wifi_data">沒有WLAN連線。無法註冊帳號。</string>
+    <string name="no_wifi_available_title">沒有 WLAN 連線</string>
+    <string name="no_wifi_available">您必須連線至WLAN網路才能進行網際網路通話(移至[設定] > [無線與網路])。</string>
+</resources>

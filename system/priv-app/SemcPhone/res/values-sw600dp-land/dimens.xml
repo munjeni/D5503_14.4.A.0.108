@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="answering_machine_record_guide_text_margin_top">353.0dip</dimen>
+    <dimen name="answering_machine_record_guide_text_margin_start">320.0dip</dimen>
+    <dimen name="answering_machine_record_guide_text_margin_end">320.0dip</dimen>
+    <dimen name="answering_machine_mic_icon_margin_top">19.0dip</dimen>
+    <dimen name="answering_machine_record_layout_margin_top">439.0dip</dimen>
+    <dimen name="answering_machine_record_layout_margin_start">528.0dip</dimen>
+    <dimen name="answering_machine_play_layout_margin_start">640.0dip</dimen>
+    <dimen name="answering_machine_record_edit_text_margin_top">587.0dip</dimen>
+    <dimen name="answering_machine_record_edit_text_margin_start">410.0dip</dimen>
+    <dimen name="answering_machine_record_edit_text_margin_end">410.0dip</dimen>
+</resources>

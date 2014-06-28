@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Ağ varsayılanı</item>
+        <item>Numarayı gizle</item>
+        <item>Numarayı göster</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Küresel</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Yalnızca EvDo</item>
+        <item>EvDo olmadan CDMA</item>
+        <item>CDMA/EvDo otomatik</item>
+        <item>GSM/WCDMA otomatik</item>
+        <item>Yalnızca WCDMA</item>
+        <item>Yalnızca GSM</item>
+        <item>GSM/WCDMA tercih edilir</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>İngilizce</item>
+        <item>Fransızca</item>
+        <item>İspanyolca</item>
+        <item>Japonca</item>
+        <item>Korece</item>
+        <item>Çince</item>
+        <item>İbranice</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (oto. mod)</item>
+        <item>Yalnızca WCDMA</item>
+        <item>Yalnızca GSM</item>
+        <item>GSM/WCDMA (WCDMA terch)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Yalnızca ev</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Yalnızca Ana Ağlar</item>
+        <item>Bağlı Ağlar</item>
+        <item>Tüm Ağlar</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Yalnızca CDMA</item>
+        <item>Yalnızca EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Kapalı</item>
+        <item>TTY Tam</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Uzun</item>
+    </string-array>
+</resources>

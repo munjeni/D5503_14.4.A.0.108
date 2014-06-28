@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontroll för Eco-läge</string>
+    <string name="dont_ask_me_again_txt">Fråga inte igen</string>
+    <string name="description_msg_txt">"När skärmen är avstängd inaktiveras Wi-Fi och mobildata tillfälligt och de flesta appar är inaktiva. Du kan fortfarande ta emot samtal, SMS-/MMS-meddelanden, Sony™-kalendermeddelanden och alarmsignaler. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar telefonen normalt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"När skärmen är avstängd inaktiveras Wi-Fi och mobildata tillfälligt, och de flesta appar inaktiveras. Du kan fortfarande ta emot SMS-/MMS-meddelanden och Sony™-kalendermeddelanden, och Sony™-alarmsignaler hörs. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar enheten som normalt."</string>
+    <string name="description_msg_no_telephony_txt">"När skärmen är avstängd inaktiveras Wi-Fi tillfälligt, och de flesta program inaktiveras. Du kan fortfarande ta emot Sony™-kalendermeddelanden, och Sony™-alarmsignaler hörs. Musikspelaren och FM-radion fungerar och pågående hämtningar och överföringar tillåts att avslutas.
+
+När skärmen är på fungerar enheten som normalt."</string>
+    <string name="description_title_txt">Obs!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktivera läget Låg batterinivå om du vill stänga av funktioner och inställningar som förbrukar batteri när batterinivån är under en förinställd nivå. Tryck på läget Låg batterinivå för att ändra inställningarna.
+"</string>
+    <string name="activate_txt">Aktivera</string>
+    <string name="cancel_txt">Avbryt</string>
+    <string name="xssm_blocker_detector_title">Tips för strömhantering</string>
+    <string name="xssm_blocker_detector_msg">%s förhindrar att STAMINA-läget kan spara ström i standby</string>
+    <string name="xssm_blocker_detector_long_msg">Om du använder den här appen ofta kan du ignorera den här varningen. Om inte avinstallerar eller tvingar du en avstängning av appen.</string>
+    <string name="xssm_blocker_detector_ignore">Ok. Visa inte igen.</string>
+    <string name="network_detector_msg">%s skickar och tar emot data när skärmen är avstängd och gör att batteriet förbrukas snabbare.</string>
+    <string name="network_detector_long_msg">Om du avinstallerar den kan du förbättra enhetens prestanda och förlänga batteritiden.</string>
+    <string name="wakelock_detector_msg">%s har inte har använts på flera veckor.</string>
+    <string name="wakelock_detector_long_msg">Det kan väcka enheten från standbyläge. Om du avinstallerar den kan du förbättra enhetens prestanda och förlänga batteritiden.</string>
+    <string name="notification_title_xssm">Tips för strömhantering</string>
+    <string name="notification_text_xssm">Aktivera STAMINA-läget</string>
+    <string name="notification_descr_xssm">Enheten är ofta i standby-läget. Utöka batteritiden genom att aktivera STAMINA-läget.</string>
+    <string name="notification_dont_show_again">Ok. Visa inte igen.</string>
+    <string name="notification_title_ps">Tips för strömhantering</string>
+    <string name="notification_text_ps">Aktivera Läge för låg batterinivå</string>
+    <string name="notification_descr_ps">Läge för låg batterinivå kan utöka batterilivslängden genom att stänga av Wi-Fi eller minska skärmljusstyrkan när batterinivån är låg.</string>
+    <string name="notification_title_lbw">Tips för strömhantering</string>
+    <string name="notification_text_lbw">Aktivera Platsbaserad Wi-Fi</string>
+    <string name="notification_descr_lbw">Wi-Fi är på men inte har använts på ett tag. Spara ström genom att aktivera Platsbaserad Wi-Fi.</string>
+    <string name="unused_application_title">Energihanteringstips</string>
+    <string name="unused_application_msg">%s har inte använts under en längre tid</string>
+    <string name="unused_application_long_msg">Ignorera varningen om du vill behålla appen. Annars avinstallerar du appen.</string>
+    <string name="unused_application_ignore">Jag förstår. Visa inte igen.</string>
+    <string name="drain_dialog_title_txt">Batteriet laddas inte</string>
+    <string name="drain_dialog_text_usb_txt">Den anslutna strömkällan är inte tillräcklig. Batteriet laddas ur snabbare än det laddas. Byt till nätadaptern.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Den anslutna strömkällan är inte tillräcklig. Batteriet laddas ur snabbare än det laddas. Minimera användningen av enheten under laddning.</string>
+    <string name="extend_battery_tip_dialog_headar">Energihanteringstips</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi är på men har inte använts på ett tag. Du kan spara ström genom att aktivera platsbaserad Wi-Fi. Ställa in platsbaserad Wi-Fi?</string>
+    <string name="low_battery_mode_tip_dialog">Läget Låg batterinivå kan förlänga batteritiden genom att t.ex. stänga av Wi-Fi eller minska skärmens ljusstyrka när batterinivån är låg. Ställa in läget Låg batterinivå?</string>
+    <string name="stamina_mode_tip_dialog">Enheten är ofta i vänteläget. Förläng batteritiden genom att aktivera STAMINA-läget. Ställa in STAMINA-läget?</string>
+    <string name="bad_app_notification">Följande app drar mycket batteri:</string>
+    <string name="bad_standby_app_dialog">%s förhindrar att STAMINA-läget kan spara energi i vänteläget. Om du använder denna app ofta kan du ignorera varningen. Om inte trycker du på knappen Appinfo och avinstallerar appen eller tvingar en avstängning.</string>
+    <string name="ignore_dialog_action">Ignorera</string>
+    <string name="app_info_dialog_action">Appinfo</string>
+    <string name="stamina_activation_notification">STAMINA-läget har aktiverats</string>
+    <string name="lowbattery_trigger_level_notification">Batterinivå lägre än %d%%</string>
+    <string name="lowbattery_activated_notification">Läget Låg batterinivå är aktiverat</string>
+    <string name="app_not_used_notification">Den här appen har inte använts på ett tag:</string>
+    <string name="app_not_used_tip_dialog">%s har inte använts på ett tag. Vi rekommenderar att du avinstallerar appen för att spara ström.</string>
+    <string name="no_action_dialog">Nej</string>
+    <string name="yes_action_dialog">Ja</string>
+    <string name="widget_remaining_battery_time">Beräknad batteritid</string>
+    <string name="widget_name">STAMINA-läge</string>
+</resources>

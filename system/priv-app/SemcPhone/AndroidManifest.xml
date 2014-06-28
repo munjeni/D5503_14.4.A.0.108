@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.phone" android:sharedUserLabel="@string/phoneAppLabel" coreApp="true" package="com.android.phone">
+    <original-package android:name="com.android.phone"/>
+    <protected-broadcast android:name="android.intent.action.SERVICE_STATE"/>
+    <protected-broadcast android:name="android.intent.action.RADIO_TECHNOLOGY"/>
+    <protected-broadcast android:name="android.intent.action.EMERGENCY_CALLBACK_MODE_CHANGED"/>
+    <protected-broadcast android:name="android.intent.action.SIG_STR"/>
+    <protected-broadcast android:name="android.intent.action.ANY_DATA_STATE"/>
+    <protected-broadcast android:name="android.intent.action.DATA_CONNECTION_FAILED"/>
+    <protected-broadcast android:name="android.intent.action.SIM_STATE_CHANGED"/>
+    <protected-broadcast android:name="android.intent.action.NETWORK_SET_TIME"/>
+    <protected-broadcast android:name="android.intent.action.NETWORK_SET_TIMEZONE"/>
+    <protected-broadcast android:name="android.intent.action.ACTION_SHOW_NOTICE_ECM_BLOCK_OTHERS"/>
+    <protected-broadcast android:name="android.intent.action.ACTION_MDN_STATE_CHANGED"/>
+    <protected-broadcast android:name="android.provider.Telephony.SPN_STRINGS_UPDATED"/>
+    <protected-broadcast android:name="android.provider.Telephony.SIM_FULL"/>
+    <protected-broadcast android:name="com.android.internal.telephony.data-restart-trysetup"/>
+    <protected-broadcast android:name="com.android.internal.telephony.data-stall"/>
+    <protected-broadcast android:name="com.sonymobile.intent.telephony.DATA_TOGGLE"/>
+    <protected-broadcast android:name="com.sonymobile.intent.action.Telephony.MPDN_SUPPORT_CHANGED_ACTION"/>
+    <permission android:name="com.sonyericsson.phone.permission.DATA_TRAFFIC_SWITCH" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.phone.permission.RFPOWER_BACKOFF_STATE_CHANGED" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.phone.permission.RFPOWER_BACKOFF_CONTROL_STATE_CHANGED" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CALL_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    <uses-permission android:name="android.permission.SEND_RESPOND_VIA_MESSAGE"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
+    <uses-permission android:name="android.permission.BROADCAST_SMS"/>
+    <uses-permission android:name="android.permission.BROADCAST_WAP_PUSH"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SHUTDOWN"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="android.permission.USE_SIP"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="com.sonyericsson.phone.permission.DATA_TRAFFIC_SWITCH"/>
+    <uses-permission android:name="com.sonyericsson.permission.VOIPCALLLOG"/>
+    <uses-permission android:name="com.sonyericsson.illumination.permission.ILLUMINATION"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.UPDATE_LOCK"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS"/>
+    <uses-permission android:name="android.permission.CONNECTIVITY_INTERNAL"/>
+    <uses-permission android:name="android.permission.SET_PREFERRED_APPLICATIONS"/>
+    <uses-permission android:name="android.permission.STOP_APP_SWITCHES"/>
+    <uses-permission android:name="com.sonyericsson.providers.cnap.permission.READ"/>
+    <uses-permission android:name="com.sonyericsson.providers.cnap.permission.WRITE"/>
+    <uses-permission android:name="com.android.smspush.WAPPUSH_MANAGER_BIND"/>
+    <uses-permission android:name="com.sonymobile.phone.permission.RFPOWER_BACKOFF_STATE_CHANGED"/>
+    <uses-permission android:name="com.sonymobile.phone.permission.RFPOWER_BACKOFF_CONTROL_STATE_CHANGED"/>
+    <uses-permission android:name="com.sonymobile.providers.landownerprovider.permission.READ"/>
+    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL"/>
+    <uses-permission android:name="com.android.voicemail.permission.READ_WRITE_ALL_VOICEMAIL"/>
+    <uses-permission android:name="com.sonymobile.permission.ENTERPRISE_API"/>
+    <uses-permission android:name="com.sonymobile.permission.TASK_SWITCHER_PLUGIN_VIEW"/>
+    <uses-permission android:name="android.permission.BIND_APPWIDGET"/>
+    <uses-permission android:name="com.sony.smallapp.app.widget.permission.BIND_SMALLAPP_WIDGET_MANAGER"/>
+    <uses-permission android:name="com.sony.smallapp.permission.SMALLAPPMANAGER_CONTROL"/>
+    <uses-permission android:name="com.sony.smallapp.launcher.permission.ACCESS_DATABASE"/>
+    <supports-screens android:anyDensity="true" android:smallScreens="true"/>
+    <application android:icon="@drawable/clh_launcher_phone" android:label="@string/phoneAppLabel" android:name="PhoneApp" android:persistent="true" android:supportsRtl="true" android:theme="@style/PhoneTheme">
+        <uses-library android:name="com.sonyericsson.appextensions"/>
+        <uses-library android:name="com.sonymobile.callwidgetframework.api"/>
+        <provider android:authorities="icc" android:exported="true" android:multiprocess="true" android:name="IccProvider" android:readPermission="android.permission.READ_CONTACTS" android:writePermission="android.permission.WRITE_CONTACTS"/>
+        <provider android:authorities="icc-cust" android:exported="true" android:multiprocess="false" android:name="com.android.internal.telephony.uicc.IccCustProvider" android:readPermission="android.permission.READ_CONTACTS" android:writePermission="android.permission.WRITE_CONTACTS"/>
+        <provider android:authorities="com.android.phone.somcrejectmsgprovider" android:exported="false" android:name="SomcRejectMsgProvider"/>
+        <activity android:label="@string/emergencyDialerIconLabel" android:launchMode="singleInstance" android:name="SomcEmergencyDialer" android:theme="@style/BidiStyle">
+            <intent-filter>
+                <action android:name="com.android.phone.EmergencyDialer.DIAL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.android.phone.EmergencyDialer.DIAL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="tel"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="ADNList"/>
+        <activity android:label="@string/simContacts_title" android:name="SimContacts">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/sim-contact"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/fdnListLabel" android:name="FdnList">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/sim-contact"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:name="SomcRejectMsgSetting" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:name=".am.SomcAmSetting" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:name=".am.SomcAmAutoAnswerSetting" android:theme="@style/PhoneDialogWhenLarge"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:name=".am.SomcAmGreetingsSetting" android:theme="@style/PhoneDialogWhenLarge"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:launchMode="singleInstance" android:name=".am.SomcAmIncomingMessageSetting" android:theme="@style/PhoneDialogWhenLarge"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="" android:name=".am.SomcAmRecordGreetingActivity" android:theme="@style/PhoneDialogWhenLarge" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="OutgoingCallBroadcaster" android:permission="android.permission.CALL_PHONE" android:theme="@style/OutgoingCallBroadcasterTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="tel"/>
+            </intent-filter>
+            <intent-filter android:icon="@drawable/ic_launcher_sip_call">
+                <action android:name="android.intent.action.CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sip"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="voicemail"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.MONKEY"/>
+                <data android:mimeType="vnd.android.cursor.item/phone"/>
+                <data android:mimeType="vnd.android.cursor.item/phone_v2"/>
+                <data android:mimeType="vnd.android.cursor.item/person"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:name="EmergencyOutgoingCallBroadcaster" android:permission="android.permission.CALL_PRIVILEGED" android:targetActivity="OutgoingCallBroadcaster" android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_EMERGENCY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="tel"/>
+            </intent-filter>
+            <intent-filter android:icon="@drawable/ic_launcher_sip_call" android:priority="1000">
+                <action android:name="android.intent.action.CALL_EMERGENCY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sip"/>
+            </intent-filter>
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_EMERGENCY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="voicemail"/>
+            </intent-filter>
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_EMERGENCY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/phone"/>
+                <data android:mimeType="vnd.android.cursor.item/person"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:name="PrivilegedOutgoingCallBroadcaster" android:permission="android.permission.CALL_PRIVILEGED" android:targetActivity="OutgoingCallBroadcaster" android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_PRIVILEGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="tel"/>
+            </intent-filter>
+            <intent-filter android:icon="@drawable/ic_launcher_sip_call" android:priority="1000">
+                <action android:name="android.intent.action.CALL_PRIVILEGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sip"/>
+            </intent-filter>
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_PRIVILEGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="voicemail"/>
+            </intent-filter>
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.CALL_PRIVILEGED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/phone"/>
+                <data android:mimeType="vnd.android.cursor.item/phone_v2"/>
+                <data android:mimeType="vnd.android.cursor.item/person"/>
+            </intent-filter>
+        </activity-alias>
+        <receiver android:enabled="false" android:exported="false" android:name="ProcessOutgoingCallTest">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|uiMode|screenSize" android:excludeFromRecents="true" android:exported="false" android:hardwareAccelerated="false" android:label="@string/phoneIconLabel" android:launchMode="singleInstance" android:name="SomcInCallScreen" android:theme="@style/SemcInCallScreenTheme">
+            <intent-filter>
+                <action android:name="com.sonyericsson.phone.action.ACTION_SHOW_INCALLSCREEN"/>
+                <category android:name="com.sonyericsson.phone.category.SPECIAL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.MONKEY"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:label="@string/settings_label" android:name="MobileNetworkSettings" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.settings.DATA_ROAMING_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.MONKEY"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:exported="true" android:name="Settings" android:targetActivity="MobileNetworkSettings"/>
+        <service android:name="NetworkQueryService"/>
+        <service android:name="ClearMissedCallsService"/>
+        <service android:name=".am.ClearAmNotificationService"/>
+        <service android:name="SimProbeService">
+            <intent-filter>
+                <action android:name="com.sonymobile.phone.action.PROBE_ICC_CARD"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/networks" android:name="NetworkSetting" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.settings.NETWORK_OPERATOR_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/gsm_umts_options" android:name="GsmUmtsCallOptions" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/cdma_options" android:name="CdmaCallOptions" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/labelCF" android:name="GsmUmtsCallForwardOptions" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/labelCallBarring" android:name="GsmUmtsCallBarringOptions" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/labelGSMMore" android:name="GsmUmtsAdditionalCallOptions" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/cell_broadcast_sms" android:name="CellBroadcastSms" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/fdn" android:name="FdnSetting" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="" android:name="EnableFdnScreen" android:theme="@style/PhoneDialogWhenLarge"/>
+        <activity android:label="@string/enable_pin" android:name="EnableIccPinScreen" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEVELOPMENT_PREFERENCE"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/change_pin" android:name="ChangeIccPinScreen" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEVELOPMENT_PREFERENCE"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/get_pin2" android:name="GetPin2Screen" android:theme="@style/PhoneDialogWhenLarge" android:windowSoftInputMode="stateVisible"/>
+        <activity android:name="EditFdnContactScreen" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/delete_fdn_contact" android:name="DeleteFdnContactScreen"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/call_settings" android:name="CallFeaturesSetting" android:theme="@style/PhoneDialogWhenLarge">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.android.phone.CallFeaturesSetting.ADD_VOICEMAIL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="BluetoothPhoneService">
+            <intent-filter>
+                <action android:name="android.bluetooth.IBluetoothHeadsetPhone"/>
+            </intent-filter>
+        </service>
+        <service android:name="DataTrafficExceptMmsNotifier"/>
+        <activity android:excludeFromRecents="true" android:name=".DataTrafficSwitchDialog" android:theme="@style/PhoneAlertDialog.NoActionBar"/>
+        <service android:name="EmergencyCallbackModeService"/>
+        <service android:name="TelephonyDebugService"/>
+        <activity android:excludeFromRecents="true" android:label="@string/ecm_exit_dialog" android:launchMode="singleTop" android:name="EmergencyCallbackModeExitDialog" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.android.phone.action.ACTION_SHOW_ECM_EXIT_DIALOG"/>
+                <action android:name="android.intent.action.ACTION_SHOW_NOTICE_ECM_BLOCK_OTHERS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="SipBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.android.phone.SIP_INCOMING_CALL"/>
+                <action android:name="com.android.phone.SIP_ADD_PHONE"/>
+                <action android:name="com.android.phone.SIP_REMOVE_PHONE"/>
+                <action android:name="android.net.sip.SIP_SERVICE_UP"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/dialerIconLabel" android:name="SomcTestUI" android:theme="@style/SemcInCallScreenTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="Sip Settings" android:launchMode="singleTop" android:name=".sip.SipSettings" android:theme="@style/PhoneDialogWhenLarge" android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.net.sip.NOTIFY"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name=".sip.SipEditor" android:theme="@style/PhoneDialogWhenLarge" android:uiOptions="splitActionBarWhenNarrow"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name=".SipCallOptionHandler" android:theme="@style/NoDisplay"/>
+        <receiver android:name="CallerInfoCacheUpdateReceiver">
+            <intent-filter>
+                <action android:name="com.android.phone.UPDATE_CALLER_INFO_CACHE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="SecretCodeReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="746632" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="746631" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="746630" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="78378" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="SomcTransmitPowerManager">
+            <intent-filter>
+                <action android:name="com.sonymobile.intent.action.RFPOWER_BACKOFF_STATE_CHANGED"/>
+                <action android:name="com.sonymobile.phone.intent.action.RFPOWER_BACKOFF_CONTROL_STATE_CHANGED"/>
+                <action android:name="com.sonymobile.phone.intent.action.P_SENSOR_STATE_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="SomcResetEventReceiver" android:permission="android.permission.MASTER_CLEAR">
+            <intent-filter>
+                <action android:name="com.sonyericsson.settings.MASTERRESET"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="PhoneGlobals$NotificationBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.android.phone.ACTION_HANG_UP_ONGOING_CALL"/>
+                <action android:name="com.android.phone.ACTION_CALL_BACK_FROM_NOTIFICATION"/>
+                <action android:name="com.android.phone.ACTION_SEND_SMS_FROM_NOTIFICATION"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.android.phone.widget.SomcCallWidgetManagerService" android:permission="com.sonymobile.permission.CALL_WIDGET_FRAMEWORK">
+            <intent-filter>
+                <action android:name="com.sonymobile.callwidgetframework.ACTION_REGISTER"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.sonymobile.runtimeskinning.SKIN_PERMISSIONS" android:resource="@xml/somc_skin_permissions"/>
+        <meta-data android:name="com.sonymobile.runtimeskinning.LAF_VERSION" android:value="1"/>
+    </application>
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">కాన్ఫరెన్స్ కాల్‌లో భాగస్వామ్యులు</string>
+    <string name="delete_fdn_contact">ఫిక్స్‌డ్ డయలింగ్ పరిచయాన్ని తొలగించండి</string>
+    <string name="vibrate_on_ring_title">రింగ్‌అవుతున్నప్పుడు వైబ్రేట్ చేయి</string>
+</resources>

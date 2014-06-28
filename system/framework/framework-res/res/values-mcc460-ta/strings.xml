@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">உலகளாவிய நிலையறிதல் முறைமை (GPS) அல்லது செல் டவர் மற்றும் WLAN போன்ற இருப்பிட மூலங்களைப் பயன்படுத்தி உங்கள் துல்லியமான இருப்பிடத்தைப் பெற பயன்பாட்டை அனுமதிக்கிறது. பயன்பாடு இந்த இருப்பிட சேவைகளை அணுக உங்கள் சாதனத்தில் அவற்றை ஆன் செய்திருக்க வேண்டும், மற்றும் அவை கிடைக்கும்படி இருக்க வேண்டும். நீங்கள் எங்கு இருக்கிறீர்கள் என்பதைத் தீர்மானிக்க பயன்பாடுகள் இதைப் பயன்படுத்தக்கூடும், மேலும் இது பேட்டரியை கூடுதலாகப் பயன்படுத்தலாம்.</string>
+    <string name="permdesc_accessCoarseLocation">உங்கள் தோராயமான இருப்பிடத்தைப் பெற பயன்பாட்டை அனுமதிக்கிறது. இந்த இருப்பிடமானது செல் டவர்கள் மற்றும் WLAN போன்ற நெட்வொர்க் இருப்பிட மூலங்களைப் பயன்படுத்திப் பெறப்படுகின்றன. பயன்பாடு இந்த இருப்பிட சேவைகளை அணுக உங்கள் சாதனத்தில் அவற்றை ஆன் செய்திருக்க வேண்டும், மற்றும் அவை கிடைக்கும்படி இருக்க வேண்டும். பயன்பாடுகள் நீங்கள் இருக்கும் இடத்தை தோராயமாக தீர்மானிக்க இதைப் பயன்படுத்தக்கூடும்.</string>
+    <string name="permlab_configureWifiDisplay">WLAN காட்சித்திரைகளை உள்ளமை</string>
+    <string name="permdesc_configureWifiDisplay">WLAN காட்சித்திரைகளை உள்ளமைக்கவும் இணைக்கவும் பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_controlWifiDisplay">WLAN காட்சித்திரைகளைக் கட்டுப்படுத்து</string>
+    <string name="permdesc_controlWifiDisplay">WLAN காட்சித்திரைகளை உள்ளமைக்கவும் இணைக்கவும் பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_accessWifiState">WLAN இணைப்புகளைக் காணவும்</string>
+    <string name="permdesc_accessWifiState">WLAN செயல்பெறச் செய்யப்பட்டுள்ளதா மற்றும் இணைக்கப்பட்டுள்ள WLAN சாதனங்களின் பெயர் போன்ற WLAN பிணையமாக்கல் பற்றிய தகவலைக் காண பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_changeWifiState">WLAN ஐ இணைக்கவும் மற்றும் துண்டிக்கவும்</string>
+    <string name="permdesc_changeWifiState">WLAN அணுகல் புள்ளிகளுக்கு இணைக்கவும், அவற்றிலிருந்து துண்டிக்கவும் மற்றும் WLAN பிணையங்களுக்கான சாதன உள்ளமைவுக்கு மாற்றங்களைச் செய்யவும் பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN மல்டிகாஸ்ட் பெறும்நிலையை அனுமதிக்கவும்</string>
+    <string name="permdesc_changeWifiMulticastState">உங்கள் மொபைல் ஃபோனை மட்டும் அல்லாமல், மல்டிகாஸ்ட் முகவரிகளைப் பயன்படுத்தி ஒரு WLAN பிணையத்திலுள்ள அனைத்துச் சாதனங்களுக்கும் அனுப்பப்படும் தொகுப்புகளைப் பெற்றுக்கொள்ள பயன்பாட்டை அனுமதிக்கும். இது மல்டிகாஸ்ட் அல்லாத பயன்முறையைவிட கூடுதல் ஆற்றலைப் பயன்படுத்தும்.</string>
+    <string name="wifi_available_sign_in">WLAN பிணையத்தில் உள்நுழையவும்</string>
+    <string name="wifi_watchdog_network_disabled">WLAN க்கு இணைக்க முடியவில்லை</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct ஐத் தொடங்கவும். இது WLAN கிளையண்ட்.ஹாட்ஸ்பாட்டை அணைக்கும்.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct ஐத் தொடங்க முடியவில்லை.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct இயங்குகிறது</string>
+    <string name="wifi_p2p_frequency_conflict_message">%1$s-க்கு இணைக்கப்பட்டிருக்கும்போது, WLAN -இலிருந்து தொலைபேசி தற்காலிகமாக துண்டிக்கப்பட்டிருக்கும்</string>
+    <string name="data_usage_wifi_limit_title">WLAN தரவு முடக்கப்பட்டது</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN தரவு வரம்பை தாண்டியது</string>
+    <string name="policylab_disableWifi">WLAN க்கு அணுகுதல் முடக்கம்</string>
+    <string name="policydesc_disableWifi">சாதனத்தில் WLAN இணைப்புகளைத் தவிர்க்கவும்.</string>
+    <string name="wifi_disabled_notification_title">WLAN இணைப்பு தடைசெய்ய.</string>
+    <string name="wifi_disabled_notification_message">"ஒரு பாதுகாப்புக் கொள்கை WLAN பயன்பாட்டைத் தடைசெய்கிறது. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN ரோமிங் செயல்பா. உள்.</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN நெட்வொர்க் இணைக்கப்பட. பில். தக. 10000 அல. உள. கட. தொ.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN இணைக்க.</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">நீங்கள் China Telecom WLAN பிணையத்திற்கு இணைக்கப்படுவீர்கள். கட்டண விவரங்களுக்கு China Telecom வாடிக்கையாளர் சேவையைத் தொடர்பு கொள்ளவும். தொடரவா?</string>
+    <string name="wifi_nonconcurrency_message">WLAN க்ளையண்ட்டை தொடங்கவும். இது WLAN Direct -ஐ துண்டிக்கும்.</string>
+    <string name="wifi_noncuncurrency_message">WLAN க்ளையண்ட்டை தொடங்கவும். இது WLAN Direct -ஐ துண்டிக்கும்.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">ஏற்கனவேயுள்ள எந்த WLAN இணைப்பும் துண்டிக்கப்படும்</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Direct -ஐ தொடங்கவும். இது WLAN க்ளையண்ட்டை துண்டிக்கும்.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">இருக்கும் எந்த WLAN இணைப்பையும் இது துண்டிக்கும்</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct -ஐ தொடங்கவும். இது WLAN க்ளையண்ட்டை துண்டிக்கும்.</string>
+    <string name="tethered_notification_message_wifi">WLAN -ஐ மீண்டும் இயக்க Mobile HotSpot ஐ அணை</string>
+    <string name="tethered_notification_title_wifi">WLAN அணைக்கப்பட்டுள்ளது</string>
+</resources>

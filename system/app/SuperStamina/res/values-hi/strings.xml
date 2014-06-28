@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">इको मोड नियंत्रक</string>
+    <string name="dont_ask_me_again_txt">मुझसे दोबारा न पूछें</string>
+    <string name="description_msg_txt">"जब स्क्रीन बंद होती है, तो Wi-Fi और मोबाइल डेटा अस्थायी रूप से अक्षम हो जाएगा और अधिकांश अनुप्रयोग निष्क्रिय हो जाएंगे. आप फिर भी फ़ोन कॉल, SMS/MMS संदेश और Sony™ कैलेंडर सूचनाएँ और Sony™ अलार्म संकेत प्राप्त करेंगे. म्यूज़िक प्लेयर और FM रेडियो कार्य करेंगे और हो रहे डाउनलोड और अपलोड को समाप्त होने की अनुमति प्राप्त होगी.
+
+जब स्क्रीन चालू होती है, तो आपका फ़ोन सामान्य रूप से कार्य करेगा.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"स्क्रीन बंद रहने की स्थिति में, Wi-Fi और मोबाइल डेटा अस्थायी रूप से अक्षम हो जाएंगे और अधिकतर अनुप्रयोग निष्क्रिय हो जाएंगे। फिर भी आपको SMS/MMS संदेश, Sony™ कैलेंडर सूचना और Sony™ अलार्म संकेत प्राप्त होंगे। म्यूज़िक प्लेयर और FM रेडियो कार्य करेगा, और चालू डाउनलोड और अपलोड को समाप्त होने दिया जाएगा।
+
+जब स्क्रीन चालू हो, तब आपका डिवाइस सामान्य रूप से कार्य करेगा।"</string>
+    <string name="description_msg_no_telephony_txt">"स्क्रीन बंद होने पर, Wi-Fi अस्थायी रूप से अक्षम हो जाएगा, और अधिकतर अनुप्रयोग निष्क्रिय हो जाएंगे। फिर भी आपको Sony™ कैलेंडर सूचना और Sony™ अलार्म संकेत प्राप्त होंगे। म्यूज़िक प्लेयर और FM रेडियो कार्य करेंगे, और चालू डाउनलोड और अपलोड को समाप्त होने दिया जाएगा।
+
+जब स्क्रीन चालू हो, तब आपका डिवाइस सामान्य रूप से कार्य करेगा।"</string>
+    <string name="description_title_txt">टिप्पणी!</string>
+    <string name="low_battery_mode_description_msg_txt">"जब बैटरी पूर्वनिश्चित स्तर से नीचे हो तब निम्न बैटरी मोड को सक्षम करने के लिए ऊर्जा खपत वाली सुविधाएं और सेटिंग को बंद कर दें।
+"</string>
+    <string name="activate_txt">सक्रिय करें</string>
+    <string name="cancel_txt">रद्द करें</string>
+    <string name="xssm_blocker_detector_title">पॉवर प्रबंधन सुझाव</string>
+    <string name="xssm_blocker_detector_msg">%s STAMINA मोड को स्टैंडबाई में पॉवर रक्षित करने से रोक रहा है</string>
+    <string name="xssm_blocker_detector_long_msg">अगर आप इस अनुप्रयोग का अक्सर उपयोग करते हें, तो इस चेतावनी को अनदेखा करें. अगर नहीं, तो स्थापना रद्द करें या अनुपयोग को रोकें.</string>
+    <string name="xssm_blocker_detector_ignore">समझ में आ गया. पुनः न दिखाएं.</string>
+    <string name="network_detector_msg">%sस्क्रीन बंद रहने के दौरान डेटा भेज और प्राप्त कर रहा है और इससे बैटरी तेज़ी से समाप्त होती है।</string>
+    <string name="network_detector_long_msg">इसकी स्थापना रद्द करने से डिवाइस के प्रदर्शन में सुधार और बैटरी समय में विस्तार हो सकता है।</string>
+    <string name="wakelock_detector_msg">%s कई सप्ताह से इस्तेमाल नहीं किया गया।</string>
+    <string name="wakelock_detector_long_msg">यह डिवाइस को स्टैंडबाई मोड से सचेत कर सकता है। इसकी स्थापना रद्द करने से डिवाइस के प्रदर्शन में सुधार और बैटरी समय में विस्तार हो सकता है।</string>
+    <string name="notification_title_xssm">पॉवर प्रबंधन सुझाव</string>
+    <string name="notification_text_xssm">STAMINA मोड सक्रिय करें</string>
+    <string name="notification_descr_xssm">आपका डिवाइस अक्सर स्टैंडबाई मोड में होता है. STAMINA मोड सक्रिय करके बैटरी समय बढ़ाएं.</string>
+    <string name="notification_dont_show_again">समझ में आ गया. पुनः न दिखाएं.</string>
+    <string name="notification_title_ps">पॉवर प्रबंधन सुझाव</string>
+    <string name="notification_text_ps">कम बैटरी मोड सक्रिय करें</string>
+    <string name="notification_descr_ps">कम बैटरी मोड उदाहरण के लिए Wi-Fi बंद करके या बैटरी के कम होने पर स्‍क्रीन की चमक कम करके बैटरी का जीवन बढ़ा सकता है.</string>
+    <string name="notification_title_lbw">पॉवर प्रबंधन सुझाव</string>
+    <string name="notification_text_lbw">स्थान-आधारित Wi-Fi सक्रिय करें</string>
+    <string name="notification_descr_lbw">Wi-Fi चालू है, लेकिन एक क्षण के लिए उपयोग नहीं किया गया है. स्थान-आधारित Wi-Fi सक्रिय करके पॉवर रक्षित करें.</string>
+    <string name="unused_application_title">पावर प्रबंधन सुझाव</string>
+    <string name="unused_application_msg">%s कुछ समय से उपयोग नहीं किया गया है</string>
+    <string name="unused_application_long_msg">यदि आप इस अनुप्रयोग को रखना चाहते हैं, तो इस चेतावनी की उपेक्षा करें। यदि नहीं तो अनुप्रयोग हटाएं।</string>
+    <string name="unused_application_ignore">समझ गया। दोबारा न दिखाएं।</string>
+    <string name="drain_dialog_title_txt">बैटरी चार्ज नहीं हो रहा है</string>
+    <string name="drain_dialog_text_usb_txt">कनेक्ट किया गया पावर स्रोत पर्याप्त नहीं है। बैटरी चार्ज होने की अधिक गति से डिस्चार्ज हो रहा है। कृपया अपने AC चार्जेर में परिवर्तित करें।</string>
+    <string name="drain_dialog_text_wallcharger_txt">कनेक्ट किया गया पावर स्रोत पर्याप्त नहीं है। बैटरी चार्ज होने की अधिक गति से डिस्चार्ज हो रहा है। चार्ज करने के दौरान अपना डिवाइस छोटा करें।</string>
+    <string name="extend_battery_tip_dialog_headar">पॉवर प्रबंधन सुझाव</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi चालू है लेकिन कुछ समय से इसका इस्तेमाल नहीं किया गया है। आप स्थान-आधारित Wi-Fi को सक्रिय करके पॉवर बचा सकते हैं। स्थान-आधारित Wi-Fi सेट अप करें?</string>
+    <string name="low_battery_mode_tip_dialog">निम्न बैटरी मोड बैटरी की आयु बढ़ा सकता है जैसेकि उदा. जब बैटरी का स्तर निम्न हो तो Wi-Fi को बंद करके या स्क्रीन चमक को कम करके। निम्न स्तर वाला बैटरी मोड सेट अप करें?</string>
+    <string name="stamina_mode_tip_dialog">आपका डिवाइस अक्सर स्टैंडबाई मोड में होता है। STAMINA मोड को सक्रिय करके बैटरी समय का विस्तार करें। STAMINA मोड सेट अप करें?</string>
+    <string name="bad_app_notification">निम्नलिखित ऐप के कारण बैटरी क्षीण हो रही है:</string>
+    <string name="bad_standby_app_dialog">%s स्टैंडबाई में STAMINA मोड से पॉवर बचाता है। यदि आप अक्सर इस एप्लिकेशन का उपयोग करते हैं, तो इस चेतावनी को अनदेखा करें यदि नहीं तो, एप्लिकेशन जानकारी बटन को टैप करें और या तो स्थापना रद्द करें या बलपूर्वक एप्लिकेशन को रोकें।</string>
+    <string name="ignore_dialog_action">ध्यान न दें</string>
+    <string name="app_info_dialog_action">अनुप्रयोग सूचना</string>
+    <string name="stamina_activation_notification">STAMINA मोड सक्रिय किया गया</string>
+    <string name="lowbattery_trigger_level_notification">बैटरी स्तर से नीचे है %d%%</string>
+    <string name="lowbattery_activated_notification">कम बैटरी वाला मोड सक्रिय किया गया</string>
+    <string name="app_not_used_notification">कुछ समय से इस ऐप का उपयोग नहीं किया गया है:</string>
+    <string name="app_not_used_tip_dialog">%s का कुछ समय से उपयोग नहीं किया गया। हम आपसे अनुशंसा करते हैं कि पॉवर बचाने के लिए आप एप्लिकेशन रद्द करें।</string>
+    <string name="no_action_dialog">नहीं</string>
+    <string name="yes_action_dialog">हां</string>
+    <string name="widget_remaining_battery_time">अनुमानित बैटरी समयक</string>
+    <string name="widget_name">STAMINA मोड</string>
+</resources>

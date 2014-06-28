@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dont_ask_me_again_txt">എന്നോട് വീണ്ടും ചോദിക്കരുത്</string>
+    <string name="description_msg_txt">"സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍, Wi-Fi-യും ഡാറ്റയും താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കപ്പെടും, കൂടാതെ മിക്ക ആപ്ലിക്കേഷനുകളും സജീവമല്ലാതാക്കപ്പെടും. നിങ്ങള്‍ക്ക് തുടര്‍ന്നും ഫോണ്‍ കോളുകള്‍, SMS/MMS സന്ദേശങ്ങള്‍, Sony™ കലണ്ടര്‍ അറിയിപ്പുകള്‍, Sony™ അലാറം സിഗ്നലുകള്‍ എന്നിവ ലഭിക്കും. സംഗീത പ്ലെയറും FM റേഡിയോയും പ്രവര്‍ത്തിക്കും, കൂടാതെ പുരോഗമിക്കുന്ന ഡൌണ്‍‌ലോഡുകളും അപ്‌ലോഡുകളും പൂര്‍ത്തിയാകാന്‍ അനുവദിക്കും.
+
+സ്ക്രീന്‍ ഓണായിരിക്കുമ്പോള്‍, നിങ്ങളുടെ ഫോണ്‍ സാധാരണ പോലെ പ്രവര്‍ത്തിക്കും.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍ Wi-Fi - മൊബൈല്‍ ഡാറ്റ താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കപ്പെടും, ഭൂരിഭാഗം ആപ്ലിക്കേഷനുകളും നിര്‍ജ്ജീവമായിരിക്കും. നിങ്ങള്‍ക്ക് അപ്പോഴും SMS/MMS സന്ദേശങ്ങളും, Sony™ കലണ്ടര്‍ അറിയിപ്പുകളും Sony™ അലാറം സിഗ്നലുകളും ലഭിക്കും. മീഡിയാ പ്ലെയറും FM റേഡിയോയും പ്രവര്‍ത്തിക്കും, പുരോഗതിയിലുള്ള അപ്‌ലോഡുകള്‍ പൂര്‍ത്തിയാക്കുന്നതിന് അനുവദിക്കപ്പെടും.
+
+സ്ക്രീന്‍ ഓണാണെങ്കില്‍, നിങ്ങളുടെ ഉപകരണം സാധാരണഗതിയില്‍ പ്രവര്‍ത്തിക്കും."</string>
+    <string name="description_msg_no_telephony_txt">"സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍ Wi-Fi താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കപ്പെടും, ഭൂരിഭാഗം ആപ്ലിക്കേഷനുകളും നിര്‍ജ്ജീവമായിരിക്കും. നിങ്ങള്‍ക്ക് അപ്പോഴും Sony™ കലണ്ടര്‍ അറിയിപ്പുകളും Sony™ അലാറം സിഗ്നലുകളും ലഭിക്കും. മീഡിയ പ്ലെയറും FM റേഡിയോയും പ്രവര്‍ത്തിക്കും, പുരോഗതിയിലുള്ള ഡൗൺലോഡുകളും അപ്‌ലോഡുകളും പൂര്‍ത്തിയാക്കുന്നതിന് അനുവദിക്കപ്പെടും.
+
+സ്ക്രീന്‍ ഓണാണെങ്കില്‍, നിങ്ങളുടെ ഉപകരണം സാധാരണഗതിയില്‍ പ്രവര്‍ത്തിക്കും."</string>
+    <string name="description_title_txt">കുറിപ്പ്!</string>
+    <string name="low_battery_mode_description_msg_txt">"മുൻസജ്ജീകരിച്ച നിലയേക്കാൾ താഴെയാണ് ബാറ്ററി എങ്കിൽ പവർ ഉപയോഗിക്കുന്ന സവിശേഷതകളും ക്രമീകരണങ്ങളും ഓഫാക്കുന്നതിന് താഴ്ന്ന ബാറ്ററി മോഡ് പ്രവർത്തനസജ്ജമാക്കുക. ക്രമീകരണങ്ങൾ മാറ്റുന്നതിന് താഴ്ന്ന ബാറ്ററി മോഡ് ടാപ് ചെയ്യുക.
+"</string>
+    <string name="activate_txt">സജീവമാക്കുക</string>
+    <string name="cancel_txt">റദ്ദാക്.</string>
+    <string name="xssm_blocker_detector_title">പവ. മാനേജ്. നുറുങ്ങ.</string>
+    <string name="xssm_blocker_detector_msg">%s സ്റ്റാന്‍‌ഡ്ബൈയില്‍ പവര്‍ സേവ് ചെയ്യുന്നതില്‍ നിന്ന് STAMINA mode-നെ തടയുന്നു</string>
+    <string name="xssm_blocker_detector_long_msg">ഈ ആപ്ലിക്കേഷന്‍ നിങ്ങള്‍ പതിവായി ഉപയോഗിക്കുകയാണെങ്കില്‍ ഈ മുന്നറിയിപ്പ് അവഗണിക്കുക. അല്ലെങ്കില്‍, ആപ്ലിക്കേഷന്‍ അണ്‍‌ഇന്‍സ്റ്റാള്‍ ചെയ്യുകയോ ഫോഴ്സ് സ്റ്റോപ്പ് നടത്തുകയോ ചെയ്യുക.</string>
+    <string name="xssm_blocker_detector_ignore">മനസ്സിലായി. വീണ്ടും കാണിക്കരുത്.</string>
+    <string name="network_detector_msg">സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍ %s ഡാറ്റ അയയ്ക്കുന്നു, സ്വീകരിക്കുന്നു, ബാറ്ററി വേഗത്തില്‍ കുറയാന്‍ ഇത് കാരണമാകുന്നു.</string>
+    <string name="network_detector_long_msg">ഇത് അണിന്‍സ്റ്റാള്‍ ചെയ്യുന്നത് ഉപകരണത്തിന്റെ പ്രകടനശേഷി വര്‍ദ്ധിപ്പിച്ചേക്കാം, ബാറ്ററി ഈട് കൂട്ടിയേക്കാം.</string>
+    <string name="wakelock_detector_msg">പല ആഴ്ചകളില്‍ %s ഉപയോഗിച്ചിട്ടില്ല.</string>
+    <string name="wakelock_detector_long_msg">സ്റ്റാന്‍ഡ്ബൈ മോഡില്‍ നിന്ന് ഇത് ഉപകരണത്തെ ഉണര്‍ത്തിയേക്കാം. ഇത് അണിന്‍സ്റ്റാള്‍ ചെയ്യുന്നത് ഉപകരണത്തിന്റെ പ്രകടനശേഷി വര്‍ദ്ധിപ്പിച്ചേക്കാം, ബാറ്ററി ഈട് കൂട്ടിയേക്കാം.</string>
+    <string name="notification_title_xssm">പവ. മാനേജ്. നുറുങ്ങ</string>
+    <string name="notification_text_xssm">STAMINA മോഡ് സജീവമാക്കുക</string>
+    <string name="notification_descr_xssm">നിങ്ങളുടെ ഉപകരണം പലപ്പോഴും സ്റ്റാന്‍‌ഡ്‌ബൈ മോഡിലാണ്. STAMINA മോഡ് സജീവമാക്കുന്നതിലൂടെ ബാറ്ററി സമയം വിപുലീകരിക്കുക.</string>
+    <string name="notification_dont_show_again">മനസ്സിലായി. വീണ്ടും കാണിക്കരുത്.</string>
+    <string name="notification_title_ps">പവ. മാനേജ്. നുറുങ്ങ</string>
+    <string name="notification_text_ps">താഴ്ന്ന ബാറ്ററി മോഡ് സജീവമാക്കുക</string>
+    <string name="notification_descr_ps">"താഴ്ന്ന ബാറ്ററി മോഡിന് ബാറ്ററി ആയുസ്സ് വര്‍ധിപ്പിക്കാനാകും ഉദാ. Wi-Fi  ഓഫുചെയ്യല്‍ അല്ലെങ്കില്‍ ബാറ്ററി കുറവായിരിക്കുമ്പോള്‍ സ്ക്രീന്‍ തെളിച്ചം കുറയ്ക്കല്‍."</string>
+    <string name="notification_title_lbw">പവ. മാനേജ്. നുറുങ്ങ</string>
+    <string name="notification_text_lbw">സ്ഥാനാധിഷ്ഠിത Wi-Fi സജീവ.</string>
+    <string name="notification_descr_lbw">Wi-Fi ഓണാണ്, പക്ഷേ കുറച്ചുസമയമായി ഉപയോഗിക്കുന്നില്ല. സ്ഥാനാധിഷ്ഠിത Wi-Fi സജീവമാക്കിക്കൊണ്ട് പവര്‍ സേവ് ചെയ്യുക.</string>
+    <string name="unused_application_title">പവര്‍ മാനേജു. നുറുങ്ങുവിവരം</string>
+    <string name="unused_application_msg">%s കുറച്ച് സമയത്തേക്ക് ഉപയോഗിച്ചിട്ടില്ല</string>
+    <string name="unused_application_long_msg">ഈ ആപ്ലിക്കേഷന്‍ വേണമെന്ന് നിങ്ങള്‍ ആഗ്രഹിക്കുന്നുവെങ്കില്‍, ഈ മുന്നറിയിപ്പ് അവഗണിക്കുക. അല്ലെങ്കില്‍, ആപ്ലിക്കേഷന്‍ അണിന്‍. ചെയ്യുക.</string>
+    <string name="unused_application_ignore">മനസ്സിലായി. വീണ്ടും കാണിക്കേണ്ടതില്ല.</string>
+    <string name="drain_dialog_title_txt">ബാറ്ററി ചാര്‍ജ്ജുചെയ്യുന്നില്ല</string>
+    <string name="drain_dialog_text_usb_txt">കണക്ടു ചെയ്ത പവര്‍ സ്രോതസ്സ് വേണ്ടത്രയില്ല. ചാര്‍ജ്ജുചെയ്യുന്നതിനേക്കാള്‍ വേഗത്തില്‍ ബാറ്ററി ഡിസ്ചാര്‍ജ്ജാവുന്നു. നിങ്ങളുടെ AC ചാര്‍ജ്ജറിലേക്ക് ദയവായി മാറ്റുക.</string>
+    <string name="drain_dialog_text_wallcharger_txt">കണക്ടു ചെയ്ത പവര്‍ സ്രോതസ്സ് വേണ്ടത്രയില്ല. ചാര്‍ജ്ജുചെയ്യുന്നതിനേക്കാള്‍ വേഗത്തില്‍ ബാറ്ററി ഡിസ്ചാര്‍ജ്ജാവുന്നു. ചാര്‍ജ്ജുചെയ്യുന്ന സമയത്ത് നിങ്ങളുടെ ഉപകരണത്തിന്റെ ഉപയോഗം കുറയ്ക്കുക.</string>
+    <string name="extend_battery_tip_dialog_headar">പവര്‍ മാനേജ്മെന്റ് നുറുങ്ങുവിവരം</string>
+    <string name="location_based_wifi_tip_dialog">"Wi-Fi ഓണാണ്, എന്നാല്‍ കുറച്ച് സമയത്തേക്ക് ഉപയോഗിച്ചിട്ടില്ല. സ്ഥാനം അടിസ്ഥാനമാക്കിയുള്ള Wi-Fi  സജീവമാക്കുക വഴി നിങ്ങള്‍ക്ക് പവര്‍ ലാഭിക്കാന്‍ കഴിയും. സ്ഥാനം അടിസ്ഥാനമാക്കിയുള്ള Wi-Fi  ക്രമീകരിക്കണോ?"</string>
+    <string name="low_battery_mode_tip_dialog">താഴ്ന്ന ബാറ്ററി മോഡിലാണെങ്കില്‍ Wi-Fi ഓഫാക്കിക്കൊണ്ടോ സ്ക്രീന്‍ തെളിച്ചം കുറച്ചുകൊണ്ടോ താഴ്ന്ന ബാറ്ററി മോഡിന് ബാറ്ററി ഈട് കൂട്ടാന്‍ കഴിയും. താഴ്ന്ന ബാറ്ററി മോഡ് ക്രമീകരിക്കണോ?</string>
+    <string name="stamina_mode_tip_dialog">"നിങ്ങളുടെ ഉപകരണം ചില സമയങ്ങളില്‍ സ്റ്റാന്‍ഡ്ബൈ മോഡിലാണ്. STAMINA മോഡ് സജീവമാക്കിക്കൊണ്ട് ബാറ്ററി സമയം കൂട്ടുക.  STAMINA മോഡ് ക്രമീകരിക്കണോ?"</string>
+    <string name="bad_app_notification">ഇനിപ്പറ. ആപ്ലി. ബാറ്ററി അധി. ഉപയോഗി.:</string>
+    <string name="bad_standby_app_dialog">സ്റ്റാന്‍ഡ്ബൈയില്‍ പവര്‍ ലാഭിക്കുന്നതില്‍ നിന്നും STAMINA മോഡിനെ %s തടയുന്നു. നിങ്ങള്‍ ഈ ആപ്ലിക്കേഷന്‍ ഇടക്കിടെ ഉപയോഗിക്കുന്നുവെങ്കില്‍, ഈ മുന്നറിയിപ്പ് അവഗണിക്കുക. ഇല്ലെങ്കില്‍, ആപ്ലിക്കേഷന്‍ വിവര ബട്ടണ്‍ ടാപ് ചെയ്യുക, ഒന്നുകില്‍ ആപ്ലിക്കേഷന്‍ അണ്‍‌ഇന്‍സ്റ്റാള്‍ ചെയ്യുക അല്ലെങ്കില്‍ നിര്‍ബന്ധിച്ച് അടയ്ക്കുക.</string>
+    <string name="ignore_dialog_action">അവഗണിക്കുക</string>
+    <string name="app_info_dialog_action">ആപ്ലിക്കേഷന്‍ വ.</string>
+    <string name="stamina_activation_notification">STAMINA മോഡ് സജീവമാക്കി</string>
+    <string name="lowbattery_trigger_level_notification">%d%% എന്നതി. താഴെ. ബാറ്ററി നില</string>
+    <string name="lowbattery_activated_notification">താഴ്ന്ന ബാറ്റ. മോ. സജീവമാക്കി</string>
+    <string name="app_not_used_notification">ഈ ആപ്ലി. കുറച്ച. സമയ. ഉപയോഗിച്ചിട്ടില്ല:</string>
+    <string name="app_not_used_tip_dialog">%s കുറച്ചധികം സമയമായി ഉപയോഗിച്ചിട്ടില്ല. പവര്‍ ലാഭിക്കുന്നതിനായി ആപ്ലിക്കേഷന്‍ അണ്‍‌ഇന്‍സ്റ്റാള്‍ ചെയ്യാന്‍ ഞങ്ങള്‍ ശുപാര്‍ശ ചെയ്യുന്നു.</string>
+    <string name="no_action_dialog">ഇല്ല</string>
+    <string name="yes_action_dialog">ഉവ്വ്</string>
+    <string name="widget_remaining_battery_time">ഏകദേശ ബാറ്ററി സമയം</string>
+    <string name="widget_name">STAMINA മോഡ്</string>
+</resources>

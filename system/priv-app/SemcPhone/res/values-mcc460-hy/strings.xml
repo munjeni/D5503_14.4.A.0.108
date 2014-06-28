@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Եթե չեք օգտագործում WLAN, ապա այլևս չեք կարողանա օգտագործել Ինտերնետը, Էլ. փոստը կամ տվյալների միացում պահանջող այլ աշխատածրագրերը: Անջատե՞լ շարժական տվյալների փոխանցման կապակցումը:</string>
+    <string name="sip_call_options_wifi_only_title">Օգտգրծլ Ինտրնտ կնչը (մյն WLAN)</string>
+    <string name="registration_status_no_wifi_data">WLAN միացում չկա: Չհաջողվեց գրանցել հաշիվը:</string>
+    <string name="no_wifi_available_title">Ոչ մի WLAN միացում չկա</string>
+    <string name="no_wifi_available">Դուք պետք է միանաք WLAN ցանցին ինտերնետ կանչի համար (Գնացեք Պարամետրեր > Անլար և ցանցեր):</string>
+</resources>

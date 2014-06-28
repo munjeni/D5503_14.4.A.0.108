@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Груба локација</item>
+        <item>Фина локација</item>
+        <item>GPS</item>
+        <item>Вибрации</item>
+        <item>Прочитај ги контактите</item>
+        <item>Измени ги контактите</item>
+        <item>Прочитај го дневникот на повици</item>
+        <item>Измени го дневникот на повици</item>
+        <item>Прочитај го календарот</item>
+        <item>Измени го календарот</item>
+        <item>Скенирање WLAN</item>
+        <item>Известување</item>
+        <item>Скенирање мрежа</item>
+        <item>Повикај го телефонот</item>
+        <item>Прочитај SMS</item>
+        <item>Напиши SMS</item>
+        <item>прими SMS</item>
+        <item>Прими итна SMS</item>
+        <item>Прими MMS</item>
+        <item>Прими реклама на WAP</item>
+        <item>Испрати SMS</item>
+        <item>Прочитај ICC SMS</item>
+        <item>Напиши ICC SMS</item>
+        <item>Измени ги поставките</item>
+        <item>Цртај врз</item>
+        <item>Пристапувај на апликации</item>
+        <item>Камера</item>
+        <item>Сними аудио</item>
+        <item>Репродуцирај аудио</item>
+        <item>Прочитај го складот</item>
+        <item>Измени го складот</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрации</item>
+        <item>Прочитај ги контактите</item>
+        <item>Измени ги контактите</item>
+        <item>Прочитај го дневникот на повици</item>
+        <item>Измени го дневникот на повици</item>
+        <item>Прочитај го календарот</item>
+        <item>Измени го календарот</item>
+        <item>Локација</item>
+        <item>Објави известувања</item>
+        <item>Локација</item>
+        <item>Повикај го телефонот</item>
+        <item>Читај SMS/MMS</item>
+        <item>Пишувај SMS/MMS</item>
+        <item>Примај SMS/MMS</item>
+        <item>Примај SMS/MMS</item>
+        <item>Примај SMS/MMS</item>
+        <item>Примај SMS/MMS</item>
+        <item>Испраќај SMS/MMS</item>
+        <item>Читај SMS/MMS</item>
+        <item>Пишувај SMS/MMS</item>
+        <item>Измени ги поставките</item>
+        <item>Цртај врз</item>
+        <item>Пристапувај на апликации</item>
+        <item>Камера</item>
+        <item>Сними аудио</item>
+        <item>Репродуцирај аудио</item>
+        <item>Прочитај го складот</item>
+        <item>Измени го складот</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

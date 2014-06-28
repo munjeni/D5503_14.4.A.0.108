@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversations_string_send_mms_failed_connect_wifi">Jungtis prie „WLAN“ ir siųsti žinutę</string>
+</resources>

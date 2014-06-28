@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.uxp.drawable.ColorizableDrawable somc:drawable="@drawable/semc_progressbar_indeterminate_holo3_colored" somc:color="@com.sonyericsson.uxp:color/somc_theme_accent_color_light"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />

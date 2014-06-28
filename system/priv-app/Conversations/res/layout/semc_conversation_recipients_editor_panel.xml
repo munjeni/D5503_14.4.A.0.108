@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/recipient_edit_linearLayout" android:background="@color/conversation_editor_composer_background_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/conversation_actionbar_height">
+        <com.sonyericsson.conversations.ui.RecipientsEditor android:layout_gravity="start|top|center" android:id="@id/recipients_editor" android:background="@null" android:padding="@dimen/generic_margin" android:layout_width="@dimen/no_size" android:layout_height="wrap_content" android:minHeight="@dimen/conversation_actionbar_height" android:hint="@string/conversations_strings_recipients_input_hint_txt" android:singleLine="false" android:layout_weight="1.0" android:lineSpacingExtra="@dimen/recipient_editor_extra_line_spacing" android:inputType="textFilter" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+    <ImageView android:background="@drawable/shadow_border" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

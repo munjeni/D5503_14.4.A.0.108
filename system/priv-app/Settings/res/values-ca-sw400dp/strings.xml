@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Sincronització automàtica</string>
+    <string name="wifi_tether_settings_text">Paràmetres del punt de connexió de Wi-Fi portàtil</string>
+    <string name="auto_hide_notifications_title">Esborra les notificacions visualitzades</string>
+</resources>

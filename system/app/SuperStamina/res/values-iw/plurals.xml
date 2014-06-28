@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="widget_remaining_time_format_days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+    </plurals>
+    <plurals name="widget_remaining_time_format_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+    </plurals>
+</resources>

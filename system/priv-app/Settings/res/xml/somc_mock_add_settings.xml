@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="somc_mock_add_setting_screen_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="category added" android:key="category" settings:dependOnResource="true">
+        <com.sonymobile.settings.preference.IntentPreference android:title="intent_category" android:key="intent_category" android:summary="Sony IntentPreference" settings:chooserTitle="@string/debug_debugging_category">
+            <intent android:action="android.settings.DEVICE_INFO_SETTINGS" />
+        </com.sonymobile.settings.preference.IntentPreference>
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="Ooops category2 added" android:key="category2" settings:dependOnResource="false">
+        <com.sonymobile.settings.preference.IntentPreference android:title="Ooops intent_category2 added" android:key="intent_category2" android:summary="Sony IntentPreference" />
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="Ooops category3 added" android:key="category3">
+        <com.sonymobile.settings.preference.IntentPreference android:title="Ooops intent_category3 added" android:key="intent_category3" android:summary="Sony IntentPreference" settings:dependOnResource="false" />
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <com.sonymobile.settings.preference.PreferenceGroup android:title="Ooops group added" android:key="group">
+        <com.sonymobile.settings.preference.IntentPreference android:title="intent_group added" android:key="intent_group" android:summary="Sony IntentPreference" />
+    </com.sonymobile.settings.preference.PreferenceGroup>
+    <com.sonymobile.settings.preference.PreferenceGroup android:title="Ooops group2 added" android:key="group2">
+        <com.sonymobile.settings.preference.IntentPreference android:title="Ooops intent_group2 added" android:key="intent_group2" android:summary="Sony IntentPreference" settings:dependOnResource="false" />
+    </com.sonymobile.settings.preference.PreferenceGroup>
+    <com.sonymobile.settings.preference.IntentPreference android:title="Ooops intent added" android:key="intent" android:summary="Sony IntentPreference" settings:dependOnIsValidIntent="true">
+        <intent android:action="com.invalid.action.missing" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.ListPreference android:title="mock_list_title" android:key="mock_list_key" android:defaultValue="1.1" settings:valueOfSettingsSystem="SomcSettingsTestListValue" />
+    <com.sonymobile.settings.preference.RemovePreference android:key="remove_wallpaper" settings:dependOnResource="true" settings:targetKey="wallpaper" settings:targetParentKey="test_category" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="mock_checkbox_key" android:key="mock_checkbox_key" android:summary="Sony CheckBoxPreference" settings:before="first" settings:valueOfSettingsSystem="SomcSettingsTestCheckBoxValue" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="mock_switch_key after brightness" android:key="mock_switch_key" android:summary="Sony SwitchPreference" settings:after="brightness" settings:valueOfSettingsSecure="SomcSettingsTestSwitchValue" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:key="mock_checkbox_key_broadcast" android:defaultValue="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="SomcSettingsTestCheckBoxValue2">
+        <intent android:targetPackage="com.android.settings.tests" android:targetClass="com.sonymobile.settings.preference.util.CheckBoxReceiver" />
+    </com.sonymobile.settings.preference.CheckBoxPreference>
+</PreferenceScreen>

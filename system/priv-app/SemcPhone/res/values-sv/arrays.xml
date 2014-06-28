@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Standardinst. för nätv.</item>
+        <item>Dölj nummer</item>
+        <item>Visa nummer</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globalt</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Endast EvDo</item>
+        <item>CDMA utan EvDo</item>
+        <item>Automatiskt CDMA/EvDo</item>
+        <item>Automatiskt GSM/WCDMA</item>
+        <item>Endast WCDMA</item>
+        <item>Endast GSM</item>
+        <item>Föredra GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Engelska</item>
+        <item>Franska</item>
+        <item>Spanska</item>
+        <item>Japanska</item>
+        <item>Koreanska</item>
+        <item>Kinesiska</item>
+        <item>Hebreiska</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (autoläge)</item>
+        <item>Endast WCDMA</item>
+        <item>Endast GSM</item>
+        <item>GSM/WCDMA (WCDMA föredraget)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Endast hemma</item>
+        <item>Automatiskt</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Endast hemnätverk</item>
+        <item>Anslutna nätverk</item>
+        <item>Alla nätverk</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Endast CDMA</item>
+        <item>Endast EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY av</item>
+        <item>Full TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Lång</item>
+    </string-array>
+</resources>

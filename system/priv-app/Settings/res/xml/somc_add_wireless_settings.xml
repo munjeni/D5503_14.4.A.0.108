@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="osaifukeitai_settings" settings:dependOnIsValidIntent="true" settings:before="toggle_wifi_p2p" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="key_secure_elements">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="toggle_nfc">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="android_beam_settings">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="oma_client_provisioning" settings:dependOnIsValidIntent="true" settings:after="mobile_network_settings" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.android.omacp.intent.action.START_OMA_CP" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="internet_settings" settings:dependOnIsValidIntent="true" settings:after="mobile_network_settings" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.r2r.client" android:targetClass="com.sonyericsson.r2r.client.main.ui.StartedByUserActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnResource="@bool/config_removeSecureElements" settings:targetKey="key_secure_elements" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:title="@string/show_operator_name_title" android:key="showOperatorNameInStatusBar" android:summary="@string/show_operator_name_summary" android:defaultValue="true" settings:dependOnResource="@bool/config_showOperatorNameInStatusBar" settings:valueOfSettingsSystem="show_operator_name" />
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnResource="@bool/config_removeManageMobilePlan" settings:targetKey="manage_mobile_plan" />
+    <com.sonymobile.settings.preference.CheckBoxPreference android:key="showRcsInSettings" android:defaultValue="false" settings:dependOnIsValidIntent="true" settings:dependOnSettingsSystem="somc.rcse_configured" settings:after="internet_settings" settings:hasMetaData="true" settings:valueOfSettingsSystem="somc.rcse_enabled">
+        <intent android:targetPackage="com.sonymobile.rcs" android:action="com.sonymobile.rcs.ENABLE_RCS_SERVICE" android:targetClass="com.sonymobile.rcs.settings.RcsServiceEnabler" />
+    </com.sonymobile.settings.preference.CheckBoxPreference>
+</PreferenceScreen>

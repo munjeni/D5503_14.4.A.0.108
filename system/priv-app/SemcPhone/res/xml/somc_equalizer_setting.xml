@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:persistent="false" android:entries="@array/equalizer_entries" android:title="@string/phone_string_equalizer_title_txt" android:key="button_equalizer_key" android:entryValues="@array/equalizer_values" />
+</PreferenceScreen>

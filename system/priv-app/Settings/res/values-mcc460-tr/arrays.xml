@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>yaklaşık konum</item>
+        <item>hassas konum</item>
+        <item>GPS</item>
+        <item>titreşim</item>
+        <item>kişileri oku</item>
+        <item>kişileri değiştir</item>
+        <item>çağrı günlüğünü oku</item>
+        <item>çağrı günlüğünü değiştir</item>
+        <item>takvimi oku</item>
+        <item>takvimi değiştir</item>
+        <item>kablosuz tarama</item>
+        <item>bildirim</item>
+        <item>hücre tarama</item>
+        <item>telefon et</item>
+        <item>SMS oku</item>
+        <item>SMS yaz</item>
+        <item>SMS al</item>
+        <item>acil SMS al</item>
+        <item>MMS al</item>
+        <item>WAP push al</item>
+        <item>SMS gönder</item>
+        <item>ICC SMS oku</item>
+        <item>ICC SMS yaz</item>
+        <item>ayarları değiştir</item>
+        <item>üste çiz</item>
+        <item>bildirimlere eriş</item>
+        <item>kamera</item>
+        <item>ses kaydet</item>
+        <item>sesi çal</item>
+        <item>panoyu oku</item>
+        <item>panoyu değiştir</item>
+        <item>medya düğmeleri</item>
+        <item>ses odağı</item>
+        <item>ana ses düzeyi</item>
+        <item>konuşma sesi düzeyi</item>
+        <item>çalma sesi düzeyi</item>
+        <item>medya sesi düzeyi</item>
+        <item>alarm sesi düzeyi</item>
+        <item>bildirim sesi düzeyi</item>
+        <item>Bluetooth sesi düzeyi</item>
+        <item>uyanık tut</item>
+        <item>konumu izle</item>
+        <item>yüksek güç tüketen konum hizmetlerini izle</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Titreşim</item>
+        <item>Kişileri oku</item>
+        <item>Kişileri değiştir</item>
+        <item>Çağrı günlüğünü oku</item>
+        <item>Çağrı günlüğünü değiştir</item>
+        <item>Takvimi oku</item>
+        <item>Takvimi değiştir</item>
+        <item>Konum</item>
+        <item>Bildirim yayınla</item>
+        <item>Konum</item>
+        <item>Telefon et</item>
+        <item>SMS/MMS oku</item>
+        <item>SMS/MMS yaz</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS gönder</item>
+        <item>SMS/MMS oku</item>
+        <item>SMS/MMS yaz</item>
+        <item>Ayarları değiştir</item>
+        <item>Üste çiz</item>
+        <item>Bildirimlere erişim</item>
+        <item>Kamera</item>
+        <item>Ses kaydet</item>
+        <item>Sesi çal</item>
+        <item>Panoyu oku</item>
+        <item>Panoyu değiştir</item>
+        <item>Medya düğmeleri</item>
+        <item>Ses odağı</item>
+        <item>Ana ses düzeyi</item>
+        <item>Konuşma sesi düzeyi</item>
+        <item>Zil sesi düzeyi</item>
+        <item>Medya sesi düzeyi</item>
+        <item>Alarm sesi düzeyi</item>
+        <item>Bildirim sesi düzeyi</item>
+        <item>Bluetooth ses düzeyi</item>
+        <item>Uyanık tut</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

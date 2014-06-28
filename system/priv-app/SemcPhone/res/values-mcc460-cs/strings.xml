@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Pokud nepoužijete WLAN, nebudete moci používat internet, e-mail ani jiné aplikace využívající datové připojení. Chcete vypnout mobilní data?</string>
+    <string name="sip_call_options_wifi_only_title">Použít internetový hovor (pouze WLAN)</string>
+    <string name="registration_status_no_wifi_data">Není k dispozici připojení WLAN. Nelze registrovat účet.</string>
+    <string name="no_wifi_available_title">Připojení WLAN není k dispozici</string>
+    <string name="no_wifi_available">Abyste mohli uskutečnit internetový hovor musíte být připojeni k síti WLAN (viz část Nastavení bezdrátového připojení a sítě).</string>
+</resources>

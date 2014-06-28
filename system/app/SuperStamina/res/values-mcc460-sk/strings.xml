@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Keď je obrazovka vypnutá, sieť WLAN a prenos mobilných dát sa dočasne vypnú a väčšina aplikácií bude neaktívna. Stále budete môcť prijímať hovory, správy SMS alebo MMS, upozornenia kalendára Sony™ a signály budíka Sony™. Prehrávač hudby a rádio FM budú fungovať a prebiehajúce preberania a odovzdávania sa dokončia.
+
+Keď je obrazovka zapnutá, telefón bude fungovať normálne.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Keď bude obrazovka vypnutá, dočasne sa vypne pripojenie WLAN a mobilné dátové pripojenie a väčšina aplikácií bude neaktívna. Stále budete prijímať správy SMS a MMS, upozornenia kalendára Sony™ a signály budíka Sony™. Prehrávač hudby a rádio FM budú fungovať a prebiehajúce preberania a odovzdávania sa dokončia.
+
+Keď bude obrazovka zapnutá, zariadenie bude fungovať normálne."</string>
+    <string name="description_msg_no_telephony_txt">"Keď bude obrazovka vypnutá, dočasne sa vypne pripojenie WLAN a väčšina aplikácií bude neaktívna. Stále budete prijímať upozornenia kalendára Sony™ a signály budíka Sony™. Prehrávač hudby a rádio FM budú fungovať a prebiehajúce preberania a odovzdávania sa dokončia.
+
+Keď bude obrazovka zapnutá, zariadenie bude fungovať normálne."</string>
+    <string name="notification_descr_ps">Režim slabej batérie môže predĺžiť výdrž slabej batérie napríklad vypnutím pripojenia WLAN alebo znížením jasu obrazovky.</string>
+    <string name="notification_text_lbw">Aktivovať funkciu WLAN podľa miesta</string>
+    <string name="notification_descr_lbw">Pripojenie WLAN je zapnuté, ale už sa dlhšie nepoužíva. Šetrite energiu aktivovaním funkcie WLAN podľa miesta.</string>
+    <string name="location_based_wifi_tip_dialog">Sieť WLAN je zapnutá, ale určitý čas nebola používaná. Aktiváciou funkcie WLAN podľa miesta môžete ušetriť energiu. Nastaviť funkciu WLAN podľa miesta?</string>
+    <string name="low_battery_mode_tip_dialog">Režim slabej batérie môže predĺžiť výdrž batérie napríklad vypnutím siete WLAN alebo znížením jasu obrazovky pri slabej batérii. Nastaviť režim slabej batérie?</string>
+</resources>

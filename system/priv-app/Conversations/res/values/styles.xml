@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ConversationsTheme.OnePageView" parent="@style/ConversationsTheme" />
+    <style name="BubbleText" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@dimen/message_body_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/conversation_sent_message_text_color</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="BubbleText.Warning" parent="@style/BubbleText">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="BubbleText.Subject" parent="@style/BubbleText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ConversationsTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarSize">@dimen/conversation_actionbar_height</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layoutDirection">locale</item>
+        <item name="com.sonyericsson.uxp:extendedLookAndFeel">true</item>
+    </style>
+    <style name="ConversationsTheme.ActionBarInsideActivity" parent="@style/ConversationsTheme">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="ConversationsTheme.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="ConversationsTheme.NoTitleBar" parent="@style/ConversationsTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ConversationsTheme.Translucent" parent="@style/ConversationsTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="ConversationsTheme.Fullscreen" parent="@android:style/Theme.NoTitleBar.Fullscreen" />
+</resources>

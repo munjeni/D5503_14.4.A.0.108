@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA modu şunları içerir:
+
+• Genişletilmiş bekleme modu
+Ekran kapalıyken, WLAN ve mobil veriler geçici olarak devre dışı bırakılarak pil tasarrufu sağlar. Uygulamaların çoğu devre dışı duruma getirilir.
+Ekran açıkken telefonunuz normal şekilde çalışır.
+Genişletilmiş bekleme modu AÇIKKEN bazı uygulamaların aktif kalmasını istiyorsanız, bunları BEKLEME MODUNDA AKTİF UYGULAMALAR listesine eklemeniz yeterlidir.
+
+•Genişletilmiş kullanım
+Donanım performansını sınırlandırarak cihaz kullanılırken pil tasarrufu sağlar.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA modu nedir?</u>"
+STAMINA modu, bir Sony™ güç tasarrufu fonksiyonudur. Ekran kapalıyken fonksiyonelliği devre dışı bırakarak pil ömrünü uzatır.
+
+"<u>Temel kullanım</u>"
+STAMINA modunu aktifleştirmek için, sonraki ekranda bulunan tuşu kullanın.
+Ekran kapalıyken, tüm ağ verileri geçici olarak devre dışı bırakılır ve uygulamalarınızın çoğu pilden tasarruf etmek için devre dışı duruma getirilir.
+Ekran açıkken, cihazınız normal olarak çalışır.
+
+"<u>Gelişmiş kullanım</u>"
+Ekran kapalıyken bazı uygulamaların aktif kalmasını istiyorsanız, bunları BEKLEME MODUNDA AKTİF UYGULAMALAR listesine eklemeniz yeterlidir.
+
+"<u>Not</u>"
+Bazı uygulamalar bekleme modunda devre dışı bırakıldığında düzgün çalışmayabilir. Bir uygulama düzgün çalışmıyorsa, bu uygulamayı BEKLEME MODUNDA AKTİF UYGULAMALAR listesine ekleyin; bu işe yaramazsa, STAMINA modunu devre dışı bırakın."</string>
+    <string name="location_based_wi_fi_label">Konum tabanlı WLAN</string>
+    <string name="location_based_wi_fi_descr">Kayıtlı bir WLAN ağının kapsamına girildiğinde WLAN otomatik olarak aktif hale getirilir</string>
+    <string name="powersaver_feature_wifi">WLAN kapalı</string>
+    <string name="install_wapi_certs">WLAN sertifikalarını yükle</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, uçak modu, cep telefonu şebekesi ve VPN özelliklerini yönet</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">"WLAN'yi aç"</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN ayarları</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN seç</string>
+    <string name="wifi_starting">WLAN açılıyor...</string>
+    <string name="wifi_stopping">WLAN kapatılıyor...</string>
+    <string name="wifi_poor_network_detection_summary">İnternet bağlantısı iyi olmadıkça WLAN ağını kullanma</string>
+    <string name="wifi_scan_always_available_summary">"WLAN özelliği kapalıyken dahi Google'ın konum hizmetinin ve diğer uygulamaların ağları taramasına izin ver"</string>
+    <string name="wifi_scan_notify_text_location_on">Konum doğruluğunu iyileştirmek için ve diğer amaçlarla, Google ve diğer uygulamalar, WLAN kapalı olduğunda dahi yakınlardaki ağları tarayabilir. Bunu istemiyorsanız, Gelişmiş > Tarama her zaman kullanılabilir seçeneğine gidin.</string>
+    <string name="wifi_scan_notify_text_location_off">Uygulamalar, WLAN bağlantı kapalı olduğunda dahi yakınlardaki ağları tarayabilir. Bunu istemiyorsanız, Gelişmiş > Tarama her zaman kullanılabilir seçeneğine gidin.</string>
+    <string name="wifi_setting_sleep_policy_title">Uyku mdnda WLAN etkn klsn</string>
+    <string name="wifi_suspend_optimizations">WLAN optimizasyonu</string>
+    <string name="wifi_suspend_optimizations_summary">Kablosuz açıkken pil kullanımını en aza indir</string>
+    <string name="wifi_access_points">WLAN ağlar</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">"Kullanılabilir ağları görmek için WLAN'yi açın."</string>
+    <string name="wifi_empty_list_wifi_on">WLAN ağları aranıyor…</string>
+    <string name="wifi_empty_list_user_restricted">WLAN ağı değiştirme izniniz yok.</string>
+    <string name="wifi_required_info_text">Kurulumun tamamlanabilmesi için tabletinizin Kablosuz bağlantıya erişmesi gerekecektir. Kurulumdan sonra, mobil veri ile WLAN arasında geçiş yapabilirsiniz.</string>
+    <string name="wifi_wps_setup_title">WLAN Korumalı Kurulum</string>
+    <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki WLAN Korumalı Kurulum düğmesine basın. \"WPS\" yazıyor olabilir veya bu simgeyi taşıyabilir:</string>
+    <string name="wifi_wps_onstart_pin">WLAN yönlendiricinizde %1$s pin kodunu girin. Kurulum işleminin tamamlanması iki dakika kadar sürebilir.</string>
+    <string name="wifi_wps_connected">%s WLAN ağına bağlanıldı</string>
+    <string name="wifi_scan_always_turnon_message">"Konum bilgisinin doğruluğunu artırmak ve diğer amaçlar için, %1$s WLAN bağlantı kapalı olduğunda bile ağ tarama işlevini açmak istiyor.
+
+Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyor musunuz?"</string>
+    <string name="wifi_connect_failed_message">Telefon bu WLAN ağa bağlanamadı.</string>
+    <string name="wifi_advanced_titlebar">Gelişmiş WLAN ayarları</string>
+    <string name="wifi_setting_frequency_band_title">WLAN frekans bandı</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Taşınabilir WLAN hotspot</string>
+    <string name="wifi_tether_failed_subtext">Taşınabilir WLAN hotspot hatası</string>
+    <string name="wifi_tether_configure_ap_text">WLAN genel alan kurulumu yap</string>
+    <string name="wifi_tether_configure_subtext">"%1$s taşınabilir WLAN hotspot.
+Güvenlik: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC adresi</string>
+    <string name="location_mode_high_accuracy_description">Konumu belirlemek için GPS, WLAN ve mobil ağları kullanın</string>
+    <string name="location_mode_battery_saving_description">Konumu belirlemek için WLAN ve mobil ağları kullanın</string>
+    <string name="location_neighborhood_level">"Anonim konum verilerinin Google'a gönderilmesine izin verir. Ayrıca, izin verilen uygulamaların da yaklaşık konumunuzu belirlemek üzere WLAN ve mobil ağlar gibi kaynaklardan gelen verileri kullanmalarına izin verir."</string>
+    <string name="location_neighborhood_level_wifi">Yer, WLAN tarafından belirlendi</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN özelliğinin açık olduğu süre</string>
+    <string name="bluetooth_on_time">WLAN özelliğinin açık olduğu süre</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN çalışıyor</string>
+    <string name="battery_action_wifi">WLAN ayarları</string>
+    <string name="battery_desc_wifi">WLAN tarafından kullanılan pil</string>
+    <string name="battery_sugg_wifi">Kullanmadığınız veya kullanılamadığı zaman WLAN özelliğini kapatın</string>
+    <string name="gadget_toggle_wifi">WLAN ayarları güncelleniyor</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Uygulama verilerini, WLAN parolalarını ve diğer ayarları Google sunucularında yedekleyin</string>
+    <string name="backup_erase_dialog_message">WLAN parolalarınız, yer işaretleriniz ve diğer ayarlarınız ile uygulama verilerinizin yedeklenmesini durdurmak ve Google sunucularındaki tüm kopyaları silmek istiyor musunuz?</string>
+    <string name="wifi_setup_title">WLAN kurulumu</string>
+    <string name="wifi_setup_title_editing_network">%s WLAN ağına bağlan</string>
+    <string name="wifi_setup_title_connecting_network">%s WLAN ağına bağlanılıyor...</string>
+    <string name="wifi_setup_title_connected_network">Connected %s WLAN ağına bağlanıldı</string>
+    <string name="wifi_setup_eap_not_supported">Kurulum sırasında WLAN EAP bağlantısı yapılandıramazsınız. Kurulumdan sonra Kablosuz ve Ağlar altında Ayarlar bölümünden bunu yapabilirsiniz.</string>
+    <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"'ye dokunun.
+
+Farklı bir WLAN ağına bağlanmak için "<b>Geri</b>"'ye dokunun."</string>
+    <string name="data_usage_menu_show_wifi">WLAN kullanımını göster</string>
+    <string name="data_usage_disable_wifi_limit">WLAN veri sınırını ayarla</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Arka plan mobil verilerini sınırlarsanız, WLAN ağına bağlanmadığınız sürece bazı uygulamalar ve servisler çalışmaz.</string>
+    <string name="data_usage_restrict_background_multiuser">"Arka planda işlenen mobil verileri kısıtlarsanız, WLAN ağa bağlanmadığınız sürece bazı uygulamalar ve hizmetler çalışmayacaktır.
+
+
+
+Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
+    <string name="data_usage_metered_body">Mobil genel alan olan WLAN ağları seçin. Arka planda çalışırken uygulamaların bu ağları kullanmaları kısıtlanabilir. Uygulamalar ayrıca yüksek hacimli indirme işlemleri için bu ağları kullanmadan önce kullanıcıyı uyarabilir.</string>
+    <string name="data_usage_metered_wifi">Kablosuz ağlar</string>
+    <string name="data_usage_metered_wifi_disabled">Mobil genel alanları seçmek için WLAN servisini açın.</string>
+    <string name="user_add_user_message_long">"Ek kullanıcılar yaratarak bu cihazı başka kişilerle paylaşabilirsiniz. Her kullanıcının kendine ait alanı olur ve bu alanı kendi uygulamaları, duvar kâğıdı vb. ile özelleştirebilir. Kullanıcılar, WLAN gibi herkesi etkileyebilecek tablet ayarlarını da yapabilirler.
+
+
+
+Yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum işlemini tamamlaması gerekir.
+
+
+
+Herhangi bir kullanıcı, güncellenen uygulama izinlerini diğer kullanıcıların adına kabul edebilir."</string>
+    <string name="restriction_wifi_config_title">WLAN ve Mobil</string>
+    <string name="restriction_wifi_config_summary">WLAN ve Mobil ayarlarını değiştirmeye izin ver</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN bağlandı</string>
+    <string name="cw_network_priority">China Telecom WLAN içn Öncl Tnı</string>
+    <string name="cw_network_priority_summary">Diğer WLAN ağlarına göre China Telecom WLAN ağlarına öncelik tanınacaktır</string>
+    <string name="data_traffic_disabled_text">Veri trafiği devre dışı bırakıldığından China Telecom WLAN ağlarına bağlanılamadı. Veri trafiği şimdi etkinleştirilsin mi?</string>
+    <string name="location_based_wifi">Konum tabanlı WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN genel alanına otomatik bağlan</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN oto. bağlan</string>
+    <string name="wifi_calling_mode_title">WLAN araması</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN Sertifikasını değiştir</string>
+    <string name="wifi_p2p_settings">WLAN Direct ayarları</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT korumalı</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK korumalı</string>
+    <string name="wifi_tether_explanation_dialog_text">"Cihazınızı Mobil Genel Alan olarak kullanabilirsiniz. Bu (maksimum 10) diğer cihazların buna WLAN ağı üzerinden bağlanmasına izin verir. Bağlanan cihazların telefonunuzun mobil ağ bağlantısı üzerinden İnternet erişimi olur. Mobil Genel Alan mobil veri kullanır ve ek ücretlere neden olabilir.
+
+Mobil Genel Alan daha fazla pil tüketir. Pil ömrünü uzatmak için cihazı bir prize bağlayın."</string>
+    <string name="wifi_tether_settings_subtext">Taşınabilir WLAN genel alanını ayarla ve yönet</string>
+    <string name="wifi_tether_settings_text">Taşınabilir WLAN genel alan ayarları</string>
+    <string name="wifi_wps_category_title">Kablosuz ağını ayarla</string>
+    <string name="cw_network_notification">CT WLAN bildirimini etkinleştir</string>
+    <string name="stamina_xssm_summary">"Ekran kapalı olduğunda mobil verileri ve WLAN'yi devre dışı bırakır"</string>
+    <string name="tethering_no_sim_warning_txt">Telefonunuzun veri bağlantısını İnternet erişimi için Mobil WLAN Genel Alanı veya USB bağlantısı kullanan diğer cihazlarla paylaşmak üzere SIM kart takın.</string>
+    <string name="wifi_offload_checkbox_summary">Uygulamaları açarken, WLAN kullanılabildiğinde bana söyle</string>
+    <string name="wifi_offload_checkbox_title">WLAN açılır pencerelerini göster</string>
+    <string name="wifi_offload_notify_available_networks">WLAN bildirimleri</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN ağları kullanılabildiğinde beni uyar</string>
+    <string name="wifi_offload_option_title">Kullanılabilir WLAN ağları</string>
+</resources>

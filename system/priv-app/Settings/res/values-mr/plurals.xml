@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d दिवस</item>
+        <item quantity="one">%d दिवस</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d तास</item>
+        <item quantity="one">%d तास</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">पासवर्डमध्ये निदान %d अक्षरे असायला हवी</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 अक्षर असायला हवे</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">पासवर्डमध्ये निदान %d लोअरकेस अक्षरे असायला हवी</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 लोअरकेस अक्षर असायला हवे</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">पासवर्डमध्ये निदान %d अप्परकेस अक्षरे असायला हवी</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 अप्परकेस अक्षर असायला हवे</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">पासवर्डमध्ये निदान %d संख्यात्मक आकडे असायला हवे</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 संख्यात्मक आकडा असायला हवा</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">पासवर्डमध्ये निदान %d विशेष चिन्हे असायला हवी</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 विशेष चिन्ह असायला हवे</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">पासवर्डमध्ये निदान %d अ-अक्षर वर्ण असायला हवे</item>
+        <item quantity="one">पासवर्डमध्ये निदान 1 अ-अक्षर वर्ण असायला हवा</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d अनुप्रयोग सूचनापत्र वाचू शकतात</item>
+        <item quantity="one">%d अनुप्रयोगाला सूचनापत्र वाचणे शक्य आहे</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">चुकीचा SIM PIN कोड, आपल्याकडे %d प्रयत्न शिल्लक आहेत.</item>
+        <item quantity="one">चुकीचा SIM PIN कोड, आपल्याकडे %d प्रयत्न शिल्लक आहेत, तत्पूर्वी आपण आता आपले उपकरण अनलॉक करण्यासाठी आपल्या वाहकाला संपर्क करणे आवश्यक आहे.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s प्रिंटर आढळले आहेत</item>
+        <item quantity="one">%1$s प्रिंटर आढळला आहे</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">यादी मधील वर्तमान %d अनुप्रयोग</item>
+        <item quantity="one">यादी मधील वर्तमान %1$d अनुप्रयोग</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_cfb_forbidden">未預期的網絡回應。</string>
+    <string name="disable_cfnry_forbidden">未預期的網絡回應。</string>
+    <string name="disable_cfnrc_forbidden">未預期的網絡回應。</string>
+</resources>

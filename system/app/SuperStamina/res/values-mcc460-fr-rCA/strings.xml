@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Lorsque l'écran est éteint, le WLAN et les données mobiles sont désactivés temporairement, alors que bon nombre des applications seront inactives. Vous pourrez tout de même recevoir des appels, des messages texte/photo, ainsi que les avis de l'agenda de Sony™ et les signaux d'alarme. Le lecteur de musique et la radio FM seront fonctionnels, tout comme les téléchargements et téléversements en cours, jusqu'à ce qu'ils soient terminés. Lorsque l'écran est allumé, votre téléphone fonctionne normalement.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Lorsque l'écran est éteint, WLAN et les données mobiles sont temporairement désactivées, alors que bon nombre d'applications sont inactives. Vous continuerez tout de même à recevoir les SMS/MMS, les notifications d'agenda de Sony™ et les alarmes de Sony™. Le lecteur de musique et la radio FM continueront à fonctionner, alors que les téléchargements et téléversements en cours seront autorisés à se terminer.
+
+Lorsque l'écran sera allumé, votre appareil fonctionnera normalement."</string>
+    <string name="description_msg_no_telephony_txt">"Lorsque l'écran est éteint, WLAN est temporairement désactivé et bon nombre d'applications sont inactives. Vous continuerez tout de même à recevoir les notifications d'agenda de Sony™ et les alarmes de Sony™. Le lecteur de musique et la radio FM continueront à fonctionner, alors que les téléchargements et téléversements en cours seront autorisés à terminer.
+
+Lorsque l'écran sera allumé, votre appareil fonctionnera normalement."</string>
+    <string name="notification_descr_ps">"Le mode pile faible peut prolonger la durée de vie de la batterie en désactivant, par ex., le WLAN ou en abaissant la luminosité de l'écran lorsque la batterie est faible."</string>
+    <string name="notification_text_lbw">Activer WLAN selon la position</string>
+    <string name="notification_descr_lbw">"WLAN est activé, mais n'a pas été utilisé depuis un certain temps. Économisez de l'énergie en activant WLAN selon la position."</string>
+    <string name="location_based_wifi_tip_dialog">"WLAN est activé, mais n'a pas été utilisé depuis un certain temps. Vous pouvez économiser la batterie en activant le WLAN selon la position. Configurer le WLAN selon la position?"</string>
+    <string name="low_battery_mode_tip_dialog">"Le pile faible peut prolonger la batterie, par exemple en désactivant le WLAN ou en réduisant la luminosité de l'écran, lorsque la batterie est faible. Configurer le pile faible?"</string>
+</resources>

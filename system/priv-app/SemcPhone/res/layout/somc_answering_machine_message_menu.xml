@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/answering_machine_speaker_is_off_icn" android:id="@id/speaker_icon" android:title="@string/phone_strings_ans_mach_action_bar_tool_tip_speaker_is_off_txt" android:showAsAction="ifRoom" />
+</menu>

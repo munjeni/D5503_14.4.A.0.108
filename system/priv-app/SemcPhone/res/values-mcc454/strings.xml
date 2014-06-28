@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_cfb_forbidden">Unexpected response from network.</string>
+    <string name="disable_cfnry_forbidden">Unexpected response from network.</string>
+    <string name="disable_cfnrc_forbidden">Unexpected response from network.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Učesnici u konferencijskom pozivu</string>
+    <string name="add_fdn_contact">Dodaj kontakt za fiksno biranje</string>
+</resources>

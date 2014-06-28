@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Wenn der Bildschirm ausgeschaltet ist, werden WLAN und mobiler Datenzugriff vorübergehend deaktiviert, und die meisten Apps sind inaktiv. Sie erhalten weiterhin Telefonanrufe, SMS/MMS-Nachrichten, Sony™-Kalenderbenachrichtigungen und Sony™-Wecksignale. Der Musikplayer und das UKW-Radio funktionieren, und stattfindende Down- und Uploads können abgeschlossen werden.
+
+Wenn der Bildschirm eingeschaltet ist, funktioniert das Telefon normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Bei ausgeschaltetem Bildschirm werden WLAN und mobile Daten vorübergehend deaktiviert. Außerdem sind die meisten Anwendungen inaktiv. Sie empfangen nach wie vor SMS/MMS sowie Sony™-Kalenderbenachrichtigungen und Sony™-Alarmsignale. Der Musikplayer und das UKW-Radio funktionieren weiterhin, und laufende Down- und Uploads werden abgeschlossen.
+
+Bei eingeschaltetem Bildschirm funktioniert Ihr Gerät normal."</string>
+    <string name="description_msg_no_telephony_txt">"Bei ausgeschaltetem Bildschirm wird WLAN vorübergehend deaktiviert. Außerdem sind die meisten Anwendungen inaktiv. Sie empfangen nach wie vor Sony™-Kalenderbenachrichtigungen und Sony™-Alarmsignale. Der Musikplayer und das UKW-Radio funktionieren weiterhin, und laufende Down- und Uploads werden abgeschlossen.
+
+Bei eingeschaltetem Bildschirm funktioniert Ihr Gerät normal."</string>
+    <string name="notification_descr_ps">Der Modus für niedrigen Akkustand kann die Akkulaufzeit verlängern, z. B. durch Abschalten von WLAN oder Verringern der Bildschirmhelligkeit bei niedrigem Akkustand.</string>
+    <string name="notification_text_lbw">Ortsbezogenes WLAN aktivieren</string>
+    <string name="notification_descr_lbw">WLAN ist aktiviert, wurde aber seit einiger Zeit nicht verwendet. Sparen Sie Energie, indem Sie ortsbezogenes WLAN aktivieren.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN ist eingeschaltet, wurde jedoch eine Zeit lang nicht benutzt. Sie können Akkuleistung sparen, indem Sie ortsbezogenes WLAN aktivieren. Ortsbezogenes WLAN einrichten?</string>
+    <string name="low_battery_mode_tip_dialog">Im Akkuschonmodus kann die Akkulebensdauer verlängert werden, indem Sie z. B. WLAN ausschalten oder die Bildschirmhelligkeit verringern. Möchten Sie den Akkuschonmodus einrichten?</string>
+</resources>

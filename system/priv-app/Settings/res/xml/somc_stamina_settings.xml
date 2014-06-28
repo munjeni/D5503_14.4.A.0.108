@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/power_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.stamina.EstimationPreference android:key="estimation" />
+    <PreferenceCategory android:title="@string/power_saving_modes" />
+    <com.sonymobile.settings.stamina.SwitchPreference android:title="@string/extended_standby_mode_label" android:key="stamina" android:summary="@string/extended_standby_mode_descr" android:fragment="com.sonymobile.settings.stamina.xssm.XssmSettings" />
+    <com.sonymobile.settings.stamina.SwitchPreference android:title="@string/power_save_mode_label" android:key="powersave" android:summary="@string/power_save_mode_descr" android:fragment="com.sonymobile.settings.stamina.powersaver.PowerSaverSettings" />
+    <com.sonymobile.settings.stamina.SwitchPreference android:title="@string/location_based_wi_fi_label" android:key="lbw" android:summary="@string/location_based_wi_fi_descr">
+        <intent android:targetPackage="com.sonyericsson.android.locationbasedwifi" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.android.locationbasedwifi.LbwPreferenceActivity" />
+    </com.sonymobile.settings.stamina.SwitchPreference>
+    <CheckBoxPreference android:persistent="false" android:title="@string/stamina_queue_background_data_title" android:key="queue_bg_data" android:summary="@string/stamina_queue_background_data_desc" />
+    <PreferenceCategory android:title="@string/power_information" />
+    <PreferenceScreen android:title="@string/power_usage_summary_title" android:key="battery" android:fragment="com.android.settings.fuelgauge.PowerUsageSummary" />
+</PreferenceScreen>

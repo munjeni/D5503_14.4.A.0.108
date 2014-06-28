@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">കോണ്‍ഫറന്‍സ് കോളിൽ പങ്കെടുക്കുന്നവർ</string>
+    <string name="add_fdn_contact">ഫിക്സഡ് ഡയലിംഗ് സമ്പര്‍ക്കം കൂട്ടിച്ചേര്‍ക്കുക</string>
+    <string name="delete_fdn_contact">ഫിക്സഡ് ഡയലിംഗ് സമ്പര്‍ക്കം ഇല്ലാതാക്കുക</string>
+    <string name="vibrate_on_ring_title">റിങ്‌ ചെയ്യുമ്പോൾ വൈബ്രേറ്റുചെയ്യുക</string>
+</resources>

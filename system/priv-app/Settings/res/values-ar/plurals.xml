@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d‏ أيام</item>
+        <item quantity="one">%dيوم واحد</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ‏ ساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+        <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d أحرف على الأقل</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d أحرف صغيرة على الأقل</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد صغير على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d أحرف كبيرة على الأقل</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد كبير على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d أرقام على الأقل</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رقم واحد على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">"يجب أن تحتوي كلمة المرور على %d  رموز خاصة على الأقل"</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رمز واحد خاص على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d رموز ليست حروفًا على الأقل</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رمز واحد ليس حرفًا على الأقل</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">يُمكن لتطبيقات %d قراءة الإشعارات</item>
+        <item quantity="one">يُمكن لتطبيق %d قراءة الإشعارات</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، يتبقى لديك %d من المحاولات.</item>
+        <item quantity="one">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات يتعين عليك بعدها الاتصال بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">تم العثور على %1$s من الطابعات</item>
+        <item quantity="one">تم العثور على %1$s طابعة</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">هناك %d تطبيقات في القائمة حاليًا</item>
+        <item quantity="one">هناك %1$d تطبيق في القائمة حاليًا</item>
+    </plurals>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">للسماح للتطبيق بتحديد موقعك بدقة وهذا باستخدام نظام تحديد المواقع العالمي (GPS) أو مصادر المواقع التي تستخدم الشبكات مثل أبراج النقال أو شبكة WLAN. يتعين توفر خدمات المواقع هذه وتشغيلها على جهازك كي يستخدمها التطبيق. وقد تستخدم التطبيقات هذا لتحديد موقعك وقد تستهلك مزيدًا من طاقة البطارية.</string>
+    <string name="permdesc_accessCoarseLocation">للسماح للتطبيق بتحديد موقعك التقريبي. يستمد هذا الموقع من خدمات الموقع باستخدام مصادر المواقع التي تستخدم الشبكات مثل أبراج النقال وشبكة WLAN. يتعين توفر خدمات المواقع هذه وتشغيلها على جهازك للتطبيق كي يستخدمها. وقد تستخدم التطبيقات هذا لتحديد موقعك التقريبي.</string>
+    <string name="permlab_configureWifiDisplay">تهيئة شاشات WLAN</string>
+    <string name="permdesc_configureWifiDisplay">للسماح للتطبيق بتهيئة شاشات WLAN والاتصال بها.</string>
+    <string name="permlab_controlWifiDisplay">التحكم في شاشات WLAN</string>
+    <string name="permdesc_controlWifiDisplay">للسماح للتطبيق بالتحكم في الميزات ذات المستوى المنخفض في شاشات WLAN.</string>
+    <string name="permlab_accessWifiState">عرض اتصالات WLAN</string>
+    <string name="permdesc_accessWifiState">للسماح للتطبيق بعرض معلومات حول شبكات WLAN، كعرض معلومات حول ما إذا تم تمكين WLAN واسم أجهزة WLAN المتصلة.</string>
+    <string name="permlab_changeWifiState">الاتصال بشبكة WLAN وقطع الاتصال بها</string>
+    <string name="permdesc_changeWifiState">للسماح للتطبيق بالاتصال بنقاط الوصول إلى WLAN وقطع الاتصال بها وإجراء تغييرات على تهيئة الجهاز لشبكات WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">السماح بتلقي بث WLAN المتعدد</string>
+    <string name="permdesc_changeWifiMulticastState">للمساح للتطبيق بتلقي الحزم التي يتم إرسالها إلى جميع الأجهزة على شبكة WLAN باستخدام عناوين بث متعدد، وليس باستخدام هاتفك فقط. ويؤدي هذا إلى استخدام قدر أكبر من الطاقة يفوق وضع البث غير المتعدد.</string>
+    <string name="wifi_available_sign_in">تسجيل الدخول إلى شبكة WLAN</string>
+    <string name="wifi_watchdog_network_disabled">تعذر الاتصال بـ WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">ابدأ تشغيل WLAN Direct. سيؤدي هذا إلى إيقاف تشغيل عميل/النقطة الفعالة لشبكة WLAN.</string>
+    <string name="wifi_p2p_failed_message">تعذر بدء اتصال WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">تم تشغيل WLAN Direct</string>
+    <string name="wifi_p2p_frequency_conflict_message">سيتم قطع اتصال الهاتف مؤقتًا بشبكة WLAN في الوقت الذي يكون فيه متصلاً بـ %1$s</string>
+    <string name="data_usage_wifi_limit_title">تم تعطيل بيانات WLAN</string>
+    <string name="data_usage_wifi_limit_snoozed_title">تم تجاوز حد بيانات WLAN</string>
+    <string name="policylab_disableWifi">تعطيل الوصول إلى WLAN</string>
+    <string name="policydesc_disableWifi">امنع اتصالات WLAN على الجهاز.</string>
+    <string name="wifi_disabled_notification_title">تم تقييد اتصال WLAN</string>
+    <string name="wifi_disabled_notification_message">"يقيّد نهج أمان استخدام WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">تجوال WLAN قيد التقدم</string>
+    <string name="ct_cplusw_notification_text">تم الاتصال بشبكة WLAN لشركة CT. اتصل برقم 10000أو المتجر المحلي لمعرفة معلومات الفوترة.</string>
+    <string name="ct_cplusw_notification_title">تم الاتصال بـ WLAN لـ China Telecom</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">ستقوم بالاتصال بشبكة WLAN اللاسلكية التابعة لـ China Telecom. لمعرفة التفاصيل حول الرسوم، الرجاء الاتصال بخدمة عملاء China Telecom. متابعة؟</string>
+    <string name="wifi_nonconcurrency_message">بدء عميل WLAN. سيؤدي ذلك إلى فصل WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">بدء عميل WLAN. سيؤدي ذلك إلى فصل WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">سيتم قطع أي اتصال WLAN موجود</string>
+    <string name="wifi_p2p_nonconcurrency_message">بدء WLAN Direct. سيؤدي ذلك إلى فصل اتصال WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">سيؤدي ذلك إلى فصل أي اتصال حالي بشبكة WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">بدء WLAN Direct. سيؤدي ذلك إلى فصل اتصال WLAN.</string>
+    <string name="tethered_notification_message_wifi">أوقف تشغيل HotSpot المحمولة لتشغيل WLAN مرة أخرى</string>
+    <string name="tethered_notification_title_wifi">تم إيقاف تشغيل WLAN</string>
+</resources>

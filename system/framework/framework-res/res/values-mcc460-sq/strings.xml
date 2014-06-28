@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">"Lejon aplikacionin të gjejë vendndodhjen tënde të saktë duke përdorur Sistemin e pozicionimit global (GPS) ose burimet e vendndodhjes së rrjetit si kullat celulare dhe WLAN. Këto shërbime të vendndodhjes duhet të jenë të aktivizuara ose të disponueshme në pajisjen tuaj që aplikacioni t'i përdorë ato. Aplikacionet mund ta përdorin këtë për të përcaktuar se ku ndodheni dhe mund ta konsumojnë më shumë energjinë e baterisë."</string>
+    <string name="permdesc_accessCoarseLocation">"Lejon aplikacionin të gjejë vendndodhjen tuaj të përafërt. Kjo vendndodhje gjendet nga shërbimet e vendndodhjes duke përdorur burimet e vendndodhjes të rrjeteve, si p.sh. kullat celulare dhe WLAN. Këto shërbime të vendndodhjes duhet të jenë të aktivizuara dhe të disponueshme për pajisjen tënde që t'i përdorë aplikacioni. Aplikacionet mund ta përdorin këtë për të përcaktuar me përafërsi se ku ndodheni."</string>
+    <string name="permlab_configureWifiDisplay">konfiguro ekranet e WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Lejon aplikacionin të konfigurojë dhe të lidhet me ekranet WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kontrollo ekranet e WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Lejon aplikacionin të kontrollojë tiparet e nivelit të ulët të ekraneve WLAN.</string>
+    <string name="permlab_accessWifiState">shih lidhjet WLAN</string>
+    <string name="permdesc_accessWifiState">Lejon aplikacionin të shohë informacionet rreth rrjetëzimit WLAN, si p.sh. nëse WLAN është i aktivizuar dhe emrin e pajisjeve të lidhura në WLAN.</string>
+    <string name="permlab_changeWifiState">lidhu dhe shkëputu nga WLAN</string>
+    <string name="permdesc_changeWifiState">Lejon aplikacionin të lidhet dhe shkëputet nga pikat e qasjes së WLAN dhe të bëjë ndryshime në konfigurimin e pajisjes për rrjetet WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">"lejo marrjen e transmetimit WLAN
+ në disa drejtime"</string>
+    <string name="permdesc_changeWifiMulticastState">"Lejon aplikacionin të marrë paketat e dërguara në të gjitha pajisjet në një rrjet WLAN duke përdorur adresat multicast dhe jo vetëm telefonin. Ai përdor më shumë energji se në regjimin jo-multicast. "</string>
+    <string name="wifi_available_sign_in">Hyni në një rrjet WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Nuk mund të lidhej me WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Nis WLAN Direct. Kjo do të çaktivizojë klientin/zonën e internetit me valë WLAN.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct nuk mund të nisej</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct është aktivizuar</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefoni do të shkëputet përkohësisht nga WLAN ndërsa lidhet me %1$s</string>
+    <string name="data_usage_wifi_limit_title">Të dhënat WLAN u çaktivizuan</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Kufiri i të dhënave WLAN u tejkalua</string>
+    <string name="policylab_disableWifi">Çaktivizon qasjen në WLAN</string>
+    <string name="policydesc_disableWifi">Pengon lidhjet WLAN në pajisje.</string>
+    <string name="wifi_disabled_notification_title">Lidhja WLAN është e kufizuar</string>
+    <string name="wifi_disabled_notification_message">"Një politikë e sigurisë kufizon përdorimin e WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">Roaming me WLAN po kryhet</string>
+    <string name="ct_cplusw_notification_text">"Rrjeti WLAN i CT u lidh. Për inf. e faturimit, kontaktoni me 10000 ose dyqanin lokal.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN i China Telecom u lidh</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Do të lidheni në rrjetin WLAN të China Telecom. Për hollësi rreth pagesës, kontaktoni me shërbimin e klientëve të China Telecom. Të vazhdohet?</string>
+    <string name="wifi_nonconcurrency_message">Fillo klientin me WLAN. Kjo do të shkëpusë WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Fillo klientin me WLAN. Kjo do të shkëpusë WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Çdo lidhje ekzistuese WLAN do të shkëputet</string>
+    <string name="wifi_p2p_nonconcurrency_message">Fillo WLAN Direct. Kjo do të shkëpusë lidhjen WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Kjo do të shkëpusë çdo lidhje ekzistuese WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Fillo WLAN Direct. Kjo do të shkëpusë lidhjen WLAN.</string>
+    <string name="tethered_notification_message_wifi">Çaktivizo Mobile HotSpot për ta aktivizuar përsëri WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN është çaktivizuar</string>
+</resources>

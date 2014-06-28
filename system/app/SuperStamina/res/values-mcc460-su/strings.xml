@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Waktos layarna pareum, WLAN sareng data seluler samentawis pareum, sareng ampir sadayana aplikasi henteu aktif. Anjeun angger tiasa nampi sauran telepon, talatah SMS/MMS sareng wawaran almanak Sony™ sareng tangara alarm Sony™. Pamuter musik sareng radio FM tiasa hurung, undeuran sareng unggahan nuju lumangsung tiasa direngsekeun.
+
+Waktos layar hurung, kagunaan telepon anjeun tiasa normal deui.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Waktos layar pareum, WLAN sareng data seluler bakal saheulaanan nonaktip sareng hampir sadaya aplikasi moal aktip. Anjeun bakal tetep narima talatah SMS/MMS, bewara almenak Sony™ sareng sinyal alarm Sony™. Pamuter musik sareng radiio FM bakal jalan sareng undeuran sareng punggahan keur maju bakal diidinan jang dianggeuskeun.
+
+Waktos layar hurung, alat anjeun bakal ngafungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Waktos layar pareum, WLAN bakal saheulaanan nonaktip, sareng hampir sadaya aplikasi bakal moal aktip. Anjeun tetep bakal narima bewara almenak Sony™ sareng sinyal alarm Sony™. Pamuter musik sareng radio FM bakal jalan, undeuran sareng punggahan keur maju bakal diidinan jang direngsekeun.
+
+Waktos layar hurung, alat anjeun bakal ngapungsi normal."</string>
+    <string name="notification_descr_ps">Setelan batere lemah tiasa nambah hirup batere contona pareuman WLAN atanapu kurangan caang layar waktos batere lemah.</string>
+    <string name="notification_text_lbw">Aktipkeun WLAN dumasar lokasi</string>
+    <string name="notification_descr_lbw">WLAN hurung tapi teu digunakeun saheulaanan. Simpen daya sareng aktipkeun WLAN dumasar lokasi.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN hurung tapi tos teu dipake saheulaanan. Anjeun tiasa simpen daya ku cara ngaktipkeun WLAN dumasar Lokasi. Atur WLAN dumasar Lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Modeu batre lemah tiasa nambah hirup batere ku cara misal. pareuman WLAN atanapi ngurangan caang waktos batere lemah. Atur modeu Batre lemah?</string>
+</resources>

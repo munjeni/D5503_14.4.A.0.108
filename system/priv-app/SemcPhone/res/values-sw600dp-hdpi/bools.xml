@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="end_held_call_at_3rd_incoming_call">true</bool>
+</resources>

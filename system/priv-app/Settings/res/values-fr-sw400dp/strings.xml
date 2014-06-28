@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">"Placer les données d'arrière-plan en file d'attente"</string>
+    <string name="auto_sync_text">Synchronisation automatique</string>
+    <string name="wifi_tether_settings_text">"Réglages point d'accès Wi-Fi mobile"</string>
+    <string name="auto_hide_notifications_title">Effacer les notifications consultées</string>
+</resources>

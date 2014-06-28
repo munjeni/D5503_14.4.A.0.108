@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>հենակետային տեղանք</item>
+        <item>ճշգրիտ տեղադրություն</item>
+        <item>GPS</item>
+        <item>թրթռալ</item>
+        <item>տեսնել կոնտակտների ցանկը</item>
+        <item>փոփոխել կոնտակտների ցանկը</item>
+        <item>տեսնել զանգերի մատյանը</item>
+        <item>փոփոխել զանգերի մատյանը</item>
+        <item>կարդալ օրացույցը</item>
+        <item>փոփոխել օրացույցը</item>
+        <item>wi-fi սկանավորում</item>
+        <item>ծանուցում</item>
+        <item>բջջային սկանավորում</item>
+        <item>Հեռախոսահամար</item>
+        <item>կարդալ SMS-ը</item>
+        <item>գրել SMS</item>
+        <item>ստանալ SMS</item>
+        <item>ստանալ արտակարգ իրավիճակների SMS-ներ</item>
+        <item>ստանալ MMS</item>
+        <item>ստանալ WAP սեղմում</item>
+        <item>ուղարկել SMS</item>
+        <item>կարդալ ICC SMS</item>
+        <item>գրել ICC SMS</item>
+        <item>փոփոխել կարգավորումները</item>
+        <item>պատկերել վերին մասում</item>
+        <item>մուտք գործել ծանուցումներ</item>
+        <item>ֆոտոխցիկ</item>
+        <item>ձայնագրել ձայնանյութ</item>
+        <item>նվագարկել ձայնանյութը</item>
+        <item>կարդալ սեղմատախտակը</item>
+        <item>փոփոխել սեղմատախտակը</item>
+        <item>մեդիա կոճակներ</item>
+        <item>աուդիո ֆոկուս</item>
+        <item>ձայնի հիմնական բարձրություն</item>
+        <item>ձայնի բարձրություն</item>
+        <item>զանգի բարձրություն</item>
+        <item>մեդիանյութերի ձայնի բարձրություն</item>
+        <item>զարթուցիչի ձայնի բարձրություն</item>
+        <item>ծանուցման ձայնի բարձրություն</item>
+        <item>bluetooth-ի ձայնի բարձրություն</item>
+        <item>արթուն պահել</item>
+        <item>վերահսկել տեղադրությունը</item>
+        <item>մշտադիտարկել էներգատար տեղանքները</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Տեղակայում</item>
+        <item>Տեղադրություն</item>
+        <item>Տեղադրություն</item>
+        <item>Թրթռալ</item>
+        <item>Տեսնել կոնտակտները</item>
+        <item>Փոփոխել կոնտակտները</item>
+        <item>Տեսնել զանգերի մատյանը</item>
+        <item>Փոփոխել զանգերի մատյանը</item>
+        <item>Տեսնել օրացույցը</item>
+        <item>Փոփոխել օրացույցը</item>
+        <item>Տեղադրություն</item>
+        <item>Փակցնել ծանուցում</item>
+        <item>Տեղադրություն</item>
+        <item>Հեռախոս</item>
+        <item>Կարդալ SMS/MMS</item>
+        <item>Գրել SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ստանալ SMS/MMS</item>
+        <item>Ուղարկել SMS/MMS</item>
+        <item>Կարդալ SMS/MMS</item>
+        <item>Գրել SMS/MMS</item>
+        <item>Փոփոխել կարգավորումները</item>
+        <item>Պատկերել վերևի մասում</item>
+        <item>Մուտք գործել ծանուցումներ</item>
+        <item>Ֆոտոխցիկ</item>
+        <item>Ձայնագրել ձայնանյութ</item>
+        <item>Նվագարկել ձայնանյութը</item>
+        <item>Կարդալ սեղմատախտակը</item>
+        <item>Փոփոխել սեղմատախտակը</item>
+        <item>Մեդիա կոճակներ</item>
+        <item>Աուդիո ֆոկուս</item>
+        <item>Ձայնի հիմնական բարձրություն</item>
+        <item>Ձայնի բարձրություն</item>
+        <item>Զանգի բարձրություն</item>
+        <item>Մեդիանյութերի ձայնի բարձրություն</item>
+        <item>Զարթուցիչի ձայնի բարձրություն</item>
+        <item>Ծանուցման ձայնի բարձրություն</item>
+        <item>Bluetooth-ի ձայնի բարձրություն</item>
+        <item>Արթուն պահել</item>
+        <item>Տեղադրություն</item>
+        <item>Տեղադրություն</item>
+    </string-array>
+</resources>

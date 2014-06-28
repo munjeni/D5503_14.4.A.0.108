@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengawal mod eco</string>
+    <string name="dont_ask_me_again_txt">Jangan tanyakan saya lagi</string>
+    <string name="description_msg_txt">"Apabila skrin dimatikan, Wi-Fi dan data mudah alih akan dinyahdayakan untuk sementara waktu, dan kebanyakan aplikasi menjadi tidak aktif. Anda masih dapat menerima panggilan telefon, mesej SMS/MMS dan pemberitahuan kalendar Sony™ serta isyarat penggera Sony™. Pemain muzik dan radio FM masih berfungsi dan proses muat turun serta muat naik yang sedang berjalan akan dibenarkan untuk selesai.
+
+Apabila skrin dihidupkan, telefon anda akan berfungsi seperti biasa.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Apabila skrin mati, Wi-Fi dan data mudah alih akan dinyahdayakan buat sementara waktu dan kebanyakan aplikasi akan menjadi tidak aktif. Anda masih akan menerima mesej SMS/MMS, pemberitahuan kalendar Sony™ dan isyarat penggera Sony™. Pemain muzik dan radio FM akan berfungsi serta muat turun dan muat naik yang sedang berlangsung akan dibenarkan untuk selesai.
+
+Apabila skrin hidup, peranti anda akan berfungsi seperti biasa."</string>
+    <string name="description_msg_no_telephony_txt">"Apabila skrin mati, Wi-Fi akan dinyahdayakan buat sementara waktu dan kebanyakan aplikasi akan menjadi tidak aktif. Anda masih akan menerima pemberitahuan kalendar Sony™ dan isyarat penggera Sony™. Pemain muzik dan radio FM akan berfungsi serta muat turun dan muat naik yang sedang berlangsung akan dibenarkan untuk selesai.
+
+Apabila skrin hidup, peranti anda akan berfungsi seperti biasa."</string>
+    <string name="description_title_txt">Nota!</string>
+    <string name="low_battery_mode_description_msg_txt">"Dayakan Mod bateri lemah untuk mematikan ciri dan tetapan yang menggunakan kuasa semasa bateri berada di bawah paras bateri yang dipratetapkan. Ketik Mod bateri lemah untuk menukar tetapan.
+"</string>
+    <string name="activate_txt">Aktifkan</string>
+    <string name="cancel_txt">Batal</string>
+    <string name="xssm_blocker_detector_title">Petua pengurusan kuasa</string>
+    <string name="xssm_blocker_detector_msg">%s menghalang STAMINA mode daripada menjimatkan kuasa semasa tunggu sedia</string>
+    <string name="xssm_blocker_detector_long_msg">Jika anda kerap menggunakan aplikasi ini, abaikan amaran ini. Jika tidak, nyahpasang atau henti paksa aplikasi.</string>
+    <string name="xssm_blocker_detector_ignore">Faham. Jangan tunjukkan lagi.</string>
+    <string name="network_detector_msg">%s sedang menghantar dan menerima data semasa skrin dimatikan dan menyebabkan bateri semakin cepat habis.</string>
+    <string name="network_detector_long_msg">Menyahpasangnya boleh meningkatkan prestasi peranti dan memanjangkan masa bateri.</string>
+    <string name="wakelock_detector_msg">%s tidak digunakan selama beberapa minggu.</string>
+    <string name="wakelock_detector_long_msg">Ia boleh membangkitkan peranti daripada mod bersedia. Menyahpasangnya boleh meningkatkan prestasi peranti dan memanjangkan masa bateri.</string>
+    <string name="notification_title_xssm">Petua pengurusan kuasa</string>
+    <string name="notification_text_xssm">Aktifkan STAMINA mode</string>
+    <string name="notification_descr_xssm">Peranti anda kerap berada dalam mod tunggu sedia. Panjangkan masa bateri dengan mengaktifkan STAMINA mode.</string>
+    <string name="notification_dont_show_again">Faham. Jangan tunjukkan lagi.</string>
+    <string name="notification_title_ps">Petua pengurusan kuasa</string>
+    <string name="notification_text_ps">Aktifkan Mod bateri lemah</string>
+    <string name="notification_descr_ps">Mod bateri lemah dapat memanjangkan hayat bateri dengan misalnya, mematikan Wi-Fi atau mengurangkan kecerahan skrin semasa bateri lemah.</string>
+    <string name="notification_title_lbw">Petua pengurusan kuasa</string>
+    <string name="notification_text_lbw">Aktifkan Wi-Fi Berasaskan Lokasi</string>
+    <string name="notification_descr_lbw">Wi-Fi dihidupkan tetapi sudah lama tidak digunakan. Jimatkan kuasa dengan mengaktifkan Wi-Fi Berasaskan Lokasi.</string>
+    <string name="unused_application_title">Petua pengurusan kuasa</string>
+    <string name="unused_application_msg">%s tidak digunakan untuk beberapa lama</string>
+    <string name="unused_application_long_msg">Jika anda mahu menyimpan aplikasi ini, abaikan amaran ini. Jika tidak, nyahpasang aplikasi.</string>
+    <string name="unused_application_ignore">Faham. Jangan tunjukkan lagi.</string>
+    <string name="drain_dialog_title_txt">Bateri tidak mengecas</string>
+    <string name="drain_dialog_text_usb_txt">Sumber kuasa yang disambungkan tidak mencukupi. Bateri menyahcas dengan lebih pantas daripada mengecas. Sila tukar kepada pengecas AC anda.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Sumber kuasa yang disambungkan tidak mencukupi. Bateri menyahcas dengan lebih pantas daripada mengecas. Minimumkan penggunaan peranti anda semasa mengecas.</string>
+    <string name="extend_battery_tip_dialog_headar">Petua pengurusan kuasa</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi dihidupkan tetapi telah agak lama tidak digunakan. Anda boleh menjimatkan kuasa dengan mengaktifkan Wi-Fi berdasarkan Lokasi. Sediakan Wi-Fi berdasarkan Lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Mod bateri lemah boleh memanjangkan hayat bateri dengan misalnya, mematikan Wi-Fi atau mengurangkan kecerahan skrin semasa bateri lemah. Sediakan Mod bateri lemah?</string>
+    <string name="stamina_mode_tip_dialog">Peranti anda kerap berada dalam mod bersedia. Lanjutkan masa bateri dengan mengaktifkan mod STAMINA. Sediakan mod STAMINA?</string>
+    <string name="bad_app_notification">Aplikasi berikut menghabiskan bateri:</string>
+    <string name="bad_standby_app_dialog">%s sedang menghalang mod STAMINA daripada menjimatkan kuasa dalam bersedia. Jika anda kerap menggunakan aplikasi ini, abaikan amaran ini. Jika tidak, ketik butang maklumat Aplikasi dan sama ada menyahpasang atau hentikan secara paksa aplikasi tersebut.</string>
+    <string name="ignore_dialog_action">Abai</string>
+    <string name="app_info_dialog_action">Maklumat aplikasi</string>
+    <string name="stamina_activation_notification">Mod STAMINA diaktifkan</string>
+    <string name="lowbattery_trigger_level_notification">Paras bateri di bawah %d%%</string>
+    <string name="lowbattery_activated_notification">Mod bateri lemah diaktifkan</string>
+    <string name="app_not_used_notification">Aplikasi ini telah agak lama tidak digunakan:</string>
+    <string name="app_not_used_tip_dialog">%s telah agak lama tidak digunakan. Kami mengesyorkan supaya anda menyahpasang aplikasi untuk menjimatkan kuasa.</string>
+    <string name="no_action_dialog">Tidak</string>
+    <string name="yes_action_dialog">Ya</string>
+    <string name="widget_remaining_battery_time">jangkaan hayat pemasa bateri</string>
+    <string name="widget_name">STAMINA mode</string>
+</resources>

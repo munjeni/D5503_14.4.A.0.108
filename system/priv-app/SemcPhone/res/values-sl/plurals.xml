@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Podatk. pov. ni %s min.</item>
+        <item quantity="one">Podatk. pov. ni %s min.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon bo v načinu povratnega klica v sili %s min. V tem načinu ni mogoče uporabiti nobenega programa, ki uporablja podatkovno povezavo. Ali želite preklopiti iz tega načina?</item>
+        <item quantity="one">Telefon bo v načinu povratnega klica v sili %s min. V tem načinu ni mogoče uporabiti nobenega programa, ki uporablja podatkovno povezavo. Ali želite preklopiti iz tega načina?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s min. Ali želite preklopiti iz tega načina?</item>
+        <item quantity="one">Izbrano dejanje ni na voljo v načinu povratnega klica v sili. Telefon bo v tem načinu %s min. Ali želite preklopiti iz tega načina?</item>
+    </plurals>
+</resources>

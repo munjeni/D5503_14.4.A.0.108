@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Datu konexiorik ez: %s min.</item>
+        <item quantity="one">Datu konexiorik ez: %s min.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefonoa larrialdi deiei soilik erantzuteko moduan egongo da %s minutuz. Modu horretan dagoen bitartean, ezin da datu konexioa darabilen aplikaziorik erabili. Irten?</item>
+        <item quantity="one">Telefonoa larrialdi deiei soilik erantzuteko moduan egongo da %s minutuz. Modu horretan dagoen bitartean, ezin da datu konexioa darabilen aplikaziorik erabili. Irten?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Hautatutako ekintza ez dago erabilgarri larrialdi deiei soilik erantzuteko moduan. Telefonoa modu horretan egongo da %s minutuz. Irten?</item>
+        <item quantity="one">Hautatutako ekintza ez dago erabilgarri larrialdi deiei soilik erantzuteko moduan. Telefonoa modu horretan egongo da %s minutuz. Irten?</item>
+    </plurals>
+</resources>

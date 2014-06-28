@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>おおよその位置情報</item>
+        <item>精細な位置情報</item>
+        <item>GPS</item>
+        <item>バイブレーション</item>
+        <item>連絡先の読み取り</item>
+        <item>連絡先の変更</item>
+        <item>通話履歴の読み取り</item>
+        <item>通話履歴の変更</item>
+        <item>カレンダーの読み取り</item>
+        <item>カレンダーの変更</item>
+        <item>WLANスキャン</item>
+        <item>通知</item>
+        <item>セルスキャン</item>
+        <item>発信</item>
+        <item>メッセージの読み取り</item>
+        <item>メッセージの書き込み</item>
+        <item>メッセージの受信</item>
+        <item>緊急メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>WAPプッシュの受信</item>
+        <item>メッセージの送信</item>
+        <item>ICC メッセージの読み取り</item>
+        <item>ICC メッセージの書き込み</item>
+        <item>設定の変更</item>
+        <item>上部に描画</item>
+        <item>通知へのアクセス</item>
+        <item>カメラ</item>
+        <item>音声の録音</item>
+        <item>音声の再生</item>
+        <item>クリップボードの読み取り</item>
+        <item>クリップボードの変更</item>
+        <item>メディアボタン</item>
+        <item>音声フォーカス</item>
+        <item>主音量</item>
+        <item>音声の音量</item>
+        <item>着信音の音量</item>
+        <item>メディアの音量</item>
+        <item>アラームの音量</item>
+        <item>通知音量</item>
+        <item>Bluetoothの音量</item>
+        <item>スリープモードにしない</item>
+        <item>場所を監視</item>
+        <item>高精度の現在地情報を監視</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>位置情報</item>
+        <item>位置情報</item>
+        <item>位置情報</item>
+        <item>バイブレーション</item>
+        <item>連絡先の読み取り</item>
+        <item>連絡先の変更</item>
+        <item>通話履歴の読み取り</item>
+        <item>通話履歴の変更</item>
+        <item>カレンダーの読み取り</item>
+        <item>カレンダーの変更</item>
+        <item>位置情報</item>
+        <item>通知</item>
+        <item>位置情報</item>
+        <item>発信</item>
+        <item>メッセージの読み取り</item>
+        <item>メッセージの書き込み</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの受信</item>
+        <item>メッセージの送信</item>
+        <item>メッセージの読み取り</item>
+        <item>メッセージの書き込み</item>
+        <item>設定の変更</item>
+        <item>上部に描画</item>
+        <item>通知へのアクセス</item>
+        <item>カメラ</item>
+        <item>音声の録音</item>
+        <item>音声の再生</item>
+        <item>クリップボードの読み取り</item>
+        <item>クリップボードの変更</item>
+        <item>メディアボタン</item>
+        <item>音声フォーカス</item>
+        <item>主音量</item>
+        <item>音声の音量</item>
+        <item>着信音の音量</item>
+        <item>メディアの音量</item>
+        <item>アラームの音量</item>
+        <item>通知の音量</item>
+        <item>Bluetoothの音量</item>
+        <item>スリープモードにしない</item>
+        <item>場所</item>
+        <item>現在地</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

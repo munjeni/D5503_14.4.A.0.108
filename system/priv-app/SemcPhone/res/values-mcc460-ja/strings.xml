@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">モバイルデータ通信によるインターネットやEメール、マップなどの利用ができなくなります。よろしいですか?</string>
+    <string name="sip_call_options_wifi_only_title">通話方法（WLANのみ）</string>
+    <string name="registration_status_no_wifi_data">WLAN接続されていないため登録処理を中断しました。</string>
+    <string name="no_wifi_available_title">WLAN接続なし</string>
+    <string name="no_wifi_available">インターネット通話を行うにはWLANネットワークへの接続が必要です（[ワイヤレスとネットワークの設定]を使用）。</string>
+</resources>

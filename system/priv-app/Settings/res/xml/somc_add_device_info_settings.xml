@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="xperia_diagnostic" settings:dependOnIsValidIntent="true" settings:before="status_info" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.androidapp.diagnostics" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.androidapp.diagnostics.StartupActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="usage_info_settings" settings:dependOnIsValidIntent="true" settings:after="container" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.anondata" android:action="com.sonyericsson.intent.action.GET_PREFERENCE" android:targetClass="com.sonymobile.anondata.ui.Settings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/docomo_system_update_settings_list_item_title" android:key="fota_settings" android:summary="@string/docomo_system_update_settings_list_item_summary" settings:dependOnIsValidIntent="true" settings:before="system_update_settings">
+        <intent android:action="com.nttdocomo.android.fota.FOTA_SETTINGS" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/docomo_android_update_settings_list_item_title" android:key="os_version_up_settings" android:summary="@string/docomo_android_update_settings_list_item_summary" settings:dependOnIsValidIntent="true" settings:before="system_update_settings">
+        <intent android:action="com.nttdocomo.android.osv.OS_VERSION_UP_SETTINGS" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

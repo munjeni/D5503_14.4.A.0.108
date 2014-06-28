@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA režīms ietver:
+
+• Paplašinātais gaidīšanas režīms
+Taupa enerģiju, kad īslaicīgi atspējota WLAN un mobilo datu tīkla dēļ ir izslēgts ekrāns. Vairākums lietotņu nebūs aktīvas.
+Kad ekrāns būs ieslēgts, tālrunis darbosies, kā parasti.
+Ja vēlaties, lai dažas lietotnes darbotos tad, kad ir ieslēgts paplašinātais gaidīšanas režīms, pievienojiet šīs lietotnes sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES.
+
+• Paplašinātais lietojums
+Ierobežojot aparatūras darbību, taupa enerģiju, kad ierīce tiek lietota.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Kas ir STAMINA režīms?</u>"
+STAMINA režīms ir Sony™ enerģijas taupīšanas funkcija. Šis režīms nodrošina ilgāku akumulatora darbības laiku, atspējojot funkcionalitāti, kad ekrāns ir izslēgts.
+
+"<u>Pamata lietošana</u>"
+Lai aktivizētu STAMINA režīmu, izmantojiet nākamajā ekrānā pieejamo slēdzi.
+Kad ekrāns būs izslēgts, visi tīkla dati tiks īslaicīgi atspējoti un vairākums lietotņu nebūs aktīvas, lai taupītu akumulatora enerģiju.
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti.
+
+"<u>Uzlabotā lietošana</u>"
+Ja vēlaties, lai dažas lietotnes būtu aktīvas pat tad, kad ekrāns būs izslēgts, vienkārši pievienojiet tās sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES.
+
+"<u>Piezīme</u>"
+Dažas lietotnes, iespējams, nedarbosies pareizi, ja tās tiks atspējotas gaidīšanas režīmā. Ja lietotne nedarbojas pareizi, pievienojiet to sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES. Ja tas nelīdz, deaktivizējiet STAMINA režīmu."</string>
+    <string name="location_based_wi_fi_label">Atrašanās vietas WLAN</string>
+    <string name="location_based_wi_fi_descr">WLAN tiek aktivizēts automātiski, ja atrodas saglabāto WLAN tīklu diapazonā</string>
+    <string name="powersaver_feature_wifi">WLAN izslēgts</string>
+    <string name="install_wapi_certs">Instalēt WLAN sertifikātus</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Pārvaldīt WLAN, Bluetooth, lidmašīnas režīmu, mobilos tīklus un VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Ieslēgt WLAN savienojumu</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN iestatījumi</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Atlasīt WLAN tīklu</string>
+    <string name="wifi_starting">Notiek WLAN savienojuma ieslēgšana...</string>
+    <string name="wifi_stopping">Notiek WLAN savienojuma izslēgšana…</string>
+    <string name="wifi_poor_network_detection_summary">Nelietot WLAN tīklu, ja vien tam nav laba interneta savienojuma</string>
+    <string name="wifi_scan_always_available_summary">Atļaut Google atrašanās vietas pakalpojumam un citām lietotnēm meklēt tīklus, pat ja WLAN savienojums ir izslēgts.</string>
+    <string name="wifi_scan_notify_text_location_on">Atrašanās vietas noteikšanas precizitātes uzlabošanai un citiem nolūkiem Google un citas lietotnes var meklēt tuvumā esošos tīklus pat tad, kad WLAN ir izslēgts. Ja to nevēlaties, atveriet Papildu > Meklēšana vienmēr pieejama.</string>
+    <string name="wifi_scan_notify_text_location_off">Lietotnes var meklēt tuvumā esošos tīklus pat tad, kad WLAN ir izslēgts. Ja to nevēlaties, atveriet Papildu > Meklēšana vienmēr pieejama.</string>
+    <string name="wifi_setting_sleep_policy_title">Neizslēgt WLAN miega režīmā</string>
+    <string name="wifi_suspend_optimizations">WLAN optimizācija</string>
+    <string name="wifi_suspend_optimizations_summary">Samazināt akumulatora lietojumu, kad WLAN savienojums ir ieslēgts</string>
+    <string name="wifi_access_points">WLAN tīkli</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Lai skatītu pieejamos tīklus, ieslēdziet WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Notiek WLAN tīklu meklēšana…</string>
+    <string name="wifi_empty_list_user_restricted">Jums nav atļaujas mainīt WLAN tīklu</string>
+    <string name="wifi_required_info_text">Lai pabeigtu iestatīšanu, planšetdatoram ir nepieciešams WLAN savienojums. Pēc iestatīšanas varat pārslēgties starp mobilo tīklu un WLAN tīklu.</string>
+    <string name="wifi_wps_setup_title">WLAN aizsargātā iestatīšana</string>
+    <string name="wifi_wps_onstart_pbc">Nospiediet maršrutētāja pogu, kas paredzēta WLAN aizsargātajai iestatīšanai. Uz tās var būt rakstīts WPS, vai var būt redzams šāds simbols:</string>
+    <string name="wifi_wps_onstart_pin">Ievadiet WLAN maršrutētājā PIN numuru %1$s. Iestatīšana var ilgt līdz pat divām minūtēm.</string>
+    <string name="wifi_wps_connected">Ir izveidots savienojums ar WLAN tīklu %s.</string>
+    <string name="wifi_wps_in_progress">Jau notiek WLAN aizsargātā iestatīšana, un tās pabeigšana var ilgt divas minūtes.</string>
+    <string name="wifi_scan_always_turnon_message">"Atrašanās vietas noteikšanas precizitātes uzlabošanai un citiem nolūkiem lietotnē %1$s tiek pieprasīts ieslēgt tīkla meklēšanu, pat ja WLAN savienojums ir izslēgts.
+
+Vai atļaut šo darbību visām lietotnēm, kurās tiek pieprasīta meklēšana?"</string>
+    <string name="wifi_connect_failed_message">Tālrunī nevarēja izveidot savienojumu ar WLAN tīklu.</string>
+    <string name="wifi_advanced_titlebar">WLAN papildu iestatījumi</string>
+    <string name="wifi_setting_frequency_band_title">WLAN frekvenču josla</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Portatīvs WLAN tīklājs</string>
+    <string name="wifi_tether_failed_subtext">Portatīvā WLAN tīklāja kļūda</string>
+    <string name="wifi_tether_configure_ap_text">Iestatīt WLAN tīklāju</string>
+    <string name="wifi_tether_configure_subtext">"%1$s portatīvs WLAN tīklājs.
+Drošība: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC adrese</string>
+    <string name="location_mode_high_accuracy_description">Lietot GPS, WLAN un mobilo sakaru tīklus atrašanās vietas noteikšanai</string>
+    <string name="location_mode_battery_saving_description">Lietot WLAN un mobilo sakaru tīklus atrašanās vietas noteikšanai</string>
+    <string name="location_neighborhood_level">Ļaut sūtīt anon. vietas datus uz Google. Ļaut izv. liet. izm. datus no avotiem, piem., WLAN un mob. tīkliem, lai noteiktu vietu.</string>
+    <string name="location_neighborhood_level_wifi">Atrašanās vieta noteikta, izmantojot WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN laikā</string>
+    <string name="bluetooth_on_time">WLAN laikā</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN darbības laiks</string>
+    <string name="usage_type_data_wifi_send">Nosūtīto WLAN datu apjoms</string>
+    <string name="usage_type_data_wifi_recv">Saņemto WLAN datu apjoms</string>
+    <string name="battery_action_wifi">WLAN iestatījumi</string>
+    <string name="battery_desc_wifi">WLAN savienojumam izmantotā akumulatora enerģija</string>
+    <string name="battery_sugg_wifi">Izslēdziet WLAN savienojumu, kad to nelietojat vai tas nav pieejams</string>
+    <string name="gadget_toggle_wifi">Notiek WLAN iestatījuma atjaunināšana</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Dublēt lietotņu datus, WLAN paroles un citus iestatījumus Google serveros</string>
+    <string name="backup_erase_dialog_message">Vai pārtraukt WLAN paroļu, grāmatzīmju, citu iestatījumu un lietotņu datu dublēšanu, kā arī dzēst visas kopijas no Google serveriem?</string>
+    <string name="wifi_setup_title">WLAN iestatīšana</string>
+    <string name="wifi_setup_title_editing_network">Savienojuma izveide ar WLAN tīklu %s</string>
+    <string name="wifi_setup_title_connecting_network">Notiek savienojuma izveide ar WLAN tīklu %s…</string>
+    <string name="wifi_setup_title_connected_network">Ir izveidots savienojums ar WLAN tīklu %s</string>
+    <string name="wifi_setup_eap_not_supported">Iestatīšanas laikā nevar konfigurēt EAP WLAN savienojumu. Pēc iestatīšanas to var izdarīt sadaļā Iestatījumi > Bezvadu savienojumi un tīkli.</string>
+    <string name="wifi_setup_description_connected">Pieskarieties objektam <b>Tālāk</b>", lai turpinātu iestatīšanu.
+
+Pieskarieties objektam "<b>Atpakaļ</b>, lai izveidotu savienojumu ar citu WLAN tīklu.</string>
+    <string name="data_usage_menu_show_wifi">Rādīt WLAN lietojumu</string>
+    <string name="data_usage_disable_wifi_limit">Iestatīt WLAN datu ierobežojumu</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Ja ierobežosit fona mobilo datu lietošanu, dažas lietotnes un pakalpojumi nedarbosies, ja vien netiks izveidots savienojums ar WLAN tīklu.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ja ierobežosit fona mobilos datus, dažas lietotnes un pakalpojumi nedarbosies, ja nebūsit izveidojis savienojumu ar WLAN tīklu.
+
+
+
+Šis iestatījums ietekmē visus šī tālruņa lietotājus."</string>
+    <string name="data_usage_metered_body">Atlasiet WLAN tīklus, kas ir mobilie tīklāji. Lietotnēm var aizliegt izmantot šos tīklus, ja tās darbojas fonā. Lietotnes var brīdināt pirms šo tīklu izmantošanas, lai veiktu lielas lejupielādes.</string>
+    <string name="data_usage_metered_wifi">WLAN tīkli</string>
+    <string name="data_usage_metered_wifi_disabled">Lai atlasītu mobilos tīklājus, ieslēdziet WLAN.</string>
+    <string name="user_add_user_message_long">"Varat koplietot šo ierīci ar citām personām, pievienojot papildu lietotājus. Katram lietotājam ir sava vide, kas ir pielāgojama, izmantojot savas lietotnes, fonus u.c. Lietotāji var arī pielāgot planšetdatora iestatījumus, kuri attiecas uz visiem lietotājiem, piemēram, WLAN.
+
+
+
+Kad ir pievienots jauns lietotājs, viņam ir jāveic iestatīšanas process.
+
+
+
+Ikviens lietotājs var atļaut lietotņu atjaunināšanu citu lietotāju vietā."</string>
+    <string name="restriction_wifi_config_title">WLAN un mobilais tīkls</string>
+    <string name="restriction_wifi_config_summary">Atļaut WLAN un mobilā tīkla iestatījumu pārveidošanu</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN savienots</string>
+    <string name="cw_network_priority">Prioritāte China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN tīkliem tiks noteikta prioritāte pār citiem savienojuma WLAN tīkliem</string>
+    <string name="data_traffic_disabled_text">Nevarēja izveidot savienojumu ar China Telecom WLAN tīkliem, jo ir atspējota datplūsma. Vai iespējot datplūsmu tagad?</string>
+    <string name="location_based_wifi">Atrašanās vietas WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automātiski izveidot savienojumu ar AT&amp;T™ WLAN tīklāju</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. sav. ar AT&amp;T™ WLAN</string>
+    <string name="wifi_calling_mode_title">WLAN zvanīšana</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Mainīt WLAN sertifikātu</string>
+    <string name="wifi_p2p_settings">WLAN Direct iestatījumi</string>
+    <string name="wifi_security_verbose_wapi_cert">Aizsargāts ar WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Aizsargāts ar WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Varat lietot savu ierīci kā Mobile Hotspot. Šādi citas ierīces (maksimums 10) var pievienoties jūsu ierīcei, izmantojot WLAN tīklu. Pievienotās ierīces var piekļūt internetam, izmantojot jūsu tālruņa mobilā tīkla savienojumu. Mobile Hotspot izmanto mobilos datus un var radīt papildu izmaksas.
+
+Mobile Hotspot patērē vairāk akumulatora enerģijas. Pievienojiet ierīci rozetei, lai akumulators darbotos ilgāk."</string>
+    <string name="wifi_tether_settings_subtext">Iestatīt un pārvaldīt portatīvo WLAN tīklāju</string>
+    <string name="wifi_tether_settings_text">Portatīvā WLAN tīklāja iestatījumi</string>
+    <string name="wifi_wps_category_title">WLAN tīkla iestatīšana</string>
+    <string name="cw_network_notification">Iespējot CT WLAN paziņojumu</string>
+    <string name="stamina_xssm_summary">Atspējo mobilos datus un WLAN, ja ir izslēgts ekrāns</string>
+    <string name="tethering_no_sim_warning_txt">Lūdzu, ievietojiet SIM karti, lai tālruņa datu savienojumu kopīgotu ar citām ierīcēm, izmantojot mobilo WLAN tīklāju vai USB saistīšanu interneta piekļuvei.</string>
+    <string name="wifi_offload_checkbox_summary">Atverot lietotnes, paziņot man, ja ir pieejams WLAN</string>
+    <string name="wifi_offload_checkbox_title">Rādīt WLAN uznirst. paziņoj.</string>
+    <string name="wifi_offload_notify_available_networks">WLAN paziņojumi</string>
+    <string name="wifi_offload_notify_available_networks_summary">Paziņot man, ja ir pieejami WLAN tīkli</string>
+    <string name="wifi_offload_option_title">Pieejami WLAN tīkli</string>
+</resources>

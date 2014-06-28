@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">グローバルポジショニングシステム（GPS）または基地局やWLANなどのネットワーク情報源を使用して正確な位置情報を取得することをアプリに許可します。これらの位置情報サービスはONの状態にして、機器でアプリがサービスを利用できるようにする必要があります。アプリはこの位置情報を利用してユーザーの現在地を特定できます。また、これにより電池の消費量が増える可能性があります。</string>
+    <string name="permdesc_accessCoarseLocation">ユーザーのおおよその位置情報を取得することをアプリに許可します。この位置情報はネットワーク位置情報源(基地局やWLANなど)を利用した位置情報サービスから取得されます。これらの位置情報サービスはONの状態にして、機器でアプリがサービスを利用できるようにする必要があります。アプリはこの位置情報を利用してユーザーのおおよその現在地を特定できます。</string>
+    <string name="permlab_configureWifiDisplay">WLANディスプレイの設定</string>
+    <string name="permdesc_configureWifiDisplay">WLANディスプレイを設定して接続することをアプリに許可します。</string>
+    <string name="permlab_controlWifiDisplay">WLANディスプレイの制御</string>
+    <string name="permdesc_controlWifiDisplay">WLANディスプレイの低レベル機能を制御することをアプリに許可します。</string>
+    <string name="permlab_accessWifiState">WLAN接続の表示</string>
+    <string name="permdesc_accessWifiState">WLANがONになっているかどうか、接続されているWLAN機器の名前など、WLANネットワークに関する情報を表示することをアプリに許可します。</string>
+    <string name="permlab_changeWifiState">WLANからの接続と切断</string>
+    <string name="permdesc_changeWifiState">WLANアクセスポイントへの接続/切断、WLANネットワークの機器設定の変更をアプリに許可します。</string>
+    <string name="permlab_changeWifiMulticastState">WLANマルチキャストの受信を許可する</string>
+    <string name="permdesc_changeWifiMulticastState">マルチキャストアドレスを使用して、この携帯電話だけでなくWLANネットワーク上のすべての機器に送信されたパケットを受信することをアプリに許可します。マルチキャスト以外のモードよりも電池の消費量が大きくなります。</string>
+    <string name="wifi_available_sign_in">WLANネットワークにログイン</string>
+    <string name="wifi_watchdog_network_disabled">WLANに接続できませんでした</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Directの操作を開始します。これによりWLANクライアント/アクセスポイントの操作がOFFになります。</string>
+    <string name="wifi_p2p_failed_message">WLAN Directを開始できませんでした</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN DirectはONです</string>
+    <string name="wifi_p2p_frequency_conflict_message">携帯電話が%1$sに接続されている間は一時的にWLAN接続が切断されます。</string>
+    <string name="data_usage_wifi_limit_title">WLANデータが無効になりました</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLANデータの上限を超えました</string>
+    <string name="policylab_disableWifi">WLAN接続を無効</string>
+    <string name="policydesc_disableWifi">機器でWLAN接続を使用できないようにします。</string>
+    <string name="wifi_disabled_notification_title">WLAN接続は制限されています</string>
+    <string name="wifi_disabled_notification_message">セキュリティポリシーにより、WLANの使用が制限されています。</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLANローミング中...</string>
+    <string name="ct_cplusw_notification_text">China TelecomのWLANネットワークに接続しました。料金情報に関しては10000番に電話するか、窓口までお問い合わせください。未使用時は接続を解除してください。</string>
+    <string name="ct_cplusw_notification_title">China TelecomのWLANに接続済み</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">China TelecomのWLANネットワークに接続されます。料金の詳細につきましては、China Telecomのカスタマーサービスにお問い合わせください。続行しますか?</string>
+    <string name="wifi_nonconcurrency_message">WLANクライアントの操作を開始します。これによりWLAN Directの接続を解除します。</string>
+    <string name="wifi_noncuncurrency_message">WLANクライアントの操作を開始します。これによりWLAN Directの接続を解除します。</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">WLAN接続はすべて解除されます</string>
+    <string name="wifi_p2p_nonconcurrency_message">WLAN Directの操作を開始します。これによりWLAN接続を解除します。</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">この操作によりすべてのWLAN接続を解除します</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Directの操作を開始します。これによりWLAN接続を解除します。</string>
+    <string name="tethered_notification_message_wifi">WLANをONに切り替えるにはモバイルホットスポットをOFFにしてください</string>
+    <string name="tethered_notification_title_wifi">WLANがOFFです</string>
+</resources>

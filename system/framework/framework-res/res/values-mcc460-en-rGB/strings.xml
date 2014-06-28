@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Allows the app to get your precise location using the Global Positioning System (GPS) or network location sources such as mobile towers and WLAN. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine where you are, and may consume additional battery power.</string>
+    <string name="permdesc_accessCoarseLocation">Allows the app to get your approximate location. This location is derived by location services using network location sources such as mobile towers and WLAN. These location services must be turned on and available to your device for the app to use them. Apps may use this to determine approximately where you are.</string>
+    <string name="permlab_configureWifiDisplay">configure WLAN displays</string>
+    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to WLAN displays.</string>
+    <string name="permlab_controlWifiDisplay">control WLAN displays</string>
+    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of WLAN displays.</string>
+    <string name="permlab_accessWifiState">view WLAN connections</string>
+    <string name="permdesc_accessWifiState">Allows the app to view information about WLAN networking, such as whether WLAN is enabled and name of connected WLAN devices.</string>
+    <string name="permlab_changeWifiState">connect and disconnect from WLAN</string>
+    <string name="permdesc_changeWifiState">Allows the app to connect to and disconnect from WLAN access points and to make changes to device configuration for WLAN networks.</string>
+    <string name="permlab_changeWifiMulticastState">allow WLAN Multicast reception</string>
+    <string name="permdesc_changeWifiMulticastState">Allows the app to receive packets sent to all devices on a WLAN network using multicast addresses, not just your phone. It uses more power than the non-multicast mode.</string>
+    <string name="wifi_available_sign_in">Sign in to WLAN network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to WLAN"</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Start WLAN Direct. This will turn off WLAN client/hotspot.</string>
+    <string name="wifi_p2p_failed_message">"Couldn't start WLAN Direct."</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct is on</string>
+    <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from WLAN while it's connected to %1$s"</string>
+    <string name="data_usage_wifi_limit_title">WLAN data disabled</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN data limit exceeded</string>
+</resources>

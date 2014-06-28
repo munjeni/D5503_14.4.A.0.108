@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Համամիասնական կանչ մասնակիցներ</string>
+    <string name="call_barring_settings">Կանչերի արգելափակման պարամետրեր</string>
+    <string name="data_enabled">Բջջային տվյալների տրաֆիկ</string>
+    <string name="add_fdn_contact">Հավելել ֆիքսված հավաքման կոնտակտ</string>
+    <string name="delete_fdn_contact">Ջնջել ֆիքսված հավաքման կոնտակտը</string>
+</resources>

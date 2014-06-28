@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وحدة التحكم في الوضع الاقتصادي</string>
+    <string name="dont_ask_me_again_txt">لا تسألني مجددا</string>
+    <string name="description_msg_txt">"عند إيقاف تشغيل الشاشة، فسيتم تعطيل شبكة Wi-Fi وبيانات النقال بشكل مؤقت، بينما ستكون أغلب التطبيقات غير نشطة. وستظل تتلقى مكالمات هاتفية ورسائل SMS/MMS وإشعارات تقويم Sony™‎ وإشارات تنبيه Sony™‎. كما سيعمل مشغل الموسيقى وراديو FM، بينما سيسمح لك بإنهاء عمليات الإنزال والتحميل قيد التقدم.
+
+أما عند تشغيل الشاشة، فسيعمل هاتفك بشكل طبيعي.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"عند انطفاء الشاشة، سيتم تعطيل Wi-Fi وبيانات النقال مؤقتًا، وستكون أغلب التطبيقات غير نشطة. وستظل تستقبل الرسائل القصيرة/رسائل MMS، وإشعارات تقويم Sony™‎، وإشارات تنبيه Sony™‎. وسيعمل مشغل الموسيقى وراديو FM، كما سيتم السماح بإتمام عمليات الإنزال والتحميل قيد التقدم.
+
+عند تشغيل الشاشة، سيعمل جهازك بصورة عادية."</string>
+    <string name="description_msg_no_telephony_txt">"عند انطفاء الشاشة، سيتم تعطيل Wi-Fi مؤقتًا، وستكون أغلب التطبيقات غير نشطة. وستظل تستقبل إشعارات تقويم Sony™‎، وإشارات تنبيه Sony™‎. وسيعمل مشغل الموسيقى وراديو FM، كما سيتم السماح بإتمام عمليات الإنزال والتحميل قيد التقدم.
+
+عند تشغيل الشاشة، سيعمل جهازك بصورة عادية."</string>
+    <string name="description_title_txt">ملاحظة!</string>
+    <string name="low_battery_mode_description_msg_txt">"قم بتمكين وضع شحن البطارية المنخفض لإيقاف تشغيل الميزات والإعدادات التي تستهلك الطاقة عندما تكون البطارية دون مستوى معين مسبقًا. انقر فوق وضع شحن البطارية المنخفض لتغيير الإعدادات.
+"</string>
+    <string name="activate_txt">تنشيط</string>
+    <string name="cancel_txt">إلغاء</string>
+    <string name="xssm_blocker_detector_title">نصيحة حول إدارة الطاقة</string>
+    <string name="xssm_blocker_detector_msg">يحول %s دون قيام وضع STAMINA بتوفير الطاقة في وضع الاستعداد</string>
+    <string name="xssm_blocker_detector_long_msg">إذا كنت تستخدم هذا التطبيق بكثرة، فتجاهل هذا التحذير. وإلا، فقم بإزالة تثبيت التطبيق أو فرض إيقافه.</string>
+    <string name="xssm_blocker_detector_ignore">فهمت. عدم إظهار ذلك مرة أخرى.</string>
+    <string name="network_detector_msg">يرسل %s البيانات ويستلمها أثناء إيقاف تشغيل الشاشة ويتسبب في تفريغ البطارية بسرعة أكبر.</string>
+    <string name="network_detector_long_msg">قد تؤدي إزالة تثبيته إلى تحسين أداء الجهاز وإطالة عمر البطارية.</string>
+    <string name="wakelock_detector_msg">لم يتم استخدام %s طوال عدة أسابيع.</string>
+    <string name="wakelock_detector_long_msg">قد يؤدي لتنبيه الجهاز من وضع الاستعداد. أما إزالة تثبيته فقد تحسن من أداء الجهاز وتطيل عمر البطارية.</string>
+    <string name="notification_title_xssm">نصيحة حول إدارة الطاقة</string>
+    <string name="notification_text_xssm">تنشيط وضع STAMINA</string>
+    <string name="notification_descr_xssm">غالبًا ما يكون جهازك في وضع الاستعداد. يمكنك مد فترة بقاء البطارية عن طريق تنشيط وضع STAMINA.</string>
+    <string name="notification_dont_show_again">فهمت. عدم إظهار ذلك مرة أخرى.</string>
+    <string name="notification_title_ps">نصيحة حول إدارة الطاقة</string>
+    <string name="notification_text_ps">تنشيط وضع شحن البطارية المنخفض</string>
+    <string name="notification_descr_ps">يمكن لوضع شحن البطارية المنخفض مد فترة بقاء البطارية على سبيل المثال عن طريق إيقاف تشغيل Wi-Fi أو تقليل مستوى سطوع الشاشة عند انخفاض مستوى شحن البطارية.</string>
+    <string name="notification_title_lbw">نصيحة حول إدارة الطاقة</string>
+    <string name="notification_text_lbw">تنشيط تقنية Wi-Fi قائمة على الموقع</string>
+    <string name="notification_descr_lbw">تم تشغيل Wi-Fi، إلا أنها لم تستخدم منذ فترة. يمكنك توفير الطاقة عن طريق تنشيط تقنية Wi-Fi القائمة على الموقع.</string>
+    <string name="unused_application_title">نصيحة لإدارة الطاقة</string>
+    <string name="unused_application_msg">لم يتم استخدام %s لبعض الوقت</string>
+    <string name="unused_application_long_msg">إذا كنت ترغب في الإبقاء على هذا التطبيق، فتجاهل هذا التحذير. وإذا لم يكن الأمر كذلك، فقم بإلغاء تثبيت التطبيق.</string>
+    <string name="unused_application_ignore">لقد تلقيته. لا تعرضه مجددًا.</string>
+    <string name="drain_dialog_title_txt">البطارية لا تشحن</string>
+    <string name="drain_dialog_text_usb_txt">مصدر الطاقة المتصل غير كافٍ. حيث يتم تفريغ البطارية بسرعة أكبر من سرعة شحنها. يرجى التغيير إلى شاحن التيار المتردد.</string>
+    <string name="drain_dialog_text_wallcharger_txt">مصدر الطاقة المتصل غير كافٍ. حيث يتم تفريغ البطارية بسرعة أكبر من سرعة شحنها. قلل من استخدامك للجهاز أثناء الشحن.</string>
+    <string name="extend_battery_tip_dialog_headar">تلميح إدارة الطاقة</string>
+    <string name="location_based_wifi_tip_dialog">‏Wi-Fi قيد التشغيل ولكنها لم تستخدم لفترة. يمكنك توفير الطاقة عن طريق تنشيط Wi-Fi التي تستند إلى الموقع. إعداد Wi-Fi التي تستند إلى الموقع؟</string>
+    <string name="low_battery_mode_tip_dialog">قد يطيل وضع شحن البطارية المنخفض عمر البطارية، على سبيل المثال، عن طريق إيقاف تشغيل Wi-Fi أو تقليل سطوع الشاشة عند انخفاض شحن البطارية. إعداد وضع شحن البطارية المنخفض؟</string>
+    <string name="stamina_mode_tip_dialog">يكون جهازك في وضع الاستعداد كثيرًا. قم بإطالة عمر البطارية عن طريق تنشيط وضع STAMINA. إعداد وضع STAMINA؟</string>
+    <string name="bad_app_notification">يستنزف التطبيق التالي طاقة البطارية:</string>
+    <string name="bad_standby_app_dialog">يحول %s دون توفير وضع STAMINA للطاقة في وضع الاستعداد. إذا كنت تستخدم هذا التطبيق كثيرًا، فتجاهل هذا التحذير. إذا لم يكن الأمر كذلك، فانقر فوق زر معلومات التطبيق وقم بإزالة تثبيته أو إيقافه قسرًا.</string>
+    <string name="ignore_dialog_action">تجاهل</string>
+    <string name="app_info_dialog_action">معلومات التطبيق</string>
+    <string name="stamina_activation_notification">تم تنشيط وضع STAMINA</string>
+    <string name="lowbattery_trigger_level_notification">مستوى شحن البطارية منخفض %d%%</string>
+    <string name="lowbattery_activated_notification">نُشط وضع شحن البطارية المنخفض</string>
+    <string name="app_not_used_notification">لم يتم استخدام هذا التطبيق لفترة:</string>
+    <string name="app_not_used_tip_dialog">لم يتم استخدام %s لفترة. نوصيك بإزالة تثبيت التطبيق لتوفير الطاقة.</string>
+    <string name="no_action_dialog">لا</string>
+    <string name="yes_action_dialog">نعم</string>
+    <string name="widget_remaining_battery_time">زمن البطارية المقدّر</string>
+    <string name="widget_name">وضع STAMINA</string>
+</resources>

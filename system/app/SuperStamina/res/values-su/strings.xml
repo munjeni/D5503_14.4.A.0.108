@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Remot Moda Eko "</string>
+    <string name="dont_ask_me_again_txt">Tong nanya deui</string>
+    <string name="description_msg_txt">"Waktos layarna pareum, Wi-Fi sareng data seluler samentawis pareum, sareng ampir sadayana aplikasi henteu aktif. Anjeun angger tiasa nampi sauran telepon, talatah SMS/MMS sareng wawaran almanak Sony™ sareng tangara alarm Sony™. Pamuter musik sareng radio FM tiasa hurung, undeuran sareng unggahan nuju lumangsung tiasa direngsekeun.
+
+Waktos layar hurung, kagunaan telepon anjeun tiasa normal deui.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Waktos layar pareum, Wi-Fi sareng data seluler bakal saheulaanan nonaktip sareng hampir sadaya aplikasi moal aktip. Anjeun bakal tetep narima talatah SMS/MMS, bewara almenak Sony™ sareng sinyal alarm Sony™. Pamuter musik sareng radiio FM bakal jalan sareng undeuran sareng punggahan keur maju bakal diidinan jang dianggeuskeun.
+
+Waktos layar hurung, alat anjeun bakal ngafungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Waktos layar pareum, Wi-Fi bakal saheulaanan nonaktip, sareng hampir sadaya aplikasi bakal moal aktip. Anjeun tetep bakal narima bewara almenak Sony™ sareng sinyal alarm Sony™. Pamuter musik sareng radio FM bakal jalan, undeuran sareng punggahan keur maju bakal diidinan jang direngsekeun.
+
+Waktos layar hurung, alat anjeun bakal ngapungsi normal."</string>
+    <string name="description_title_txt">Catetan!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktipkeun modeu batere Lemah jang mareuman fitur sareng setelan nu make daya waktos batere dihandap tingkat nu ditetepkeun. Ketok modeu batere lemah jang ngarobah setelan.
+"</string>
+    <string name="activate_txt">Aktipkeu</string>
+    <string name="cancel_txt">Batal</string>
+    <string name="xssm_blocker_detector_title">Tip pangaturan daya</string>
+    <string name="xssm_blocker_detector_msg">%s Nyegah modeu STAMINA ti daya disimpen dina sayaga</string>
+    <string name="xssm_blocker_detector_long_msg">Lamun Anjeun sering ngagunakeun aplikasi ieu, ingkeun ati-ati ieu. Lamun henteu, copot pasangan atanapi ereunkeun paksa aplikasi.</string>
+    <string name="xssm_blocker_detector_ignore">Meunangkeun. Ulah tampilkeun.</string>
+    <string name="network_detector_msg">%s ngirim jeung narima data salila layar pareum jeung nyebabkeun batre gancang beak.</string>
+    <string name="network_detector_long_msg">Coplokkeun pamasangan manawi bakal ningkatekun kinerja jeung nambah waktos batre.</string>
+    <string name="wakelock_detector_msg">%s teu dipake dina sababaraha minggu.</string>
+    <string name="wakelock_detector_long_msg">Ngahudangkeun alat dina modeu sayagi. Coplokkeun pamasangan manawi bakal ningkatkeun kinerja alat sareng nambah waktos batre.</string>
+    <string name="notification_title_xssm">Tip pangaturan daya</string>
+    <string name="notification_text_xssm">Aktipkeun modeu STAMINA</string>
+    <string name="notification_descr_xssm">Alat Anjeun sering dina setelan sayaga. Tambah waktos batere sareng aktipkeun modeu STAMINA.</string>
+    <string name="notification_dont_show_again">Meunangkeun. Ulah tampilkeun</string>
+    <string name="notification_title_ps">Tip pangaturan daya</string>
+    <string name="notification_text_ps">Aktipkeun setelan batere lemah</string>
+    <string name="notification_descr_ps">Setelan batere lemah tiasa nambah hirup batere contona pareuman Wi-Fi atanapu kurangan caang layar waktos batere lemah.</string>
+    <string name="notification_title_lbw">Tip pangaturan daya</string>
+    <string name="notification_text_lbw">Aktipkeun Wi-Fi dumasar lokasi</string>
+    <string name="notification_descr_lbw">Wi-Fi hurung tapi teu digunakeun saheulaanan. Simpen daya sareng aktipkeun Wi-Fi dumasar lokasi.</string>
+    <string name="unused_application_title">Tip pangaturan daya</string>
+    <string name="unused_application_msg">%s tos teu dipake sababaraha waktos</string>
+    <string name="unused_application_long_msg">Lamun anjeun bade tetep nyimpen aplikasi ieu, antepkeun ati-ati ieu. Lamun teu, buka pamasangan aplikasi.</string>
+    <string name="unused_application_ignore">Beunang. Ulah pinton deui.</string>
+    <string name="drain_dialog_title_txt">Batre teu ngeusi batre</string>
+    <string name="drain_dialog_text_usb_txt">Sumber batre nu nyambung teu cekap. Batre ngurangan leuwih gancang dibandingkeun ngeusi batre. Harep robah carger AC anjeun.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Sumber daya nu nyambung teu cekap. Batre ngurangan leuwih gancang dibandingkeun ngeusi batre. Leutikan pamake alat anjeun waktos ngeusi batre.</string>
+    <string name="extend_battery_tip_dialog_headar">Tip pangaturan daya</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi hurung tapi tos teu dipake saheulaanan. Anjeun tiasa simpen daya ku cara ngaktipkeun Wi-Fi dumasar Lokasi. Atur Wi-Fi dumasar Lokasi?</string>
+    <string name="low_battery_mode_tip_dialog">Modeu batre lemah tiasa nambah hirup batere ku cara misal. pareuman Wi-Fi atanapi ngurangan caang waktos batere lemah. Atur modeu Batre lemah?</string>
+    <string name="stamina_mode_tip_dialog">Alat anjeun sering dina modeu sayaga. Nambah waktos batre ku cara ngaktipkeun modeu STAMINA. Atur modeu STAMINA?</string>
+    <string name="bad_app_notification">Aplikasi nu ieu ngabeakeun batre:</string>
+    <string name="bad_standby_app_dialog">%s nyegah modeu STAMINA ti simpen daya dina sayaga. Lamun anjeun sering make aplikasi ieu, acuhkeun ati-ati ieu. Lamun henteu, ketok kenop Info Aplikasi sareng cabut pamasangan atanapi ereunkeun paksa aplikasi.</string>
+    <string name="ignore_dialog_action">Acuhkeun</string>
+    <string name="app_info_dialog_action">Inpo aplikasi</string>
+    <string name="stamina_activation_notification">modeu STAMINA diaktipkeun</string>
+    <string name="lowbattery_trigger_level_notification">Tingkat batre dihandap %d%%</string>
+    <string name="lowbattery_activated_notification">Modeu batre lemah diaktipkeun</string>
+    <string name="app_not_used_notification">Aplikasi ieu tos teu dipake saheulaanan:</string>
+    <string name="app_not_used_tip_dialog">%s tos teu dipake saheulaanan. Kami nyarankeun yen anjeun cabut pamasangan aplikasi jang simpen daya..</string>
+    <string name="no_action_dialog">Henteu</string>
+    <string name="yes_action_dialog">Sumuhun</string>
+    <string name="widget_remaining_battery_time">Kinten - kinten waktos batre</string>
+    <string name="widget_name">modeu STAMINA</string>
+</resources>

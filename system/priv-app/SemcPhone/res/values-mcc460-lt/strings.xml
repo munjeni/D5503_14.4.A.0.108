@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Jei nenaudosite „WLAN“, nebegalėsite naudotis internetu, el. paštu arba kitomis programomis, kurioms reikalingas duomenų ryšys. Išjungti mobilųjį duomenų ryšį?</string>
+    <string name="sip_call_options_wifi_only_title">Skambinimo internetu naudojim. (tik „WLAN“)</string>
+    <string name="registration_status_no_wifi_data">Nėra „WLAN“ ryšio. Nepavyko užregistruoti paskyros.</string>
+    <string name="no_wifi_available_title">Nėra „WLAN“ ryšio</string>
+    <string name="no_wifi_available">Jei norite skambinti internetu, turite būti prisijungę prie „WLAN“ tinklo (eikite į „Nustatymai“ > „Belaidžiai tinklai ir tinklai“).</string>
+</resources>

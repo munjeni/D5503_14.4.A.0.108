@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eco mode controller</string>
+    <string name="description_msg_txt">"When the screen is off, Wi-Fi and mobile data will be temporarily disabled and most applications will be inactive. You will still receive phone calls, SMS/MMS messages and Sony™ calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your phone will function normally.
+"</string>
+    <string name="description_msg_no_telephony_txt">"When the screen is off, Wi-Fi will be temporarily disabled, and most applications will be inactive. You will still receive Sony™ calendar notifications and Sony™ alarm signals. The music player and FM radio will work, and downloads and uploads in progress will be allowed to finish.
+
+When the screen is on, your device will function normally."</string>
+    <string name="low_battery_mode_description_msg_txt">"Enable Low-battery mode to turn off power-consuming features and settings when the battery is below a preset level. Tap Low-battery mode to change settings.
+"</string>
+    <string name="xssm_blocker_detector_long_msg">If you use this application often, ignore this warning. If not, uninstall or force-stop the application.</string>
+    <string name="xssm_blocker_detector_ignore">"Ok. Don't show again."</string>
+    <string name="network_detector_msg">%s is sending and receiving data while the screen is off and causing the battery to drain faster.</string>
+    <string name="wakelock_detector_msg">%s has not been used for several weeks.</string>
+    <string name="wakelock_detector_long_msg">It may wake up the device from standby mode. Uninstalling it may improve device performance and extend battery time.</string>
+    <string name="notification_dont_show_again">"Ok. Don't show again."</string>
+    <string name="notification_text_ps">Activate Low-battery mode</string>
+    <string name="notification_descr_ps">Low-battery mode can extend battery life by e.g. turning off Wi-Fi or reducing screen brightness when the battery is low.</string>
+    <string name="unused_application_ignore">"OK. Don't show again."</string>
+    <string name="drain_dialog_text_usb_txt">The connected power source is not sufficient. The battery is draining faster than it is charging. Please switch to your AC charger.</string>
+    <string name="drain_dialog_text_wallcharger_txt">The connected power source is not sufficient. The battery is draining faster than it is charging. Minimise your device usage while charging.</string>
+    <string name="extend_battery_tip_dialog_headar">Power-management tip</string>
+    <string name="low_battery_mode_tip_dialog">Low-battery mode can extend battery life by e.g. turning off Wi-Fi or reducing screen brightness when battery is low. Set up Low-battery mode?</string>
+    <string name="lowbattery_activated_notification">Low-battery mode activated</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_tether_settings_text">Установки портативної точки доступу Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">Програми, активні в режимі очікування</string>
+    <string name="auto_hide_notifications_title">Очищати переглянуті сповіщення</string>
+</resources>

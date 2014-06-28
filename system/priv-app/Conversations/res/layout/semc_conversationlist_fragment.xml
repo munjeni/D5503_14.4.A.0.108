@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center" android:id="@id/conversationlist_emptytext_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/conversations_strings_conversationlist_empty_list_normal_txt" android:textAlignment="center" android:paddingStart="@dimen/generic_left_margin" android:paddingEnd="@dimen/generic_right_margin" />
+    <com.sonyericsson.conversations.ui.SafeListView android:id="@id/conversationlist_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

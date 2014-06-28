@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Ĉόăґšę ĺόċăтϊόи</item>
+        <item>Γϊиę ĺόċăтϊόи</item>
+        <item>ĞρȘ</item>
+        <item>νϊτґăтę</item>
+        <item>Яęăď ċόитăċтš</item>
+        <item>Ḿόďϊƒỳ ċόитăċтš</item>
+        <item>Яęăď ċăĺĺ ĺόĝ</item>
+        <item>Ḿόďϊƒỳ ċăĺĺ ĺόĝ</item>
+        <item>Яęăď ċăĺęиďăґ</item>
+        <item>Ḿόďϊƒỳ ċăĺęиďăґ</item>
+        <item>ẄŁÅŃ šċăи</item>
+        <item>Ńόтϊƒϊċăтϊόи</item>
+        <item>Ĉęĺĺ šċăи</item>
+        <item>Ĉăĺĺ ρћόиę</item>
+        <item>Яęăď ȘḾȘ</item>
+        <item>Ẅґϊтę ȘḾȘ</item>
+        <item>ґęċęϊVę ȘḾȘ</item>
+        <item>ЯęċęϊVę ęḿęґĝęиċỳ ȘḾȘ</item>
+        <item>ЯęċęϊVę ḾḾȘ</item>
+        <item>ЯęċęϊVę ẄÅρ ρΰšћ</item>
+        <item>Șęиď ȘḾȘ</item>
+        <item>Яęăď ЇĈĈ ȘḾȘ</item>
+        <item>Ẅґϊтę ЇĈĈ ȘḾȘ</item>
+        <item>Ḿόďϊƒỳ šęттϊиĝš</item>
+        <item>Đґăẅ όи тόρ</item>
+        <item>Åċċęšš иόтϊƒϊċăтϊόиš</item>
+        <item>Ĉăḿęґă</item>
+        <item>Яęċόґď ăΰďϊό</item>
+        <item>ρĺăỳ ăΰďϊό</item>
+        <item>Яęăď ċĺϊρτόăґď</item>
+        <item>Ḿόďϊƒỳ ċĺϊρτόăґď</item>
+        <item>ḿęďϊă τΰттόиš</item>
+        <item>ăΰďϊό ƒόċΰš</item>
+        <item>ḿăšтęґ Vόĺΰḿę</item>
+        <item>Vόϊċę Vόĺΰḿę</item>
+        <item>ґϊиĝ Vόĺΰḿę</item>
+        <item>ḿęďϊă Vόĺΰḿę</item>
+        <item>ăĺăґḿ Vόĺΰḿę</item>
+        <item>иόтϊƒϊċăтϊόи Vόĺΰḿę</item>
+        <item>τĺΰęтόόтћ Vόĺΰḿę</item>
+        <item>ĸęęρ ăẅăĸę</item>
+        <item>ḿόиϊтόґ ĺόċăтϊόи</item>
+        <item>ḿόиϊтόґ ћϊĝћ ρόẅęґ ĺόċăтϊόи</item>
+        <item>ẅϊƒϊ ċћăиĝę</item>
+        <item>τĺΰęтόόтћ ċћăиĝę</item>
+        <item>ďăтă ċћăиĝę</item>
+        <item>šęиď ḾḾȘ</item>
+        <item>ґęăď ḾḾȘ</item>
+        <item>ẅґϊтę ḾḾȘ</item>
+        <item>ăΰтό šтăґт</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Łόċăтϊόи</item>
+        <item>Łόċăтϊόи</item>
+        <item>Łόċăтϊόи</item>
+        <item>νϊτґăтę</item>
+        <item>Яęăď ċόитăċтš</item>
+        <item>Ḿόďϊƒỳ ċόитăċтš</item>
+        <item>Яęăď ċăĺĺ ĺόĝ</item>
+        <item>Ḿόďϊƒỳ ċăĺĺ ĺόĝ</item>
+        <item>Яęăď ċăĺęиďăґ</item>
+        <item>Ḿόďϊƒỳ ċăĺęиďăґ</item>
+        <item>Łόċăтϊόи</item>
+        <item>ρόšт иόтϊƒϊċăтϊόи</item>
+        <item>Łόċăтϊόи</item>
+        <item>Ĉăĺĺ ρћόиę</item>
+        <item>Яęăď ȘḾȘ/ḾḾȘ</item>
+        <item>Ẅґϊтę ȘḾȘ/ḾḾȘ</item>
+        <item>ЯęċęϊVę ȘḾȘ/ḾḾȘ</item>
+        <item>ЯęċęϊVę ȘḾȘ/ḾḾȘ</item>
+        <item>ЯęċęϊVę ȘḾȘ/ḾḾȘ</item>
+        <item>ЯęċęϊVę ȘḾȘ/ḾḾȘ</item>
+        <item>Șęиď ȘḾȘ/ḾḾȘ</item>
+        <item>Яęăď ȘḾȘ/ḾḾȘ</item>
+        <item>Ẅґϊтę ȘḾȘ/ḾḾȘ</item>
+        <item>Ḿόďϊƒỳ šęттϊиĝš</item>
+        <item>Đґăẅ όи тόρ</item>
+        <item>Åċċęšš иόтϊƒϊċăтϊόиš</item>
+        <item>Ĉăḿęґă</item>
+        <item>Яęċόґď ăΰďϊό</item>
+        <item>ρĺăỳ ăΰďϊό</item>
+        <item>Яęăď ċĺϊρτόăґď</item>
+        <item>Ḿόďϊƒỳ ċĺϊρτόăґď</item>
+        <item>Ḿęďϊă τΰттόиš</item>
+        <item>Åΰďϊό ƒόċΰš</item>
+        <item>Ḿăšтęґ Vόĺΰḿę</item>
+        <item>νόϊċę Vόĺΰḿę</item>
+        <item>Яϊиĝ Vόĺΰḿę</item>
+        <item>Ḿęďϊă Vόĺΰḿę</item>
+        <item>Åĺăґḿ Vόĺΰḿę</item>
+        <item>Ńόтϊƒϊċăтϊόи Vόĺΰḿę</item>
+        <item>βĺΰęтόόтћ Vόĺΰḿę</item>
+        <item>Ķęęρ ăẅăĸę</item>
+        <item>Łόċăтϊόи</item>
+        <item>Łόċăтϊόи</item>
+        <item>ẄŁÅŃ ċћăиĝę</item>
+        <item>βĺΰęтόόтћ ċћăиĝę</item>
+        <item>Đăтă ċћăиĝę</item>
+        <item>Șęиď ḾḾȘ</item>
+        <item>Яęăď ḾḾȘ</item>
+        <item>Ẅґϊтę ḾḾȘ</item>
+        <item>Åΰтό šтăґт</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>ẄŁÅŃ ÅȘĈЇЇ</item>
+        <item>ẄŁÅŃ ћęхăďęċϊḿăĺ</item>
+    </string-array>
+</resources>

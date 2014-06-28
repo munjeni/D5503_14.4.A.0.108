@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Стандартна мережа</item>
+        <item>Сховати номер</item>
+        <item>Показати номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Глобальний</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Лише EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo (автоматично)</item>
+        <item>GSM/WCDMA (автоматично)</item>
+        <item>Лише WCDMA</item>
+        <item>Лише GSM</item>
+        <item>GSM/WCDMA (пріоритет)</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Англійська</item>
+        <item>Французька</item>
+        <item>Іспанська</item>
+        <item>Японська</item>
+        <item>Корейська</item>
+        <item>Китайська</item>
+        <item>Іврит</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Лише WCDMA</item>
+        <item>Лише GSM</item>
+        <item>GSM/WCDMA (рек. WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Лише домашня мережа</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Лише домашні мережі</item>
+        <item>Мережі філіалів</item>
+        <item>Будь-яка мережа</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Лише CDMA</item>
+        <item>Лише EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Вимкнути TTY</item>
+        <item>Повнофункц. телетайп</item>
+        <item>Телетайп HCO</item>
+        <item>Телетайп VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Звичайна</item>
+        <item>Довга</item>
+    </string-array>
+</resources>

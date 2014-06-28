@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dnů</item>
+        <item quantity="one">%d den</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">%d hodina</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+        <item quantity="one">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovat alespoň %d písmen</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno písmeno</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovat alespoň %d písmen malé abecedy</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno písmeno malé abecedy</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovat alespoň %d písmen velké abecedy</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jedno písmeno velké abecedy</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovat alespoň %d číslic</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovat alespoň %d speciálních symbolů</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jeden speciální symbol</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovat alespoň %d nepísmenových znaků</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jeden nepísmenový znak</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
+        <item quantity="one">%d aplikace může číst oznámení</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
+        <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
+        <item quantity="one">Byla nalezena %1$s tiskárna</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Aktuální počet aplikací v seznamu: %d</item>
+        <item quantity="one">Aktuální počet aplikací v seznamu: %1$d</item>
+    </plurals>
+</resources>

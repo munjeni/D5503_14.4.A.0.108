@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s мин-қа дер-р байл-ы жоқ</item>
+        <item quantity="one">%s мин-қа дер-р байл-ы жоқ</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Таңдалған әрекет жедел қоңырау режимінде %s минут болады. Бұл режимде деректер байланысын пайдаланатын ешқандай қолданбалар қолданылмайды. Қазір шыққыңыз келеді ме?</item>
+        <item quantity="one">Телефон жедел қоңырау режимінде %s минут болады. Бұл режимде деректер байланысын пайдаланатын ешқандай қолданбалар қолданылмайды. Қазір шыққыңыз келеді ме?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Таңдалған әрекет жедел қоңырау режимінде қол жетімді емес. Телефон бұл режимде %s минут болады. Қазір шыққыңыз келе ме?</item>
+        <item quantity="one">Таңдалған әрекет жедел қоңырау режимінде қол жетімді емес. Телефон бұл режимде %s минут болады. Қазір шыққыңыз келе ме?</item>
+    </plurals>
+</resources>

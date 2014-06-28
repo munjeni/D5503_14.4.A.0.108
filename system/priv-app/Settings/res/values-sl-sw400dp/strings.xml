@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Podatke v ozadju daj v čakalno vrsto</string>
+    <string name="auto_sync_text">Samodejna sinhronizacija</string>
+    <string name="wifi_tether_settings_text">Nastavitve za prenosno dostopno točko Wi-Fi</string>
+    <string name="stamina_xssm_add_applications_title">Programi, aktivni v načinu pripravljenosti</string>
+</resources>

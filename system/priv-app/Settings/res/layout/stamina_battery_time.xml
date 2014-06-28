@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="16.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="8.0dip" android:paddingEnd="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:id="@id/remaining_time_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/remaining_battery_time" android:shadowRadius="5.0" style="@android:style/TextAppearance.DeviceDefault.Small" />
+    <TextView android:textSize="30.0dip" android:gravity="center" android:id="@id/remaining_battery_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/remaining_time_header" style="@android:style/TextAppearance.DeviceDefault.Large" />
+    <TextView android:gravity="center" android:id="@id/remaining_standby_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:shadowRadius="5.0" android:layout_below="@id/remaining_battery_time" style="@android:style/TextAppearance.DeviceDefault.Small" />
+    <TextView android:textStyle="bold|italic" android:textColor="?android:textColorSecondary" android:gravity="start" android:id="@id/tip_header" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tip" android:layout_below="@id/remaining_standby_time" style="@android:style/TextAppearance.DeviceDefault.Small" />
+    <TextView android:textColor="?android:textColorSecondary" android:gravity="start" android:id="@id/tip_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tip_text" android:layout_below="@id/tip_header" style="@android:style/TextAppearance.DeviceDefault.Small" />
+</RelativeLayout>

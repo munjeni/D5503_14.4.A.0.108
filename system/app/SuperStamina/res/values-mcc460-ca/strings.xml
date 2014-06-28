@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Quan la pantalla estigui desactivada, la WLAN i les dades mòbils s'inhabilitaran temporalment, i bona part de les aplicacions estaran inactives. Continuareu rebent trucades de telèfon, missatges SMS/MMS i notificacions de calendari de Sony™, així com senyals d'alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran, i les baixades i les càrregues en progrés podran finalitzar.
+
+Quan la pantalla estigui activa, el telèfon funcionarà amb normalitat.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Si la pantalla està desactivada, el WLAN i les dades mòbils estaran inhabilitats temporalment i, la majoria de les aplicacions, inactives. Continuareu rebent SMS i MMS, notific. de calendari de Sony™ i alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran i les baixades i càrregues en curs es podran finalitzar.
+
+Si la pantalla està activada, el dispositiu funcionarà correctament."</string>
+    <string name="description_msg_no_telephony_txt">"Si la pantalla està desactivada, la WLAN estarà inhabilitada temporalment i, la majoria de les aplicacions, inactives. Continuareu rebent notificacions de calendari de Sony™ i alarmes de Sony™. El reproductor de música i la ràdio FM funcionaran i les baixades i càrregues en curs es podran finalitzar.
+
+Si la pantalla està activada, el dispositiu funcionarà amb normalitat."</string>
+    <string name="notification_descr_ps">El mode de bateria baixa pot augmentar la durada de la bateria, per exemple mitjançant la desactivació de la WLAN o mitjançant la reducció de la brillantor de la pantalla quan queda poca bateria.</string>
+    <string name="notification_text_lbw">Activeu la WLAN basada en ubicació</string>
+    <string name="notification_descr_lbw">La WLAN està activada però fa una estona que no es fa servir. Podeu estalviar energia si activeu la WLAN basada en ubicació.</string>
+    <string name="location_based_wifi_tip_dialog">La WLAN està activada, però fa temps que no es fa servir. Per estalviar energia, activeu la WLAN basada en la ubicació. Voleu configurar la WLAN basada en la ubicació?</string>
+    <string name="low_battery_mode_tip_dialog">El mode de bateria baixa pot prolongar la bateria, per exemple, si desactiveu la WLAN o reduïu la brillantor quan queda poca bateria. Voleu configurar el mode de bateria baixa?</string>
+</resources>

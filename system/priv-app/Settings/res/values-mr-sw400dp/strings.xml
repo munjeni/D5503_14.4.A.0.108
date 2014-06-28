@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">पार्श्वभूमी डेटा रांग</string>
+    <string name="wifi_tether_settings_text">पोर्टेबल Wi-Fi सोय-स्थळ सेटिंग्ज</string>
+    <string name="stamina_xssm_add_applications_title">राखीवमध्ये सक्रिय असणारे अनुप्रयोग</string>
+</resources>

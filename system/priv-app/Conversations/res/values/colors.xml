@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_right_containt_area_bg_color">#ffffffff</color>
+    <color name="notification_unread_message_default_led_color_white">#ff999999</color>
+    <color name="conversations_list_tablet_content_area_bg_color">#ffffffff</color>
+    <color name="conversations_list_read_header_text_color">#ff333333</color>
+    <color name="conversations_list_read_body_text_color">#ff606060</color>
+    <color name="conversations_list_unread_background_color">#aaffffff</color>
+    <color name="conversations_wallpaper_overlay_color">#33000000</color>
+    <color name="conversation_recv_message_header_subject_text_color">#ffffffff</color>
+    <color name="conversation_recv_message_text_color">#ffffffff</color>
+    <color name="conversation_sent_message_header_subject_text_color">#ff333333</color>
+    <color name="conversation_sent_message_text_color">#ff333333</color>
+    <color name="conversation_sent_message_text_link_color">#ff98d4ff</color>
+    <color name="conversation_message_contrast_color">#ffffffff</color>
+    <color name="conversation_mms_bubble_background">#ffffffff</color>
+    <color name="conversation_editor_attachment_number_of_files_color">#ffffffff</color>
+    <color name="conversation_editor_messaging_disabled_hint_color">#ff000000</color>
+    <color name="conversation_editor_pileview_attachment_item_background_color">#ffffffff</color>
+    <color name="conversation_editor_composer_background_color">#ffffffff</color>
+    <color name="conversation_editor_info_boxes_default_color">#ff000000</color>
+    <color name="conversations_composer_shadow_border_grey">#ffc5c5c5</color>
+</resources>

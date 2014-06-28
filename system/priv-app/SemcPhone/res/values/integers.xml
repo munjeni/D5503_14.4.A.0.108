@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="OtaShowActivationScreen">1</integer>
+    <integer name="OtaShowListeningScreen">0</integer>
+    <integer name="OtaShowActivateFailTimes">0</integer>
+    <integer name="OtaPlaySuccessFailureTone">0</integer>
+    <integer name="config_image_file_default_height">320</integer>
+    <integer name="config_image_file_default_width">320</integer>
+    <integer name="config_bitmap_max_size">4000000</integer>
+    <integer name="config_wake_up_alarm_interval">60000</integer>
+    <integer name="accelerometer_rfpower_backoff_facing_upside_latitude">-85</integer>
+    <integer name="accelerometer_rfpower_backoff_facing_downside_latitude">0</integer>
+    <integer name="accelerometer_rfpower_backoff_facing_downside_longitude">180</integer>
+    <integer name="config_max_preferred_network_mode">-1</integer>
+    <integer name="config_answering_machine_max_auto_answer_timer_sec">120</integer>
+    <integer name="config_answering_machine_auto_answer_timer_sec">13</integer>
+    <integer name="photo_alpha_value_active_call">255</integer>
+    <integer name="photo_alpha_value_held_call">120</integer>
+    <integer name="photo_alpha_value_answering_machine">120</integer>
+    <integer name="incall_screen_supp_notification_toast_height_gravity">300</integer>
+</resources>

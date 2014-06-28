@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/conversation_editor_info_boxes_default_color" />
+    <corners android:radius="@dimen/attachment_info_boxes_corner_radius" />
+    <padding android:left="@dimen/attachment_info_boxes_end_margin" android:top="@dimen/attachment_info_boxes_top_padding" android:right="@dimen/attachment_info_boxes_end_margin" android:bottom="@dimen/attachment_info_boxes_bottom_padding" />
+</shape>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>wibracje</item>
+        <item>odczytywanie kontaktów</item>
+        <item>modyfikowanie kontaktów</item>
+        <item>odczytywanie rejestru połączeń</item>
+        <item>modyfikowanie rejestru połączeń</item>
+        <item>odczytywanie kalendarza</item>
+        <item>modyfikowanie kalendarza</item>
+        <item>skanowanie wi-fi</item>
+        <item>powiadomienie</item>
+        <item>skanowanie bts</item>
+        <item>połączenia telefoniczne</item>
+        <item>odczytywanie SMS-ów</item>
+        <item>zapisywanie SMS-ów</item>
+        <item>odbieranie SMS-ów</item>
+        <item>odbieranie SMS-ów alarmowych</item>
+        <item>odbieranie MMS-ów</item>
+        <item>odbieranie wiadomości WAP push</item>
+        <item>wysyłanie SMS-ów</item>
+        <item>odczytywanie SMS-ów ICC</item>
+        <item>zapisywanie SMS-ów ICC</item>
+        <item>modyfikowanie ustawień</item>
+        <item>rysuj na górze</item>
+        <item>dostęp do powiadomień</item>
+        <item>kamera</item>
+        <item>nagraj dźwięk</item>
+        <item>odtwórz dźwięk</item>
+        <item>czytaj schowek</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimediów</item>
+        <item>aktywność audio</item>
+        <item>głośność główna</item>
+        <item>głośność mowy</item>
+        <item>głośność dzwonka</item>
+        <item>głośność multimediów</item>
+        <item>głośność alarmu</item>
+        <item>głośność powiadomień</item>
+        <item>głośność Bluetooth</item>
+        <item>utrzymanie aktywności</item>
+        <item>monitorowanie lokalizacji</item>
+        <item>monitor wysoki zasilanie lokalizacja</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Alarm wibracyjny</item>
+        <item>Odczytywanie kontaktów</item>
+        <item>Modyfikowanie kontaktów</item>
+        <item>Odczytywanie rejestru połączeń</item>
+        <item>Modyfikowanie rejestru połączeń</item>
+        <item>Odczytywanie kalendarza</item>
+        <item>Modyfikowanie kalendarza</item>
+        <item>Lokalizacja</item>
+        <item>Publikowanie powiadomień</item>
+        <item>Lokalizacja</item>
+        <item>Połączenia telefoniczne</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Wysyłanie SMS-ów/MMS-ów</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Modyfikowanie ustawień</item>
+        <item>Rysowanie na wierzchu</item>
+        <item>Dostęp do powiadomień</item>
+        <item>Aparat</item>
+        <item>Nagrywanie dźwięku</item>
+        <item>Odtwarzanie dźwięku</item>
+        <item>Odczyt ze schowka</item>
+        <item>Modyfikacja schowka</item>
+        <item>Przyciski multimediów</item>
+        <item>Aktywność audio</item>
+        <item>Głośność główna</item>
+        <item>Głośność mowy</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność alarmu</item>
+        <item>Głośność powiadomień</item>
+        <item>Głośność Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

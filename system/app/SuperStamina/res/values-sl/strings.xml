@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontrolnik za način varčevanja</string>
+    <string name="dont_ask_me_again_txt">Ne sprašuj me več</string>
+    <string name="description_msg_txt">"Če je zaslon izklopljen, bosta omrežje Wi-Fi in prenos podatkov prek mobilnega omrežja začasno onemogočena, večina programov pa bo neaktivnih. Še vedno boste prejemali klice, sporočila SMS in MMS, obvestila koledarja Sony™ ter signale alarma Sony™. Predvajalnik glasbe in radio FM bosta delovala, aktivni prenosi pa se bodo lahko dokončali.
+
+Ko je zaslon vklopljen, bo telefon deloval normalno.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Ko je zaslon izklopljen, bosta funkciji Wi-Fi in mobilnih podatkov začasno onemogočeni. Še vedno pa boste prejemali sporočila SMS/MMS, obvestila o koledarju Sony™ in signale alarma Sony™. Uporabljali boste lahko predvajalnik glasbe in radio FM, prenosi in prenosi v strežnik, ki se trenutno izvajajo, pa se bodo dokončali.
+
+Ko je zaslon vklopljen, bo naprava delovala po pričakovanjih."</string>
+    <string name="description_msg_no_telephony_txt">"Ko je zaslon izklopljen, bo funkcija Wi-Fi začasno onemogočena. Še vedno pa boste prejemali obvestila o koledarju Sony™ in signale alarma Sony™. Uporabljali boste lahko predvajalnik glasbe in radio FM, prenosi in prenosi v strežnik, ki se trenutno izvajajo, pa se bodo dokončali.
+
+Ko je zaslon vklopljen, bo naprava delovala po pričakovanjih."</string>
+    <string name="description_title_txt">Opomba</string>
+    <string name="low_battery_mode_description_msg_txt">"V načinu varčevanja z energijo bodo funkcije in nastavitve, ki porabljajo napajanje, izklopljene, ko napolnjenost baterije seže pod vnaprej nastavljeno raven. Če želite nastavitve spremeniti, tapnite način za nizko napolnjenost baterije.
+"</string>
+    <string name="activate_txt">Aktiviraj</string>
+    <string name="cancel_txt">Prekliči</string>
+    <string name="xssm_blocker_detector_title">Namig za upravljanje porabe</string>
+    <string name="xssm_blocker_detector_msg">%s načinu STAMINA preprečuje, da bi varčeval s porabo energije v načinu pripravljenosti</string>
+    <string name="xssm_blocker_detector_long_msg">Če program uporabljate pogosto, prezrite to opozorilo. V nasprotnem primeru ga odstranite ali ga prisilno zaustavite.</string>
+    <string name="xssm_blocker_detector_ignore">Razumem. Tega sporočila ne kaži več.</string>
+    <string name="network_detector_msg">%s pošilja in sprejema podatke, ko je zaslon izklopljen, zaradi česar se baterija hitreje izprazni.</string>
+    <string name="network_detector_long_msg">Če program odstranite, boste morda izboljšali učinkovitost delovanja in podaljšali čas pripravljenosti naprave.</string>
+    <string name="wakelock_detector_msg">Programa %s niste uporabljali že več tednov.</string>
+    <string name="wakelock_detector_long_msg">Program lahko povzroči, da naprava preide iz stanja pripravljenosti. Če ga odstranite, boste morda izboljšali učinkovitost delovanja in podaljšali čas pripravljenosti naprave.</string>
+    <string name="notification_title_xssm">Namig za upravljanje porabe</string>
+    <string name="notification_text_xssm">Aktivirajte način STAMINA</string>
+    <string name="notification_descr_xssm">Vaša naprava je pogosto v načinu pripravljenosti. Vklopite način STAMINA in zagotovite daljši čas pripravljenosti baterije.</string>
+    <string name="notification_dont_show_again">Razumem. Tega sporočila ne kaži več.</string>
+    <string name="notification_title_ps">Namig za upravljanje porabe</string>
+    <string name="notification_text_ps">Aktivirajte način varčevanja z baterijo</string>
+    <string name="notification_descr_ps">Omogočite način varčevanja z baterijo in podaljšali boste življenjsko dobo baterije, saj bo npr. omrežje Wi-Fi izklopljeno, svetlost zaslona pa bo manjša, ko je baterija skoraj prazna.</string>
+    <string name="notification_title_lbw">Namig za upravljanje porabe</string>
+    <string name="notification_text_lbw">Aktivirajte Wi-Fi lokacije</string>
+    <string name="notification_descr_lbw">Omrežje Wi-Fi je vklopljeno, a ga niste dalj časa uporabili. Zmanjšajte porabo baterije tako, da vklopite Wi-Fi lokacije.</string>
+    <string name="unused_application_title">Namig za upravljanje porabe</string>
+    <string name="unused_application_msg">Programa %s niste uporabljali že nekaj časa</string>
+    <string name="unused_application_long_msg">Če ga želite obdržati, prezrite to opozorilo. V nasprotnem primeru odstranite program.</string>
+    <string name="unused_application_ignore">Razumem. Obvestila ne kaži več.</string>
+    <string name="drain_dialog_title_txt">Baterija se ne polni</string>
+    <string name="drain_dialog_text_usb_txt">Vir napajanja, na katerega je priključena naprava, ni zadosten. Baterija se prazni hitreje, kot se polni. Preklopite na napajanje iz omrežja.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Vir napajanja, na katerega je priključena naprava, ni zadosten. Baterija se prazni hitreje, kot se polni. Minimizirajte porabo naprave med polnjenjem.</string>
+    <string name="extend_battery_tip_dialog_headar">Namig za upravljanje porabe</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi je vklopljen, vendar ga niste uporabljali dalj časa. Vklopite Wi-Fi lokacije in zmanjšajte porabo energije. Želite nastaviti Wi-Fi lokacije?</string>
+    <string name="low_battery_mode_tip_dialog">V načinu varčevanja z baterijo podaljšate življenjsko dobo baterije tako, da onemogočite Wi-Fi oz. zmanjšate svetlost zaslona, ko je baterija skoraj prazna. Želite nastaviti način varčevanja z baterijo?</string>
+    <string name="stamina_mode_tip_dialog">Vaša naprava je pogosto v načinu pripravljenosti. Podaljšajte življenjsko dobo baterije tako, da aktivirate način STAMINA. Želite nastaviti način STAMINA?</string>
+    <string name="bad_app_notification">Ta program potroši veliko baterije:</string>
+    <string name="bad_standby_app_dialog">%s preprečuje, da bi način STAMINA varčeval z energijo v načinu pripravljenosti. Če program pogosto uporabljate, prezrite opozorilo. V nasprotnem primeru pa tapnite tipko »Informacije o programu« in program odstranite ali ga končajte.</string>
+    <string name="ignore_dialog_action">Prezri</string>
+    <string name="app_info_dialog_action">Informacije o prog.</string>
+    <string name="stamina_activation_notification">Način STAMINA je aktiviran</string>
+    <string name="lowbattery_trigger_level_notification">Raven baterije je pod %d%%</string>
+    <string name="lowbattery_activated_notification">Način varčev. z energijo aktiviran</string>
+    <string name="app_not_used_notification">Programa niste uporabljali že dalj časa:</string>
+    <string name="app_not_used_tip_dialog">Programa%s niste uporabljali že dalj časa. Priporočamo, da ga odstranite in tako zmanjšate porabo energije.</string>
+    <string name="no_action_dialog">Ne</string>
+    <string name="yes_action_dialog">Da</string>
+    <string name="widget_remaining_battery_time">Predvideni čas pripravljenosti baterije</string>
+    <string name="widget_name">Način STAMINA</string>
+</resources>

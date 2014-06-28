@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">Broj dana: %d</item>
+        <item quantity="one">%ddan</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%dsat</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Još %1$d koraka i postat ćete razvojni programer .</item>
+        <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj malih slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno malo slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj velikih slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedno veliko slovo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj brojki: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jednu brojku</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj posebnih znakova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedan poseban znak</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Zaporka mora sadržavati najmanje sljedeći broj znakova koji nisu slova: %d</item>
+        <item quantity="one">Zaporka mora sadržavati najmanje jedan znak koji nije slovo</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Ovoliko aplikacija može čitati obavijesti: %d</item>
+        <item quantity="one">%d aplikacija može čitati obavijesti</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Netočan PIN kod SIM kartice. Preostao je još sljedeći broj pokušaja: %d.</item>
+        <item quantity="one">Netočan PIN kod SIM kartice. Preostao je još sljedeći broj pokušaja: %d. Nakon toga morat ćete se obratiti operateru da vam otključa uređaj.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Pronađen je sljedeći broj pisača: %1$s</item>
+        <item quantity="one">Pronađen je %1$s pisač</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Aplikacija trenutno na popisu: %d</item>
+        <item quantity="one">%1$d aplikacija trenutno na popisu</item>
+    </plurals>
+</resources>

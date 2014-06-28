@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kun näyttö on sammutettu, WLAN ja mobiilidata poistetaan tilapäisesti käytöstä, ja useimmat sovellukset eivät ole käytettävissä. Voit edelleen vastaanottaa puheluja, teksti-/multimediaviestejä ja Sony™-kalenterin ilmoituksia ja Sony™-hälytyksiä. Musiikkisoitin ja FM-radio toimivat, ja keskeneräiset lataukset viimeistellään.
+
+Kun näyttö on päällä, puhelin toimii normaalisti.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kun näyttö on sammutettuna, WLAN ja mobiilidata poistetaan tilapäisesti käytöstä, eivätkä useimmat sovellukset ole käytössä. Saat edelleen teksti- ja multimediaviestejä, Sony™-kalenteri-ilmoituksia sekä Sony™-hälytyssignaaleja. Musiikkisoitin ja FM-radio toimivat, ja käynnissä olevat lataukset tehdään loppuun.
+
+Kun näyttö on päällä, laite toimii normaalisti."</string>
+    <string name="description_msg_no_telephony_txt">"Kun näyttö on sammutettuna, WLAN poistetaan tilapäisesti käytöstä, eivätkä useimmat sovellukset ole käytössä. Saat edelleen Sony™-kalenteri-ilmoituksia sekä Sony™-hälytyssignaaleja. Musiikkisoitin ja FM-radio toimivat, ja käynnissä olevat lataukset tehdään loppuun.
+
+Kun näyttö on päällä, laite toimii normaalisti"</string>
+    <string name="notification_descr_ps">Akkuvirran säästötilassa akkuvirtaa voidaan säästää esimerkiksi poistamalla WLAN käytöstä tai vähentämällä näytön kirkkautta, kun akun varaus on vähissä.</string>
+    <string name="notification_text_lbw">Ota sijaintipohjainen WLAN käyttöön</string>
+    <string name="notification_descr_lbw">WLAN on käytössä, mutta sitä ei ole vähään aikaan käytetty. Säästä virtaa ottamalla sijaintipohjainen WLAN käyttöön.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN on käytössä, mutta sitä ei ole käytetty vähään aikaan. Voit säästää virtaa aktivoimalla sijaintipohjaisen WLAN-verkon. Määritetäänkö sijaintipohjaisen WLAN-verkon asetukset?</string>
+    <string name="low_battery_mode_tip_dialog">Kun akkuvirtaa on vähän, akkuvirran säästötilan käyttö voi lisätä akun käyttöaikaa esim. siten, että WLAN poistetaan käytöstä tai näytön kirkkautta vähennetään. Määritetäänkö akkuvirran säästötilan asetukset?</string>
+</resources>

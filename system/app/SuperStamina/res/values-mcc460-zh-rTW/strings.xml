@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"當螢幕關閉時，暫時停用WLAN和行動數據連線，且無法使用大部份的應用程式。您仍可接聽電話、接收SMS/MMS訊息、Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，也可完成進行中的下載和上傳。
+
+當螢幕開啟時，您的手機便可正常運作。
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"當螢幕關閉時，暫時停用WLAN和行動數據連線，且無法使用大部份的應用程式。您仍可接收SMS/MMS訊息、Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，也可完成進行中的下載和上傳。
+
+當螢幕開啟時，您的裝置便可正常運作。"</string>
+    <string name="description_msg_no_telephony_txt">"螢幕關閉時，WLAN將暫時停用，大部分應用程式將停止作用。您仍會收到Sony™行事曆通知和Sony™鬧鈴聲。音樂播放器和FM收音機仍會運作，而進行中的下載和上傳仍可完成。
+
+螢幕開啟時，您的裝置將正常運作。"</string>
+    <string name="notification_descr_ps">低電量模式可延長電池壽命，例如當電量低時關閉WLAN或降低螢幕亮度。</string>
+    <string name="notification_text_lbw">啓動行動定位WLAN</string>
+    <string name="notification_descr_lbw">WLAN已開啓但有一段時間未使用。啓動行動定位WLAN可節省電源。</string>
+    <string name="location_based_wifi_tip_dialog">WLAN開啟中，但已有一段時間未使用。您可以視地點啟動WLAN以省電。是否設定視地點啟動WLAN？</string>
+    <string name="low_battery_mode_tip_dialog">低電量模式可延長電池壽命，例如當電量低時關閉WLAN或降低螢幕亮度。是否要設定低電量模式？</string>
+</resources>

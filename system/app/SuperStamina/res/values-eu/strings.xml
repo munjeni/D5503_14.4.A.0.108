@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eko moduaren kontrolatzailea</string>
+    <string name="dont_ask_me_again_txt">Ez galdetu berriro</string>
+    <string name="description_msg_txt">"Pantaila itzalita dagoenean, Wi-Fi konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. Telefono deiak, SMSak, MMSak, Sony™ egutegiaren jakinarazpenak eta Sony™ alarmak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatzen jarraituko dute, eta abian diren kargak eta deskargak osatzea onartuko da.
+
+Pantaila piztuta dagoenean, telefonoak ohiko moduan funtzionatuko du.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Pantaila itzalita dagoenean, Wi-Fi konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. SMS/MMSak, Sony™ egutegiko jakinarazpenak eta Sony™ alarma seinaleak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatuko dute, eta abian diren kargatze- eta deskargatze-prozesuek amaitzeko baimena izango dute.
+
+Pantaila piztuta dagoenean, gailuak ohiko moduan funtzionatuko du."</string>
+    <string name="description_msg_no_telephony_txt">"Pantaila itzalita dagoenean, Wi-Fi konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. Sony™ egutegiko jakinarazpenak eta Sony™ alarma seinaleak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatuko dute, eta abian diren kargatze eta deskargatze prozesuek amaitzeko baimena izango dute.
+
+Pantaila piztuta dagoenean, gailuak ohi bezala funtzionatuko du."</string>
+    <string name="description_title_txt">Oharra:</string>
+    <string name="low_battery_mode_description_msg_txt">"Gaitu bateria gutxiko moduak bateria asko kontsumitzen duten eginbideak eta ezarpenak desaktibatzeko aukera, bateria maila jakin bat baino gutxiago geratzen denean. Ezarpenak aldatzeko, punteatu Bateria gutxiko modua.
+"</string>
+    <string name="activate_txt">Aktibatu</string>
+    <string name="cancel_txt">Utzi</string>
+    <string name="xssm_blocker_detector_title">Bateria kudeatzeko aholkua</string>
+    <string name="xssm_blocker_detector_msg">%s aplikazioak egonean moduan bateria aurreztea eragozten dio STAMINA moduari</string>
+    <string name="xssm_blocker_detector_long_msg">Aplikazioa maiz erabiltzen baduzu, egin ez ikusi ohar honi. Bestela, desinstalatu edo geldiarazi aplikazioa.</string>
+    <string name="xssm_blocker_detector_ignore">Ulertu dut. Ez erakutsi berriro.</string>
+    <string name="network_detector_msg">%s datuak bidaltzen eta jasotzen ari da pantaila itzalita dagoen bitartean; hori dela eta, bateria azkarrago agortzen da.</string>
+    <string name="network_detector_long_msg">Desinstalatuta, gailuaren errendimendua hobetu eta bateriaren iraupena luza daiteke.</string>
+    <string name="wakelock_detector_msg">%s ez da erabili azken asteetan.</string>
+    <string name="wakelock_detector_long_msg">Baliteke gailua egonean modutik ateratzea. Desinstalatuta, gailuaren errendimendua hobetu eta bateriaren iraupena luza daiteke.</string>
+    <string name="notification_title_xssm">Bateria kudeatzeko aholkua</string>
+    <string name="notification_text_xssm">Aktibatu STAMINA modua</string>
+    <string name="notification_descr_xssm">Gailua maiz egoten da egonean moduan. Luzatu bateriaren iraupena STAMINA modua aktibatua.</string>
+    <string name="notification_dont_show_again">Ulertu dut. Ez erakutsi berriro.</string>
+    <string name="notification_title_ps">Bateria kudeatzeko aholkua</string>
+    <string name="notification_text_ps">Aktibatu bateria gutxiko modua</string>
+    <string name="notification_descr_ps">Bateria gutxiko moduak bateriaren iraupena luza dezake, adibidez, bateria gutxi gelditzen denean Wi-Fi konexioa desaktibatuta edo pantailaren argitasuna murriztuta.</string>
+    <string name="notification_title_lbw">Bateria kudeatzeko aholkua</string>
+    <string name="notification_text_lbw">Aktibatu kokapen Wi-Fia</string>
+    <string name="notification_descr_lbw">Wi-Fi konexioa aktibatuta dago baina ez da aspaldian erabili. Aurreztu bateria Kokapen Wi-Fia erabilita.</string>
+    <string name="unused_application_title">Energia kudeatzeko aholkua</string>
+    <string name="unused_application_msg">%s ez da aspaldian erabili</string>
+    <string name="unused_application_long_msg">Aplikazioa mantendu nahi baduzu, egin ez ikusi abisu honi. Bestela, desinstalatu aplikazioa.</string>
+    <string name="unused_application_ignore">Ulertu dut. Ez erakutsi berriro.</string>
+    <string name="drain_dialog_title_txt">Bateria ez da kargatzen ari</string>
+    <string name="drain_dialog_text_usb_txt">Konektatutako energia iturburua ez da nahikoa. Bateria deskargatzen ari da, baina kargatze abiadura ez da horren azkarra. Aldatu AC kargagailura.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Konektatutako energia iturburua ez da nahikoa. Bateria deskargatzen ari da, baina kargatze abiadura ez da horren azkarra. Murriztu gailuaren erabilera kargatzen den bitartean.</string>
+    <string name="extend_battery_tip_dialog_headar">Bateria kudeatzeko aholkua</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi eginbidea aktibatuta dago baina ez da aspaldian erabili. Bateria aurrezteko, aktibatu kokapenean oinarritutako Wi-Fi eginbidea. Kokapenean oinarritutako Wi-Fi eginbidea konfiguratu?</string>
+    <string name="low_battery_mode_tip_dialog">Bateria gutxiko moduak bateriaren iraupena luzaraz dezake, esaterako, Wi-Fi eginbidea desaktibatuta edo pantailaren argitasuna murriztuta bateria gutxi dagoenean. Bateria gutxiko modua konfiguratu?</string>
+    <string name="stamina_mode_tip_dialog">Gailua maiz egon ohi da egonean moduan. Luzatu bateriaren iraupena STAMINA modua aktibatuta. STAMINA modua aktibatu?</string>
+    <string name="bad_app_notification">Aplikazio hau bateria agortzen ari da:</string>
+    <string name="bad_standby_app_dialog">%s aplikazioa egonean moduan bateria aurreztea eragozten ari dio STAMINA moduari. Aplikazio hori maiz erabiltzen baduzu, egin ez ikusi abisu honi. Bestela, punteatu Aplikazioaren informazioaren botoia eta desinstala ezazu edo behartu aplikazioari gelditzera.</string>
+    <string name="ignore_dialog_action">Ez ikusi</string>
+    <string name="app_info_dialog_action">Aplikazioaren inf.</string>
+    <string name="stamina_activation_notification">STAMINA modua aktibatu da</string>
+    <string name="lowbattery_trigger_level_notification">Bateria maila %d%% azpitik</string>
+    <string name="lowbattery_activated_notification">Bateria gutxiko modua aktibatuta</string>
+    <string name="app_not_used_notification">Aplikazioa ez da aspaldian erabili:</string>
+    <string name="app_not_used_tip_dialog">%s ez da aspaldian erabili. Aplikazioa desinstalatzea gomendatzen dugu bateria aurrezteko.</string>
+    <string name="no_action_dialog">Ez</string>
+    <string name="yes_action_dialog">Bai</string>
+    <string name="widget_remaining_battery_time">Bateriaren iraupen estimatua</string>
+    <string name="widget_name">STAMINA modua</string>
+</resources>

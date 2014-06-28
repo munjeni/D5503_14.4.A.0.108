@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/conversations_strings_settings_notification_enabled_txt" android:key="pref_key_enable_notifications" android:summary="@string/conversations_strings_settings_notification_enabled_info_txt" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/conversations_strings_settings_led_notification_enabled_txt" android:key="semc_pref_key_notification_led_enabled" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/conversations_strings_settings_delivery_report_txt" android:key="pref_key_delivery_reports" />
+    <CheckBoxPreference android:title="@string/conversations_strings_settings_read_report_txt" android:key="pref_key_mms_read_reports" android:summary="@string/conversations_strings_settings_read_report_info_txt" android:dependency="pref_key_delivery_reports" />
+</PreferenceScreen>

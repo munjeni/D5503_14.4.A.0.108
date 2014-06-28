@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.setting.template.TextTemplateListItemView android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="50.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/semc_text_template_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:layout_marginStart="@dimen/generic_left_margin" android:layout_marginEnd="@dimen/generic_right_margin" style="?android:attr/textAppearanceMedium" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/generic_right_margin">
+        <CheckedTextView android:id="@id/text_template_list_checkable_item_checkbox" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorMultiple" />
+    </RelativeLayout>
+</com.sonyericsson.conversations.ui.setting.template.TextTemplateListItemView>

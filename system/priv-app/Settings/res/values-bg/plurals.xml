@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вече сте на %1$d стъпки от това, да бъдете програмист.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от това, да бъдете програмист.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Паролата трябва да съдържа поне %d букви</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d малки букви</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 малка буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d главни букви</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 главна буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Паролата трябва да съдържа поне %d цифри</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 цифра</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Паролата трябва да съдържа поне %d специални символа</item>
+        <item quantity="one">Паролата трябва да съдържа поне един специален символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Паролата трябва да съдържа поне %d знака, различни от букви</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 знак, различен от буква</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложения могат да четат известията</item>
+        <item quantity="one">%d приложение може да чете известията</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Неправилен ПИН код за SIM картата – остава ви %d опит, преди да се наложи да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Открити са %1$s принтера</item>
+        <item quantity="one">Открит е %1$s принтер</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d приложения в списъка в момента</item>
+        <item quantity="one">%1$d приложение в списъка в момента</item>
+    </plurals>
+</resources>

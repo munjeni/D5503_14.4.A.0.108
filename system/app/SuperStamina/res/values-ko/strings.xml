@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">에코 모드 컨트롤러</string>
+    <string name="dont_ask_me_again_txt">다시 묻지 않음</string>
+    <string name="description_msg_txt">"화면이 꺼지면 Wi-Fi와 모바일 데이터의 사용이 일시적으로 중지되고 대부분의 응용프로그램이 비활성화됩니다. 전화 통화, SMS/MMS 메시지, Sony™ 캘린더 알림 및 Sony™ 알람 신호음은 계속 수신됩니다. 음악 플레이어와 FM 라디오도 작동하며, 진행 중인 다운로드 및 업로드를 완료할 수 있습니다.
+
+화면이 켜지면 휴대폰은 정상적으로 작동합니다.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"화면이 꺼지면 Wi-Fi 및 모바일 데이터가 일시적으로 사용하지 않도록 설정되고 대부분의 응용프로그램이 비활성화됩니다. SMS/MMS 메시지, Sony™ 캘린더 알림과 Sony™ 알람 신호는 계속해서 수신됩니다. 음악 플레이어 및 FM 라디오가 작동하고 진행 중인 다운로드와 업로드가 마치도록 허용됩니다.
+
+화면이 켜지면 장치가 정상적으로 작동합니다."</string>
+    <string name="description_msg_no_telephony_txt">"화면이 꺼지면 Wi-Fi가 일시적으로 사용하지 않도록 설정되고 대부분의 응용프로그램이 비활성화됩니다. 하지만 Sony™ 캘린더 알림과 Sony™ 알람 신호는 계속해서 수신됩니다. 그리고 음악 플레이어 및 FM 라디오가 작동하고 진행 중인 다운로드와 업로드가 마치도록 허용됩니다.
+
+화면이 켜지면 장치는 정상적으로 작동합니다."</string>
+    <string name="description_title_txt">참고!</string>
+    <string name="low_battery_mode_description_msg_txt">"배터리가 사전에 설정한 수준 아래로 내려갈 때 전원이 소모되는 기능 및 설정을 끄려면 배터리 부족 모드를 사용하도록 설정합니다. 배터리 부족 모드를 눌러서 설정을 변경합니다.
+"</string>
+    <string name="activate_txt">활성화</string>
+    <string name="cancel_txt">취소</string>
+    <string name="xssm_blocker_detector_title">전원 관리 정보</string>
+    <string name="xssm_blocker_detector_msg">%s에서 STAMINA 모드가 적용되어 대기 상태에서 절전 기능을 사용하는 것을 차단하고 있음</string>
+    <string name="xssm_blocker_detector_long_msg">해당 응용프로그램을 자주 사용할 경우 이 경고를 무시하세요. 그렇지 않은 경우에는 해당 응용프로램을 제거하거나 강제로 중지하세요.</string>
+    <string name="xssm_blocker_detector_ignore">이해했으며 다시 표시하지 않습니다.</string>
+    <string name="network_detector_msg">화면이 꺼져 있는 동안 %s이(가) 데이터를 보내고 받아 배터리가 더 빠르게 소모됩니다.</string>
+    <string name="network_detector_long_msg">제거하면 장치 성능이 향상되고 배터리 시간이 연장될 수도 있습니다.</string>
+    <string name="wakelock_detector_msg">%s이(가) 몇 주 동안 사용되지 않았습니다.</string>
+    <string name="wakelock_detector_long_msg">장치를 대기 모드에서 깨울 수도 있습니다. 제거하면 장치 성능이 향상되고 배터리 시간이 연장될 수도 있습니다.</string>
+    <string name="notification_title_xssm">전원 관리 정보</string>
+    <string name="notification_text_xssm">STAMINA 모드 활성화</string>
+    <string name="notification_descr_xssm">장치가 자주 대기 모드로 되며, STAMINA 모드가 활성화되어 배터리 시간이 연장됩니다.</string>
+    <string name="notification_dont_show_again">이해했으며 다시 표시하지 않습니다.</string>
+    <string name="notification_title_ps">전원 관리 정보</string>
+    <string name="notification_text_ps">배터리 부족 모드 활성화</string>
+    <string name="notification_descr_ps">배터리 부족 모드를 활성화하면 배터리가 부족할 때 Wi-Fi를 끄거나 화면 밝기를 줄이는 등의 기능이 사용되어 배터리 수명이 연장됩니다.</string>
+    <string name="notification_title_lbw">전원 관리 정보</string>
+    <string name="notification_text_lbw">위치 기반 Wi-Fi 활성화</string>
+    <string name="notification_descr_lbw">Wi-Fi가 켜져 있지만 사용하지 않는 동안 위치 기반 Wi-Fi를 활성화하여 전원을 절약할 수 있습니다.</string>
+    <string name="unused_application_title">전원 관리 정보</string>
+    <string name="unused_application_msg">%s이(가) 한동안 사용되지 않음</string>
+    <string name="unused_application_long_msg">이 응용프로그램을 유지하려는 경우 이 경고를 무시합니다. 그렇지 않을 경우 응용프로그램을 제거합니다.</string>
+    <string name="unused_application_ignore">확인했습니다. 다시 표시하지 않습니다.</string>
+    <string name="drain_dialog_title_txt">배터리가 충전되고 있지 않음</string>
+    <string name="drain_dialog_text_usb_txt">연결된 전원이 충분하지 않습니다. 배터리가 충전되는 속도보다 빠르게 방전되고 있습니다. AC 충전기로 변경하세요.</string>
+    <string name="drain_dialog_text_wallcharger_txt">연결된 전원이 충분하지 않습니다. 배터리가 충전되는 속도보다 빠르게 방전되고 있습니다. 충전 중에는 장치 사용을 최소화하세요.</string>
+    <string name="extend_battery_tip_dialog_headar">전원 관리 정보</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi가 활성화되었지만 한동안 사용되지 않았습니다. 위치 기반 Wi-Fi를 활성화하여 전원을 절약할 수 있습니다. 위치 기반 Wi-Fi를 설정하시겠습니까?</string>
+    <string name="low_battery_mode_tip_dialog">배터리가 부족할 때 배터리 부족 모드(예: Wi-Fi 끄기 또는 화면 밝기 낮춤)로 전환하면 배터리 수명을 연장할 수 있습니다. 배터리 부족 모드를 설정하시겠습니까?</string>
+    <string name="stamina_mode_tip_dialog">장치가 주로 대기 모드에 있습니다. STAMINA 모드를 활성화하여 배터리 수명을 늘리세요. STAMINA 모드를 설정하시겠습니까?</string>
+    <string name="bad_app_notification">배터리가 소모 중인 앱:</string>
+    <string name="bad_standby_app_dialog">%s 때문에 STAMINA 모드에서 대기 전원을 절약할 수 없습니다. 이 응용프로그램을 자주 사용하면 이 경고를 무시하세요. 그렇지 않으면 앱 정보 버튼을 누르고 해당 응용프로그램을 제거하거나 강제로 멈추도록 합니다.</string>
+    <string name="ignore_dialog_action">무시</string>
+    <string name="app_info_dialog_action">응용프로그램 정보</string>
+    <string name="stamina_activation_notification">STAMINA 모드가 활성화됨</string>
+    <string name="lowbattery_trigger_level_notification">배터리 수준이 %d%% 미만임</string>
+    <string name="lowbattery_activated_notification">배터리 부족 모드가 활성화됨</string>
+    <string name="app_not_used_notification">이 앱이 한동안 사용되지 않음:</string>
+    <string name="app_not_used_tip_dialog">%s이(가) 한동안 사용되지 않았습니다. 전원을 절약하기 위해 해당 응용프로그램을 제거하는 것이 좋습니다.</string>
+    <string name="no_action_dialog">아니요</string>
+    <string name="yes_action_dialog">예</string>
+    <string name="widget_remaining_battery_time">예상 배터리 시간</string>
+    <string name="widget_name">STAMINA 모드</string>
+</resources>

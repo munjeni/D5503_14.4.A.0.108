@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>Vendndodhje e zakonshme</item>
+        <item>Vendndodhje e sofistikuar</item>
+        <item>GPS</item>
+        <item>Me dridhje</item>
+        <item>Lexo kontaktet</item>
+        <item>Modifiko kontaktet</item>
+        <item>Lexo regjistrin e telefonatave</item>
+        <item>Modifiko regjistrin e telefonatave</item>
+        <item>Lexo kalendarin</item>
+        <item>Modifiko kalendarin</item>
+        <item>Skanimi i WLAN</item>
+        <item>Njoftim</item>
+        <item>Skanimi i celularit</item>
+        <item>Telefono në telefon</item>
+        <item>Lexo SMS</item>
+        <item>Shkruaj SMS</item>
+        <item>merr SMS</item>
+        <item>Merr SMS urgjente</item>
+        <item>Merr MMS</item>
+        <item>Merr mesazh njoftues për WAP</item>
+        <item>Dërgo SMS</item>
+        <item>Lexo SMS-në e ICC</item>
+        <item>Shkruaj SMS-në e ICC</item>
+        <item>Modifiko cilësimet</item>
+        <item>Zvarrite në krye</item>
+        <item>Qasu te njoftimet</item>
+        <item>Kamera</item>
+        <item>Regjistro audio</item>
+        <item>Riprodho audio</item>
+        <item>Lexo kujtesën e fragmenteve</item>
+        <item>Modifiko kujtesën e fragmenteve</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Vendndodhja</item>
+        <item>Vendndodhja</item>
+        <item>Vendndodhja</item>
+        <item>Me dridhje</item>
+        <item>Lexo kontaktet</item>
+        <item>Modifiko kontaktet</item>
+        <item>Lexo regjistrin e telefonatave</item>
+        <item>Modifiko regjistrin e telefonatave</item>
+        <item>Lexo kalendarin</item>
+        <item>Modifiko kalendarin</item>
+        <item>Vendndodhja</item>
+        <item>Posto njoftimin</item>
+        <item>Vendndodhja</item>
+        <item>Telefono në telefon</item>
+        <item>Lexo SMS/MMS</item>
+        <item>Shkruaj SMS/MMS</item>
+        <item>Merr SMS/MMS</item>
+        <item>Merr SMS/MMS</item>
+        <item>Merr SMS/MMS</item>
+        <item>Merr SMS/MMS</item>
+        <item>Dërgo SMS/MMS</item>
+        <item>Lexo SMS/MMS</item>
+        <item>Shkruaj SMS/MMS</item>
+        <item>Modifiko cilësimet</item>
+        <item>Zvarrite në krye</item>
+        <item>Qasu te njoftimet</item>
+        <item>Kamera</item>
+        <item>Regjistro audio</item>
+        <item>Riprodho audio</item>
+        <item>Lexo kujtesën e fragmenteve</item>
+        <item>Modifiko kujtesën e fragmenteve</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

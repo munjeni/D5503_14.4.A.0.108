@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.fmradio.ui.widget.FrequencyScale android:id="@id/frequency_scale" semc:directionality="none"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp">
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" semc:directionality="none"
+      xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp">
+        <com.sonyericsson.fmradio.ui.widget.StairView android:id="@id/scale_stations_view" android:fadingEdgeLength="130.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:layout_alignLeft="@id/scale_center" android:layout_alignRight="@id/scale_center" android:requiresFadingEdge="horizontal" semc:directionality="none"
+          xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />
+        <com.sonyericsson.fmradio.ui.widget.FadedFrameLayout android:id="@id/scale_center" android:fadingEdgeLength="130.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/scale_center_height" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:layout_below="@id/scale_stations_view" android:requiresFadingEdge="horizontal">
+            <com.sonyericsson.fmradio.ui.widget.VernissageView android:id="@id/scale_background" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.sonyericsson.fmradio.ui.widget.StairView android:id="@id/scale_frequency_texts" android:layout_width="fill_parent" android:layout_height="fill_parent" semc:directionality="none"
+              xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />
+        </com.sonyericsson.fmradio.ui.widget.FadedFrameLayout>
+        <ImageButton android:id="@id/scale_previous" android:background="@null" android:padding="16.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_prev_selector" android:layout_alignTop="@id/scale_center" android:layout_alignBottom="@id/scale_center" android:contentDescription="@string/description_prev_station" />
+        <ImageButton android:id="@id/scale_next" android:background="@null" android:padding="16.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/radio_next_selector" android:layout_alignTop="@id/scale_center" android:layout_alignBottom="@id/scale_center" android:layout_alignParentRight="true" android:contentDescription="@string/description_next_station" />
+        <com.sonyericsson.fmradio.ui.widget.StairView android:id="@id/scale_favorites_view" android:fadingEdgeLength="130.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/scale_center" android:layout_alignLeft="@id/scale_center" android:layout_alignRight="@id/scale_center" android:requiresFadingEdge="horizontal" semc:directionality="none"
+          xmlns:semc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />
+        <Space android:id="@id/margin_view" android:layout_width="fill_parent" android:layout_height="@dimen/scale_margin_bottom" android:minHeight="0.0dip" android:layout_below="@id/scale_favorites_view" />
+    </RelativeLayout>
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/scale_needle" android:background="@drawable/scale_marker" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:contentDescription="@null" />
+</com.sonyericsson.fmradio.ui.widget.FrequencyScale>

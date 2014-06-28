@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="class_zero_background">#7f040000</item>
+    <item type="drawable" name="conversation_readmore_semitransparent_white">#50ffffff</item>
+    <item type="drawable" name="conversation_readmore_semitransparent_grey">#15000000</item>
+    <item type="drawable" name="conversation_readmore_transparent">#00000000</item>
+</resources>

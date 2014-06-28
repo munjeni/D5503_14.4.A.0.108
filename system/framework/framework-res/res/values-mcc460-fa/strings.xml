@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">به برنامه اجازه می دهد که موقعیت مکانی دقیق شما را با استفاده از سیستم موقعیت یاب جهانی (GPS) یا منابع موقعیت مکانی شبکه ای مانند برج های سلولی یا WLAN دریافت کند. این سرویس های موقعیت مکانی باید برای برنامه ای که از آنها استفاده می کند، در دستگاه شما فعال و در دسترس باشد. برنامه ها ممکن است از آن برای تعیین مکان شما استفاده کنند و ممکن است نیروی باتری بیشتری مصرف کنند.</string>
+    <string name="permdesc_accessCoarseLocation">به برنامه اجازه می دهد که موقعیت مکانی تقریبی شما را بدست آورد. این موقعیت مکانی از سرویس های موقعیت مکانی که از منابع موقعیت مکانی شبکه مانند برج های سلولی و WLAN استفاده می کنند، بدست می آید. این سرویس های موقعیت مکانی باید در دستگاه شما برای برنامه ای که از آنها استفاده می کند، فعال و در دسترس باشد. برنامه ها ممکن است از آن برای تعیین تقریبی مکان شما استفاده کنند.</string>
+    <string name="permlab_configureWifiDisplay">پیکربندی صفحه نمایش های WLAN</string>
+    <string name="permdesc_configureWifiDisplay">به برنامه اجازه می دهد تا پیکربندی انجام داده و به صفحه نمایش های WLAN متصل شود.</string>
+    <string name="permlab_controlWifiDisplay">کنترل صفحه نمایش های WLAN</string>
+    <string name="permdesc_controlWifiDisplay">به برنامه اجازه می دهد که ویژگی های سطح پایین صفحه های نمایش WLAN را کنترل کند.</string>
+    <string name="permlab_accessWifiState">مشاهده اتصالات WLAN</string>
+    <string name="permdesc_accessWifiState">به برنامه اجازه می دهد اطلاعات مربوط به شبکه WLAN را مشاهده کند، به عنوان مثال فعال بودن WLAN و نام دستگاه‌های WLAN متصل.</string>
+    <string name="permlab_changeWifiState">اتصال به WLAN و قطع اتصال از آن</string>
+    <string name="permdesc_changeWifiState">به برنامه اجازه می دهد تا به نقاط دسترسی WLAN وصل شود و ارتباط خود را با آنها قطع کند و تغییراتی را در پیکربندی دستگاه برای شبکه های WLAN ایجاد کند.</string>
+    <string name="permlab_changeWifiMulticastState">مجازبودن دریافت پخش چندمقصدی WLAN</string>
+    <string name="permdesc_changeWifiMulticastState">به برنامه اجازه می دهد به دریافت بسته‌های ارسالی به همه دستگاه‌های موجود در شبکه WLAN با استفاده از آدرس‌های پخش چندگانه و نه فقط به تلفن شما بپردازند. این از توان مصرف بیشتری نسبت به حالت پخش غیرچندگانه استفاده می کند.</string>
+    <string name="wifi_available_sign_in">ورود به شبکه WLAN</string>
+    <string name="wifi_watchdog_network_disabled">اتصال به WLAN ممکن نیست</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct را شروع کنید. این کار نقطه اتصال/سرویس گیرنده WLAN را غیرفعال خواهد کرد.</string>
+    <string name="wifi_p2p_failed_message">نمی‌توانید WLAN Direct را شروع کنید</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct روشن است</string>
+    <string name="wifi_p2p_frequency_conflict_message">هنگام اتصال به %1$s، این گوشی به‌طور موقت از WLAN قطع خواهد شد</string>
+    <string name="data_usage_wifi_limit_title">داده‌های WLAN غیرفعال شد</string>
+    <string name="data_usage_wifi_limit_snoozed_title">از محدوده مجاز داده‌های WLAN بیشتر شد</string>
+    <string name="policylab_disableWifi">غیرفعال کردن دسترسی به WLAN</string>
+    <string name="policydesc_disableWifi">مانع از برقراری اتصال های WLAN در دستگاه می شود.</string>
+    <string name="wifi_disabled_notification_title">اتصال WLAN محدود شده است</string>
+    <string name="wifi_disabled_notification_message">"یک سیاست امنیتی، استفاده از WLAN را محدود می کند. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">رومینگ WLAN در حال انجام است</string>
+    <string name="ct_cplusw_notification_text">‏CT WLAN وصل شده است. تماس برای اطلاعات صورتحساب، با 10000 یا فروشگاه محلی.</string>
+    <string name="ct_cplusw_notification_title">‏China Telecom WLAN وصل شد</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">شما به شبکه WLAN China Telecom متصل می شوید. برای اطلاع از جزئیات مربوط به هزینه ها، لطفاً با سرویس مشتریان China Telecom تماس بگیرید. ادامه می دهید؟</string>
+    <string name="wifi_nonconcurrency_message">سرویس گیرنده WLAN را راه اندازی کنید. با این کار، اتصال WLAN Direct قطع می شود.</string>
+    <string name="wifi_noncuncurrency_message">سرویس گیرنده WLAN را راه اندازی کنید. با این کار، اتصال WLAN Direct قطع می شود.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">هر اتصال WLAN موجود قطع می شود</string>
+    <string name="wifi_p2p_nonconcurrency_message">‏WLAN Direct را راه اندازی کنید. با این کار اتصال WLAN قطع می شود.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">با این کار هرکدام از اتصال های WLAN موجود قطع می شود</string>
+    <string name="wifi_p2p_noncuncurrency_message">‏WLAN Direct را راه اندازی کنید. با این کار اتصال WLAN قطع می شود.</string>
+    <string name="tethered_notification_message_wifi">برای روشن کردن WLAN، HotSpot سیار را خاموش کنید</string>
+    <string name="tethered_notification_title_wifi">‏WLAN خاموش است</string>
+</resources>

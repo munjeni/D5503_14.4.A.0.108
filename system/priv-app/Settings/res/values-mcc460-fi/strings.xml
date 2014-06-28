@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"STAMINA-tila sisältää seuraavaa:
+
+• Laajennettu valmiustila
+Säästää virtaa, kun näyttö on sammutettuna, poistamalla WLAN-verkon ja mobiilidatan tilapäisesti käytöstä. Useimmat sovellukset eivät ole käytössä.
+Kun näyttö on päällä, puhelin toimii normaalisti.
+Jos haluat pitää joitakin sovelluksia aktiivisina, kun laajennettu valmiustila on käytössä, lisää sovellukset VALMIUSTILASSA AKTIIVISET SOVELLUKSET -luetteloon.
+
+• Laajennettu käyttö
+Säästää virtaa, kun laite on käytössä, rajoittamalla laitteiston suorituskykyä.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>ikä on STAMINA-tila?</u>"
+STAMINA-tila on Sony™-virransäästötoiminto. Se pidentää akun käyttöikää poistamalla toimintoja käytöstä, kun näyttö on sammutettu.
+
+"<u>Peruskäyttö</u>"
+Voit aktivoida STAMINA-tilan seuraavassa näytössä olevalla kytkimellä. 
+Kun näyttö on sammutettu, kaikki verkkotiedot poistetaan käytöstä tilapäisesti, ja useimmat sovellukset eivät ole käytössä, jotta akkuvirtaa säästyy.
+Kun näyttö on päällä, laite toimii normaalisti.
+
+"<u>Kehittynyt käyttö</u>"
+Jos haluat pitää joitakin sovelluksia käynnissä, kun näyttö on sammutettu, lisää niitä valmiustilassa aktiivisina pysyvien sovellusten luetteloon.
+
+"<u>Huomautus</u>"
+Jotkin sovellukset eivät ehkä toimi oikein, kun ne on poistettu käytöstä valmiustilassa. Jos sovellus ei toimi oikein, lisää se valmiustilassa aktiivisina pysyvien sovellusten luetteloon, tai jos tämä ei toimi, poista STAMINA-tila käytöstä."</string>
+    <string name="location_based_wi_fi_label">Sijaintipohjainen WLAN</string>
+    <string name="location_based_wi_fi_descr">WLAN aktivoituu automaattisesti, kun laite on tallennetun WLAN-verkon alueella</string>
+    <string name="powersaver_feature_wifi">WLAN poissa käytöstä</string>
+    <string name="install_wapi_certs">Asenna WLAN-varmenteet</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Hallinnoi WLAN- ja Bluetooth-yhteyksiä, lentokonetilaa ja mobiili- ja VPN-verkkoja</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Ota WLAN-yhteys käyttöön</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-asetukset</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Valitse WLAN-verkko</string>
+    <string name="wifi_starting">Otetaan WLAN käyttöön</string>
+    <string name="wifi_stopping">Katkaistaan WLAN-yhteyttä</string>
+    <string name="wifi_poor_network_detection_summary">Älä käytä WLAN-verkkoa, jos sillä on huono Internet-yhteys</string>
+    <string name="wifi_scan_always_available_summary">Anna Googlen sijaintipalvelun ja muiden sovellusten hakea verkkoja, vaikka WLAN-yhteys olisi pois käytöstä</string>
+    <string name="wifi_scan_notify_text_location_on">Voit mm. parantaa Googlen ja muiden sovellusten sijaintitietojen tarkkuutta antamalla luvan etsiä wifi-verkkoja myös silloin, kun WLAN ei ole käytössä. Jos et halua sallia sitä, valitse Lisäasetukset > Haku aina käytettävissä.</string>
+    <string name="wifi_scan_notify_text_location_off">Sovellukset voivat etsiä läheisiä verkkoja vaikka WLAN ei olisi käytössä. Jos et halua sallia sitä, valitse Lisäasetukset > Haku aina käytettävissä.</string>
+    <string name="wifi_setting_sleep_policy_title">Pidä WLAN käytössä lepotilassa</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimointi</string>
+    <string name="wifi_suspend_optimizations_summary">Vähennä akun kulutusta, kun WLAN on käytössä</string>
+    <string name="wifi_access_points">WLAN-verkot</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Näet käytettävissä olevat verkot ottamalla WLANn käyttöön.</string>
+    <string name="wifi_empty_list_wifi_on">Haetaan WLAN-verkkoja...</string>
+    <string name="wifi_empty_list_user_restricted">Käyttöoikeutesi eivät riitä WLAN-verkon muuttamiseen.</string>
+    <string name="wifi_required_info_text">Asetuksien viimeistelyyn vaaditaan WLAN-yhteys. Asetuksien määrittämisen jälkeen voit käyttää mobiiliverkkoyhteyttä tai WLAN-yhteyttä.</string>
+    <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
+    <string name="wifi_wps_onstart_pbc">Paina reitittimen WLAN Protected Setup -painiketta. Siinä voi lukea WPS tai se voi sisältää seuraavan symbolin:</string>
+    <string name="wifi_wps_onstart_pin">Näppäile pin-koodi %1$s WLAN-reitittimeen. Asennus voi kestää kaksi minuuttia.</string>
+    <string name="wifi_wps_connected">Yhdistetty WLAN-verkkoon %s</string>
+    <string name="wifi_scan_always_turnon_message">"%1$s haluaa parantaa sijainnin tarkkuutta ja suorittaa muita toimintoja ottamalla verkon haun käyttöön, vaikka WLAN-yhteys ei ole käytössä.
+
+Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat hakea verkkoja?"</string>
+    <string name="wifi_connect_failed_message">Puhelin ei voi muodostaa yhteyttä tähän WLAN-verkkoon.</string>
+    <string name="wifi_advanced_titlebar">WLAN-lisäasetukset</string>
+    <string name="wifi_setting_frequency_band_title">WLAN-taajuusalue</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Kannettava WLAN-alue</string>
+    <string name="wifi_tether_enabled_subtext">Kannettava WLAN-alue %1$s aktiivinen</string>
+    <string name="wifi_tether_failed_subtext">Kannettavan WLAN-alueen virhe</string>
+    <string name="wifi_tether_configure_ap_text">Luo WLAN-hotspot</string>
+    <string name="wifi_tether_configure_subtext">"%1$s kannettava WLAN-hotspot.
+Tietoturva: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC -osoite</string>
+    <string name="location_mode_high_accuracy_description">Paikanna GPS:n ja WLAN- ja mobiiliverkkojen avulla</string>
+    <string name="location_mode_battery_saving_description">Paikanna WLAN- ja mobiiliverkkojen avulla</string>
+    <string name="location_neighborhood_level">Anna Googlen kerätä anonyymejä sijaintitietoja. Anna myös sovelluksien määrittää sijaintisi WLAN- ja mobiiliverkkojen tietojen avulla.</string>
+    <string name="location_neighborhood_level_wifi">Sijainti määritetty WLAN-yhteyden perusteella</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN-yhteyden käytössäoloaika</string>
+    <string name="bluetooth_on_time">WLAN-yhteyden käytössäoloaika</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN käynnissä</string>
+    <string name="usage_type_data_wifi_recv">Vastaanotetut WLAN-tiedot</string>
+    <string name="battery_action_wifi">WLAN-asetukset</string>
+    <string name="battery_desc_wifi">WLAN-yhteyden käyttämä akun virta</string>
+    <string name="battery_sugg_wifi">Poista WLAN käytöstä, kun sitä ei käytetä tai kun yhteys ei ole käytettävissä</string>
+    <string name="gadget_toggle_wifi">Päivitetään WLAN-asetuksia</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Varmuuskopioi sovellusten tietoja, WLAN-salasanoja ja muita asetuksia Googlen palvelimille.</string>
+    <string name="backup_erase_dialog_message">Lopetetaanko WLAN-salasanojen, kirjanmerkkien, muiden asetuksien ja sovellustietojen varmuuskopiointi ja poistetaanko kaikki kopiot Googlen palvelimilta?</string>
+    <string name="wifi_setup_title">WLAN-asetukset</string>
+    <string name="wifi_setup_title_editing_network">Yhdistä WLAN-verkkoon %s</string>
+    <string name="wifi_setup_title_connecting_network">Yhdistetään WLAN-verkkoon %s…</string>
+    <string name="wifi_setup_title_connected_network">Yhdistetty WLAN-verkkoon %s</string>
+    <string name="wifi_setup_eap_not_supported">Et voi määrittää EAP WLAN -yhteyttä asennuksen aikana. Voit määrittää yhteyden asennuksen jälkeen asetusten kohdassa Asetukset > Langaton verkko ja verkot.</string>
+    <string name="wifi_setup_description_connected">Jatka asetuksien määrittämistä koskettamalla <b>Seuraava</b>".
+
+Muodosta yhteys eri WLAN-verkkoon koskettamalla "<b>Takaisin</b>.</string>
+    <string name="data_usage_menu_show_wifi">Näytä WLANn käyttö</string>
+    <string name="data_usage_disable_wifi_limit">Aseta WLAN-tiedonsiirtoraja</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Jos rajoitat taustalla tapahtuvaa mobiilitiedonsiirtoa, jotkut sovellukset ja palvelut eivät toimi, jos et ole yhteydessä WLAN-verkkoon.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jos rajoitat taustalla tapahtuvaa mobiilitiedonsiirtoa, jotkin sovellukset ja palvelut eivät toimi, ellet ole yhteydessä WLAN-verkkoon.
+
+
+
+Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
+    <string name="data_usage_metered_body">Valitse WLAN-verkot, joita käytetään mobiiliyhteyden hotspotteina. Sovelluksia voidaan kieltää käyttämästä näitä verkkoja niiden toimiessa taustalla. Sovellukset voivat myös näyttää varoituksen ennen suurien tiedostojen lataamista näiden verkkojen kautta.</string>
+    <string name="data_usage_metered_wifi">WLAN-verkot</string>
+    <string name="data_usage_metered_wifi_disabled">Ota WLAN käyttöön valitaksesi mobiiliyhteyden hotspotteja.</string>
+    <string name="user_add_user_message_long">"Voit jakaa tämän laitteen muiden kanssa luomalla uusia käyttäjiä. Jokaisella käyttäjällä on oma tila, johon he voivat lisätä omia sovelluksiaan, taustakuvan ynnä muuta. Käyttäjät voivat myös muokata kaikkiin käyttäjiin vaikuttavia tablet-laitteen asetuksia, kuten WLAN-yhteysasetuksia.
+
+
+
+Kun luot uuden käyttäjän, hänen täytyy määrittää omat asetuksensa.
+
+
+
+Kaikki käyttäjät voivat hyväksyä päivitettyjä sovelluksien lupia muiden käyttäjien puolesta."</string>
+    <string name="restriction_wifi_config_title">WLAN- ja mobiiliverkko</string>
+    <string name="restriction_wifi_config_summary">Salli WLAN- ja mobiiliverkkoasetuksien muokkaaminen</string>
+    <string name="ct_wifi_connected_text">China Telecomin WLAN yhdistetty</string>
+    <string name="cw_network_priority">Priorisoi China Telecomin WLAN</string>
+    <string name="cw_network_priority_summary">China Telecomin WLAN-verkot priorisoidaan muiden yhdistettyjen WLAN-verkkojen edelle</string>
+    <string name="data_traffic_disabled_text">Yhteyttä China Telecomin WLAN-verkkoihin ei voitu muodostaa, sillä tietoliikenne on poistettu käytöstä. Otetaanko tietoliikenne käyttöön nyt?</string>
+    <string name="location_based_wifi">Sijaintipohjainen WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Muodosta yhteys operaattorin WLAN-alueeseen automaattisesti</string>
+    <string name="operator_auto_connect_hotspot_txt">Automaatt. WLAN-yhteys</string>
+    <string name="wifi_calling_mode_title">WLAN-puhelut</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Vaihda WLAN-varmenne</string>
+    <string name="wifi_p2p_settings">WLAN Direct -asetukset</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT -suojattu</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK -suojattu</string>
+    <string name="wifi_tether_explanation_dialog_text">"Voit käyttää laitetta mobiili-WLAN-alueena. Näin muut laitteet (enintään 10) voivat muodostaa yhteyden siihen WLAN-verkon kautta. Yhdistetyt laitteet voivat käyttää Internetiä puhelimen mobiiliverkkoyhteyden kautta. Mobiili-WLAN-alue käyttää mobiilidataa ja voi aiheuttaa lisäkustannuksia.
+
+Mobiili-WLAN-alue kuluttaa normaalia enemmän akkuvirtaa. Yhdistä laite verkkovirtaan, jotta akku ei kulu loppuun."</string>
+    <string name="wifi_tether_settings_subtext">Määritä ja hallinnoi siirrettävää WLAN-aluetta</string>
+    <string name="wifi_tether_settings_text">Siirrettävän WLAN-alueen asetukset</string>
+    <string name="wifi_wps_category_title">Määritä WLAN-verkon aset.</string>
+    <string name="cw_network_notification">Ota CT:n WLAN-ilmoitus käyt.</string>
+    <string name="stamina_xssm_summary">Poistaa mobiilidatan ja WLAN-verkon käytöstä, kun näyttö on poissa päältä</string>
+    <string name="tethering_no_sim_warning_txt">Aseta SIM-kortti paikalleen, jotta voit jakaa puhelimen datayhteyden muiden laitteiden kanssa Mobile WLAN HotSpot -palvelun tai Internet-käyttöön tarkoitetun USB-verkkosidonnan kautta.</string>
+    <string name="wifi_offload_checkbox_summary">Ilmoita WLAN-käytettävyydestä sovelluksia avattaessa</string>
+    <string name="wifi_offload_checkbox_title">Näytä WLAN-ponnahdusikkunat</string>
+    <string name="wifi_offload_notify_available_networks">WLAN-ilmoitukset</string>
+    <string name="wifi_offload_notify_available_networks_summary">Ilmoita, kun WLAN-verkko on käytettävissä</string>
+    <string name="wifi_offload_option_title">Käytettävissä olevat WLAN-verkot</string>
+</resources>

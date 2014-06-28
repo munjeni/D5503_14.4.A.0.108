@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Duomenų ryšio nebus %s min.</item>
+        <item quantity="one">Duomenų ryšio nebus %s min.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefono pagalbos atgalinio skambinimo režimas bus naudojamas %s min. Veikiant šiuo režimu negalima naudoti programų, kurioms reikalingas duomenų ryšys. Ar norite išeiti dabar?</item>
+        <item quantity="one">Telefono pagalbos atgalinio skambinimo režimas bus naudojamas %s min. Veikiant šiuo režimu negalima naudoti programų, kurioms reikalingas duomenų ryšys. Ar norite išeiti dabar?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Pasirinktas veiksmas negalimas, kol naudojamas pagalbos atgalinio skambinimo režimas. Šis telefono režimas bus naudojamas%s min. Ar norite išeiti dabar?</item>
+        <item quantity="one">Pasirinktas veiksmas negalimas, kol naudojamas pagalbos atgalinio skambinimo režimas. Šis telefono režimas bus naudojamas%s min. Ar norite išeiti dabar?</item>
+    </plurals>
+</resources>

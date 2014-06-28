@@ -1,0 +1,16 @@
+version: 2.0.0-a7b06f-SNAPSHOT
+apkFileName: Radio3.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 2
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '18'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '4'
+  versionName: '4.0'
+compressionType: false

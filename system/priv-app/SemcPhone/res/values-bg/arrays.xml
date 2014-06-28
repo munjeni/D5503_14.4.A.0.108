@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Нас. по подр. на мреж.</item>
+        <item>Скриване на номера</item>
+        <item>Показване на номера</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Глобални</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Автоматично CDMA/EvDo</item>
+        <item>Автоматично GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>английски</item>
+        <item>френски</item>
+        <item>испански</item>
+        <item>японски</item>
+        <item>корейски</item>
+        <item>китайски</item>
+        <item>иврит</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом. реж.)</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>GSM/WCDMA (WCDMA пред.)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Само домашни</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Само за домашни мрежи</item>
+        <item>Свързани мрежи</item>
+        <item>Всички мрежи</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Само CDMA</item>
+        <item>Само EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY изкл.</item>
+        <item>TTY (пълен)</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Нормална</item>
+        <item>Дълга</item>
+    </string-array>
+</resources>

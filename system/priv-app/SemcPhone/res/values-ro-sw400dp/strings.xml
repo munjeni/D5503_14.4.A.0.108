@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Participanţi la apel pentru conferinţă</string>
+    <string name="add_fdn_contact">Adăugare persoană de contact cu apelare fixă</string>
+    <string name="delete_fdn_contact">Ştergere persoană de contact cu apelare fixată</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d дена</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинката мора да содржи најмалку %d букви</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинката мора да содржи најмалку %d мали букви</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 мала буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинката мора да содржи најмалку %d големи букви</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 голема буква</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинката мора да содржи најмалку %d нумерички броеви</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 нумерички број</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинката мора да содржи најмалку %d специјални симболи</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 специјален симбол</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинката мора да содржи најмалку %d знаци што не се букви</item>
+        <item quantity="one">Лозинката мора да содржи најмалку 1 знак што не е буква</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d апликации можат да читаат известувања</item>
+        <item quantity="one">%d апликација може да чита известувања</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неточен PIN-код на SIM-картичката, имате уште %d обиди.</item>
+        <item quantity="one">Неточен PIN-код на SIM-картичката, имате уште %d обид, а потоа мора да контактирате со операторот за отклучување на уредот.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Најдени се %1$s печатачи</item>
+        <item quantity="one">Најден е %1$s печатач</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d апликации на списокот во моментов</item>
+        <item quantity="one">%1$d апликации на списокот во моментов</item>
+    </plurals>
+</resources>

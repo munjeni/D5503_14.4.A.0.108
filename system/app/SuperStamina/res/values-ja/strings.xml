@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">エコモードコントローラー</string>
+    <string name="dont_ask_me_again_txt">今後表示しない</string>
+    <string name="description_msg_txt">"画面がOFFの状態ではWi-Fiとモバイルデータ通信が一時的に無効になり、多くのアプリも停止中の状態になります。なお、着信やメッセージ受信は可能で、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、携帯電話は通常の動作に戻ります。"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"画面がOFFの状態ではWi-Fiとモバイルデータ通信が一時的に無効になり、多くのアプリも停止中の状態になります。なお、メッセージ受信は可能で、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、機器は通常の動作に戻ります。"</string>
+    <string name="description_msg_no_telephony_txt">"画面がOFFの状態ではWi-Fiが一時的に無効になり、多くのアプリも停止中の状態になります。なお、Sony™カレンダーの通知やSony™アラーム音、ミュージックプレーヤーおよびFMラジオも機能します。また、進行中のダウンロードおよびアップロードも正常に行われます。
+
+画面がONになると、機器は通常の動作に戻ります。"</string>
+    <string name="description_title_txt">注意</string>
+    <string name="low_battery_mode_description_msg_txt">"電池残量が設定値を下回った時、低バッテリーモードを有効にして電力消費の多い機能や設定をOFFにします。設定を変更するには、低バッテリーモードをタップしてください。
+"</string>
+    <string name="activate_txt">有効</string>
+    <string name="cancel_txt">キャンセル</string>
+    <string name="xssm_blocker_detector_title">電源管理のヒント</string>
+    <string name="xssm_blocker_detector_msg">%sのため、待ち受け時にSTAMINAモードが省エネを行えません。</string>
+    <string name="xssm_blocker_detector_long_msg">このアプリケーションを頻繁に使用する場合は、この警告を無視してください。そうでない場合は、アプリケーションをアンインストールするか、強制終了させてください。</string>
+    <string name="xssm_blocker_detector_ignore">了解。次回から表示しない。</string>
+    <string name="network_detector_msg">[%s]は画面がOFFの時にデータの送受信を行っているため、短時間で電力を消費する原因になっています。</string>
+    <string name="network_detector_long_msg">アンインストールすれば機器動作が向上し、電力の消費を抑えられる可能性があります。</string>
+    <string name="wakelock_detector_msg">%sは数週間利用されていません。</string>
+    <string name="wakelock_detector_long_msg">待ち受けモード時に機器を起動させる可能性があります。アンインストールすれば機器動作が向上し、電力の消費を抑えられる可能性があります。</string>
+    <string name="notification_title_xssm">電源管理のヒント</string>
+    <string name="notification_text_xssm">STAMINAモードを有効にする</string>
+    <string name="notification_descr_xssm">機器が待ち受けモードになることが多いようです。STAMINAモードを有効にすれば電力の消費を抑えられます。</string>
+    <string name="notification_dont_show_again">了解。次回から表示しない。</string>
+    <string name="notification_title_ps">電源管理のヒント</string>
+    <string name="notification_text_ps">低バッテリーモードを有効にする</string>
+    <string name="notification_descr_ps">低バッテリーモードでは、電池残量が少ない時に、例えばWi-FiをOFFにしたり、画面の明るさを下げたりして電力の消費を抑えます。</string>
+    <string name="notification_title_lbw">電源管理のヒント</string>
+    <string name="notification_text_lbw">エリア連動Wi-Fiを有効にする</string>
+    <string name="notification_descr_lbw">Wi-FiがONですが、しばらく利用されていません。エリア連動Wi-Fiを有効にすると電池を節約できます。</string>
+    <string name="unused_application_title">電源管理のヒント</string>
+    <string name="unused_application_msg">%sはしばらく利用されていません</string>
+    <string name="unused_application_long_msg">このアプリケーションを使用する場合は、この警告を無視してください。使用しない場合は、アプリケーションをアンインストールしてください。</string>
+    <string name="unused_application_ignore">了解。次回から表示しない。</string>
+    <string name="drain_dialog_title_txt">充電していません</string>
+    <string name="drain_dialog_text_usb_txt">接続されている電源は十分でありません。充電よりも電力の消費が速いです。ACアダプターに変更してください。</string>
+    <string name="drain_dialog_text_wallcharger_txt">接続されている電源は十分でありません。充電よりも電力の消費が速いです。充電中は機器使用を最小限にしてください。</string>
+    <string name="extend_battery_tip_dialog_headar">電源管理のヒント</string>
+    <string name="location_based_wifi_tip_dialog">Wi-FiがONですが、しばらく利用されていません。エリア連動Wi-Fiを有効にすると電池を節約できます。エリア連動Wi-Fiを設定しますか?</string>
+    <string name="low_battery_mode_tip_dialog">低バッテリーモードでは、電池残量が少ない時に、例えばWi-FiをOFFにしたり、画面の明るさを下げたりして電力の消費を抑えます。低バッテリーモードを設定しますか?</string>
+    <string name="stamina_mode_tip_dialog">機器が待ち受けモードになることが多いようです。STAMINAモードを有効にすれば電力消費を抑えられます。STAMINAモードを設定しますか?</string>
+    <string name="bad_app_notification">以下のアプリは電池を消費しています。</string>
+    <string name="bad_standby_app_dialog">%sのため、待ち受け時にSTAMINAモードが電力消費を抑えられません。このアプリケーションを頻繁に使用する場合は、この警告を無視してください。そうでない場合は、[アプリ情報]ボタンをタップして、アプリケーションをアンインストールするか、強制終了させてください。</string>
+    <string name="ignore_dialog_action">無視</string>
+    <string name="app_info_dialog_action">アプリ情報</string>
+    <string name="stamina_activation_notification">STAMINAモードが有効</string>
+    <string name="lowbattery_trigger_level_notification">電池残量が%d%%を下回りました</string>
+    <string name="lowbattery_activated_notification">低バッテリーモードが有効</string>
+    <string name="app_not_used_notification">以下のアプリは最近利用されていません。</string>
+    <string name="app_not_used_tip_dialog">%sはしばらく利用されていません。電力消費を抑えるため、このアプリをアンインストールすることをお勧めします。</string>
+    <string name="no_action_dialog">いいえ</string>
+    <string name="yes_action_dialog">はい</string>
+    <string name="widget_remaining_battery_time">残り待ち受け時間(見込み)</string>
+    <string name="widget_name">STAMINAモード</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>Այսօր</item>
+        <item>Երեկ</item>
+        <item>Շաբաթ</item>
+        <item>Ուրբաթ</item>
+        <item>Հինգշաբթի</item>
+        <item>Չորեքշաբթի</item>
+        <item>Երեքշաբթի</item>
+        <item>Երկուշաբթի</item>
+        <item>Կիրակի</item>
+        <item>Մեկ շաբաթ առաջ</item>
+        <item>Երկու շաբաթ առաջ</item>
+        <item>Մեկ ամիս առաջ</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 վայրկյան</item>
+        <item>2 վայրկյան</item>
+        <item>3 վայրկյան</item>
+        <item>4 վայրկյան</item>
+        <item>5 վայրկյան</item>
+        <item>6 վայրկյան</item>
+        <item>7 վայրկյան</item>
+        <item>8 վայրկյան</item>
+        <item>9 վայրկյան</item>
+        <item>10 վայրկյան</item>
+        <item>Այլ...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>Որտե՞ղ ես:</item>
+        <item>Ի՞նչ ես անում:</item>
+        <item>Շտապ: Պտսխ ինձ հնր շուտ:</item>
+        <item>Ներող., ես հնդպմն եմ:</item>
+        <item>Լավ եմ: Հանգիստ եղիր:</item>
+        <item>Ես տուն եմ վերադառնում:</item>
+        <item>Ես ձեզ կդառնամ:</item>
+        <item>Ես հենց հիմա կլինեմ:</item>
+        <item>Ստուգիր այս:</item>
+    </string-array>
+</resources>

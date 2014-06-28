@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">I-queue background data</string>
+    <string name="wifi_tether_settings_text">Mga setting ng Portable na Wi-Fi hotspot</string>
+    <string name="stamina_xssm_add_applications_title">Apps na aktibo sa standby</string>
+    <string name="auto_hide_notifications_title">I-clear ang mga natingnang notification</string>
+</resources>

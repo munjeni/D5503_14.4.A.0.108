@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">आपण WLAN वापरत नाही तोपर्यंत आपण डेटा जोडणीसाठी आवश्यक असणारे इंटरनेट, ईमेल किंवा अन्य अनुप्रयोग वापरू शकणार नाही. मोबाईल डेटा जोडणी बंद करायची?</string>
+    <string name="sip_call_options_wifi_only_title">इंटरनेट कॉलिंग वापरा (केवळ WLAN)</string>
+    <string name="registration_status_no_wifi_data">WLAN जोडणी नाही. खाते नोंदणी करू शकले नाही.</string>
+    <string name="no_wifi_available_title">कोणतीही WLAN जोडणी नाही</string>
+    <string name="no_wifi_available">इंटरनेट कॉलिंगसाठी तुम्ही WLAN नेटवर्कला जोडलेले असायला हवे (सेटिंग्ज > वायरलेस आणि नेटवर्क्सला जा).</string>
+</resources>

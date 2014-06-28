@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontroler mode eco</string>
+    <string name="dont_ask_me_again_txt">Aja takon maneh</string>
+    <string name="description_msg_txt">"Yen layar mati, Wi-Fi lan data seluler bakal sauntara dipateni, lan umume aplikasi bakal ora aktif. Sampeyan isih bisa nampa telpon, pesen SMS/MMS lan kabar tanggalan Sony™ uga swara weker Sony™. Pamuter musik lan radio FM bisa digunakake, undhuhan lan unggahan sing aktif bisa dirampungake.
+
+Yen layar urip, piranti bakal bisa digunakake kaya biasane.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Nalika layar mati, Wi-Fi lan data ponsel bakal sauntara mati, lan pirang-pirang aplikasi bakal ora mlaku. Sampeyan bakal tetep nampa pesen SMS/MMS, kabar tanggalan Sony™ lan swara weker Sony™. Puter musik lan radio FM tetep mlaku, undhuh lan unggah sing lumaku tetep bisa nganti rampung.
+
+Nalika layar urip, piranti sampeyan bakal fungsi normal."</string>
+    <string name="description_msg_no_telephony_txt">"Nalika layar mati, Wi-Fi bakal sauntara mati, lan pirang-pirang aplikasi uga bakal mati. Sampeyan bakal tetep nampa kabar tanggalan Sony™ lan swara weker Sony™. Puter musik lan radio FM tetep mlaku, undhuh lan unggah sing lumaku tetep bisa nganti rampung.
+
+Nalika layar urip, piranti sampeyan bakal fungsi normal."</string>
+    <string name="description_title_txt">Cathetan!</string>
+    <string name="low_battery_mode_description_msg_txt">"Aktifake Mode baterei sithik kanggo mateni fitur lan setelan sing boros daya nalika baterei kurang saka level setelan kawitan. Tutul Mode baterei sithik kanggo nggenti setelan.
+"</string>
+    <string name="activate_txt">Aktifake</string>
+    <string name="cancel_txt">Wurung</string>
+    <string name="xssm_blocker_detector_title">Tips manajemen daya</string>
+    <string name="xssm_blocker_detector_msg">%s nyegah mode STAMINA saka ngirit daya ing siyaga</string>
+    <string name="xssm_blocker_detector_long_msg">Yen sampeyan sering nganggo aplikasi iki, pepeling iki dijarke Yen ora, busak utawa pateni peksa aplikasi.</string>
+    <string name="xssm_blocker_detector_ignore">Ngerti. Aja tampilake maneh.</string>
+    <string name="network_detector_msg">%s ngirim lan nampa data nalika layar mati banjur nyebabake baterei cepet entek.</string>
+    <string name="network_detector_long_msg">Uninstal aplikasi iki bisa ningkatake kinerja piranti lan nambah wektu baterei.</string>
+    <string name="wakelock_detector_msg">%s ora tau dianggo nganti pirang-pirang minggu.</string>
+    <string name="wakelock_detector_long_msg">Aplikasi iki bisa nggugah piranti saka mode siyaga. Uninstal aplikasi iki bisa ningkatake kinerja piranti lan nambah wektu baterei.</string>
+    <string name="notification_title_xssm">Tips manajemen daya</string>
+    <string name="notification_text_xssm">Aktifke mode STAMINA</string>
+    <string name="notification_descr_xssm">Piranti sampeyan kerep ing mode siyaga. Optimalke wektu baterei kanthi ngaktifake mode STAMINA.</string>
+    <string name="notification_dont_show_again">Ngerti. Aja tampilake maneh.</string>
+    <string name="notification_title_ps">Tips manajemen daya</string>
+    <string name="notification_text_ps">Aktifke mode baterei kari sethithik</string>
+    <string name="notification_descr_ps">Mode baterei sithik bisa nambahi umur beterei dening contone mateni Wi-Fi utawa nyuda padhange layar nalika beterei sithik.</string>
+    <string name="notification_title_lbw">Tips manajemen daya</string>
+    <string name="notification_text_lbw">Aktifke Wi-Fi miturut panggonan</string>
+    <string name="notification_descr_lbw">Wi-Fi aktif nanging sementara ora tau dinggo. Simpen daya dening ngaktifake Wi-Fi miturut panggonan.</string>
+    <string name="unused_application_title">Tips manajemen daya</string>
+    <string name="unused_application_msg">%s wis sauntara ora dienggo</string>
+    <string name="unused_application_long_msg">Yen arep ngenengake aplikasi iki, ora usah nggatekake bebaya iki. Yen ora, uninstal aplikasi.</string>
+    <string name="unused_application_ignore">Wis paham. Aja tuduhake maneh.</string>
+    <string name="drain_dialog_title_txt">Baterei ora ngisi daya</string>
+    <string name="drain_dialog_text_usb_txt">Sumber daya kasambung ora cukup. Baterei kelangan daya luwih cepet tinimbang ngisi daya. Ganti nganggo pangisi daya AC.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Sumber daya kasambung ora cukup. Baterei kelangan daya luwih cepet tinimbang ngisi daya. Minimalake panggunan piranti sampeyan yen lagi ngisi daya.</string>
+    <string name="extend_battery_tip_dialog_headar">Tips manajemen daya</string>
+    <string name="location_based_wifi_tip_dialog">Wi-Fi urip nanging wis sauntara ora dianggo. Sampeyan bisa ngirit daya kanthi ngaktifake Wi-Fi miturut panggonan. Atur wiwitan Wi-Fi miturut panggonan?</string>
+    <string name="low_battery_mode_tip_dialog">Mode baterei sithik bisa nambah umur baterei kanthi kaya ta mateni Wi-Fi utawa ngurangi padhang layar nalika baterei sithik. Atur wiwitan mode baterei sithik?</string>
+    <string name="stamina_mode_tip_dialog">Piranti sampeyan kerep ing mode siyaga. Tambah wektu baterei kanthi ngaktifake mode STAMINA. Atur wiwitan mode STAMINA?</string>
+    <string name="bad_app_notification">Aplikasi ing ngisor iki ngentekake baterei:</string>
+    <string name="bad_standby_app_dialog">%s ngalangi mode STAMINA nyimpen daya sajroning siyaga. Yen sampeyan kerep nganggo aplikasi iki, ora susah digatekake pepenget iki. Yen ora, tutul tombol info aplikasi banjur uninstal utawa peksa endheging aplikasi.</string>
+    <string name="ignore_dialog_action">Jarke</string>
+    <string name="app_info_dialog_action">Info aplikasi</string>
+    <string name="stamina_activation_notification">Mode STAMINA diaktifake</string>
+    <string name="lowbattery_trigger_level_notification">Isi baterei sangisore %d%%</string>
+    <string name="lowbattery_activated_notification">Mode baterei sithik diaktifake</string>
+    <string name="app_not_used_notification">Aplikasi iki wis sauntara ora dianggo:</string>
+    <string name="app_not_used_tip_dialog">%s wis sauntara ora dianggo. Becike sampeyan uninstal aplikasi kasebut kanggo ngirit daya.</string>
+    <string name="no_action_dialog">Ora</string>
+    <string name="yes_action_dialog">Ya</string>
+    <string name="widget_remaining_battery_time">Prakira wektu baterei</string>
+    <string name="widget_name">mode STAMINA</string>
+</resources>

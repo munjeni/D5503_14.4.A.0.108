@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/semc_textfield_search_selected_holo_light_normal" />
+    <item>
+        <com.sonyericsson.uxp.drawable.ColorizableDrawable somc:drawable="@drawable/semc_textfield_search_selected_holo_light_colored" somc:color="@com.sonyericsson.uxp:color/somc_theme_accent_color_light"
+          xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />
+    </item>
+</layer-list>

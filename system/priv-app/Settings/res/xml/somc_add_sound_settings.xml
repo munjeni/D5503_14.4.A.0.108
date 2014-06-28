@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/sound_effect_strings_setting_title_txt" android:key="audioeffects" android:summary="@string/sound_effect_strings_setting_desc_txt" settings:before="first">
+        <intent android:targetPackage="com.sonyericsson.soundenhancement" android:action="android.media.action.DISPLAY_AUDIO_EFFECT_CONTROL_PANEL" android:targetClass="com.sonyericsson.soundenhancement.SoundEnhancementRedirector">
+            <extra android:name="android.media.extra.PACKAGE_NAME" android:value="com.android.settings" />
+        </intent>
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

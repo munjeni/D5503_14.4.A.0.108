@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>الإعداد الافتراضي للشبكة</item>
+        <item>إخفاء الرقم</item>
+        <item>إظهار الرقم</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>‏LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>عمومية</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo فقط</item>
+        <item>‏CDMA بدون EvDo</item>
+        <item>CDMA / EvDo تلقائي</item>
+        <item>‏GSM / WCDMA تلقائي</item>
+        <item>‏WCDMA فقط</item>
+        <item>‏GSM فقط</item>
+        <item>GSM / WCDMA مفضل</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>الإنجليزية</item>
+        <item>الفرنسية</item>
+        <item>الإسبانية</item>
+        <item>اليابانية</item>
+        <item>الكورية</item>
+        <item>الصينية</item>
+        <item>العبرية</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>‏GSM/WCDMA (وضع تلقائي)</item>
+        <item>‏WCDMA فقط</item>
+        <item>GSM فقط</item>
+        <item>‏GSM/WCDMA (يُفضل WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>المنزل فقط</item>
+        <item>تلقائي</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>الشبكات المنزلية فقط</item>
+        <item>الشبكات المقترنة</item>
+        <item>أية شبكة</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>‏CDMA فقط</item>
+        <item>EvDo فقط</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>‏RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY قيد الإيقاف</item>
+        <item>TTY ممتلئ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>عادية</item>
+        <item>طويلة</item>
+    </string-array>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">Կառավարել WLAN-ը, Bluetooth-ը, թռիչքային ռեժիմը, շարժական ցանցերը, &amp; VPN-ները</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Միացնել WLAN-ը</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN կարգավորումներ</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Ընտրել WLAN</string>
+    <string name="wifi_starting">WLAN-ի միացում…</string>
+    <string name="wifi_stopping">WLAN-ն անջատվում է...</string>
+    <string name="wifi_poor_network_detection_summary">Չօգտագործել WLAN ցանցը, մինչև այն չունենա լավ ինտերնետային կապ</string>
+    <string name="wifi_scan_always_available_summary">Թույլատրել Google-ի տեղակայման ծառայությանը և այլ ծրագրերին սկանավորել ցանցեր` նույնիսկ երբ WLAN-ը անջատված է</string>
+    <string name="wifi_scan_notify_text_location_on">Տեղանքի ճշգրտությունը կատարելագործելու կամ այլ նպատակների համար` Google-ը և այլ ծրագրերը հնարավոր է սկանավորեն մոտակա ցանցերը, նույնիսկ եթե WLAN-ը անջատված է: Եթե դուք չեք ցանկանում դա, անցեք դեպի Ընդլայնված > Սկանավորումը միշտ հասանելի:</string>
+    <string name="wifi_scan_notify_text_location_off">"Հավելվածը հնարավոր է սկանավորի մոտակա ցանցերը, անգամ եթե  WLAN-ն անջատված է: Եթե չեք ցանկանում, որ սա պատահի, անցեք Ընդլայնված կարգավորումներ > Սկանավորումը միշտ հասանելի է:"</string>
+    <string name="wifi_setting_sleep_policy_title">Միացրած պահել WLAN-ը քնած ռեժիմի ընթացքում</string>
+    <string name="wifi_suspend_optimizations">WLAN բարելավում</string>
+    <string name="wifi_suspend_optimizations_summary">Մարտկոցի օգտագործումը հասցնել նվազագույնի, երբ WLAN-ը միացված է</string>
+    <string name="wifi_access_points">WLAN ցանցեր</string>
+    <string name="wifi_menu_p2p">WLAN ուղիղ</string>
+    <string name="wifi_empty_list_wifi_off">Հասանելի ցանցերը տեսնելու համար միացրեք WLAN-ը:</string>
+    <string name="wifi_empty_list_wifi_on">WLAN ցանցերը փնտրվում են…</string>
+    <string name="wifi_empty_list_user_restricted">Դուք թույլտվություն չունեք փոխելու WLAN-ի ցանցը:</string>
+    <string name="wifi_required_info_text">Կարգավորւմները վերջանական իրականացնելու համար` գրասալիկը պետք է մուտք գործի WLAN. Կարգավորումների ավարտից հետո կարող եք ընտրություն կատարել շարժական տվյալների և WLAN-ի միջև:</string>
+    <string name="wifi_wps_setup_title">WLAN-ով պաշտպանված կարգավորում</string>
+    <string name="wifi_wps_onstart_pbc">Ձեր գրասալիկի վրա սեղմեք WLAN Պաշտպանված կարգավորում կոճակը: Այն հնարավոր է կոչվի «WPS» կամ պարունակի հետևյալ նշանը`</string>
+    <string name="wifi_wps_onstart_pin">Մուտքագրեք ձեր WLAN երթուղիչի pin-ի %1$s-ը: Կարգավորումը ավարտելու համար կպահանջվի մի քանի րոպե:</string>
+    <string name="wifi_wps_connected">Միացված է %s WLAN ցանցին</string>
+    <string name="wifi_scan_always_turnon_message">"Տեղանքի ճշգրտությունը կատարելագործելու կամ այլ նպատակների համար` %1$s-ը ցանկանում է միացնել ցանցի սկանավորումը, նույնիսկ եթե WLAN-ը անջատված է:
+
+Թույլատրե՞լ բոլոր սկանավորում ցանկացող ծրագրերին:"</string>
+    <string name="wifi_connect_failed_message">Հեռախոսը չկարողացավ միանալ այս WLAN ցանցին:</string>
+    <string name="wifi_advanced_titlebar">Ընդլայնված WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN հաճախականության խումբ</string>
+    <string name="wifi_p2p_settings_title">WLAN ուղիղ</string>
+    <string name="wifi_tether_checkbox_text">Դյուրակիր WLAN թեժ կետ</string>
+    <string name="wifi_tether_failed_subtext">Շարժական WLAN թեժ կետի սխալ</string>
+    <string name="wifi_tether_configure_ap_text">Կարգավորել WLAN թեժ կետը</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s դյուրակիր WLAN թեժ կետ</string>
+    <string name="status_wifi_mac_address">WLAN MAC հասցեն</string>
+    <string name="location_mode_high_accuracy_description">Օգտագործել GPS, WLAN և բջջային ցանցերը՝ դիրքը տեղորոշելու համար</string>
+    <string name="location_mode_battery_saving_description">Օգտագործել WLAN և բջջային ցանցերը՝ դիրքը տեղորոշելու համար</string>
+    <string name="location_network_based">WLAN &amp; շարժական ցանցի տեղադրություն</string>
+    <string name="location_neighborhood_level">Թույլատրել ծրագրերին օգտագործել Google-ի տեղակայման ծառայությունները` ձեր տեղադրությունը ավելի արագ որոշելու համար: Անանուն տեղակայման տվյալները կհավաքագրվեն և կուղարկվեն Google-ին:</string>
+    <string name="location_neighborhood_level_wifi">Տեղադրությունը որոշված է WLAN-ի կողմից</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN ժամանակին</string>
+    <string name="bluetooth_on_time">WLAN-ը ժամանակին</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN-ն աշխատում է</string>
+    <string name="usage_type_data_wifi_send">Ուղարկված WLAN տվյալները</string>
+    <string name="usage_type_data_wifi_recv">Ստացված WLAN տվյալները</string>
+    <string name="battery_action_wifi">WLAN կարգավորումներ</string>
+    <string name="battery_desc_wifi">WLAN-ն օգտագործում է մարտկոցը</string>
+    <string name="battery_sugg_wifi">Անջատել WLAN-ը, երբ այն չի օգտագործվում կամ հասանելի չէ</string>
+    <string name="gadget_toggle_wifi">WLAN կարգավորումների թարմացում</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Պահուստավորել հավելվածի տվյալները, WLAN գաղտնաբառերը և Google սերվերների այլ կարգավորումները</string>
+    <string name="backup_erase_dialog_message">Դադարեցնե՞լ ձեր WLAN գաղտնաբառերի, էջանիշերի, այլ կարգավորումների և հավելվածային տվյալների պահուստավորումն, ինչպես նաև ջնջե՞լ բոլոր կրկնօրինակները Google սերվերներից:</string>
+    <string name="wifi_setup_title">WLAN կարգավորումներ</string>
+    <string name="wifi_setup_title_editing_network">Միացում %s WLAN ցանցին</string>
+    <string name="wifi_setup_title_connecting_network">Միացում %s WLAN ցանցին…</string>
+    <string name="wifi_setup_title_connected_network">Միացված է %s WLAN ցանցին</string>
+    <string name="wifi_setup_eap_not_supported">Չեք կարող կարգավորել EAP WLAN միացումը կարգավորւմները սահմանելիս: Կարգավորումների ավարտից հետո միայն կարող եք անել դա այսպես` Կարգավորումներ > Անլար կապ և ցանցեր:</string>
+    <string name="wifi_setup_description_connected">Հպեք <b>Հաջորդը</b>"` կարգավորումը շարունակելու համար: 
+
+Հպեք "<b>Հետ</b>` մեկ այլ WLAN ցանցի միանալու համար:</string>
+    <string name="data_usage_menu_show_wifi">Ցույց տալ WLAN օգտագործումը</string>
+    <string name="data_usage_disable_wifi_limit">Սահմանել WLAN տվյալների սահմանը</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Եթե սահմանափակեք հետնաշերտի շարժական տվյաները, ապա որոշ հավելվածներ և ծառայություններ չեն աշխատի մինչ չմիանաք WLAN ցանցին:</string>
+    <string name="data_usage_restrict_background_multiuser">"Եթե սահմանափակեք հետնաշերտի շարժական տվյաները, ապա որոշ հավելվածներ և ծառայություններ չեն աշխատի, մինչև չմիանաք WLAN ցանցին:
+
+Այս կարգավորումը վերաբերում է հեռախոսի բոլոր օգտվողներին:"</string>
+    <string name="data_usage_metered_body">Ընտրեք շարժական թեժ կետեր հանդիսացող WLAN ցանցերը: Ծրագրերը կարող են սահմափակված լինել հետնաշերտում այս ցանցերի օգտագործումից: Ծրագիրը նաև կարող է մեծ ներբեռնումների դեպքում այս ցանցերը օգտագործելուց առաջ զգուշացնել:</string>
+    <string name="data_usage_metered_wifi">WLAN ցանցեր</string>
+    <string name="data_usage_metered_wifi_disabled">Շարժական թեժ կետեր ընտրելու համար միացրեք WLAN-ը:</string>
+    <string name="user_add_user_message_long">"Դուք կարող եք կիսվել այս սարքով ուրիշների հետ` հավելյալ օգտվողներ ստեղծելով: Յուրաքանչյուր օգտվող ունի իր սեփական տարածքը, որտեղ կարող է հարմարեցնել ծրագրերը, պաստառները և այլն: Օգտվողները նաև կարող են հարմարեցնել գրասալիկի կարգավորումները, ինչպիսիք են WLAN-ը, որը բոլորի համար է: 
+
+Նոր հաշիվ ստեղծելուց հետո այդ օգտվողը պետք է կատարի կարգավորման գործընթացը:.
+
+Ցանկացած օգտվող կարող է ընդունել թարմացված ծրագրի թույլտվությունները մեկ ուրիշ օգտվողի փոխարեն:"</string>
+    <string name="restriction_wifi_config_title">WLAN և շարժական</string>
+    <string name="restriction_wifi_config_summary">Թույլատրել WLAN-ի և շարժական կարգավորումների փոփոխությունները</string>
+</resources>

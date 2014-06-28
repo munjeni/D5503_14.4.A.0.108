@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.conversations.ui.MessageContentSlideshow android:orientation="vertical" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/message_item_error_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/conversations_strings_messagetext_corrupt_message_txt" style="@style/BubbleText.Warning" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/message_item_big_attachment" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="vertical" android:id="@id/message_item_slide_show" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/message_item_big_attachment" android:layout_alignStart="@id/message_item_big_attachment" android:layout_alignEnd="@id/message_item_big_attachment" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/message_item_attachment_list" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.sonyericsson.conversations.ui.MessageContentSlideshow>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">अनुप्रयोगाला Global Positioning System (GPS) किंवा नेटवर्क स्थान स्त्रोत जसे की सेल टॉवर व WLAN वापरून आपले नेमके स्थान मिळवण्याची परवानगी देते. ही स्थान सेवा चालू करावी लागेल व वापरण्यासाठी आपल्या उपकरणावर उपलब्ध हवी. आपण नेमके कुठे आहात हे निर्धारित करण्यासाठी अनुप्रयोग त्याचा वापर करेल, व त्यासाठी अधिक बॅटरी पॉवर खर्च होईल.</string>
+    <string name="permdesc_accessCoarseLocation">अनुप्रयोगाला आपले अंदाजे स्थान मिळवण्याची परवानगी दिली जाते. सेल टॉवर आणि WLAN सारखे नेटवर्क स्थान स्रोत वापरून हे स्थान स्थानिक सेवेकडून मिळवले जाते. ही स्थानिक सेवा चालू ठेवली पाहिजे व अनुप्रयोगाला ती वापरण्यासाठी आपल्या उपकरणावर उपलब्ध हवी. आपण अंदाजे कुठे आहात हे शोधण्यासाठी अनुप्रयोग हे वापरू शकतात.</string>
+    <string name="permlab_configureWifiDisplay">WLAN प्रदर्शनाची जुळणी करा</string>
+    <string name="permdesc_configureWifiDisplay">अनुप्रयोगाला जुळवणी करणे व WLAN प्रदर्शनाला जोडण्याची परवानगी देते.</string>
+    <string name="permlab_controlWifiDisplay">WLAN प्रदर्शनाचे नियंत्रण करा</string>
+    <string name="permdesc_controlWifiDisplay">अनुप्रयोगाला WLAN प्रदर्शनातील निम्न स्तर वैशिष्ट्ये नियंत्रित करण्याची परवानगी देते.</string>
+    <string name="permlab_accessWifiState">WLAN जोडण्या पहा</string>
+    <string name="permdesc_accessWifiState">अनुप्र.ला WLAN सक्षम आहे का आणि जोडलेल्या WLAN डिव्हाइसचे नाव यासारखी WLAN नेटवर्किंगबद्दलची माहिती पाहू दिली जाते.</string>
+    <string name="permlab_changeWifiState">WLAN पासून जोडा आणि अलग करा</string>
+    <string name="permdesc_changeWifiState">अनुप्र.ला WLAN प्रवेश बिंदूंना जोडू आणि अलग करू दिले जाते आणि WLAN नेटवर्क्ससाठी डिव्हाइस जुळणीमध्ये बदल करू दिले जाते.</string>
+    <string name="permlab_changeWifiMulticastState">WLAN मल्टिकास्ट रिसेप्शनला परवानगी द्या</string>
+    <string name="permdesc_changeWifiMulticastState">"अनुप्र.ला WLAN नेटवर्कवरील सर्व डिव्हाइसेसना पाठवलेली पॅकेट्स प्राप्त करू दिले जाते, केवळ आपला फोन नाही. नॉन-मल्टिकास्ट मोडपेक्षा यात अधिक पॉवर वापरली जाते.  "</string>
+    <string name="wifi_available_sign_in">WLAN नेटवर्कमध्ये साइन इन करा</string>
+    <string name="wifi_watchdog_network_disabled">WLAN ला जोडता आले नाही</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">WLAN Direct सुरू करा. यामुळे WLAN क्लायन्ट/हॉटस्पॉट.</string>
+    <string name="wifi_p2p_failed_message">WLAN Direct सुरू करू शकले नाही.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct चालू आहे</string>
+    <string name="wifi_p2p_frequency_conflict_message">जेव्हा फोन %1$s शी जोडलेला असेल, तेव्हा त्याची WLAN जोडणी तात्पुरती रद्द केली जाईल</string>
+    <string name="data_usage_wifi_limit_title">WLAN डेटा अक्षम केला</string>
+    <string name="data_usage_wifi_limit_snoozed_title">WLAN डेटा मर्यादा ओलांडली</string>
+    <string name="policylab_disableWifi">WLAN वर प्रवेश मिऴवणे अक्षम करतो</string>
+    <string name="policydesc_disableWifi">उपकरणावर WLAN जोडणीस प्रतिबंध करतो.</string>
+    <string name="wifi_disabled_notification_title">WLAN जोडणीवर निर्बंध घातला आहे</string>
+    <string name="wifi_disabled_notification_message">"एक सुरक्षितता नीति WLAN वापरावर निर्बंध घालते. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN रोमिंग प्रगतीपथावर आहे</string>
+    <string name="ct_cplusw_notification_text">"CT WLAN नेटवर्क जोडले. बिलिंगच्या माहितीसाठी 10000 किंवा स्थानिक स्टोअरशी संपर्क साधा.
+
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom WLAN जोडणी केली</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">"आपल्याला China Telecom's WLAN नेटवर्कशी जोडले जाईल. शुल्काच्या तपशीलासाठी, कृपया China Telecom ग्राहक सेवाशी संपर्क करा. पुढे जायचे?"</string>
+    <string name="wifi_nonconcurrency_message">WLAN ग्राहक सुरू करा. हे WLAN Direct डिसकनेक्ट करेल.</string>
+    <string name="wifi_noncuncurrency_message">WLAN ग्राहक सुरू करा. हे WLAN Direct डिसकनेक्ट करेल.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">कोणतीही वर्तमान WLAN जोडणी रद्द केली जाईल</string>
+    <string name="wifi_p2p_nonconcurrency_message">"WLAN Direct सुरू करा. हे WLAN  ग्राहक डिसकनेक्ट करेल."</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">कोणतीही वर्तमान WLAN जोडणी हे डिसकनेक्ट करते</string>
+    <string name="wifi_p2p_noncuncurrency_message">"WLAN Direct सुरू करा. हे WLAN  ग्राहक डिसकनेक्ट करेल."</string>
+    <string name="tethered_notification_message_wifi">WLAN पुन्हा चालू करण्यासाठी Mobile HotSpot वर स्वीच करा</string>
+    <string name="tethered_notification_title_wifi">WLAN बंद आहे</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Thành viên của cuộc gọi hội nghị</string>
+    <string name="add_fdn_contact">Thêm liên lạc quay số định sẵn</string>
+    <string name="sip_call_options_title">Sử dụng tuỳ chọn gọi điện qua Internet</string>
+</resources>

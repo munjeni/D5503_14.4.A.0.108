@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"ȘŦÅḾЇŃÅ ḿόďę ϊиċĺΰďęš:
+
+• Єхтęиďęď šтăиďτỳ
+ȘăVęš ρόẅęґ ẅћęи тћę šċґęęи ϊš όƒƒ τỳ тęḿρόґăґϊĺỳ ďϊšăτĺϊиĝ ẄŁÅŃ ăиď ḿότϊĺę ďăтă. Ḿόšт ăρρĺϊċăтϊόиš ẅϊĺĺ τę ϊиăċтϊVę.
+Ẅћęи тћę šċґęęи ϊš ΘŃ, ỳόΰґ ρћόиę ẅϊĺĺ ƒΰиċтϊόи иόґḿăĺĺỳ.
+Їƒ ỳόΰ ẅăит тό ĸęęρ šόḿę ăρρš ăċтϊVę ẅћϊĺę Єхтęиďęď šтăиďτỳ ϊš ΘŃ, ăďď тћę ăρρš тό тћę ÅρρȘ ÅĈŦЇνЄ ЇŃ ȘŦÅŃĐβ¥ ĺϊšт.
+
+• Єхтęиďęď ΰšăĝę
+ȘăVęš ρόẅęґ ẅћęи ỳόΰґ ďęVϊċę ϊš ϊи ΰšę τỳ ґęšтґϊċтϊиĝ ћăґďẅăґę ρęґƒόґḿăиċę.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Ẅћăт ϊš ȘŦÅḾЇŃÅ ḿόďę?</u>"
+ȘŦÅḾЇŃÅ ḿόďę ϊš Șόиỳ’š ρόẅęґ šăVę ƒΰиċтϊόи. Їт ęхтęиďš тћę τăттęґỳ ĺϊƒęтϊḿę ẅћęи тћę ďϊšρĺăỳ ϊš όƒƒ.
+
+"<u>βăšϊċ ΰšăĝę</u>"
+Ŧό тΰґи όи ȘŦÅḾЇŃÅ ḿόďę, тăρ тћę τΰттόи όи тћę šċґęęи.
+Ẅћęи тћę šċґęęи ϊš όƒƒ, ϊи όґďęґ тό šăVę τăттęґỳ ĺϊƒę, ẄŁÅŃ ăиď ḿότϊĺę ďăтă ẅϊĺĺ τę тęḿρόґăґϊĺỳ ďϊšăτĺęď, ăиď ḿόšт ăρρĺϊċăтϊόиš ẅϊĺĺ τę ϊиăċтϊVę.
+Ẅћęи тћę šċґęęи ϊš όи, ỳόΰґ ρћόиę ẅϊĺĺ ƒΰиċтϊόи иόґḿăĺĺỳ.
+
+"<u>ÅďVăиċęď ΰšăĝę</u>"
+Їƒ ỳόΰ ẅăит тό ĸęęρ šόḿę ăρρš ăċтϊVę ẅћϊĺę ȘŦÅḾЇŃÅ ϊš όи, ρĺęăšę ăďď тћę ăρρš ϊитό тћę ÅρρȘ ÅĈŦЇνЄ ЇŃ ȘŦÅŃĐβ¥ ĺϊšт.
+Åρρĺϊċăтϊόиš ḿăỳ иόт ẅόґĸ ċόґґęċтĺỳ ϊƒ тћęỳ ăґę иόт ăďďęď тό тћę ĺϊšт.
+
+"<u>Ńόтę</u>"
+Їƒ ăи ăρρĺϊċăтϊόи ďόęšи’т ẅόґĸ ċόґґęċтĺỳ, ρĺęăšę ґęĝϊšтęґ тћę ăρρ ϊи ÅρρȘ ÅĈŦЇνЄ ЇŃ ȘŦÅŃĐβ¥ όґ тΰґи όƒƒ ȘŦÅḾЇŃÅ ḿόďę."</string>
+    <string name="location_based_wi_fi_label">Łόċăтϊόи-τăšęď ẄŁÅŃ</string>
+    <string name="location_based_wi_fi_descr">ẄŁÅŃ ăċтϊVăтęď ăΰтόḿăтϊċăĺĺỳ ẅћęи ϊи ґăиĝę όƒ ă šăVęď ẄŁÅŃ иęтẅόґĸ</string>
+    <string name="powersaver_feature_wifi">ẄŁÅŃ όƒƒ</string>
+    <string name="install_wapi_certs">Їиšтăĺĺ ẄŁÅŃ ċęґтϊƒϊċăтęš</string>
+    <string name="wifi_security_wapi_psk">ẄŁÅŃ ρȘĶ</string>
+    <string name="wifi_security_wapi_cert">ẄŁÅŃ ĈЄЯŦ</string>
+    <string name="radio_controls_summary">Ḿăиăĝę ẄŁÅŃ, βĺΰęтόόтћ, ăϊґρĺăиę ḿόďę, ḿότϊĺę иęтẅόґĸš, &amp; νρŃš</string>
+    <string name="wifi_quick_toggle_title">ẄŁÅŃ</string>
+    <string name="wifi_quick_toggle_summary">Ŧΰґи όи ẄŁÅŃ</string>
+    <string name="wifi_settings">ẄŁÅŃ</string>
+    <string name="wifi_settings_category">ẄŁÅŃ šęттϊиĝš</string>
+    <string name="wifi_settings_title">ẄŁÅŃ</string>
+    <string name="wifi_setup_wizard_title">Șęĺęċт ẄŁÅŃ</string>
+    <string name="wifi_starting">Ŧΰґиϊиĝ ẄŁÅŃ όи…</string>
+    <string name="wifi_stopping">Ŧΰґиϊиĝ όƒƒ ẄŁÅŃ…</string>
+    <string name="wifi_poor_network_detection_summary">"Đόи'т ΰšę ă ẄŁÅŃ иęтẅόґĸ ΰиĺęšš ϊт ћăš ă ĝόόď Їитęґиęт ċόииęċтϊόи"</string>
+    <string name="wifi_scan_always_available_summary">"Łęт Ğόόĝĺę'š ĺόċăтϊόи šęґVϊċę ăиď όтћęґ ăρρš šċăи ƒόґ иęтẅόґĸš, ęVęи ẅћęи ẄŁÅŃ ϊš όƒƒ."</string>
+    <string name="wifi_scan_notify_text_location_on">"Ŧό ϊḿρґόVę ĺόċăтϊόи ăċċΰґăċỳ ăиď ƒόґ όтћęґ ρΰґρόšęš, Ğόόĝĺę ăиď όтћęґ ăρρš ḿăỳ šċăи ƒόґ иęăґτỳ иęтẅόґĸš, ęVęи ẅћęи ẄŁÅŃ ϊš όƒƒ. Їƒ ỳόΰ ďόи'т ẅăит тћϊš тό ћăρρęи, ĝό тό ÅďVăиċęď > Șċăииϊиĝ ăĺẅăỳš ăVăϊĺăτĺę."</string>
+    <string name="wifi_scan_notify_text_location_off">"Åρρš ḿăỳ šċăи ƒόґ иęăґτỳ иęтẅόґĸš, ęVęи ẅћęи ẄŁÅŃ ϊš όƒƒ. Їƒ ỳόΰ ďόи'т ẅăит тћϊš тό ћăρρęи, ĝό тό ÅďVăиċęď > Șċăииϊиĝ ăĺẅăỳš ăVăϊĺăτĺę."</string>
+    <string name="wifi_setting_sleep_policy_title">Ķęęρ ẄŁÅŃ όи ďΰґϊиĝ šĺęęρ</string>
+    <string name="wifi_suspend_optimizations">ẄŁÅŃ όρтϊḿϊźăтϊόи</string>
+    <string name="wifi_suspend_optimizations_summary">Ḿϊиϊḿϊźę τăттęґỳ ΰšăĝę ẅћęи ẄŁÅŃ ϊš όи</string>
+    <string name="wifi_access_points">ẄŁÅŃ иęтẅόґĸš</string>
+    <string name="wifi_menu_p2p">ẄŁÅŃ Đϊґęċт</string>
+    <string name="wifi_empty_list_wifi_off">Ŧό šęę ăVăϊĺăτĺę иęтẅόґĸš, тΰґи ẄŁÅŃ όи.</string>
+    <string name="wifi_empty_list_wifi_on">Șęăґċћϊиĝ ƒόґ ẄŁÅŃ иęтẅόґĸš…</string>
+    <string name="wifi_empty_list_user_restricted">"¥όΰ ďόи'т ћăVę ρęґḿϊššϊόи тό ċћăиĝę тћę ẄŁÅŃ иęтẅόґĸ"</string>
+    <string name="wifi_required_info_text">Ŧό ċόḿρĺęтę šęтΰρ, ỳόΰґ тăτĺęт иęęďš ăċċęšš тό ẄŁÅŃ. Åƒтęґ šęтΰρ, ỳόΰ ċăи šẅϊтċћ τęтẅęęи ḿότϊĺę ďăтă ăиď ẄŁÅŃ.</string>
+    <string name="wifi_wps_setup_title">ẄŁÅŃ ρґόтęċтęď Șęтΰρ</string>
+    <string name="wifi_wps_onstart_pbc">ρґęšš тћę ẄŁÅŃ ρґόтęċтęď Șęтΰρ τΰттόи όи ỳόΰґ ґόΰтęґ. Їт ḿăỳ τę ċăĺĺęď \"ẄρȘ\" όґ ċόитăϊи тћϊš šỳḿτόĺ:</string>
+    <string name="wifi_wps_onstart_pin">Єитęґ ρϊи %1$s όи ỳόΰґ ẄŁÅŃ ґόΰтęґ. Ŧћę šęтΰρ ċăи тăĸę ΰρ тό тẅό ḿϊиΰтęš тό ċόḿρĺęтę.</string>
+    <string name="wifi_wps_connected">Ĉόииęċтęď тό ẄŁÅŃ иęтẅόґĸ %s</string>
+    <string name="wifi_scan_always_turnon_message">"Ŧό ϊḿρґόVę ĺόċăтϊόи ăċċΰґăċỳ ăиď ƒόґ όтћęґ ρΰґρόšęš, %1$s ẅăитš тό тΰґи όи иęтẅόґĸ šċăииϊиĝ, ęVęи ẅћęи ẄŁÅŃ ϊš όƒƒ.
+
+Åĺĺόẅ тћϊš ƒόґ ăĺĺ ăρρš тћăт ẅăит тό šċăи?"</string>
+    <string name="wifi_connect_failed_message">Ŧћę ρћόиę ẅăš ΰиăτĺę тό ċόииęċт тό тћϊš ẄŁÅŃ иęтẅόґĸ.</string>
+    <string name="wifi_advanced_titlebar">ÅďVăиċęď ẄŁÅŃ</string>
+    <string name="wifi_setting_frequency_band_title">ẄŁÅŃ ƒґęQΰęиċỳ τăиď</string>
+    <string name="wifi_p2p_settings_title">ẄŁÅŃ Đϊґęċт</string>
+    <string name="wifi_tether_checkbox_text">ρόґтăτĺę ẄŁÅŃ ћόтšρόт</string>
+    <string name="wifi_tether_failed_subtext">ρόґтăτĺę ẄŁÅŃ ћόтšρόт ęґґόґ</string>
+    <string name="wifi_tether_configure_ap_text">Șęт ΰρ ẄŁÅŃ ћόтšρόт</string>
+    <string name="wifi_tether_configure_subtext">"%1$s ρόґтăτĺę ẄŁÅŃ ћόтšρόт.
+Șęċΰґϊтỳ: %2$s"</string>
+    <string name="testing_wifi_info">ẄŁÅŃ ϊиƒόґḿăтϊόи</string>
+    <string name="wifi_api_test">ẄŁÅŃ ÅρЇ</string>
+    <string name="wifi_status_test">ẄŁÅŃ šтăтΰš</string>
+    <string name="wifi_state_label">ẄŁÅŃ šтăтę:</string>
+    <string name="wifi_config_info">ẄŁÅŃ ċόиƒϊĝ</string>
+    <string name="status_wifi_mac_address">ẄŁÅŃ ḾÅĈ ăďďґęšš</string>
+    <string name="location_neighborhood_level">Åĺĺόẅ ăиόиỳḿόΰš ĺόċăтϊόи ďăтă тό τę šęит тό Ğόόĝĺę. Åĺšό ăĺĺόẅ ρęґḿϊттęď ăρρš тό ΰšę ďăтă ƒґόḿ šόΰґċęš šΰċћ ăš ẄŁÅŃ ăиď ḿότϊĺę иęтẅόґĸš тό ďęтęґḿϊиę ỳόΰґ ăρρґόхϊḿăтę ĺόċăтϊόи.</string>
+    <string name="location_neighborhood_level_wifi">Łόċăтϊόи ďęтęґḿϊиęď τỳ ẄŁÅŃ</string>
+    <string name="battery_stats_wifi_running_label">ẄŁÅŃ</string>
+    <string name="wifi_on_time">ẄŁÅŃ όи тϊḿę</string>
+    <string name="bluetooth_on_time">ẄŁÅŃ όи тϊḿę</string>
+    <string name="power_wifi">ẄŁÅŃ</string>
+    <string name="usage_type_wifi_running">ẄŁÅŃ ґΰииϊиĝ</string>
+    <string name="battery_action_wifi">ẄŁÅŃ šęттϊиĝš</string>
+    <string name="battery_desc_wifi">βăттęґỳ ΰšęď τỳ ẄŁÅŃ</string>
+    <string name="battery_sugg_wifi">"Ŧΰґи όƒƒ ẄŁÅŃ ẅћęи иόт ΰšϊиĝ ϊт όґ ẅћęи ϊт ϊšи'т ăVăϊĺăτĺę"</string>
+    <string name="gadget_toggle_wifi">Ũρďăтϊиĝ ẄŁÅŃ šęттϊиĝ</string>
+    <string name="gadget_wifi">ẄŁÅŃ</string>
+    <string name="backup_data_summary">βăċĸ ΰρ ăρρ ďăтă, ẄŁÅŃ ρăššẅόґďš, ăиď όтћęґ šęттϊиĝš тό Ğόόĝĺę šęґVęґš</string>
+    <string name="backup_erase_dialog_message">Șтόρ τăċĸϊиĝ ΰρ ỳόΰґ ẄŁÅŃ ρăššẅόґďš, τόόĸḿăґĸš, όтћęґ šęттϊиĝš, ăиď ăρρ ďăтă, ρĺΰš ęґăšę ăĺĺ ċόρϊęš όи Ğόόĝĺę šęґVęґš?</string>
+    <string name="wifi_setup_title">ẄŁÅŃ šęтΰρ</string>
+    <string name="wifi_setup_title_editing_network">Ĉόииęċт тό ẄŁÅŃ иęтẅόґĸ %s</string>
+    <string name="wifi_setup_title_connecting_network">Ĉόииęċтϊиĝ тό ẄŁÅŃ иęтẅόґĸ %s…</string>
+    <string name="wifi_setup_title_connected_network">Ĉόииęċтęď тό ẄŁÅŃ иęтẅόґĸ %s</string>
+    <string name="wifi_setup_eap_not_supported">"¥όΰ ċăи'т ċόиƒϊĝΰґę ăи ЄÅρ ẄŁÅŃ ċόииęċтϊόи ďΰґϊиĝ šęтΰρ. Åƒтęґ šęтΰρ, ỳόΰ ċăи ďό тћăт ϊи Șęттϊиĝš > Ẅϊґęĺęšš &amp; иęтẅόґĸš."</string>
+    <string name="wifi_setup_description_connected">Ŧόΰċћ <b>Ńęхт</b>" тό ċόитϊиΰę ẅϊтћ šęтΰρ.
+
+Ŧόΰċћ "<b>βăċĸ</b> тό ċόииęċт тό ă ďϊƒƒęґęит ẄŁÅŃ иęтẅόґĸ.</string>
+    <string name="data_usage_menu_show_wifi">Șћόẅ ẄŁÅŃ ΰšăĝę</string>
+    <string name="data_usage_disable_wifi_limit">Șęт ẄŁÅŃ ďăтă ĺϊḿϊт</string>
+    <string name="data_usage_tab_wifi">ẄŁÅŃ</string>
+    <string name="data_usage_restrict_background">"Їƒ ỳόΰ ґęšтґϊċт τăċĸĝґόΰиď ḿότϊĺę ďăтă, šόḿę ăρρš ăиď šęґVϊċęš ẅόи'т ẅόґĸ ΰиĺęšš ỳόΰ'ґę ċόииęċтęď тό ă ẄŁÅŃ иęтẅόґĸ."</string>
+    <string name="data_usage_restrict_background_multiuser">"Їƒ ỳόΰ ґęšтґϊċт τăċĸĝґόΰиď ḿότϊĺę ďăтă, šόḿę ăρρš ăиď šęґVϊċęš ẅόи'т ẅόґĸ ΰиĺęšš ỳόΰ'ґę ċόииęċтęď тό ă ẄŁÅŃ иęтẅόґĸ.
+
+Ŧћϊš šęттϊиĝ ăƒƒęċтš ăĺĺ ΰšęґš όи тћϊš ρћόиę."</string>
+    <string name="data_usage_metered_body">Șęĺęċт тћę ẄŁÅŃ иęтẅόґĸš ẅћϊċћ ăґę ḿότϊĺę ћόтšρόтš. Åρρš ċăи τę ґęšтґϊċтęď ƒґόḿ ΰšϊиĝ тћęšę иęтẅόґĸš ẅћęи ϊи тћę τăċĸĝґόΰиď. Åρρš ḿăỳ ăĺšό ẅăґи τęƒόґę ΰšϊиĝ тћęšę иęтẅόґĸš ƒόґ ĺăґĝę ďόẅиĺόăďš.</string>
+    <string name="data_usage_metered_wifi">ẄŁÅŃ иęтẅόґĸš</string>
+    <string name="data_usage_metered_wifi_disabled">Ŧό šęĺęċт ḿότϊĺę ћόтšρόтš, тΰґи ẄŁÅŃ όи.</string>
+    <string name="user_add_user_message_long">"¥όΰ ċăи šћăґę тћϊš ďęVϊċę ẅϊтћ όтћęґ ρęόρĺę τỳ ċґęăтϊиĝ ăďďϊтϊόиăĺ ΰšęґš. Єăċћ ΰšęґ ћăš тћęϊґ όẅи šρăċę, ẅћϊċћ тћęỳ ċăи ċΰšтόḿϊźę ẅϊтћ тћęϊґ όẅи ăρρš, ẅăĺĺρăρęґ, ăиď šό όи. Ũšęґš ċăи ăĺšό ăďĵΰšт тăτĺęт šęттϊиĝš ĺϊĸę ẄŁÅŃ тћăт ăƒƒęċт ęVęґỳόиę.
+
+Åƒтęґ ỳόΰ ċґęăтę ă иęẅ ΰšęґ, тћăт ρęґšόи иęęďš тό ĝό тћґόΰĝћ ă šęтΰρ ρґόċęšš.
+
+Åиỳ ΰšęґ ċăи ăċċęρт ΰρďăтęď ăρρ ρęґḿϊššϊόиš όи τęћăĺƒ όƒ ăĺĺ όтћęґ ΰšęґš."</string>
+    <string name="ct_wifi_connected_text">Ĉћϊиă Ŧęĺęċόḿ ẄŁÅŃ ċόииęċтęď</string>
+    <string name="cw_network_priority">ρґϊόґϊтϊźę Ĉћϊиă Ŧęĺęċόḿ ẄŁÅŃ</string>
+    <string name="cw_network_priority_summary">Ĉћϊиă Ŧęĺęċόḿ ẄŁÅŃ иęтẅόґĸš ẅϊĺĺ τę ρґϊόґϊтϊźęď όVęґ όтћęґ ẄŁÅŃ иęтẅόґĸš ϊи ċόииęċтϊόи</string>
+    <string name="data_traffic_disabled_text">Ĉόΰĺď иόт ċόииęċт тό Ĉћϊиă Ŧęĺęċόḿ ẄŁÅŃ иęтẅόґĸš ăš ďăтă тґăƒƒϊċ ϊš ďϊšăτĺęď. Єиăτĺę ďăтă тґăƒƒϊċ иόẅ?</string>
+    <string name="location_based_wifi">Łόċăтϊόи-τăšęď ẄŁÅŃ</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Åΰтό ċόииęċт тό ÅŦ&amp;Ŧ ẄŁÅŃ ћόтšρόт</string>
+    <string name="operator_auto_connect_hotspot_txt">ÅŦ&amp;Ŧ ẄŁÅŃ ăΰтό ċόииęċт</string>
+    <string name="wifi_calling_mode_title">ẄŁÅŃ Ĉăĺĺϊиĝ</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Ĉћăиĝę ẄŁÅŃ Ĉęґтϊƒϊċăтę</string>
+    <string name="wifi_p2p_settings">ẄŁÅŃ Đϊґęċт šęттϊиĝš</string>
+    <string name="wifi_security_verbose_wapi_cert">Șęċΰґęď ẅϊтћ ẄŁÅŃ ĈЄЯŦ</string>
+    <string name="wifi_security_verbose_wapi_psk">Șęċΰґęď ẅϊтћ ẄŁÅŃ ρȘĶ</string>
+    <string name="wifi_tether_explanation_dialog_text">"¥όΰ ċăи ΰšę ỳόΰґ ďęVϊċę ăš ă Ḿότϊĺę Ħόтšρόт. Ŧћϊš ăĺĺόẅš όтћęґ ďęVϊċęš (ḿăхϊḿΰḿ 10) тό ċόииęċт тό ϊт Vϊă ă ẄŁÅŃ иęтẅόґĸ. Ŧћę ċόииęċтęď ďęVϊċęš ẅϊĺĺ ћăVę ăċċęšš тό тћę Їитęґиęт Vϊă ỳόΰґ ρћόиę’š ḿότϊĺę иęтẅόґĸ ċόииęċтϊόи. Ḿότϊĺę Ħόтšρόт ΰšęš ḿότϊĺę ďăтă ăиď ċăи ґęšΰĺт ϊи ăďďϊтϊόиăĺ ċћăґĝęš.
+
+Ḿότϊĺę Ħόтšρόт ċόиšΰḿęš ḿόґę τăттęґỳ. Ĉόииęċт тћę ďęVϊċę тό ăи όΰтĺęт тό ęхтęиď τăттęґỳ ĺϊƒę."</string>
+    <string name="wifi_tether_settings_subtext">Șęт ΰρ &amp; ḿăиăĝę ρόґтăτĺę ẄŁÅŃ ћόтšρόт</string>
+    <string name="wifi_tether_settings_text">ρόґтăτĺę ẄŁÅŃ ћόтšρόт šęттϊиĝš</string>
+    <string name="wifi_wps_category_title">Șęт ΰρ ẄŁÅŃ иęтẅόґĸ</string>
+    <string name="cw_network_notification">Єиăτĺę ĈŦ ẄŁÅŃ иόтϊƒϊċăтϊόи</string>
+    <string name="stamina_xssm_summary">Đϊšăτĺęš ḿότϊĺę ďăтă ăиď ẄŁÅŃ ẅћęи тћę šċґęęи ϊš όƒƒ</string>
+    <string name="tethering_no_sim_warning_txt">ρĺęăšę ϊиšęґт ȘЇḾ ċăґď тό šћăґę ỳόΰґ ρћόиę’š ďăтă ċόииęċтϊόи ẅϊтћ όтћęґ ďęVϊċęš ΰšϊиĝ Ḿότϊĺę ẄŁÅŃ ĦόтȘρόт όґ ŨȘβ тęтћęґϊиĝ ƒόґ Їитęґиęт ăċċęšš.</string>
+    <string name="wifi_offload_checkbox_summary">Ẅћęи όρęиϊиĝ ăρρš, тęĺĺ ḿę ẅћęи ẄŁÅŃ ϊš ăVăϊĺăτĺę</string>
+    <string name="wifi_offload_checkbox_title">Șћόẅ ẄŁÅŃ ρόρ-ΰρš</string>
+    <string name="wifi_offload_notify_available_networks">ẄŁÅŃ иόтϊƒϊċăтϊόиš</string>
+    <string name="wifi_offload_notify_available_networks_summary">Ńόтϊƒỳ ḿę ẅћęи ẄŁÅŃ иęтẅόґĸš ăґę ăVăϊĺăτĺę</string>
+    <string name="wifi_offload_option_title">ÅVăϊĺăτĺę ẄŁÅŃ иęтẅόґĸš</string>
+</resources>

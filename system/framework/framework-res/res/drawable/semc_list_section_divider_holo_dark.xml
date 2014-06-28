@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.uxp.drawable.ColorizableDrawable somc:drawable="@drawable/semc_list_section_divider_holo_dark_normal" somc:color="@com.sonyericsson.uxp:color/somc_theme_accent_color_dark"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp" />

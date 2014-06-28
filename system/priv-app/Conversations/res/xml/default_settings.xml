@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="2">
+    <setting key="delivery-report" runtime="true">true</setting>
+    <setting key="delivery-report-visibility" runtime="false">true</setting>
+    <setting key="mms-auto-retrieval" runtime="true">true</setting>
+    <setting key="mms-auto-retrieval-visibility" runtime="false">true</setting>
+    <setting key="mms-retrieval-during-roaming" runtime="true">false</setting>
+    <setting key="mms-retrieval-during-roaming-visibility" runtime="false">true</setting>
+    <setting key="notification-enabled" runtime="true">true</setting>
+    <setting key="notification-enabled-visibility" runtime="false">true</setting>
+    <setting key="notification-ringtone" runtime="true">content://settings/system/notification_sound</setting>
+    <setting key="notification-ringtone-visibility" runtime="false">true</setting>
+    <setting key="notification-vibration" runtime="true">true</setting>
+    <setting key="notification-vibration-visibility" runtime="false">true</setting>
+    <setting key="character-conversion" runtime="true">false</setting>
+    <setting key="character-conversion-visibility" runtime="false">false</setting>
+    <setting key="notification-led-enabled" runtime="true">true</setting>
+    <setting key="notification-led-enabled-visibility" runtime="false">true</setting>
+    <setting key="cellbroadcast-enabled" runtime="true">false</setting>
+    <setting key="cellbroadcast-enabled-visibility" runtime="false">true</setting>
+    <setting key="max-recipients" runtime="false">50</setting>
+    <setting key="mms-max-size" runtime="false">300</setting>
+    <setting key="mms-max-objects" runtime="false">5</setting>
+    <setting key="sms-max-segments" runtime="false">20</setting>
+    <setting key="mms-image-resolution" runtime="false">XGA</setting>
+    <setting key="mms-video-container-format" runtime="false" />
+    <setting key="mms-trigger-recipients" runtime="false">50</setting>
+    <setting key="mms-trigger-sms-segments" runtime="false">20</setting>
+    <setting key="mms-trigger-pdu-bytes" runtime="false">0</setting>
+    <setting key="enable-force-message-type" runtime="false">false</setting>
+    <setting key="disable-mms" runtime="false">false</setting>
+    <setting key="enable-mms-subject" runtime="false">true</setting>
+    <setting key="use-sc-timestamp" runtime="false">false</setting>
+    <setting key="enable-slideshow-editor" runtime="false">false</setting>
+    <setting key="show-participants-in-message-header" runtime="false">true</setting>
+    <setting key="mimetype-from-file-extension" runtime="false">false</setting>
+    <setting key="enable-save-draft-dialog" runtime="false">false</setting>
+    <setting key="three-digit-number-linkify" runtime="false">false</setting>
+    <setting key="enable-mms-preview" runtime="false">true</setting>
+    <setting key="enable-use-white-theme" runtime="false">false</setting>
+    <setting key="strict-phonenumber-comparison-prefix" runtime="false" />
+    <setting key="mms-version" runtime="false">16</setting>
+    <setting key="enable-attachment-indicator">false</setting>
+    <setting key="enable-doodle" runtime="false">true</setting>
+    <setting key="show-sender-name" runtime="false">true</setting>
+    <setting key="smsc-editable-value" runtime="false">1</setting>
+    <setting key="enable_emergency_alerts" runtime="false">false</setting>
+</settings>

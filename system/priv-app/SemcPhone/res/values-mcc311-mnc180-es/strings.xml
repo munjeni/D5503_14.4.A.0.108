@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roaming_enable">Los cargos por roaming datos intern aplica a uso datos fuera de EE .UU., Puerto Rico y U.S.V.I. Desactive roaming de datos para evitar cargos.</string>
+    <string name="roaming_disable">Los cargos por roaming datos intern aplica a uso datos fuera de E E.UU., Puerto Rico y U.S.V.I. Desactive roaming de datos para evitar cargos.</string>
+    <string name="roaming_warning">¿Permitir roaming de datos? Aplican cargos por roaming de datos i nternacionales para el uso de datos fuera de EE.UU., Puerto Rico y U.S.V.I.</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">允許應用程式使用全球衛星定位系統(GPS)或網絡位置來源(例如無線通信基站和WLAN)取得您的精確位置。您必須在裝置上開啟這些定位服務，才能供裝置的應用程式使用。應用程式可能會藉此判別您的位置，也可能會消耗額外電力。</string>
+    <string name="permdesc_accessCoarseLocation">允許應用程式取得您的概略位置。這類位置資訊取自使用網絡位置來源(例如無線通信基站和WLAN)的定位服務。您必須在裝置上開啟這些定位服務，才能供裝置的應用程式使用。應用程式可能藉此判別您的概略位置。</string>
+    <string name="permlab_configureWifiDisplay">配置WLAN顯示裝置</string>
+    <string name="permdesc_configureWifiDisplay">允許應用程式配置及連接WLAN螢幕分享。</string>
+    <string name="permlab_controlWifiDisplay">控制WLAN顯示裝置</string>
+    <string name="permdesc_controlWifiDisplay">允許應用程式控制WLAN螢幕分享的低階功能。</string>
+    <string name="permlab_accessWifiState">檢視WLAN連接</string>
+    <string name="permdesc_accessWifiState">允許應用程式檢視與WLAN網絡有關的資訊，例如WLAN是否已啟用以及已連接WLAN裝置的名稱。</string>
+    <string name="permlab_changeWifiState">從WLAN連接及中斷連接</string>
+    <string name="permdesc_changeWifiState">允許應用程式從WLAN接入點連接及中斷連接，並更改WLAN網絡的裝置配置。</string>
+    <string name="permlab_changeWifiMulticastState">允許WLAN多重播送的接收</string>
+    <string name="permdesc_changeWifiMulticastState">允許應用程式接收使用多重播送位址發送到WLAN網絡上所有裝置(而非只有您的手機)的封包。此方式使用的電力會比非多重播送模式更多。</string>
+    <string name="wifi_available_sign_in">登入WLAN網絡</string>
+    <string name="wifi_watchdog_network_disabled">無法連接至WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">啟動WLAN Direct。這將會關閉WLAN客戶端/無線基地台。</string>
+    <string name="wifi_p2p_failed_message">無法啟動WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct已開啟</string>
+    <string name="wifi_p2p_frequency_conflict_message">連接至%1$s時，手機會暫時中斷WLAN連接</string>
+    <string name="data_usage_wifi_limit_title">WLAN數據已停用</string>
+    <string name="data_usage_wifi_limit_snoozed_title">已超過WLAN數據上限</string>
+    <string name="policylab_disableWifi">停用WLAN存取</string>
+    <string name="policydesc_disableWifi">防止在裝置上使用WLAN連接。</string>
+    <string name="wifi_disabled_notification_title">已限制WLAN連接</string>
+    <string name="wifi_disabled_notification_message">"安全性政策限制使用WLAN。 "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN漫遊進行中</string>
+    <string name="ct_cplusw_notification_text">"您已接入中國電信WLAN網絡，計費訊息請諮詢10000或當地中國電信營業廳，不使用網絡時請中斷連接。
+
+"</string>
+    <string name="ct_cplusw_notification_title">已連接中國電信WLAN</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">您將連接至中國電信WLAN網絡。如需瞭解收費詳細資料，請聯絡中國電信客戶服務部門。繼續？</string>
+    <string name="wifi_nonconcurrency_message">啟動WLAN客戶端。這將會讓WLAN中斷連接。</string>
+    <string name="wifi_noncuncurrency_message">啟動WLAN客戶端。這將會讓WLAN中斷連接。</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">所有現有的WLAN連接將中斷連接。</string>
+    <string name="wifi_p2p_nonconcurrency_message">啟動WLAN Direct。這將會讓WLAN中斷連接。</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">這將會讓所有現有的WLAN中斷連接。</string>
+    <string name="wifi_p2p_noncuncurrency_message">啟動WLAN Direct。這將會讓WLAN中斷連接。</string>
+    <string name="tethered_notification_message_wifi">關閉行動HotSpot以重新開啟WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN已關閉</string>
+</resources>

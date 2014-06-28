@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Bạn sẽ không thể sử dụng Internet, email hoặc các ứng dụng khác yêu cầu kết nối dữ liệu nữa trừ khi bạn sử dụng WLAN. Tắt kết nối dữ liệu di động?</string>
+    <string name="sip_call_options_wifi_only_title">S.dụng t.chọn gọi điện qua Internet (chỉ WLAN)</string>
+    <string name="registration_status_no_wifi_data">Không có kết nối WLAN. Không thể đăng ký tài khoản.</string>
+    <string name="no_wifi_available_title">Không có kết nối WLAN</string>
+    <string name="no_wifi_available">Bạn phải kết nối với mạng WLAN để gọi điện qua Internet (Đi tới Cài đặt > Không dây &amp; mạng).</string>
+</resources>

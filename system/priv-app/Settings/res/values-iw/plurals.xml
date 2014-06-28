@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+        <item quantity="one">אתה כעת במרחק של צעד %1$d מלהיות מפתח.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d אותיות</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות אות אחת</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d אותיות קטנות</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות אות קטנה אחת</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d אותיות רישיות</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות אות רישית אחת</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d ספרות</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות ספרה אחת</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d סימנים מיוחדים</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות סימן מיוחד אחד</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">הסיסמה חייבת להכיל לפחות %d תווים שאינם אות</item>
+        <item quantity="one">הסיסמה חייבת להכיל לפחות תו אחד שאינו אות</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d יישומים יכולים לקרוא התראות</item>
+        <item quantity="one">%d יישום יכול לקרוא התראות</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">קוד PIN שגוי של כרטיס ה-SIM. נותרו לך %d ניסיונות נוספים.</item>
+        <item quantity="one">‏קוד PIN שגוי של כרטיס ה-SIM. נותר לך ניסיון %d נוסף לפני שיהיה עליך ליצור קשר עם הספק כדי לבטל את נעילת ההתקן.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">נמצאו %1$s מדפסות</item>
+        <item quantity="one">נמצאה מדפסת %1$s</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d יישומים מופיעים כעת ברשימה</item>
+        <item quantity="one">היישום %1$d מופיע כעת ברשימה</item>
+    </plurals>
+</resources>

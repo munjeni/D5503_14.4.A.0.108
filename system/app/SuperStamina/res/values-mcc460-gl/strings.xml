@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Cando a pantalla estea desactivada, a conexión WLAN e os datos móbiles desactivaranse temporalmente, e a maioría das aplicacións estarán inactivas. Poderá seguir recibindo chamadas telefónicas, mensaxes SMS/MMS, notificacións do calendario de Sony™ e sinais de alarma de Sony™. Funcionarán o reprodutor de música e a radio FM, e poderán rematar as descargas e cargas en curso.
+
+Cando a pantalla estea activada, o teléfono funcionará con normalidade.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Cando a pantalla estea apagada, a WLAN e os datos móbiles desactivaranse de maneira temporal e a maioría das aplicacións estarán inactivas. Aínda recibirá mensaxes SMS/MMS, notificacións de calendario de Sony™ e sinais de alarmas Sony™. O reprodutor de música e a radio FM funcionarán, e as descargas e as cargas en curso poderán completarse.
+
+Cando a pantalla estea acendida, o dispositivo funcionará con normalidade."</string>
+    <string name="description_msg_no_telephony_txt">"Cando a pantalla estea apagada, a WLAN desactivarase temporalmente e a maioría das aplicacións estarán inactivas. Aínda recibirá notificacións de calendario de Sony™ e sinais de alarmas Sony™. O reprodutor de música e a radio FM funcionarán, e as descargas e as cargas en curso poderán completarse.
+
+Cando a pantalla estea acendida, o dispositivo funcionará con normalidade."</string>
+    <string name="notification_descr_ps">O modo de batería baixa pode alongar a vida da batería, por exemplo apagando WLAN ou reducindo o brillo da pantalla cando a batería está baixa.</string>
+    <string name="notification_text_lbw">Activar a ubicación baseada en WLAN</string>
+    <string name="notification_descr_lbw">WLAN está activada pero non se usou durante un tempo. Aforre enerxía activando a ubicación baseada en WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">O WLAN está activado pero leva un tempo sen usarse. Pode aforrar enerxía se activa o WLAN segundo localización. Configurar WLAN segundo localización?</string>
+    <string name="low_battery_mode_tip_dialog">O modo de batería baixa pode ampliar a duración da batería mediante, por exemplo, a desactivación do WLAN ou a redución do brillo da pantalla cando hai pouca batería. Configurar o modo de batería baixa?</string>
+</resources>

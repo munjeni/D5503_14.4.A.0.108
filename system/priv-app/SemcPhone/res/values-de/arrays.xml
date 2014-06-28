@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Netzwerk-Standard</item>
+        <item>Rufnummer unterdrücken</item>
+        <item>Rufnummer anzeigen</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Nur EvDo</item>
+        <item>CDMA ohne EvDo</item>
+        <item>CDMA/EvDo (automatisch)</item>
+        <item>GSM/WCDMA (automatisch)</item>
+        <item>Nur WCDMA</item>
+        <item>Nur GSM</item>
+        <item>GSM/WCDMA bevorzugt</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Japanisch</item>
+        <item>Koreanisch</item>
+        <item>Chinesisch</item>
+        <item>Hebräisch</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatisch)</item>
+        <item>Nur WCDMA</item>
+        <item>Nur GSM</item>
+        <item>GSM/WCDMA (WCDMA bevorzugt)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Nur Startbildschirm</item>
+        <item>Automatisch</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Nur Heimnetze</item>
+        <item>Zugehörige Netzwerke</item>
+        <item>Beliebiges Netzwerk</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Nur CDMA</item>
+        <item>Nur EvDo</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY aus</item>
+        <item>TTY (vollständig)</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Lang</item>
+    </string-array>
+</resources>

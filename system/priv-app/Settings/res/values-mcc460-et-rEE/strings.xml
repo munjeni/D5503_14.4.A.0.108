@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">WLAN, Bluetoothi, lennukirežiimi ja mobiilsidevõrkude ning VPN-ide haldamine</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Lülita WLAN sisse</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-seaded</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN valimine</string>
+    <string name="wifi_starting">WLAN sisselülitamine ...</string>
+    <string name="wifi_stopping">WLAN väljalülitamine ...</string>
+    <string name="wifi_poor_network_detection_summary">Ära kasuta WLAN-võrku, kui selle Interneti-ühendus on halb</string>
+    <string name="wifi_scan_always_available_summary">"Luba Google'i asukohateenusel ja muudel rakendustel võrke skannida ka juhul, kui WLAN on välja lülitatud"</string>
+    <string name="wifi_scan_notify_text_location_on">Asukoha täpsuse parandamiseks ning muudel eesmärkidel võivad Google ja teised rakendused otsida läheduses olevaid võrke ka siis, kui WLAN on väljas. Kui te seda ei soovi, tehke valikud Täpsem > Otsimine alati saadaval.</string>
+    <string name="wifi_scan_notify_text_location_off">Rakendused võivad otsida läheduses olevaid võrke ka siis, kui WLAN on väljas. Kui te seda ei soovi, tehke valikud Täpsem > Otsimine alati saadaval.</string>
+    <string name="wifi_setting_sleep_policy_title">Hoia WLAN unerežiimis sees</string>
+    <string name="wifi_suspend_optimizations">WLAN optimeerimine</string>
+    <string name="wifi_suspend_optimizations_summary">Minimeeri aku kasutamine, kui WLAN on sees</string>
+    <string name="wifi_access_points">WLAN-võrgud</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Saadavate võrkude kuvamiseks lülitage WLAN sisse.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN-võrkude otsimine ...</string>
+    <string name="wifi_empty_list_user_restricted">Teil pole WLAN-võrgu muutmiseks luba.</string>
+    <string name="wifi_required_info_text">Seadistuse lõpuleviimiseks vajab teie tahvelarvuti WLAN-ühendust. Pärast seadistust saate vahetada mobiilse andmeside ja WLAN vahel.</string>
+    <string name="wifi_wps_setup_title">Kaitstud WLAN seadistamine</string>
+    <string name="wifi_wps_onstart_pbc">Vajutage ruuteril nuppu Seadista kaitstud WLAN. Selle nimi võib olla ka „WPS” või see võib sisaldada sümbolit:</string>
+    <string name="wifi_wps_onstart_pin">Sisestage WLAN-ruuteril PIN-kood %1$s. Seadistuse lõpuleviimiseks võib kuluda kuni kaks minutit.</string>
+    <string name="wifi_wps_connected">Ühendus on loodud WLAN-võrguga %s</string>
+    <string name="wifi_scan_always_turnon_message">"Täpsema asukoha ja muude toimingute jaoks tahab rakendus %1$s võrkude skannimise sisse lülitada, isegi kui WLAN on välja lülitatud.
+
+Kas lubada see kõigi rakenduste jaoks, mis skannida tahavad?"</string>
+    <string name="wifi_connect_failed_message">Telefonil ei õnnestunud luua ühendust selle WLAN-võrguga.</string>
+    <string name="wifi_advanced_titlebar">Täpsemad WLAN-seaded</string>
+    <string name="wifi_setting_frequency_band_title">WLAN sagedusriba</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Kaasaskantav WLAN-tugijaam</string>
+    <string name="wifi_tether_failed_subtext">Kaasaskantava WLAN-tugijaama viga</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-tugijaama seadistamine</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s kaasaskantav WLAN-tugijaam</string>
+    <string name="status_wifi_mac_address">WLAN MAC-aadress</string>
+    <string name="location_mode_high_accuracy_description">Asukoha määramine GPS-i, WLAN- ja mobiilsidevõrgu abil</string>
+    <string name="location_mode_battery_saving_description">Asukoha määramine WLAN- ja mobiilsidevõrgu abil</string>
+    <string name="location_network_based">WLAN/mobiilsidevõrgu asukoht</string>
+    <string name="location_neighborhood_level">"Lubage rakendustel kasutada Google'i asukohateenust, et asukohta kiiremini määrata. Kogutud anonüümsed asukohaandmed saadetakse Google'ile."</string>
+    <string name="location_neighborhood_level_wifi">WLAN järgi määratud asukoht</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN õigel ajal</string>
+    <string name="bluetooth_on_time">WLAN õigel ajal</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN töötab</string>
+    <string name="usage_type_data_wifi_send">Saadetud WLAN-andmed</string>
+    <string name="usage_type_data_wifi_recv">Vastuvõetud WLAN-andmed</string>
+    <string name="battery_action_wifi">WLAN-seaded</string>
+    <string name="battery_desc_wifi">WLAN kasutatav aku</string>
+    <string name="battery_sugg_wifi">Lülitage WLAN välja, kui te seda ei kasuta või see pole saadaval</string>
+    <string name="gadget_toggle_wifi">WLAN-seade värskendamine</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">"Varundage rakenduse andmed, WLAN-paroolid ja muud seaded Google'i serverites"</string>
+    <string name="backup_erase_dialog_message">"Kas soovite WLAN-paroolide, järjehoidjate, muude seadete ja rakenduse andmete varundamise lõpetada ja kõik Google'i serverites olevad koopiad kustutada?"</string>
+    <string name="wifi_setup_title">WLAN seadistamine</string>
+    <string name="wifi_setup_title_editing_network">WLAN-võrguga %s ühenduse loomine</string>
+    <string name="wifi_setup_title_connecting_network">WLAN-võrguga %s ühenduse loomine ...</string>
+    <string name="wifi_setup_title_connected_network">Ühendus on loodud WLAN-võrguga %s</string>
+    <string name="wifi_setup_eap_not_supported">Seadistamise ajal ei saa seadistada EAP WLAN-ühendust. Saate seda teha pärast seadistamise lõppu. Selleks tehke valikud Seaded > Traadita ühendus ja võrgud.</string>
+    <string name="wifi_setup_description_connected">Seadistamise jätkamiseks puudutage nuppu <b>Edasi</b>".
+
+Teise WLAN-võrguga ühenduse loomiseks puudutage valikut "<b>Tagasi</b>.</string>
+    <string name="data_usage_menu_show_wifi">Kuva WLAN kasutust</string>
+    <string name="data_usage_disable_wifi_limit">Määra WLAN andmepiirang</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Kui piirate mobiilside taustandmeid, siis WLAN-võrgu puudumisel mõned rakendused ja teenused ei tööta.</string>
+    <string name="data_usage_restrict_background_multiuser">"Kui piirate mobiilside taustandmeid, siis teatud rakendused ja teenused ei tööta, välja arvatud juhul, kui olete ühenduses WLAN-võrguga.
+
+Seade mõjutab kõiki telefoni kasutajaid."</string>
+    <string name="data_usage_metered_body">Valige WLAN-võrgud, mis on tekitatud nutitelefonide abil. Taustarakendusi on võimalik takistada neid võrke kasutamast. Teid võidakse enne hoiatada, kui rakendused laadivad võrkude kaudu alla mahukaid üksusi.</string>
+    <string name="data_usage_metered_wifi">WLAN-võrgud</string>
+    <string name="data_usage_metered_wifi_disabled">Nutitelefonide võrkude valimiseks lülitage WLAN sisse.</string>
+    <string name="user_add_user_message_long">"Võite jagada seadet teiste kasutajatega, luues uusi kasutajaid. Igal kasutajal on oma ruum, mida saab kohandada rakenduste, taustapildi ja muuga. Kasutajad saavad kohandada ka tahvelarvuti seadeid, näiteks WLAN-valikuid, mis mõjutavad kõiki kasutajaid.
+
+Pärast uue kasutaja loomist peab kasutaja läbima seadistusprotsessi.
+
+Iga kasutaja saab teiste kasutajate nimel võtta vastu värskendatud rakenduse lubasid."</string>
+    <string name="restriction_wifi_config_title">WLAN ja mobiilne andmeside</string>
+    <string name="restriction_wifi_config_summary">WLAN ja mobiilse andmeside seadete muutmise lubamine</string>
+</resources>

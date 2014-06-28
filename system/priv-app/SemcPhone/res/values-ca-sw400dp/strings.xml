@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_emergency_enable_radio_dialog_title_txt">"Trucada d'emergència"</string>
+    <string name="clh_large_manage_conference_participants">Participants de la trucada de conferència</string>
+    <string name="add_fdn_contact">Addició del contacte de marcatge fix</string>
+    <string name="delete_fdn_contact">Suprimeix el contacte de marcatge fix</string>
+</resources>

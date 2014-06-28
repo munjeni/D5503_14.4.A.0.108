@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בקר מצב חיסכון</string>
+    <string name="dont_ask_me_again_txt">אל תשאל אותי שוב</string>
+    <string name="description_msg_txt">"כאשר המסך כבוי, פונקציונליות Wi-Fi ונתונים סלולריים תושבת באופן זמני, ורוב היישומים לא יהיו פעילים. עדיין תוכל לקבל שיחות טלפון, הודעות SMS/MMS, חיוויי יומן של Sony™‎ וצלילי תזכורת של Sony™‎. נגן המוזיקה ורדיו ה-FM יפעלו, והורדות והעלאות שהיו בתהליך יושלמו.
+
+כאשר המסך מופעל, הטלפון יפעל כרגיל.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"כאשר המסך כבוי, נתוני Wi-Fi ונתונים סלולריים יושבתו באופן זמני, ורוב היישומים לא יהיו פעילים. תמשיך לקבל הודעות SMS/MMS, חיוויי יומן של Sony™‎ וצלילי תזכורת של Sony™‎. נגן המוזיקה ורדיו FM יפעלו, ולא תהיה אפשרות להשלים את ההורדות וההעלאות שהיו בביצוע.
+
+כאשר המסך מופעל, ההתקן יפעל כרגיל."</string>
+    <string name="description_msg_no_telephony_txt">"כאשר המסך כבוי, חיבור Wi-Fi יושבת באופן זמני, ורוב היישומים לא יהיו פעילים. תמשיך לקבל חיוויי יומן של Sony™‎ וצלילי תזכורת של Sony™‎. נגן המוזיקה ורדיו FM יפעלו, ואפשר יהיה להשלים את ההורדות וההעלאות שהיו בביצוע.
+
+כאשר המסך מופעל, ההתקן יפעל כרגיל."</string>
+    <string name="description_title_txt">הערה!</string>
+    <string name="low_battery_mode_description_msg_txt">הפעל מצב סוללה חלשה כדי לכבות את התכונות וההגדרות של צריכת החשמל כאשר רמת הסוללה נמוכה מרמה שהוגדרה מראש. הקש על מצב סוללה חלשה כדי לשנות את ההגדרות.</string>
+    <string name="activate_txt">הפעל</string>
+    <string name="cancel_txt">ביטול</string>
+    <string name="xssm_blocker_detector_title">עצה לניהול צריכת חשמל</string>
+    <string name="xssm_blocker_detector_msg">‏%s מונע ממצב STAMINA לחסוך באנרגיה במצב המתנה</string>
+    <string name="xssm_blocker_detector_long_msg">אם אתה משתמש ביישום זה לעתים קרובות, התעלם מאזהרה זו. אם לא, הסר את היישום או כפה את סיום פעולתו.</string>
+    <string name="xssm_blocker_detector_ignore">הבנתי. אל תציג שוב.</string>
+    <string name="network_detector_msg">‏%s שולח ומקבל נתונים כאשר המסך כבוי וגורם להתרוקנות מהירה יותר של הסוללה.</string>
+    <string name="network_detector_long_msg">הסרת ההתקנה עשויה לשפר את ביצועי ההתקן ולהאריך את חיי הסוללה.</string>
+    <string name="wakelock_detector_msg">‏%s לא היה בשימוש כמה שבועות.</string>
+    <string name="wakelock_detector_long_msg">ייתכן שההתקן יתעורר ממצב המתנה. הסרת ההתקנה עשויה לשפר את ביצועי ההתקן ולהאריך את חיי הסוללה.</string>
+    <string name="notification_title_xssm">עצה לניהול צריכת חשמל</string>
+    <string name="notification_text_xssm">הפעל את מצב STAMINA</string>
+    <string name="notification_descr_xssm">ההתקן נמצא לעתים קרובות במצב המתנה. הארך את זמן השימוש בסוללה על-ידי הפעלת מצב STAMINA.</string>
+    <string name="notification_dont_show_again">הבנתי. אל תציג שוב.</string>
+    <string name="notification_title_ps">עצה לניהול צריכת חשמל</string>
+    <string name="notification_text_ps">הפעל מצב סוללה חלשה</string>
+    <string name="notification_descr_ps">מצב סוללה חלשה יכול להאריך את חיי הסוללה, לדוגמה, על-ידי כיבוי Wi-Fi או על-ידי הפחתת בהירות המסך כאשר הסוללה חלשה.</string>
+    <string name="notification_title_lbw">עצה לניהול צריכת חשמל</string>
+    <string name="notification_text_lbw">הפעל Wi-Fi מבוסס מיקום</string>
+    <string name="notification_descr_lbw">‏Wi-Fi מופעל אך לא נעשה בו שימוש במשך זמן מה. חסוך אנרגיה על-ידי הפעלת Wi-Fi מבוסס מיקום.</string>
+    <string name="unused_application_title">עצה לניהול צריכת חשמל</string>
+    <string name="unused_application_msg">‏%s לא היה בשימוש זמן מה</string>
+    <string name="unused_application_long_msg">אם ברצונך להשאיר יישום זה, התעלם מאזהרה זו. אחרת, הסר את היישום.</string>
+    <string name="unused_application_ignore">הבנתי. אל תציג שוב.</string>
+    <string name="drain_dialog_title_txt">הסוללה לא נטענת</string>
+    <string name="drain_dialog_text_usb_txt">מקור המתח המחובר אינו מספיק. קצב פריקת הסוללה מהיר מקצב טעינתה. החלף למטען ה-AC שלך.</string>
+    <string name="drain_dialog_text_wallcharger_txt">מקור המתח המחובר אינו מספיק. קצב פריקת הסוללה מהיר מקצב טעינתה. מזער את השימוש בהתקן במהלך הטעינה.</string>
+    <string name="extend_battery_tip_dialog_headar">עצה לניהול צריכת חשמל</string>
+    <string name="location_based_wifi_tip_dialog">‏Wi-Fi מופעל אך לא נעשה בו שימוש זמן מה. תוכל לחסוך מתח על-ידי הפעלת Wi-Fi מבוסס מיקום. האם להגדיר Wi-Fi מבוסס מיקום?</string>
+    <string name="low_battery_mode_tip_dialog">מצב סוללה חלשה יכול להאריך את חיי הסוללה על-ידי כיבוי Wi-Fi או הפחתת בהירות המסך, לדוגמה, כאשר הסוללה חלשה. להגדיר מצב סוללה חלשה?</string>
+    <string name="stamina_mode_tip_dialog">ההתקן שלך נמצא לעתים קרובות במצב המתנה. הארך את חיי הסוללה על-ידי הפעלת מצב STAMINA. להגדיר מצב STAMINA?</string>
+    <string name="bad_app_notification">היישום הבא מרוקן את הסוללה:</string>
+    <string name="bad_standby_app_dialog">"‏%s מונע ממצב STAMINA לחסוך מתח סוללה בזמן המתנה. אם אתה משתמש ביישום זה לעתים תכופות, התעלם מאזהרה זו. אם לא, הקש על הלחצן 'פרטי יישום' והסר את היישום או כפה את הפסקת פעולתו."</string>
+    <string name="ignore_dialog_action">התעלם</string>
+    <string name="app_info_dialog_action">פרטי יישום</string>
+    <string name="stamina_activation_notification">מצב STAMINA מופעל</string>
+    <string name="lowbattery_trigger_level_notification">רמת הסוללה נמוכה מ-%d%%</string>
+    <string name="lowbattery_activated_notification">מצב סוללה חלשה מופעל</string>
+    <string name="app_not_used_notification">יישום זה לא היה בשימוש זמן מה:</string>
+    <string name="app_not_used_tip_dialog">%s לא היה בשימוש זמן מה. אנו ממליצים להסיר את היישום כדי לחסוך מתח סוללה.</string>
+    <string name="no_action_dialog">לא</string>
+    <string name="yes_action_dialog">כן</string>
+    <string name="widget_remaining_battery_time">זמן סוללה משוער</string>
+    <string name="widget_name">מצב STAMINA</string>
+</resources>

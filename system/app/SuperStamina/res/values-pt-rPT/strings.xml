@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controlador de modo Eco</string>
+    <string name="dont_ask_me_again_txt">Não perguntar novamente</string>
+    <string name="description_msg_txt">"Com o ecrã desligado, o Wi-Fi e os dados móveis ficarão temporariamente desativados, bem como a maioria das aplicações ficará inativa. Continuará porém a receber chamadas, mensagens SMS/MMS e sinais de alarme e notificações de calendário Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+
+
+Com o ecrã ligado, o telemóvel funcionará normalmente.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Com o ecrã desligado, o Wi-Fi e os dados móveis ficarão temporariamente desativados e a maioria das aplicações inativa. Continuará, no entanto, a receber mensagens SMS/MMS, notificações de calendário Sony™ e toques do despertador Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+Com o ecrã ligado, o dispositivo funcionará normalmente."</string>
+    <string name="description_msg_no_telephony_txt">"Com o ecrã desligado, o Wi-Fi ficará temporariamente desativado e a maioria das aplicações inativa. Continuará, no entanto, a receber notificações de calendário Sony™ e toques do despertador Sony™. O leitor de música e a rádio FM funcionarão, bem como as transferências e carregamentos em curso poderão ser concluídos.
+
+Com o ecrã ligado, o dispositivo funcionará normalmente."</string>
+    <string name="description_title_txt">Nota!</string>
+    <string name="low_battery_mode_description_msg_txt">"Ative o modo de Bateria fraca para desativar as funcionalidades e definições de consumo de energia quando a bateria está abaixo de um nível predefinido. Toque no modo de Bateria fraca para alterar as definições.
+"</string>
+    <string name="activate_txt">Activar</string>
+    <string name="cancel_txt">Cancelar</string>
+    <string name="xssm_blocker_detector_title">Sug. gestão energia</string>
+    <string name="xssm_blocker_detector_msg">%s está a impedir que o modo STAMINA poupe energia em suspensão</string>
+    <string name="xssm_blocker_detector_long_msg">Se utilizar esta aplicação com frequência, ignore este aviso. Se não, desinstale ou force a paragem da aplicação.</string>
+    <string name="xssm_blocker_detector_ignore">Já está. Não voltar a mostrar.</string>
+    <string name="network_detector_msg">%s está a enviar e a receber dados enquanto o ecrã está desligado e está a fazer com que a bateria seja consumida mais rapidamente.</string>
+    <string name="network_detector_long_msg">A desinstalação poderá melhorar o desempenho do dispositivo e prolongar a duração da bateria.</string>
+    <string name="wakelock_detector_msg">%s já não é utilizada há várias semanas.</string>
+    <string name="wakelock_detector_long_msg">Pode reativar o dispositivo a partir do modo espera. A desinstalação pode melhorar o desempenho do dispositivo e prolongar a duração da bateria.</string>
+    <string name="notification_title_xssm">Sug. gestão energia</string>
+    <string name="notification_text_xssm">Ativar o modo STAMINA</string>
+    <string name="notification_descr_xssm">O dispositivo está frequentemente em modo de suspensão. Prolongue a duração da bateria ao ativar o modo STAMINA.</string>
+    <string name="notification_dont_show_again">Já está. Não voltar a mostrar.</string>
+    <string name="notification_title_ps">Sug. gestão energia</string>
+    <string name="notification_text_ps">Ativar o modo de bateria fraca</string>
+    <string name="notification_descr_ps">O modo de bateria fraca pode prolongar a duração da bateria ao, por exemplo, desativar o Wi-Fi ou reduzir o brilho do ecrã quando a bateria estiver fraca.</string>
+    <string name="notification_title_lbw">Sug. gestão energia</string>
+    <string name="notification_text_lbw">Ativar o Wi-Fi baseado na localização</string>
+    <string name="notification_descr_lbw">Wi-Fi está ligado mas não foi utilizado durante algum tempo. Poupe energia ao ativar o Wi-Fi baseado na localização.</string>
+    <string name="unused_application_title">Sugestão de gestão de energia</string>
+    <string name="unused_application_msg">%s não é utilizada há algum tempo</string>
+    <string name="unused_application_long_msg">Se pretende manter esta aplicação, ignore este aviso. Caso contrário, desinstale a aplicação.</string>
+    <string name="unused_application_ignore">OK. Não voltar a mostrar.</string>
+    <string name="drain_dialog_title_txt">A bateria não está a ser carregada</string>
+    <string name="drain_dialog_text_usb_txt">A fonte de alimentação ligada não é suficiente. A bateria está a descarregar mais rapidamente do que está a ser carregada. Mude para o carregador CA.</string>
+    <string name="drain_dialog_text_wallcharger_txt">A fonte de alimentação ligada não é suficiente. A bateria está a descarregar mais rapidamente do que está a ser carregada. Minimize a utilização do dispositivo durante o carregamento.</string>
+    <string name="extend_battery_tip_dialog_headar">Sugestão de gestão de energia</string>
+    <string name="location_based_wifi_tip_dialog">"O Wi-Fi está ativado mas não tem sido utilizado. Pode poupar energia ativando a opção Wi-Fi baseado na localização.  Configurar Wi-Fi baseado na localização?"</string>
+    <string name="low_battery_mode_tip_dialog">O modo de bateria fraca pode prolongar a autonomia da bateria, por exemplo, desativando o Wi-Fi ou reduzindo o brilho do ecrã quando a bateria está fraca. Configurar modo de bateria fraca?</string>
+    <string name="stamina_mode_tip_dialog">O dispositivo está frequentemente no modo de espera. Prolongue o tempo de bateria ativando o modo STAMINA. Configurar modo STAMINA?</string>
+    <string name="bad_app_notification">A aplicação seguinte está a gastar a bateria:</string>
+    <string name="bad_standby_app_dialog">%s está a impedir o modo STAMINA de poupar energia no modo de espera. Se utilizar esta aplicação frequentemente, ignore este aviso. Caso contrário, toque no botão Informação da aplicação e desinstale ou force a paragem da aplicação.</string>
+    <string name="ignore_dialog_action">Ignorar</string>
+    <string name="app_info_dialog_action">Info. da aplicação</string>
+    <string name="stamina_activation_notification">Modo STAMINA ativado</string>
+    <string name="lowbattery_trigger_level_notification">Nível de bateria inferior a %d%%</string>
+    <string name="lowbattery_activated_notification">Modo de bateria fraca ativado</string>
+    <string name="app_not_used_notification">Esta aplicação não tem sido utilizada:</string>
+    <string name="app_not_used_tip_dialog">%s não tem sido utilizado. Recomendamos que desinstale a aplicação para poupar energia.</string>
+    <string name="no_action_dialog">Não</string>
+    <string name="yes_action_dialog">Sim</string>
+    <string name="widget_remaining_battery_time">Tempo de bateria estimado</string>
+    <string name="widget_name">Modo STAMINA</string>
+</resources>

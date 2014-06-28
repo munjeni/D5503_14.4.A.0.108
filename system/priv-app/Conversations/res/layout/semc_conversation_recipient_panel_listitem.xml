@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:background="@android:drawable/list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/recipient_panel_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonyericsson.conversations.ui.ConversationContactBadge android:layout_gravity="center_vertical" android:id="@id/semc_conversation_toppanel_recipientslist_recipientimage_box" android:visibility="gone" android:layout_width="@dimen/quick_contact_box_width" android:layout_height="@dimen/quick_contact_box_height" android:layout_marginStart="@dimen/generic_left_margin" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/semc_conversation_toppanel_recipientslist_recipientitem" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/generic_left_margin" android:paddingEnd="@dimen/generic_right_margin">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@id/semc_conversation_toppanel_recipientslist_recipienttext1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="?android:attr/textAppearanceLarge" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorSecondary" android:ellipsize="end" android:id="@id/semc_conversation_toppanel_recipientslist_recipienttext2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+</LinearLayout>

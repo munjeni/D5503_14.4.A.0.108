@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="mms_max_text_size">2048</integer>
+    <integer name="max_recipients">50</integer>
+    <integer name="mms_max_size">300</integer>
+    <integer name="sms_max_segments">20</integer>
+    <integer name="mms_trigger_recipients">50</integer>
+    <integer name="mms_trigger_sms_segments">20</integer>
+    <integer name="mms_version">16</integer>
+    <integer name="mms_trigger_pdu_bytes">0</integer>
+    <integer name="mms_max_objects">5</integer>
+    <integer name="smsc_editable_value">1</integer>
+    <integer name="conversation_input_field_min_nbr_rows">1</integer>
+    <integer name="big_attachment_landscape_overflow_percentage">250</integer>
+    <integer name="messagelist_weight">5</integer>
+    <integer name="conversationlist_weight">3</integer>
+</resources>

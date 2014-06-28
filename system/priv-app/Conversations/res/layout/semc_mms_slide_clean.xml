@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/mms_slide_clean_root" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/mms_slide_image_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonyericsson.conversations.view.LazyLoadingPreSizingImageView android:id="@id/mms_slide_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:adjustViewBounds="false" />
+        <ImageView android:layout_gravity="center" android:id="@id/mms_slide_video_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/conv_video" android:adjustViewBounds="true" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/mms_slide_text_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/mms_slide_image_container" android:layout_alignStart="@id/mms_slide_image_container" android:layout_alignEnd="@id/mms_slide_image_container">
+        <TextView android:linksClickable="false" android:id="@id/mms_slide_subject" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/BubbleText.Subject" />
+        <com.sonyericsson.conversations.ui.LinkifyTextView android:linksClickable="false" android:id="@id/mms_slide_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/BubbleText" />
+        <LinearLayout android:orientation="vertical" android:id="@id/mms_slide_text_extra" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

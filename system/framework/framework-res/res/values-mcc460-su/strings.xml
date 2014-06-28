@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Idinan aplikasi keur cokot lokasi nu tepat pake Global Positionign System (GPS) atawa sumber lokasi jaringan sapertos menara jaringan jeung WLAN. Laden lokasi ieu kudu diaktipkeun jeung sadia dina alat anjeun keur aplikasi nu digunakeun. Aplikasi manawi pake ieu keur nangtukeun dimana anjeun sareng ngabeakeun daya batre tambahan.</string>
+    <string name="permdesc_accessCoarseLocation">Ngakses perkiraan lokasi ti operator lokasi make sumber jaringan menara seluler jeung WLAN. Lamun laden lokasi ieu sadia tur diaktipkeun, idin ieu ngidinan aplikasi nangtukeun perkiraan lokasi anjeun.</string>
+    <string name="permlab_configureWifiDisplay">Ngonpigurasi layar WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Idinan aplikasi keur ngonpigurasi jeung sambung ka pintonan WLAN.</string>
+    <string name="permlab_controlWifiDisplay">Kadali layar WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Idinan aplikasi keur kadali fitur tingkat handap dina layar WLAN.</string>
+    <string name="permlab_accessWifiState">tempo sambungan WLAN</string>
+    <string name="permdesc_accessWifiState">Ngidinan aplikasi nempo inpormasi ngeunaan jaringan WLAN, kawas naha WLAN teh diaktipkeun jeung ngaran alat WLAN nu nyambung.</string>
+    <string name="permlab_changeWifiState">sambungkaun tur pegatkeun sambungan ti WLAN</string>
+    <string name="permdesc_changeWifiState">Ngidinan aplikasi nyambungkeun jeung megatkeun sambungan ti titik akses WLAN jang nyieun parobahan ka konpigurasi alat pikeun jaringan WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">idinan panampian WLAN Multicat</string>
+    <string name="permdesc_changeWifiMulticastState">Ngidinan aplikasi narima paket nu dikirim ka kabeh alat dina jaringan WLAN make alamat multicast, lain telepon anjeun wungkul. Ieu make leuwih loba daya tibatan modeu non-multicast.</string>
+    <string name="wifi_available_sign_in">Asup ka Jaringan WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Teu bisa nyambung ka WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Mimiti WLAN Direct. Ieu bakal mareuman klien/hotspot WLAN.</string>
+    <string name="wifi_p2p_failed_message">Teu bisa ngamimitian WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct aktip</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telepon bakal saheulaanan pegat sambungan ti WLAN salila nyambung ka %1$s</string>
+    <string name="data_usage_wifi_limit_title">Data WLAN dinonaktipkeun</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Watesan data WLAN geus kahontal</string>
+    <string name="policylab_disableWifi">Nonaktip akses ka WLAN</string>
+    <string name="policydesc_disableWifi">Nyegah sambungan WLAN dina alat.</string>
+    <string name="wifi_disabled_notification_title">Sambungan WLAN diwates</string>
+    <string name="wifi_disabled_notification_message">"Kawijakan kaamanan ngawates pamakean WLAN. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">roaming WLAN keur maju</string>
+    <string name="ct_cplusw_notification_text">"Jaringan WLAN CT nyambung. Kontak 10000 atawa toko lokal jang inpo tagihan.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN China Telecom nyambung</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Anjeun bakal nyambung ka jaringan WLAN China Telecom. Keur wincik ongkos, harep kontak pangladen langganan China Telecom. Teraskeun?</string>
+    <string name="wifi_nonconcurrency_message">Mimiti klien WLAN. Ieu bade pegat sambungan WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Mimiti klien WLAN. Ieu bade pegat sambungan WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Sadaya sambungan WLAN nu aya bakal dipegatkeun sambunganna</string>
+    <string name="wifi_p2p_nonconcurrency_message">Mimitian WLAN Direct. Ieu bade pegat sambungan WLAN.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ieu bade pegat sambungan kabeh sambungan WLAN</string>
+    <string name="wifi_p2p_noncuncurrency_message">Mimitian WLAN Direct. Ieu bade pegat sambungan WLAN.</string>
+    <string name="tethered_notification_message_wifi">Mareuman HotSpot Seluler jang ngaktipkeun WLAN deui</string>
+    <string name="tethered_notification_title_wifi">WLAN dipareuman</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="45.0dip" android:id="@id/battery_level" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <SeekBar android:id="@id/battery_seekbar" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" android:progress="0" android:layout_below="@id/battery_level" android:layout_alignParentStart="true" />
+</RelativeLayout>

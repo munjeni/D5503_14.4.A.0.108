@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Membenarkan apl mendapatkan lokasi tepat anda menggunakan Sistem Kedudukan Global (GPS) atau sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan apl. Apl boleh menggunakan ini untuk menentukan tempat anda berada dan mungkin menggunakan kuasa bateri tambahan.</string>
+    <string name="permdesc_accessCoarseLocation">Membenarkan apl mendapatkan lokasi anggaran anda. Lokasi ini diperolehi oleh perkhidmatan lokasi menggunakan sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan apl. Apl boleh menggunakan ini untuk menentukan secara anggaran tempat anda berada.</string>
+    <string name="permlab_configureWifiDisplay">konfigurasikan paparan WLAN</string>
+    <string name="permdesc_configureWifiDisplay">Membenarkan apl mengkonfigurasi dan menyambung ke paparan WLAN.</string>
+    <string name="permlab_controlWifiDisplay">kawal paparan WLAN</string>
+    <string name="permdesc_controlWifiDisplay">Membenarkan apl mengawal ciri tahap rendah paparan WLAN.</string>
+    <string name="permlab_accessWifiState">lihat sambungan WLAN</string>
+    <string name="permdesc_accessWifiState">Membenarkan apl melihat maklumat tentang rangkaian WLAN, seperti sama ada WLAN didayakan dan nama peranti WLAN yang disambungkan.</string>
+    <string name="permlab_changeWifiState">sambung dan putuskan dari WLAN</string>
+    <string name="permdesc_changeWifiState">Membenarkan apl menyambung ke dan memutuskan sambungan dari titik capaian WLAN dan membuat perubahan kepada konfigurasi peranti untuk rangkaian WLAN.</string>
+    <string name="permlab_changeWifiMulticastState">benarkan penerimaan WLAN Multisiar</string>
+    <string name="permdesc_changeWifiMulticastState">Membenarkan apl menerima paket yang dihantar kepada semua peranti pada rangkaian WLAN menggunakan alamat multisiar, bukan hanya telefon anda. Ia menggunakan lebih kuasa berbanding mod bukan multisiar.</string>
+    <string name="wifi_available_sign_in">Log masuk ke rangkaian WLAN</string>
+    <string name="wifi_watchdog_network_disabled">Tidak boleh menyambung kepada WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Langsung</string>
+    <string name="wifi_p2p_turnon_message">Mulakan WLAN Langsung. Hal ini akan mematikan pengendalian klien/liputan WLAN.</string>
+    <string name="wifi_p2p_failed_message">Tidak dapat memulakan WLAN Langsung.</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct dihidupkan</string>
+    <string name="wifi_p2p_frequency_conflict_message">Sambungan telefon ke WLAN akan diputuskan buat sementara waktu semasa telefon bersambung ke %1$s</string>
+    <string name="data_usage_wifi_limit_title">Data WLAN dilumpuhkan</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Melebihi had data WLAN</string>
+</resources>

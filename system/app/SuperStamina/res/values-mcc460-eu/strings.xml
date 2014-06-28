@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Pantaila itzalita dagoenean, WLAN konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. Telefono deiak, SMSak, MMSak, Sony™ egutegiaren jakinarazpenak eta Sony™ alarmak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatzen jarraituko dute, eta abian diren kargak eta deskargak osatzea onartuko da.
+
+Pantaila piztuta dagoenean, telefonoak ohiko moduan funtzionatuko du.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Pantaila itzalita dagoenean, WLAN konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. SMS/MMSak, Sony™ egutegiko jakinarazpenak eta Sony™ alarma seinaleak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatuko dute, eta abian diren kargatze- eta deskargatze-prozesuek amaitzeko baimena izango dute.
+
+Pantaila piztuta dagoenean, gailuak ohiko moduan funtzionatuko du."</string>
+    <string name="description_msg_no_telephony_txt">"Pantaila itzalita dagoenean, WLAN konexioa eta datu mugikorrak aldi baterako desgaituko dira, eta aplikazio gehienak inaktibo egongo dira. Sony™ egutegiko jakinarazpenak eta Sony™ alarma seinaleak jasotzen jarraituko duzu. Musika erreproduzitzaileak eta FM irratiak funtzionatuko dute, eta abian diren kargatze eta deskargatze prozesuek amaitzeko baimena izango dute.
+
+Pantaila piztuta dagoenean, gailuak ohi bezala funtzionatuko du."</string>
+    <string name="notification_descr_ps">Bateria gutxiko moduak bateriaren iraupena luza dezake, adibidez, bateria gutxi gelditzen denean WLAN konexioa desaktibatuta edo pantailaren argitasuna murriztuta.</string>
+    <string name="notification_text_lbw">Aktibatu kokapen WLANa</string>
+    <string name="notification_descr_lbw">WLAN konexioa aktibatuta dago baina ez da aspaldian erabili. Aurreztu bateria Kokapen WLANa erabilita.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN eginbidea aktibatuta dago baina ez da aspaldian erabili. Bateria aurrezteko, aktibatu kokapenean oinarritutako WLAN eginbidea. Kokapenean oinarritutako WLAN eginbidea konfiguratu?</string>
+    <string name="low_battery_mode_tip_dialog">Bateria gutxiko moduak bateriaren iraupena luzaraz dezake, esaterako, WLAN eginbidea desaktibatuta edo pantailaren argitasuna murriztuta bateria gutxi dagoenean. Bateria gutxiko modua konfiguratu?</string>
+</resources>

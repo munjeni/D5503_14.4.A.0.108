@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_msg_txt">"Kui ekraan on väljas, siis lülitatakse WLAN ja andmeliiklus ajutiselt välja ning enamik rakendustest on passiivsed. Sissetulevad kõned, SMS- ja MMS-sõnumid ning Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad jätkuvalt. Muusikamängija ja FM-raadio töötavad ning pooleliolevad allalaadimised ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sees, siis töötab telefon tavapäraselt.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Kui ekraan on väljas, siis lülitatakse WLAN ja mobiilandmeside ajutiselt välja ning enamik rakendustest on passiivsed. SMS- ja MMS-sõnumid ning Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad jätkuvalt. Muusikamängija ja FM-raadio töötavad ning pooleliolevad allalaadimised ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sees, siis töötab telefon tavapäraselt."</string>
+    <string name="description_msg_no_telephony_txt">"Kui ekraan on välja lülitatud, lülitatakse ka WLAN ajutiselt välja ning enamik rakendusi on passiivsed. Sony™ kalendri teadaanded ja Sony™ äratussignaalid töötavad edasi. Muusikamängija ja FM-raadio töötavad ning pooleli olevad alla- ja üleslaadimised viiakse lõpule.
+
+Kui ekraan on sisse lülitatud, töötab seade tavalisel viisil."</string>
+    <string name="notification_descr_ps">Tühjavõitu aku režiim võib pikendada aku kasutusaega, lülitades tühjavõitu aku korral näiteks WLAN välja või vähendades ekraani heledust.</string>
+    <string name="notification_text_lbw">Aktiveerige asukohapõhine WLAN</string>
+    <string name="notification_descr_lbw">WLAN on sisse lülitatud, kuid seda pole mõnda aega kasutatud. Lülitage energia säästmiseks sisse asukohapõhine WLAN.</string>
+    <string name="location_based_wifi_tip_dialog">WLAN on sees, kuid seda pole mõnda aega kasutatud. Toite säästmiseks saate aktiveerida asukohapõhise WLAN. Kas seadistada asukohapõhine WLAN?</string>
+    <string name="low_battery_mode_tip_dialog">Tühjavõitu aku režiim võib aku tööaega pikendada (nt lülitatakse tühjavõitu aku korral WLAN välja või vähendatakse ekraani heledust). Kas seadistada tühjavõitu aku režiim?</string>
+</resources>

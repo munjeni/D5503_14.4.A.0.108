@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" somc:directionality="leftToRight"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:somc="http://schemas.android.com/apk/res/com.sonyericsson.uxp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:text="@string/fmradio_strings_favorite_details_name" android:layout_alignParentLeft="true" style="?android:attr/textAppearanceSmall" />
+    <TextView android:id="@id/chars_left_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:layout_alignParentRight="true" style="?android:attr/textAppearanceSmall" />
+</RelativeLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>местоположение с ниска точност</item>
+        <item>местоположение с висока точност</item>
+        <item>GPS</item>
+        <item>вибриране</item>
+        <item>четене на контактите</item>
+        <item>промяна на контактите</item>
+        <item>четене на списъка с обажданията</item>
+        <item>промяна на списъка с обажданията</item>
+        <item>четене на календара</item>
+        <item>промяна на календара</item>
+        <item>сканиране за WLAN</item>
+        <item>известие</item>
+        <item>сканиране за сигнал</item>
+        <item>обаждане по телефона</item>
+        <item>четене на SMS</item>
+        <item>запис на SMS</item>
+        <item>получаване на SMS</item>
+        <item>получаване на спешен SMS</item>
+        <item>получаване на MMS</item>
+        <item>получаване на насочено WAP съобщение</item>
+        <item>изпращане на SMS</item>
+        <item>четене на ICC SMS</item>
+        <item>запис на ICC SMS</item>
+        <item>промяна на настройките</item>
+        <item>рисуване върху елемент</item>
+        <item>достъп до известията</item>
+        <item>камера</item>
+        <item>запис на звук</item>
+        <item>възпроизвеждане на звук</item>
+        <item>четене на буферната памет</item>
+        <item>промяна на буферната памет</item>
+        <item>бутони за мултимедия</item>
+        <item>фокусиране на звука</item>
+        <item>основна сила на звука</item>
+        <item>сила на звука за глас</item>
+        <item>сила на звука при звънене</item>
+        <item>сила на звука за мултимедия</item>
+        <item>сила на звука на будилника</item>
+        <item>сила на звука за известия</item>
+        <item>сила на звука за Bluetooth</item>
+        <item>оставяне в будно състояние</item>
+        <item>наблюдение на местоположението</item>
+        <item>наблюдение на заявките за местоположение, изразходващи много енергия</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибриране</item>
+        <item>Четене на контактите</item>
+        <item>Промяна на контактите</item>
+        <item>Четене на списъка с обажданията</item>
+        <item>Промяна на списъка с обажданията</item>
+        <item>Четене на календара</item>
+        <item>Промяна на календара</item>
+        <item>Местоположение</item>
+        <item>Публикуване на известие</item>
+        <item>Местоположение</item>
+        <item>Обаждане по телефона</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Изпращане на SMS/MMS</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Промяна на настройките</item>
+        <item>Чертаене най-горе</item>
+        <item>Достъп до известията</item>
+        <item>Камера</item>
+        <item>Запис на звук</item>
+        <item>Възпроизвеждане на звук</item>
+        <item>Четене на клипборда</item>
+        <item>Промяна на клипборда</item>
+        <item>Бутони за мултимедия</item>
+        <item>Фокусиране на звука</item>
+        <item>Основна сила на звука</item>
+        <item>Сила на звука за глас</item>
+        <item>Сила на звука при звънене</item>
+        <item>Сила на звука за мултимедия</item>
+        <item>Сила на звука на будилника</item>
+        <item>Сила на звука при известие</item>
+        <item>Сила на звука за Bluetooth</item>
+        <item>Оставяне в будно състояние</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

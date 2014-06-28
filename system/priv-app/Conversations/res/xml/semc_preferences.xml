@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/conversations_strings_settings_category_notification" android:key="pref_key_category_notification">
+        <com.sonyericsson.conversations.ui.HighlightablePreference android:title="@string/conversations_strings_settings_notification_settings" android:key="pref_key_notifications_settings" android:summary="@string/conversations_strings_settings_notification_settings_info_txt" />
+        <com.sonyericsson.conversations.ui.MmsRingtonePreference android:title="@string/conversations_strings_settings_notification_ringtone_txt" android:key="pref_key_ringtone" android:summary="@string/conversations_strings_settings_notification_ringtone_info_txt" android:ringtoneType="notification" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_notification_enabled_txt" android:key="pref_key_enable_notifications" android:summary="@string/conversations_strings_settings_notification_enabled_info_txt" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_notification_vibration_txt" android:key="pref_key_vibrate" android:summary="@string/conversations_strings_settings_notification_vibration_info_txt" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_led_notification_enabled_txt" android:key="semc_pref_key_notification_led_enabled" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_delivery_report_txt" android:key="pref_key_delivery_reports" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_read_report_txt" android:key="pref_key_mms_read_reports" android:summary="@string/conversations_strings_settings_read_report_info_txt" android:dependency="pref_key_delivery_reports" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/conversations_strings_settings_category_alerts" android:key="pref_key_category_alerts">
+        <PreferenceScreen android:title="@string/conversations_strings_settings_emergency_alerts_txt" android:key="semc_pref_key_emergency_alerts_enabled">
+            <intent android:targetPackage="com.sonyericsson.pws" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.pws.ui.AlertSettingsActivity" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/conversations_strings_settings_category_message_template" android:key="pref_key_category_message_template">
+        <com.sonyericsson.conversations.ui.HighlightablePreference android:title="@string/conversations_strings_settings_text_template_txt" android:key="pref_key_text_template" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/conversations_strings_settings_category_mms_settings" android:key="pref_key_category_mms_settings">
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_mms_auto_retrieval_title_txt" android:key="pref_key_mms_auto_retrieval" android:summary="@string/conversations_strings_settings_mms_auto_retrieval_info_txt" />
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_mms_retrieval_during_roaming_txt" android:key="pref_key_mms_retrieval_during_roaming" android:summary="@string/conversations_strings_settings_mms_retrieval_during_roaming_info_txt" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/conversations_strings_settings_category_general_settings" android:key="pref_key_category_general_settings">
+        <com.sonyericsson.conversations.ui.HighlightablePreference android:title="@string/conversations_strings_settings_sim_messages_txt" android:key="pref_key_sim_messages" android:summary="@string/conversations_strings_settings_sim_messages_info_txt" />
+        <com.sonyericsson.conversations.ui.CostSavingPreference android:title="@string/conversations_strings_settings_cost_saving_txt" android:key="semc_pref_key_character_conversion" android:summary="@string/conversations_strings_settings_cost_saving_summary_txt" />
+        <PreferenceScreen android:title="@string/conversations_strings_settings_wap_push_settings_title_txt" android:key="pref_key_wap_push_settings" android:summary="@string/conversations_strings_settings_wap_push_settings_info_txt">
+            <intent android:targetPackage="com.sonyericsson.wappush" android:action="com.sonyericsson.wappush.action.WAP_PUSH_SETTINGS" android:targetClass="com.sonyericsson.wappush.settings.SettingsActivity" />
+        </PreferenceScreen>
+        <CheckBoxPreference android:title="@string/conversations_strings_settings_cellbroadcast_enabled_txt" android:key="semc_pref_key_cellbroadcast-enabled" android:defaultValue="false" />
+        <com.sonyericsson.conversations.ui.SmscEditTextPreference android:phoneNumber="true" android:title="@string/conversations_strings_settings_smsc_number_title_txt" android:key="pref_key_smsc_number" android:summary="@string/conversations_strings_settings_smsc_number_loading_info_txt" style="?android:preferenceInformationStyle" />
+    </PreferenceCategory>
+</PreferenceScreen>

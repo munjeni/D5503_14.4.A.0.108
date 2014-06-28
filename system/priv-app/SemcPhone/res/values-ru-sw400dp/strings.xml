@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_emergency_enable_radio_dialog_title_txt">Экстренный вызов</string>
+    <string name="add_fdn_contact">Добавление контакта в разрешенные номера</string>
+    <string name="delete_fdn_contact">Удалить контакт из разрешённых номеров</string>
+</resources>

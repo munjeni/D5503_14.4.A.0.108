@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/phone_strings_ans_mach_app_name_txt"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <CheckBoxPreference android:title="@string/phone_strings_ans_mach_enable_answering_machine_title_txt" android:key="key_am_enabled" />
+    <Preference android:persistent="false" android:title="@string/phone_strings_ans_mach_auto_answer_time_title_txt" android:key="key_am_activation_sec" />
+    <CheckBoxPreference android:title="@string/phone_strings_ans_mach_roaming_title_txt" android:key="key_am_use_while_roaming" android:summary="@string/phone_strings_ans_mach_roaming_sub_txt" />
+    <PreferenceScreen android:persistent="false" android:title="@string/phone_strings_ans_mach_greetings_title_txt" android:key="key_am_greetings">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.am.SomcAmGreetingsSetting" />
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/phone_strings_ans_mach_incoming_message_title_txt" android:key="key_am_incoming_msg">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.am.SomcAmIncomingMessageSetting" />
+    </PreferenceScreen>
+</PreferenceScreen>

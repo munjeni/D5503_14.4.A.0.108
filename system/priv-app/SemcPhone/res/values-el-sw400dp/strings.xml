@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clh_large_manage_conference_participants">Συμμετέχοντες κλήσης συνδιάσκεψης</string>
+    <string name="data_enabled">Κίνηση δεδομένων κινητής τηλ.</string>
+    <string name="add_fdn_contact">Προσθήκη επαφής προκαθορισμένης κλήσης</string>
+    <string name="delete_fdn_contact">Διαγραφή επαφής κλήσης καθορισμένων αριθμών</string>
+</resources>

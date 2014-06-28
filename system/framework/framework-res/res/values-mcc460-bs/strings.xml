@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Dozvoljava aplikaciji da utvrđuje vašu preciznu lokaciju koristeći Sistem za globalno pozicioniranje (GPS) ili mrežne izvore lokacija kao što su tornjevi mobilne telefonije i WLAN. Lokacijske usluge moraju biti uključene i omogućene da bi ih aplikacija koristila. Aplikacije mogu koristiti te podatke da bi utvrdile gdje se nalazite, te mogu trošiti dodatnu energiju baterije.</string>
+    <string name="permdesc_accessCoarseLocation">Dozvoljava aplikaciji da utvrdi vašu približnu lokaciju. Tu lokaciju utvrđuju lokacijske usluge korištenjem mrežnih izvora lokacija kao što su tornjevi mobilne telefonije i WLAN. Lokacijske usluge moraju biti uključene i dostupne vašem uređaju da bi ih aplikacija koristila. Aplikacije mogu koristiti te podatke da bi približno utvrdile gdje se nalazite.</string>
+    <string name="permlab_configureWifiDisplay">konfiguriranje WLAN ekrana</string>
+    <string name="permdesc_configureWifiDisplay">Dozvoljava aplikaciji da konfigurira WLAN prikaze i povezuje se na njih.</string>
+    <string name="permlab_controlWifiDisplay">kontrola WLAN ekrana</string>
+    <string name="permdesc_controlWifiDisplay">Dozvoljava aplikaciji da kontrolira funkcije niskog nivoa za WLAN prikaze.</string>
+    <string name="permlab_accessWifiState">prikaži WLAN veze</string>
+    <string name="permdesc_accessWifiState">Dozvoljava aplikaciji da vidi informacije o WLAN umrežavanju, recimo je li WLAN omogućen i kako se zovu povezani WLAN uređaji.</string>
+    <string name="permlab_changeWifiState">uspostavi i prekini vezu s WLAN mrežom</string>
+    <string name="permdesc_changeWifiState">Dozvoljava aplikaciji da se povezuje i da prekida vezu sa WLAN pristupnim tačkama te da vrši promjenu konfiguraciji uređaja za WLAN mreže.</string>
+    <string name="permlab_changeWifiMulticastState">"dozvoljavanje WLAN Multicast
+ prijema"</string>
+    <string name="permdesc_changeWifiMulticastState">Dozvoljava aplikaciji da prima pakete poslane svim uređajima na WLAN mreži korištenjem višestrukih adresa, a ne samo vašem telefonu. Time se koristi više energije nego u načinu rada u kom se podaci ne šalju većem broju korisnika.</string>
+    <string name="wifi_available_sign_in">Prijavi se na WLAN mrežu</string>
+    <string name="wifi_watchdog_network_disabled">Nije bilo moguće povezati se na WLAN</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Pokrenite WLAN Direct. Na taj način će se isključiti WLAN klijent/pristupna tačka.</string>
+    <string name="wifi_p2p_failed_message">Nije bilo moguće pokrenuti WLAN Direct</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct je uključen</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefon će privremeno prekinuti WLAN vezu dok je povezan sa %1$s</string>
+    <string name="data_usage_wifi_limit_title">Prijenos podataka WLAN mrežom onemogućen</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Premašeno ograničenje prijenosa podataka WLAN mrežom</string>
+    <string name="policylab_disableWifi">Onemogućite pristup WLAN vezi</string>
+    <string name="policydesc_disableWifi">Spriječite WLAN veze na uređaju.</string>
+    <string name="wifi_disabled_notification_title">WLAN veza je ograničena</string>
+    <string name="wifi_disabled_notification_message">"Pravilo sigurnosti ograničava korištenje WLAN veze. "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN roming u toku</string>
+    <string name="ct_cplusw_notification_text">"Povezana je CT WLAN mreža. Za info. o troškovima pozovite 10000 ili lokal. prod.
+
+"</string>
+    <string name="ct_cplusw_notification_title">WLAN China Telecoma je povezan</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Bit ćete povezani na WLAN mrežu China Telecoma. Za informacije o troškovima, obratite se službi za podršku klijentima kompanije China Telecom. Nastaviti?</string>
+    <string name="wifi_nonconcurrency_message">Pokrenite WLAN klijenta. Tako će se isključiti WLAN Direct.</string>
+    <string name="wifi_noncuncurrency_message">Pokrenite WLAN klijenta. Tako će se isključiti WLAN Direct.</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Sve postojeće WLAN veze će biti prekinute</string>
+    <string name="wifi_p2p_nonconcurrency_message">Pokreni WLAN Direct. Tako će se isključiti WLAN veza.</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Ovim će se isključiti postojeća WLAN veza</string>
+    <string name="wifi_p2p_noncuncurrency_message">Pokreni WLAN Direct. Tako će se isključiti WLAN veza.</string>
+    <string name="tethered_notification_message_wifi">Isključite mobilni HotSpot kako biste opet uključili WLAN</string>
+    <string name="tethered_notification_title_wifi">WLAN je isključen</string>
+</resources>

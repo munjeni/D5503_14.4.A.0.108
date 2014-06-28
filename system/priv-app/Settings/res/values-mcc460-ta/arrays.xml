@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>கரடுமுரடான இடம்</item>
+        <item>அழகான இடம்</item>
+        <item>GPS</item>
+        <item>அதிர்வு</item>
+        <item>தொடர்புகளைப் படி</item>
+        <item>தொடர்புகளைத் திருத்து</item>
+        <item>அழைப்பு பதிவுகளைப் படி</item>
+        <item>அழைப்பு பதிவுகளைத் திருத்து</item>
+        <item>நாள்காட்டியைப் படி</item>
+        <item>நாள்காட்டியைத் திருத்து</item>
+        <item>WLAN ஸ்கேன் செய்</item>
+        <item>அறிவிப்பு</item>
+        <item>செல் ஸ்கேன் செய்</item>
+        <item>தொலைபேசி அழைப்பு</item>
+        <item>SMS -ஐப் படி</item>
+        <item>SMS -ஐ எழுது</item>
+        <item>SMS -ஐப் பெறு</item>
+        <item>அவசர SMS -ஐப் பெறு</item>
+        <item>MMS -ஐப் பெறு</item>
+        <item>WAP புஷ் -ஐப் பெறு</item>
+        <item>SMS -ஐ அனுப்பு</item>
+        <item>ICC SMS -ஐப் படி</item>
+        <item>ICC SMS -ஐ எழுது</item>
+        <item>அமைப்புகளைத் திருத்து</item>
+        <item>மேலே வரையவும்</item>
+        <item>அறிவிப்புகளை அணுகு</item>
+        <item>கேமரா</item>
+        <item>ஆடியோவைப் பதிவுசெய்</item>
+        <item>ஆடியோவை இயக்கு</item>
+        <item>நகலகத்தைப் படி</item>
+        <item>நகலகத்தைத் திருத்து</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>இடம்</item>
+        <item>இடம்</item>
+        <item>இடம்</item>
+        <item>அதிர்வு</item>
+        <item>தொடர்புகளைப் படி</item>
+        <item>தொடர்புகளைத் திருத்து</item>
+        <item>அழைப்பு பதிவுகளைப் படி</item>
+        <item>அழைப்பு பதிவுகளைத் திருத்து</item>
+        <item>நாள்காட்டியைப் படி</item>
+        <item>நாள்காட்டியைத் திருத்து</item>
+        <item>இடம்</item>
+        <item>அறிவிப்பை இடு</item>
+        <item>இடம்</item>
+        <item>தொலைபேசி அழைப்பு</item>
+        <item>SMS/MMS -ஐ படி</item>
+        <item>SMS/MMS -ஐ எழுது</item>
+        <item>SMS/MMS -ஐப் பெறு</item>
+        <item>SMS/MMS -ஐப் பெறு</item>
+        <item>SMS/MMS -ஐப் பெறு</item>
+        <item>SMS/MMS -ஐப் பெறு</item>
+        <item>SMS/MMS -அனுப்பு</item>
+        <item>SMS/MMS -ஐ படி</item>
+        <item>SMS/MMS -ஐ எழுது</item>
+        <item>அமைப்புகளைத் திருத்து</item>
+        <item>மேலே வரையவும்</item>
+        <item>அறிவிப்புகளை அணுகு</item>
+        <item>கேமரா</item>
+        <item>ஆடியோவைப் பதிவுசெய்</item>
+        <item>ஆடியோவை இயக்கு</item>
+        <item>நகலகத்தைப் படி</item>
+        <item>நகலகத்தைத் திருத்து</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

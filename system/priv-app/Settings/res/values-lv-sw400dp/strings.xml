@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_sync_text">Automātiskā sinhronizācija</string>
+    <string name="wifi_tether_settings_text">Portatīva Wi-Fi tīklāja iestatījumi</string>
+    <string name="stamina_xssm_add_applications_title">Gaidīšanas režīmā aktīvās lietotnes</string>
+</resources>

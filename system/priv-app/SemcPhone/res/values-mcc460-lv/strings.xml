@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Ja vien neizmantojat WLAN, vairs nevarēsit izmantot internetu, e-pastu vai citas lietotnes, kam ir nepieciešams datu savienojums. Vai izslēgt mobilo datu savienojumu?</string>
+    <string name="sip_call_options_wifi_only_title">Interneta zvanu lietošana (tikai WLAN)</string>
+    <string name="registration_status_no_wifi_data">Nav WLAN savienojuma. Neizdevās reģistrēt kontu.</string>
+    <string name="no_wifi_available_title">Nav WLAN savienojuma</string>
+    <string name="no_wifi_available">Lai izmantotu interneta zvanus, jābūt savienojumam ar WLAN tīklu (pārejiet uz Iestatījumi > Bezvadu un tīkli)</string>
+</resources>

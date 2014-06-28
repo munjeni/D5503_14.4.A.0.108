@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>približná poloha</item>
+        <item>presná poloha</item>
+        <item>GPS</item>
+        <item>vibrovanie</item>
+        <item>čítanie kontaktov</item>
+        <item>úprava kontaktov</item>
+        <item>čítanie denníka hovorov</item>
+        <item>úprava denníka hovorov</item>
+        <item>čítanie kalendára</item>
+        <item>úprava kalendára</item>
+        <item>prehľadanie sietí WLAN</item>
+        <item>upozornenie</item>
+        <item>prehľadanie mobilných sietí</item>
+        <item>volanie na telefón</item>
+        <item>čítanie správ SMS</item>
+        <item>písanie správ SMS</item>
+        <item>prijímanie správ SMS</item>
+        <item>príjem núdzových správ SMS</item>
+        <item>príjem správ MMS</item>
+        <item>príjem správ WAP push</item>
+        <item>odosielanie správ SMS</item>
+        <item>čítanie správ ICC SMS</item>
+        <item>písanie správ ICC SMS</item>
+        <item>úprava nastavení</item>
+        <item>vykreslenie navrch</item>
+        <item>prístup k upozorneniam</item>
+        <item>fotoaparát:</item>
+        <item>záznam zvuku</item>
+        <item>prehrávanie zvuku</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>mediálne tlačidlá</item>
+        <item>zvukové zameranie</item>
+        <item>hlavná hlasitosť</item>
+        <item>hlasitosť hlasu</item>
+        <item>hlasitosť zvonenia</item>
+        <item>hlasitosť médií</item>
+        <item>hlasitosť budíka</item>
+        <item>hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>zakázať režim spánku</item>
+        <item>sledovať polohu</item>
+        <item>sledovanie polohy s vysokým výkonnom</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovanie</item>
+        <item>Čítanie kontaktov</item>
+        <item>Úprava kontaktov</item>
+        <item>Čítanie hovorov</item>
+        <item>Úprava hovorov</item>
+        <item>Čítanie kalendára</item>
+        <item>Úprava kalendára</item>
+        <item>Poloha</item>
+        <item>Upozornenie na príspevok</item>
+        <item>Poloha</item>
+        <item>Volanie na telefón</item>
+        <item>Čítanie SMS/MMS</item>
+        <item>Písanie SMS/MMS</item>
+        <item>Prijímanie SMS/MMS</item>
+        <item>Prijímanie SMS/MMS</item>
+        <item>Prijímanie SMS/MMS</item>
+        <item>Prijímanie SMS/MMS</item>
+        <item>Odosielanie SMS/MMS</item>
+        <item>Čítanie SMS/MMS</item>
+        <item>Písanie SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslenie navrch</item>
+        <item>Prístup k upozorneniam</item>
+        <item>Fotoaparát</item>
+        <item>Zaznamenávanie zvuku</item>
+        <item>Prehrávanie zvuku</item>
+        <item>Načítanie schránky</item>
+        <item>Úprava schránky</item>
+        <item>Tlačidlá médií</item>
+        <item>Zameranie zvuku</item>
+        <item>Hlavná hlasitosť</item>
+        <item>Hlasitosť hlasu</item>
+        <item>Hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíka</item>
+        <item>Hlasitosť upozornení</item>
+        <item>Hlasitosť zariadenia Bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

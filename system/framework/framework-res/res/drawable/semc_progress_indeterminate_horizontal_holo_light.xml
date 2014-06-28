@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo1_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo2_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo3_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo4_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo5_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo6_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo7_light" />
+    <item android:duration="50" android:drawable="@drawable/semc_progressbar_indeterminate_holo8_light" />
+</animation-list>

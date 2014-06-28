@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Tinggal %1$d langkah untuk menjadi pengembang.</item>
+        <item quantity="one">Tinggal %1$d langkah untuk menjadi pengembang.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Sandi harus memuat sekurangnya %d huruf</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 huruf</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Sandi harus memuat sekurangnya %d huruf kecil</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 huruf kecil</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Sandi harus memuat sekurangnya %d huruf balok</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 huruf balok</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Sandi harus memuat sekurangnya %d digit angka</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 digit angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Sandi harus memuat sekurangnya %d simbol khusus</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 simbol khusus</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Sandi harus memuat sekurangnya %d karakter bukan huruf</item>
+        <item quantity="one">Sandi harus memuat sekurangnya 1 karakter bukan huruf</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikasi dapat membaca pemberitahuan</item>
+        <item quantity="one">%d aplikasi dapat membaca pemberitahuan</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Kode PIN SIM salah, sisa %d percobaan.</item>
+        <item quantity="one">Kode PIN SIM salah, sisa %d percobaan sebelum Anda harus menghubungi operator untuk membuka kunci perangkat.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s printer ditemukan</item>
+        <item quantity="one">%1$s printer ditemukan</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d aplikasi saat ini terdaftar</item>
+        <item quantity="one">%1$d aplikasi saat ini terdaftar</item>
+    </plurals>
+</resources>

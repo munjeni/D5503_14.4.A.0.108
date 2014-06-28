@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversations_arrays_date_separators_txt">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Saturday</item>
+        <item>Friday</item>
+        <item>Thursday</item>
+        <item>Wednesday</item>
+        <item>Tuesday</item>
+        <item>Monday</item>
+        <item>Sunday</item>
+        <item>One week ago</item>
+        <item>Two weeks ago</item>
+        <item>One month ago</item>
+    </string-array>
+    <string-array name="conversations_strings_ssc_select_dialog_items_txt">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other...</item>
+    </string-array>
+    <string-array name="conversations_strings_text_template_dialog_item_text">
+        <item>Where are you?</item>
+        <item>What are you up to?</item>
+        <item>Urgent! Please reply to me ASAP.</item>
+        <item>"Sorry, I'm on a meeting now."</item>
+        <item>"I'm good. Don't worry."</item>
+        <item>"I'm on the way home."</item>
+        <item>"I'll get back to you."</item>
+        <item>"I'll be right there."</item>
+        <item>Check this out!</item>
+    </string-array>
+    <integer-array name="attachment_item_collapsed_rotations">
+        <item>4</item>
+        <item>6</item>
+        <item>-2</item>
+    </integer-array>
+    <string-array name="conversations_characters_special">
+        <item>Û</item>
+        <item>õ</item>
+        <item>Ș</item>
+    </string-array>
+    <string-array name="conv_smiley_happy">
+        <item>:-)</item>
+        <item>:)</item>
+    </string-array>
+    <string-array name="conv_smiley_wink">
+        <item>;-)</item>
+        <item>;)</item>
+        <item>;o)</item>
+        <item>;O)</item>
+    </string-array>
+    <string-array name="conv_smiley_sad">
+        <item>:-(</item>
+        <item>:(</item>
+    </string-array>
+    <string-array name="conv_smiley_surprise">
+        <item>:-O</item>
+        <item>:-o</item>
+        <item>:o</item>
+    </string-array>
+    <string-array name="conv_smiley_very_happy">
+        <item>:-D</item>
+        <item>:D</item>
+        <item>:oD</item>
+        <item>:d</item>
+        <item>:od</item>
+        <item>:Od</item>
+        <item>:OD</item>
+        <item>:-d</item>
+    </string-array>
+    <string-array name="conv_smiley_tougue_out">
+        <item>:-P</item>
+        <item>:P</item>
+        <item>:oP</item>
+        <item>:-p</item>
+        <item>:p</item>
+        <item>:op</item>
+        <item>:OP</item>
+        <item>:Op</item>
+    </string-array>
+    <string-array name="conv_smiley_angry">
+        <item>:-@</item>
+        <item>:@</item>
+        <item>X-(</item>
+        <item>x-(</item>
+        <item>x(</item>
+        <item>xo(</item>
+        <item>XO(</item>
+    </string-array>
+    <string-array name="conv_smiley_worried">
+        <item>:-S</item>
+        <item>:S</item>
+        <item>:-s</item>
+        <item>:s</item>
+        <item>:oS</item>
+    </string-array>
+    <string-array name="conv_smiley_embarrassed">
+        <item>":'-)"</item>
+        <item>":''-)"</item>
+        <item>:\"-)</item>
+        <item>:$</item>
+        <item>":')"</item>
+        <item>":'>"</item>
+        <item>:-$</item>
+    </string-array>
+    <string-array name="conv_smiley_cool">
+        <item>B)</item>
+        <item>B-)</item>
+        <item>(H)</item>
+        <item>(h)</item>
+        <item>Bo)</item>
+        <item>BO)</item>
+    </string-array>
+    <string-array name="conv_smiley_crying">
+        <item>:,-(</item>
+        <item>:,(</item>
+        <item>":'-("</item>
+        <item>":'("</item>
+        <item>:,o(</item>
+        <item>":'o("</item>
+        <item>:,O(</item>
+        <item>":'O("</item>
+    </string-array>
+    <string-array name="conv_smiley_kiss">
+        <item>:-*</item>
+        <item>:*</item>
+    </string-array>
+    <string-array name="conv_smiley_evil">
+        <item>>:-)</item>
+        <item>>:)</item>
+        <item>>:o)</item>
+        <item>>:O)</item>
+    </string-array>
+    <string-array name="conv_smiley_angel">
+        <item>O:-)</item>
+        <item>O:)</item>
+        <item>o:-)</item>
+        <item>o:)</item>
+        <item>0:)</item>
+    </string-array>
+    <string-array name="conv_smiley_confused">
+        <item>:-/</item>
+    </string-array>
+    <string-array name="conv_smiley_straight_face">
+        <item>:-|</item>
+        <item>:|</item>
+        <item>:o|</item>
+        <item>:O|</item>
+    </string-array>
+    <string-array name="conv_smiley_nerd">
+        <item>:-B</item>
+        <item>:B</item>
+    </string-array>
+    <string-array name="conv_smiley_heart">
+        <item>&lt;3</item>
+        <item>(L)</item>
+    </string-array>
+    <string-array name="conv_smiley_rose">
+        <item>\@-}--</item>
+        <item>\@):-</item>
+    </string-array>
+    <string-array name="conv_smiley_laughing">
+        <item>:-))</item>
+        <item>:o))</item>
+        <item>:O))</item>
+        <item>:))</item>
+    </string-array>
+    <string-array name="conv_smiley_sleepy">
+        <item>|-O</item>
+        <item>|O</item>
+        <item>|-o</item>
+        <item>|o</item>
+    </string-array>
+    <string-array name="conv_smiley_eye_roll">
+        <item>8-)</item>
+        <item>8)</item>
+        <item>8o)</item>
+        <item>8O)</item>
+    </string-array>
+    <string-array name="conv_smiley_no_speak">
+        <item>:-SS</item>
+        <item>:SS</item>
+        <item>:ss</item>
+        <item>:-ss</item>
+    </string-array>
+    <string-array name="conv_smiley_drunk">
+        <item>:*)</item>
+    </string-array>
+    <string-array name="conv_smiley_mohawk">
+        <item>-:)</item>
+    </string-array>
+    <string-array name="conv_smiley_yelling">
+        <item>:O</item>
+    </string-array>
+    <string-array name="conv_smiley_wtf">
+        <item>o_O</item>
+    </string-array>
+    <string-array name="conv_smiley_foot_in_mouth">
+        <item>:-!</item>
+    </string-array>
+    <string-array name="conv_smiley_sick">
+        <item>:-&amp;</item>
+        <item>:&amp;</item>
+        <item>;o&amp;</item>
+        <item>:O&amp;</item>
+    </string-array>
+    <string-array name="conv_smiley_thinking">
+        <item>:-?</item>
+        <item>:?</item>
+    </string-array>
+    <string-array name="conv_smiley_sarcastic">
+        <item>/:-)</item>
+        <item>/:)</item>
+        <item>/:o)</item>
+        <item>/:O)</item>
+    </string-array>
+    <string-array name="conv_smiley_coffee">
+        <item>~o)</item>
+    </string-array>
+    <string-array name="conv_smiley_drink">
+        <item>)-|</item>
+    </string-array>
+    <string-array name="conv_smiley_idea">
+        <item>*-:-)</item>
+    </string-array>
+    <string-array name="conv_smiley_beer">
+        <item>(b)</item>
+        <item>(B)</item>
+    </string-array>
+    <string-array name="conv_smiley_broken_heart">
+        <item>(u)</item>
+        <item>(U)</item>
+        <item>\\Z/</item>
+    </string-array>
+    <string-array name="conv_smiley_rock_on">
+        <item>\\m/</item>
+    </string-array>
+    <string-array name="conv_smiley_pirate">
+        <item>:ar!</item>
+    </string-array>
+    <string-array name="conv_smiley_silly">
+        <item>8-}</item>
+    </string-array>
+    <string-array name="conv_smiley_applause">
+        <item>=D></item>
+    </string-array>
+    <string-array name="conv_smiley_penguin">
+        <item>"&lt;(')"</item>
+    </string-array>
+    <string-array name="conv_smiley_music_note">
+        <item>-8</item>
+    </string-array>
+    <string-array name="conv_smiley_star">
+        <item>(*)</item>
+    </string-array>
+    <string-array name="conv_smiley_clock">
+        <item>(o)</item>
+        <item>(O)</item>
+    </string-array>
+    <string-array name="conv_smiley_pizza">
+        <item>(pi)</item>
+        <item>(PI)</item>
+    </string-array>
+    <string-array name="conv_smiley_money">
+        <item>(mo)</item>
+        <item>(MO)</item>
+    </string-array>
+    <string-array name="conv_smiley_sheep">
+        <item>(bah)</item>
+        <item>(BAH)</item>
+    </string-array>
+    <string-array name="conv_smiley_pig">
+        <item>:8)</item>
+    </string-array>
+    <string-array name="conv_smiley_sun">
+        <item>(#)</item>
+    </string-array>
+    <string-array name="conv_smiley_rain_cloud">
+        <item>(st)</item>
+        <item>(ST)</item>
+    </string-array>
+    <string-array name="conv_smiley_umbrella">
+        <item>(um)</item>
+        <item>(UM)</item>
+    </string-array>
+    <string-array name="conv_smiley_aeroplane">
+        <item>(pl)</item>
+        <item>(PL)</item>
+    </string-array>
+    <string-array name="conv_smiley_birthday_cake">
+        <item>(^)</item>
+    </string-array>
+    <string-array name="conv_smiley_party">
+        <item>&lt;:o)</item>
+    </string-array>
+    <string-array name="conv_smiley_film">
+        <item>(~)</item>
+    </string-array>
+    <string-array name="conv_smiley_gift">
+        <item>(g)</item>
+        <item>(G)</item>
+    </string-array>
+    <string-array name="conv_smiley_email">
+        <item>(e)</item>
+        <item>(E)</item>
+    </string-array>
+    <string-array name="conv_smiley_phone">
+        <item>(t)</item>
+        <item>(T)</item>
+    </string-array>
+    <string-array name="conv_smiley_wave">
+        <item>:-h</item>
+    </string-array>
+    <string-array name="conv_smiley_big_hug">
+        <item>>:D&lt;</item>
+    </string-array>
+</resources>

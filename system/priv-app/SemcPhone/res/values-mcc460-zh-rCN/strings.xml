@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">除非使用WLAN，否则您将无法继续使用互联网、电子邮件或其他需要数据连接的应用程序。是否关闭移动数据连接？</string>
+    <string name="sip_call_options_wifi_only_title">使用互联网通话（仅限WLAN）</string>
+    <string name="registration_status_no_wifi_data">由于不存在 WLAN 连接，已停止注册帐户。</string>
+    <string name="no_wifi_available_title">无 WLAN 连接</string>
+    <string name="no_wifi_available">您必须连接到 WLAN 网络才能使用互联网电话（请转到“设定”>“无线和网络”）</string>
+</resources>

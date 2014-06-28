@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>दुय्यम स्थान</item>
+        <item>चांगले स्थान</item>
+        <item>GPS</item>
+        <item>कंपन</item>
+        <item>संपर्क वाचा</item>
+        <item>संपर्कामध्ये परिवर्तन करा</item>
+        <item>कॉल लॉग वाचा</item>
+        <item>कॉल लॉगमध्ये परिवर्तन करा</item>
+        <item>दिनदर्शिका वाचा</item>
+        <item>दिनदर्शिकेमध्ये परिवर्तन करा</item>
+        <item>WLAN स्कॅन करा</item>
+        <item>सूचनापत्र</item>
+        <item>सेल स्कॅन करा</item>
+        <item>फोनवर कॉल करा</item>
+        <item>SMS वाचा</item>
+        <item>SMS लिहा</item>
+        <item>SMS प्राप्त करा</item>
+        <item>आणीबाणी SMS प्राप्त करा</item>
+        <item>MMS प्राप्त करा</item>
+        <item>WAP पुश प्राप्त करा</item>
+        <item>SMS पाठवा</item>
+        <item>ICC SMS वाचा</item>
+        <item>ICC SMS लिहा</item>
+        <item>सेटिंग्जमध्ये परिवर्तन करा</item>
+        <item>वर ओढा</item>
+        <item>प्रवेश सूचनापत्र</item>
+        <item>कॅमेरा</item>
+        <item>श्राव्य ध्वनिमुद्रित करा</item>
+        <item>श्राव्य प्ले करा</item>
+        <item>क्लिपबोर्ड वाचा</item>
+        <item>क्लिपबोर्डमध्ये परिवर्तन करा</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>wifi change</item>
+        <item>bluetooth change</item>
+        <item>data change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>स्थान</item>
+        <item>कंपन</item>
+        <item>संपर्क वाचा</item>
+        <item>संपर्कामध्ये परिवर्तन करा</item>
+        <item>कॉल लॉग वाचा</item>
+        <item>कॉल लॉगमध्ये परिवर्तन करा</item>
+        <item>दिनदर्शिका वाचा</item>
+        <item>दिनदर्शिकेमध्ये परिवर्तन करा</item>
+        <item>स्थान</item>
+        <item>सूचनापत्र पोस्ट करा</item>
+        <item>स्थान</item>
+        <item>फोनवर कॉल करा</item>
+        <item>SMS/MMS वाचा</item>
+        <item>SMS/MMS लिहा</item>
+        <item>SMS/MMS प्राप्त करा</item>
+        <item>SMS/MMS प्राप्त करा</item>
+        <item>SMS/MMS प्राप्त करा</item>
+        <item>SMS/MMS प्राप्त करा</item>
+        <item>SMS/MMS पाठवा</item>
+        <item>SMS/MMS वाचा</item>
+        <item>SMS/MMS लिहा</item>
+        <item>सेटिंग्जमध्ये परिवर्तन करा</item>
+        <item>वर ओढा</item>
+        <item>प्रवेश सूचनापत्र</item>
+        <item>कॅमेरा</item>
+        <item>श्राव्य ध्वनिमुद्रित करा</item>
+        <item>श्राव्य प्ले करा</item>
+        <item>क्लिपबोर्ड वाचा</item>
+        <item>क्लिपबोर्डमध्ये परिवर्तन करा</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

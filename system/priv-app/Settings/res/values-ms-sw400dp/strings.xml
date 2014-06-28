@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_xssm_add_applications_title">Aplikasi aktif dalam tunggu sedia</string>
+    <string name="auto_hide_notifications_title">Kosongkan pemberitahuan yang telah dilihat</string>
+</resources>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/conversationlist_title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/conversations_strings_header_messaging_txt" android:singleLine="true" android:layout_marginStart="@dimen/generic_left_margin" style="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

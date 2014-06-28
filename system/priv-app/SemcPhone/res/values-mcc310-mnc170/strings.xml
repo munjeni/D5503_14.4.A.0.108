@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roaming_enable">International data roaming charges apply to data usage outside of the U.S., Puerto Rico and U.S.V.I. Turn off data roaming to avoid these charges.</string>
+    <string name="roaming_disable">International data roaming charges apply to data usage outside of the U.S., Puerto Rico and U.S.V.I. Turn off data roaming to avoid these charges.</string>
+    <string name="roaming_warning">Allow data roaming? International data roaming charges apply to data usage outside the U.S., Puerto Rico and U.S.V.I.</string>
+</resources>

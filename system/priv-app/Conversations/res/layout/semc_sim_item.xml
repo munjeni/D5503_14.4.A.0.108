@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/sim_message_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/generic_top_margin" android:singleLine="true" android:layout_marginStart="@dimen/sim_message_list_left_margin" android:layout_marginEnd="@dimen/sim_message_list_right_margin" style="?android:attr/textAppearanceMedium" />
+    <TextView android:textColor="?android:textColorSecondary" android:id="@id/sim_message_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/generic_bottom_margin" android:layout_marginStart="@dimen/sim_message_list_left_margin" android:layout_marginEnd="@dimen/sim_message_list_right_margin" style="?android:attr/textAppearanceSmall" />
+</LinearLayout>

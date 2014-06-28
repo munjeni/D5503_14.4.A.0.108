@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamina_queue_background_data_title">Háttéradatok várólistára helyezése</string>
+    <string name="auto_sync_text">Automatikus szinkronizáló</string>
+    <string name="wifi_tether_settings_text">Hordozható Wi-Fi csatlakozási pont beállításai</string>
+</resources>

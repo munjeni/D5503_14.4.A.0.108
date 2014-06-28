@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_hint">"Tryb STAMINA obejmuje:
+
+• Rozszerzony tryb gotowości
+Oszczędza energię, kiedy ekran jest wyłączony, wyłączając tymczasowo łączność WLAN i transmisję danych w sieci komórkowej. Większość aplikacji będzie nieaktywna.
+Kiedy ekran jest włączony, telefon działa normalnie.
+Aby pewne aplikacje pozostały aktywne po włączeniu Rozszerzonego trybu gotowości, dodaj je do listy APLIKACJE WŁĄCZONE W TRYBIE GOTOWOŚCI.
+
+• Rozszerzone wykorzystanie
+Oszczędza energię, kiedy urządzenie jest w użyciu, ograniczając wydajność sprzętową.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Co to jest tryb STAMINA?</u>"
+Tryb STAMINA to funkcja firmy Sony™ służąca do oszczędzania energii. Przedłuża czas pracy na baterii, wyłączając funkcje po wyłączeniu ekranu.
+
+"<u>Obsługa podstawowa</u>"
+Aby włączyć tryb STAMINA, użyj przełącznika na następnym ekranie.
+Gdy ekran zostanie wyłączony, w celu oszczędzania baterii cała transmisja danych przez sieć zostanie tymczasowo wyłączona, a większość aplikacji przestanie działać.
+Po włączeniu ekranu urządzenie będzie funkcjonować normalnie.
+
+"<u>Obsługa zaawansowana</u>"
+Jeśli chcesz, aby niektóre aplikacje działały po wyłączeniu ekranu, dodaj je do listy APLIKACJE WŁĄCZONE W TRYBIE GOTOWOŚCI.
+
+"<u>Uwaga</u>"
+Niektóre aplikacje mogą nie działać poprawnie po wyłączeniu w trybie gotowości. Jeśli aplikacja nie działa poprawnie, dodaj ją do listy APLIKACJE WŁĄCZONE W TRYBIE GOTOWOŚCI lub, jeśli to nie pomoże, wyłącz tryb STAMINA."</string>
+    <string name="location_based_wi_fi_label">WLAN zależna od lokalizacji</string>
+    <string name="location_based_wi_fi_descr">Sieć WLAN jest włączana automatycznie, gdy urządzenie znajdzie się w zasięgu zapisanej sieci WLAN</string>
+    <string name="powersaver_feature_wifi">Wyłączanie sieci WLAN</string>
+    <string name="install_wapi_certs">Zainstaluj certyfikaty WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="radio_controls_summary">Zarządzaj WLAN, Bluetooth, trybem samolotowym, sieciami komórk. i VPN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Włącz WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Ustawienia WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Wybierz sieć WLAN</string>
+    <string name="wifi_starting">Włączanie WLAN</string>
+    <string name="wifi_stopping">Wyłączanie WLAN…</string>
+    <string name="wifi_poor_network_detection_summary">Nie łącz z siecią WLAN, jeśli połączenie z Internetem nie jest dobre</string>
+    <string name="wifi_scan_always_available_summary">Pozwól usłudze lokalizacji Google i innym aplikacjom szukać sieci, nawet gdy sieć WLAN jest wyłączona.</string>
+    <string name="wifi_scan_notify_text_location_on">Aby poprawić dokładność lokalizacji (i w innych celach), aplikacje Google i inne mogą skanować sieci w pobliżu, nawet gdy sieć WLAN jest wyłączona. Jeśli nie chcesz, aby tak się działo, wybierz Zaawansowane > Skanowanie zawsze dostępne.</string>
+    <string name="wifi_scan_notify_text_location_off">Aplikacje mogą wyszukiwać sieci w pobliżu, nawet gdy sieć WLAN jest wyłączona. Jeśli nie chcesz, aby tak się działo, wybierz Zaawansowane > Skanowanie zawsze dostępne.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN ma działać po uśpieniu</string>
+    <string name="wifi_suspend_optimizations">Optymalizacja WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimalizuj zużycie baterii po włączeniu WLAN</string>
+    <string name="wifi_access_points">Sieci WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Aby zobaczyć dostępne sieci, włącz obsługę WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Wyszukiwanie sieci WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Nie masz uprawnień do zmiany sieci WLAN.</string>
+    <string name="wifi_required_info_text">Do ukończenia konfiguracji tablet potrzebuje połączenia z WLAN. Potem będziesz mieć możliwość przełączania między przesyłaniem danych przez sieć komórkową i WLAN.</string>
+    <string name="wifi_wps_setup_title">Konfiguracja zabezpieczonej sieci WLAN</string>
+    <string name="wifi_wps_onstart_pbc">Naciśnij przycisk konfiguracji zabezpieczonej sieci WLAN na routerze. Może on mieć nazwę „WPS” lub ten symbol:</string>
+    <string name="wifi_wps_onstart_pin">Wpisz kod PIN %1$s na routerze WLAN. Konfiguracja może potrwać do dwóch minut.</string>
+    <string name="wifi_wps_connected">Połączono z siecią WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Aby poprawić dokładność lokalizacji (i w innych celach), %1$s chce włączyć skanowanie sieci — nawet gdy WLAN jest wyłączone.
+
+Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</string>
+    <string name="wifi_connect_failed_message">Telefon nie może nawiązać połączenia z tą siecią WLAN.</string>
+    <string name="wifi_advanced_titlebar">Zaawansowane ustawienia WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Pasmo częstotliwości sieci WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Przenośny hotspot WLAN</string>
+    <string name="wifi_tether_failed_subtext">Błąd przenośnego hotspotu WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Skonfiguruj hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"Przenośny hotspot WLAN %1$s.
+Zabezpieczenia: %2$s"</string>
+    <string name="status_wifi_mac_address">Adres MAC WLAN</string>
+    <string name="location_mode_high_accuracy_description">Określaj lokalizację na podstawie GPS oraz sieci WLAN i komórkowych</string>
+    <string name="location_mode_battery_saving_description">Określaj lokalizację na podstawie sieci WLAN i komórkowych</string>
+    <string name="location_neighborhood_level">Zezwalaj na przesyłanie do firmy Google anonimowych danych o lokalizacji. Zezwalaj uprawnionym aplikacjom na określanie przybliżonej lokalizacji z użyciem sieci komórkowych i WLAN.</string>
+    <string name="location_neighborhood_level_wifi">Lokalizacja określana na podstawie sieci WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN na czas</string>
+    <string name="bluetooth_on_time">WLAN na czas</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">Czas pracy WLAN</string>
+    <string name="usage_type_data_wifi_send">Dane WLAN zostały wysłane</string>
+    <string name="usage_type_data_wifi_recv">Dane WLAN zostały odebrane</string>
+    <string name="battery_action_wifi">Ustawienia WLAN</string>
+    <string name="battery_desc_wifi">Użycie baterii przez WLAN</string>
+    <string name="battery_sugg_wifi">Wyłącz sieć WLAN, gdy nie jest używana lub jest niedostępna</string>
+    <string name="gadget_toggle_wifi">Aktualizowanie ustawienia WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Twórz na serwerach Google kopie zapasowe danych aplikacji, haseł do sieci WLAN i innych ustawień</string>
+    <string name="backup_erase_dialog_message">Zatrzymać tworzenie kopii zapasowych haseł do sieci WLAN, zakładek, innych ustawień i danych aplikacji, a także usunąć wszystkie kopie z serwerów Google?</string>
+    <string name="wifi_setup_title">Konfiguracja WLAN</string>
+    <string name="wifi_setup_title_editing_network">Połącz z siecią WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Łączenie z siecią WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Połączono z siecią WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Połączenia WLAN typu EAP nie można skonfigurować podczas instalacji. Po jej zakończeniu możesz to zrobić w sekcji Ustawienia > Sieci zwykłe i bezprzewodowe.</string>
+    <string name="wifi_setup_description_connected">Dotknij pozycji <b>Dalej</b>", aby kontynuować konfigurację.
+
+Dotknij pozycji "<b>Wróć</b>, aby połączyć się z inną siecią WLAN.</string>
+    <string name="data_usage_menu_show_wifi">Pokaż użycie sieci WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Ustaw limit transmisji danych WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi nie będą działać, dopóki nie połączysz się z siecią WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działały wyłącznie po połączeniu z siecią WLAN.
+
+
+
+To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
+    <string name="data_usage_metered_body">Wybierz sieci WLAN, które są hotspotami mobilnymi. Możesz ograniczyć aplikacjom działającym w tle dostęp do tych sieci. Aplikacje mogą też ostrzegać, zanim użyją tych sieci do pobrania dużych ilości danych.</string>
+    <string name="data_usage_metered_wifi">Sieci WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Aby wybrać hotspoty mobilne, włącz sieć WLAN.</string>
+    <string name="user_add_user_message_long">"Możesz użytkować to urządzenie wspólnie z innymi osobami, tworząc dodatkowych użytkowników. Każdy użytkownik ma swoje własne miejsce, które może spersonalizować własnymi aplikacjami, tapetą itd. Użytkownicy mogą także zmieniać ustawienia tabletu, które dotyczą wszystkich, np. WLAN.
+
+
+
+Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
+
+
+
+Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imieniu wszystkich pozostałych użytkowników."</string>
+    <string name="restriction_wifi_config_title">Sieć WLAN i komórkowa</string>
+    <string name="restriction_wifi_config_summary">Zezwalaj na modyfikowanie ustawień sieci WLAN i komórkowej</string>
+    <string name="ct_wifi_connected_text">Połączono z China Telecom WLAN</string>
+    <string name="cw_network_priority">Prioryt. dla China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">Podczas nawiązywania połączeń sieci WLAN firmy China Telecom będą miały wyższy priorytet niż inne sieci WLAN</string>
+    <string name="data_traffic_disabled_text">Nie można nawiązać połączenia z sieciami WLAN firmy China Telecom, ponieważ transfer danych jest wyłączony. Włączyć transfer danych teraz?</string>
+    <string name="location_based_wifi">Sieć WLAN zależna od lokalizacji</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatycznie łącz z hotspotem WLAN firmy AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Autołącz. z WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Dzwonienie przez sieć WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Zmień certyfikat WLAN</string>
+    <string name="wifi_p2p_settings">Ustawienia funkcji WLAN Direct</string>
+    <string name="wifi_security_verbose_wapi_cert">Ochrona przez WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Ochrona przez WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Urządzenie może działać jako komórkowy punkt dostępowy — Mobilny hotspot. Umożliwia to maksymalnie 10 innym urządzeniom łączenie się z nim przez sieć WLAN i uzyskiwanie dostępu do Internetu za pośrednictwem sieci komórkowej telefonu. Mobilny hotspot wykorzystuje transmisję danych w sieci komórkowej i może powodować naliczanie dodatkowych opłat.
+
+Mobilny hotspot zwiększa obciążenie baterii. Aby wydłużyć działanie baterii, podłącz urządzenie do gniazdka sieciowego."</string>
+    <string name="wifi_tether_settings_subtext">Skonfiguruj przenośny hotspot WLAN i zarządzaj nim</string>
+    <string name="wifi_tether_settings_text">Ustaw. przenośnego hotspotu WLAN</string>
+    <string name="wifi_wps_category_title">Skonfiguruj sieć WLAN</string>
+    <string name="cw_network_notification">Włącz powiadom. o WLAN CT</string>
+    <string name="stamina_xssm_summary">Wyłącza transmisję danych w sieci komórkowej i WLAN, gdy ekran jest wyłączony.</string>
+    <string name="tethering_no_sim_warning_txt">Włóż kartę SIM, aby udostępnić połączenie do transmisji danych innym urządzeniom za pośrednictwem usługi Mobile WLAN HotSpot lub tetheringu USB w celu uzyskiwania dostępu do Internetu.</string>
+    <string name="wifi_offload_checkbox_summary">Informuj o dostępności sieci WLAN podczas otwierania aplikacji</string>
+    <string name="wifi_offload_checkbox_title">Pokaż okna podręczne WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Powiadomienia WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Powiadamiaj o dostępności sieci WLAN</string>
+    <string name="wifi_offload_option_title">Dostępne sieci WLAN</string>
+</resources>

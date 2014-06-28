@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/widgetsinglebutton" android:background="@drawable/somc_single_widget_button_shape" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/somc_incall_screen_widget_menu_singlebutton_height" android:layout_marginLeft="@dimen/somc_incall_screen_widget_menu_singlebutton_margin_left" android:layout_marginTop="@dimen/somc_incall_screen_widget_menu_singlebutton_margin_top" android:layout_marginRight="@dimen/somc_incall_screen_widget_menu_singlebutton_margin_right" android:layout_marginBottom="@dimen/somc_incall_screen_widget_menu_singlebutton_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/widgetsinglebutton_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" />
+    <TextView android:textSize="@dimen/somc_incall_screen_widget_menu_singlebutton_text_size" android:layout_gravity="center" android:id="@id/widgetsinglebutton_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/somc_incall_screen_widget_menu_singlebutton_space_size" />
+</LinearLayout>

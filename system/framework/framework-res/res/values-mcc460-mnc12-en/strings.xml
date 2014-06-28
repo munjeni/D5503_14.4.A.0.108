@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="needPuk">Your UIM card is PUK-locked. Type the PUK code to unlock it.</string>
+    <string name="needPuk2">Type PUK2 to unblock UIM card.</string>
+    <string name="enablePin">Unsuccessful. Enable UIM/RUIM LOCK.</string>
+    <string name="permdesc_readSms">Allows application to read SMS messages stored on your phone or UIM card. Malicious applications may read your confidential messages.</string>
+    <string name="permdesc_writeSms">Allows application to write to SMS messages stored on your phone or UIM card. Malicious applications may delete your messages.</string>
+    <string name="lockscreen_missing_sim_message_short">No UIM card.</string>
+    <string name="lockscreen_missing_sim_message">No UIM card in phone.</string>
+    <string name="lockscreen_missing_sim_instructions">Please insert a UIM card.</string>
+    <string name="lockscreen_missing_sim_instructions_long">The UIM card is missing or not readable. Please insert a UIM card.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Your UIM card is permanently disabled.
+Please contact your wireless service provider to obtain another UIM card."</string>
+    <string name="lockscreen_sim_puk_locked_message">UIM card is PUK-locked.</string>
+    <string name="lockscreen_sim_locked_message">UIM card is locked.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking UIM card…</string>
+    <string name="sim_removed_title">UIM card removed</string>
+    <string name="sim_removed_message">The mobile network will be unavailable until you restart with a valid UIM card inserted.</string>
+    <string name="sim_added_title">UIM card added</string>
+    <string name="unregistered_sim">Unregistered UIM card</string>
+    <string name="mmcc_imsi_unknown_in_hlr">UIM not provisioned MM #2</string>
+    <string name="mmcc_illegal_ms">UIM card not allowed MM #3</string>
+    <string name="mmcc_authentication_reject">UIM card not allowed</string>
+    <string name="carrier_invalid_sim_card">Invalid UIM card</string>
+    <string name="keyguard_pin_unblocked">UIM card lock unblocked</string>
+    <string name="lockscreen_strings_sim_locked_out_header_txt">UIM card blocked</string>
+    <string name="lockscreen_strings_sim_puk_locked_header_txt">UIM card locked</string>
+    <string name="lockscreen_perso_locked_message">UIM/RUIM is Perso locked</string>
+    <string name="lockscreen_sim_error_message">UIM card is Invalid.</string>
+</resources>

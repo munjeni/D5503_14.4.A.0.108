@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_dispatchPeriod">1800</integer>
+    <integer name="favorites_empty_rows">0</integer>
+    <integer name="fm_region_param">0</integer>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_service_except_mms_disabled_warning_txt">Nëse nuk përdorni WLAN, nuk do të jeni më në gjendje të përdorni internetin, postën elektronike ose aplikacione të tjera që kërkojnë një lidhje të dhënash. Të çaktivizohet lidhja e të dhënave celulare?</string>
+    <string name="sip_call_options_wifi_only_title">Përdor. telefonimin në internet (vetëm WLAN)</string>
+    <string name="registration_status_no_wifi_data">Nuk ka lidhje me WLAN. Llogaria nuk mundi të regjistrohet.</string>
+    <string name="no_wifi_available_title">Nuk ka lidhje WLAN</string>
+    <string name="no_wifi_available">Duhet të lidheni me një rrjet WLAN për telefonimin në Internet (Shkoni te Cilësimet > Rrjetet dhe pajisjet pa tel).</string>
+</resources>

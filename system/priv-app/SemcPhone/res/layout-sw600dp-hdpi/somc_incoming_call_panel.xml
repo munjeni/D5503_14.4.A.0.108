@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.phone.SomcIncomingCallSliding android:gravity="bottom|center" android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/inComingCallPanel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.phone.SomcSlidingTab android:id="@id/sliderTab" android:tag="Portrait" android:layout_width="fill_parent" android:layout_height="@dimen/incall_screen_slider_height" android:layoutDirection="ltr" />
+</com.android.phone.SomcIncomingCallSliding>

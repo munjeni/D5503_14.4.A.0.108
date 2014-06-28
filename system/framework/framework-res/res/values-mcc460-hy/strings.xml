@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_accessFineLocation">Թույլատրում է գործադիրին ստանալ ձեր ճշգրիտ տեղադրությունը Global Positioning System-ի (GPS) կամ այնպիսի ցանցի աղբյուրների միջոցով, ինչիսիք են՝ բջջային աշտարակները և WLAN-ը: Տեղադրության ծառայությունները պետք է միացվեն և մատչելի լինեն ձեր սարքին, որպեսզի գործադիրը օգտվի դրանցից: Գործադիրները կարող են օգտագործել սա ձեր տեղը սահմանելու համար և արագ լիցքաթափել մարտկոցը:</string>
+    <string name="permdesc_accessCoarseLocation">Ծրագրային հավելվածին թույլ է տալիս ստանալ ձեր մոտավոր տեղադրությունը: Տեղադրությունը տրամադրվում է տեղորոշման ծառայությունների կողմից, որոնք այդ նպատակով օգտագործում են ցանցի տեղորոշման աղբյուրները, ինչպիսիք են՝ բջջային կապի աշտարակները և WLAN-ը: Նշված տեղորոշման ծառայությունները պետք է լինեն միացված և ձեր սարքի համար հասանելի, որպեսզի ծրագրային հավելվածը կարողանա օգտագործել դրանք: Ծրագրային հավելվածները կարող են օգտագործել այդ հանգամանքը ձեր մոտավոր գտնվելու վայրը որոշելու համար:</string>
+    <string name="permlab_configureWifiDisplay">կազմաձևել WLAN ցուցասարքերը</string>
+    <string name="permdesc_configureWifiDisplay">Թույլատրում է գործադիրին կազմաձևել և կապակցել WLAN ցուցադրիչներին:</string>
+    <string name="permlab_controlWifiDisplay">կառավարել WLAN ցուցասարքերը</string>
+    <string name="permdesc_controlWifiDisplay">Թույլատրում է գործադիրին կառավարել WLAN ցուցադրիչների ցածր մակարդակի յուրահատկությունները:</string>
+    <string name="permlab_accessWifiState">դիտել WLAN միացումները</string>
+    <string name="permdesc_accessWifiState">Ծրագրային հավելվածին թույլ է տալիս դիտել տեղեկություններ WLAN ցանցերի մասին, օրինակ՝ միացված է, արդյոք, WLAN-ը և միացված WLAN սարքերի անունները:</string>
+    <string name="permlab_changeWifiState">միանալ և անջատվել WLAN-ից</string>
+    <string name="permdesc_changeWifiState">Ծրագրային հավելվածին թույլ է տալիս միանալ և անջատվել WLAN մուտքի կետերից, ինչպես նաև սարքի կազմաձևում WLAN ցանցերի հետ կապված փոփոխություններ կատարել:</string>
+    <string name="permlab_changeWifiMulticastState">թույլատրել WLAN Բազմահեռարձակման ընդունումը</string>
+    <string name="permdesc_changeWifiMulticastState">Թույլատրում է գործադիրին ստանալ WLAN ցանցում բոլոր սարքերին ուղարկված փաթեթները՝ օգտագործելով բազմասփյուռ հասցեները, այլ ոչ միայն ձեր հեռախոսը: Այն օգտագործում է ավելի շատ էներգիա, քան ոչ բազմասփյուռ ռեժիմը:</string>
+    <string name="wifi_available_sign_in">Մուտք գործեք WLAN ցանց</string>
+    <string name="wifi_watchdog_network_disabled">Չհաջողվեց կապակցել WLAN-ին</string>
+    <string name="wifi_p2p_dialog_title">WLAN Direct</string>
+    <string name="wifi_p2p_turnon_message">Գործարկեք WLAN Direct-ը: Դա կանջատի WLAN սպասառուն/մատչելիության կետը:</string>
+    <string name="wifi_p2p_failed_message">Անհնար է գործարկել WLAN Direct-ը:</string>
+    <string name="wifi_p2p_enabled_notification_title">WLAN Direct-ը միացված է</string>
+    <string name="wifi_p2p_frequency_conflict_message">Հեռախոսը ժամանակավորապես անջատվելու է WLAN-ից՝ մինչդեռ այն միացված է %1$s-ին</string>
+    <string name="data_usage_wifi_limit_title">WLAN տվյալները միացված են</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Դուք գերազանցել եք WLAN տվյալների սահմանաչափը</string>
+    <string name="policylab_disableWifi">Անջատել WLAN-ի մատչումը</string>
+    <string name="policydesc_disableWifi">Կանխել WLAN կապակցումները սարքի վրա:</string>
+    <string name="wifi_disabled_notification_title">WLAN կպկցմը սհմնփ է</string>
+    <string name="wifi_disabled_notification_message">"Անվտանգ դրույթները սահմանափակ են WLAN-ի օգտ: "</string>
+    <string name="wifi_hs2_strings_notification_roaming_title_txt">WLAN ռոումինգը ընթացքում է</string>
+    <string name="ct_cplusw_notification_text">"Դուք մուտք եք գործել CT WLAN ցանց: Խնդում ենք կապվել 10000 կամ տեղալան CT պահեստ բիլինգի տվյալների համար: Խնդրու ենք անջատել, երբ չեք օգտագործում:
+"</string>
+    <string name="ct_cplusw_notification_title">China Telecom-ի WLAN-ը մցվծ է</string>
+    <string name="ct_cplusw_pppoe_connection_dialog_content">Դուք կմիանաք China Telecom-ի WLAN ցանցին: Սակագների մասին տեղեկություններ ստանալու համար խնդրում ենք դիմել China Telecom-ի հաճախորդների սպասարկման ծառայություն: Շարունակե՞լ:</string>
+    <string name="wifi_nonconcurrency_message">Մեկնարկել WLAN սպասառու: WLAN Direct-ը կանջատվի:</string>
+    <string name="wifi_noncuncurrency_message">WLAN սպասառուի գործարկում: Դա կանջատի WLAN Direct-ը:</string>
+    <string name="wifi_p2p_nonconcurrency_invite_message">Ներկա WLAN կապերը կանջատվեն</string>
+    <string name="wifi_p2p_nonconcurrency_message">Մեկնարկել WLAN Direct-ը: WLAN կապակցումը կանջատվի:</string>
+    <string name="wifi_p2p_noncuncurrency_invite_message">Դա կանջատի գոյություն ունեցող WLAN միացումները</string>
+    <string name="wifi_p2p_noncuncurrency_message">WLAN Direct-ի գործարկում: Դա կանջատի WLAN միացումը:</string>
+    <string name="tethered_notification_message_wifi">WLAN-ը կրկին միացնելու համար անջատեք Շարժական HotSpot-ը</string>
+    <string name="tethered_notification_title_wifi">WLAN-ն անջատված է</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d দিন</item>
+        <item quantity="one">%d দিন</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ঘন্টা</item>
+        <item quantity="one">%d ঘন্টা</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">পাসওয়ার্ডে অবশ্যই কমপক্ষে %dটি অক্ষর থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি বর্ণ থাকবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">পাসওয়ার্ড অবশ্যই কমপক্ষে %dটি লোয়ারকেস বর্ণ থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি লোয়ারকেস বর্ণ থাকবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">পাসওয়ার্ড অবশ্যই কমপক্ষে %dটি আপারকেস বর্ণ থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি আপারকেস বর্ণ থাকবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">পাসওয়ার্ড অবশ্যই কমপক্ষে %dটি সংখ্যা থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি সংখ্যা থাকবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">পাসওয়ার্ড অবশ্যই কমপক্ষে %dটি বিশেষ প্রতীক থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি বিশেষ প্রতীক থাকবে</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">পাসওয়ার্ড অবশ্যই কমপক্ষে %dটি বিশেষ অ-বর্ণ অক্ষর থাকবে</item>
+        <item quantity="one">পাসওয়ার্ডে অবশ্যই কমপক্ষে একটি অ-বর্ণ অক্ষর থাকবে</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d অ্যাপস ঘোষণা পড়তে পারে</item>
+        <item quantity="one">%d অ্যাপ ঘোষণা পড়তে পারে</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন।</item>
+        <item quantity="one">SIM PIN কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন, তাতেও সফল না হলে আপনাকে আপনার যন্ত্র তালামুক্ত করতে আপনার পরিষেবা সরবরাহকারীর সঙ্গে যোগাযোগ করতে হবে।</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s গুলি প্রিন্টার পাওয়া গেছে</item>
+        <item quantity="one">%1$s টি প্রিন্টার পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">বর্তমানে তালিকায় %dটি অ্যাপ আছে</item>
+        <item quantity="one">বর্তমানে তালিকায় %1$dটি অ্যাপ আছে</item>
+    </plurals>
+</resources>

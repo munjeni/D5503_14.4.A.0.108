@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control mod Eco</string>
+    <string name="dont_ask_me_again_txt">Nu mai întreba</string>
+    <string name="description_msg_txt">"Când ecranul este dezactivat, conexiunea Wi-Fi şi datele de telefonie mobilă vor fi dezactivate temporar, iar majoritatea aplicaţiilor va fi inactivă. Veţi primi în continuare apeluri telefonice, mesaje SMS/MMS, notificări de calendar Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM vor funcţiona şi se va permite finalizarea descărcărilor şi încărcărilor în desfăşurare.
+
+Când ecranul este activat, telefonul va funcţiona normal.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Dacă ecranul este inactiv, funcţia Wi-Fi şi conexiunea de date de telefonie mobilă vor fi dezactivate temporar şi cele mai multe aplicaţii vor fi inactive. Veţi primi în continuare mesaje SMS/MMS, notificări despre evenimentele din calendarul Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM radio vor funcţiona, iar finalizarea descărcărilor şi încărcărilor în desfăşurare va fi permisă.
+
+Dacă ecranul este activ, dispozitivul va funcţiona normal."</string>
+    <string name="description_msg_no_telephony_txt">"Dacă ecranul este dezactivat, funcţia Wi-Fi va fi dezactivată temporar şi cele mai multe aplicaţii vor fi inactive. Veţi primi în continuare notificări despre evenimentele din calendarul Sony™ şi semnale de alarmă Sony™. Aplicaţia de redare a muzicii şi radioul FM radio vor funcţiona, iar finalizarea descărcărilor şi încărcărilor în desfăşurare va fi permisă.
+
+Dacă ecranul este activ, dispozitivul va funcţiona normal."</string>
+    <string name="description_title_txt">Notă!</string>
+    <string name="low_battery_mode_description_msg_txt">"Activaţi modul Baterie descărcată pentru a dezactiva funcţiile şi setările care consumă excesiv energie atunci când nivelul de încărcare a bateriei se află sub un nivel presetat. Atingeţi uşor modul Baterie descărcată pentru a modifica setările.
+"</string>
+    <string name="activate_txt">Activare</string>
+    <string name="cancel_txt">Revocare</string>
+    <string name="xssm_blocker_detector_title">Sfat gestionare alimentare</string>
+    <string name="xssm_blocker_detector_msg">%s împiedică modul STAMINA să economisească energie în regimul de aşteptare</string>
+    <string name="xssm_blocker_detector_long_msg">Dacă utilizaţi frecvent această aplicaţie, ignoraţi această avertizare. În caz contrar, dezinstalaţi aplicaţia sau opriţi-o forţat.</string>
+    <string name="xssm_blocker_detector_ignore">Am înţeles. Nu mai afişa.</string>
+    <string name="network_detector_msg">%s trimite şi primeşte date în timp ce ecranul este oprit şi duce la consumarea mai rapidă a bateriei.</string>
+    <string name="network_detector_long_msg">Dezinstalarea acesteia poate îmbunătăţi performanţa dispozitivului şi poate prelungi durata bateriei.</string>
+    <string name="wakelock_detector_msg">Nu s-a utilizat %s de mai multe săptămâni.</string>
+    <string name="wakelock_detector_long_msg">Poate activa dispozitivul din modul Regim de aşteptare. Dezinstalarea acesteia poate îmbunătăţi performanţa dispozitivului şi poate prelungi durata bateriei.</string>
+    <string name="notification_title_xssm">Sfat gestionare alimentare</string>
+    <string name="notification_text_xssm">Activaţi modul STAMINA</string>
+    <string name="notification_descr_xssm">Dispozitivul dvs. se află frecvent în modul de aşteptare. Prelungiţi durata de funcţionare a bateriei activând modul STAMINA.</string>
+    <string name="notification_dont_show_again">Am înţeles. Nu mai afişa.</string>
+    <string name="notification_title_ps">Sfat gestionare alimentare</string>
+    <string name="notification_text_ps">Activaţi modul Baterie descărcată</string>
+    <string name="notification_descr_ps">Modul Baterie descărcată poate prelungi furata de funcţionare a bateriei, de exemplu, prin dezactivarea funcţiei Wi-Fi sau prin reducerea luminozităţii ecranului atunci când bateria este descărcată.</string>
+    <string name="notification_title_lbw">Sfat gestionare alimentare</string>
+    <string name="notification_text_lbw">Activaţi Wi-Fi în funcţie de locaţie</string>
+    <string name="notification_descr_lbw">Funcţia Wi-Fi este activată, dar nu a mai fost utilizată de ceva timp. Economisiţi energia activând Wi-Fi în funcţie de locaţie.</string>
+    <string name="unused_application_title">Sfat gestionare consum de energie</string>
+    <string name="unused_application_msg">%s nu s-a utilizat de ceva timp</string>
+    <string name="unused_application_long_msg">Dacă doriţi să păstraţi această aplicaţie, ignoraţi acest eveniment. În caz contrar, dezinstalaţi aplicaţia.</string>
+    <string name="unused_application_ignore">Am înţeles. Nu mai afişa acest mesaj.</string>
+    <string name="drain_dialog_title_txt">Bateria nu se încarcă</string>
+    <string name="drain_dialog_text_usb_txt">Sursa de alimentare conectată nu este suficientă. Bateria se descarcă mai repede decât se încarcă. Utilizaţi încărcătorul c.a. pentru încărcare.</string>
+    <string name="drain_dialog_text_wallcharger_txt">Sursa de alimentare conectată nu este suficientă. Bateria se descarcă mai repede decât se încarcă. Utilizaţi cât mai puţin dispozitivul în timp ce acesta se încarcă.</string>
+    <string name="extend_battery_tip_dialog_headar">Sfat gestionare consum de energie</string>
+    <string name="location_based_wifi_tip_dialog">Funcţia Wi-Fi este activată, dar nu a fost utilizată de ceva timp. Puteţi economisi energia activând funcţia Wi-Fi în funcţie de locaţie. Configuraţi Wi-Fi în funcţie de locaţie?</string>
+    <string name="low_battery_mode_tip_dialog">Modul Baterie descărcată poate prelungi durata de funcţionare a bateriei, de exemplu, dezactivând funcţia Wi-Fi sau reducând luminozitatea ecranului atunci când bateria este descărcată. Configuraţi modul Baterie descărcată?</string>
+    <string name="stamina_mode_tip_dialog">Dispozitivul dvs. se află frecvent în modul de aşteptare. Prelungiţi durata de funcţionare a bateriei activând modul STAMINA. Configuraţi modul STAMINA?</string>
+    <string name="bad_app_notification">Următ. aplic. consumă excesiv energia bat.:</string>
+    <string name="bad_standby_app_dialog">%s împiedică modul STAMINA să economisească energie în regimul de aşteptare. Dacă utilizaţi frecvent această aplicaţie, ignoraţi această avertizare. În caz contrar, atingeţi uşor butonul Informaţii aplicaţie şi dezinstalaţi aplicaţia sau închideţi-o forţat.</string>
+    <string name="ignore_dialog_action">Ignorare</string>
+    <string name="app_info_dialog_action">Informaţii aplicaţie</string>
+    <string name="stamina_activation_notification">Mod STAMINA activat</string>
+    <string name="lowbattery_trigger_level_notification">Nivel energie baterie sub %d%%</string>
+    <string name="lowbattery_activated_notification">Mod Baterie descărcată activat</string>
+    <string name="app_not_used_notification">Ac. aplic. nu a fost utilizată de ceva vreme:</string>
+    <string name="app_not_used_tip_dialog">%s nu a fost utilizată de ceva vreme. Vă recomandăm să dezinstalaţi această aplicaţie pentru a economisi energie.</string>
+    <string name="no_action_dialog">"Nu "</string>
+    <string name="yes_action_dialog">"Da "</string>
+    <string name="widget_remaining_battery_time">Durată estimată funcţionare baterie</string>
+    <string name="widget_name">Mod STAMINA</string>
+</resources>

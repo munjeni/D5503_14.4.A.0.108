@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ตัวควบคุมโหมด Eco</string>
+    <string name="dont_ask_me_again_txt">อย่าถามฉันอีก</string>
+    <string name="description_msg_txt">"เมื่อปิดหน้าจอ Wi-Fi และข้อมูล อุปกรณ์เคลื่อนที่จะถูกปิดใช้งาน ชั่วคราว และแอปพลิเคชัน ส่วนใหญ่จะไม่สามารถใช้งานได้ คุณจะยังคงได้รับสายเรียกเข้า ข้อความ SMS/MMS และการแจ้งเตือนปฏิทินของ Sony™ และสัญญาณปลุก Sony™ เครื่องเล่นเพลงและวิทยุ FM จะทำงาน การดาวน์โหลดและ อัปโหลดที่ดำเนินการอยู่จะได้รับ อนุญาตให้เสร็จสิ้นได้
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"เมื่อหน้าจอปิดอยู่ ระบบจะปิดใช้ข้อมูล Wi-Fi และข้อมูลอุปกรณ์เคลื่อนที่ชั่วคราว และแอปพลิเคชันส่วนใหญ่จะไม่ทำงาน คุณจะยังคงได้รับข้อความ SMS/MMS, การแจ้งปฏิทิน Sony™ และสัญญาณปลุก Sony™ เครื่องเล่นเพลงและวิทยุ FM จะทำงาน และระบบจะอนุญาตให้การดาวน์โหลดและการอัปโหลดที่กำลังทำงานดำเนินต่อไปจนเสร็จสิ้น
+
+เมื่อหน้าจอเปิดขึ้น อุปกรณ์ของคุณจะทำงานตามปกติ"</string>
+    <string name="description_msg_no_telephony_txt">"เมื่อหน้าจอปิดอยู่ Wi-Fi จะถูกปิดใช้งานชั่วคราว และแอปพลิเคชันส่วนใหญ่จะไม่ทำงาน คุณจะยังคงได้รับการแจ้งปฏิทิน Sony™ และสัญญาณปลุก Sony™ เครื่องเล่นเพลงและวิทยุ FM จะทำงาน และระบบจะอนุญาตให้การดาวน์โหลดและการอัปโหลดที่กำลังทำงานดำเนินต่อไปจนเสร็จสิ้น
+
+เมื่อหน้าจอเปิดขึ้น อุปกรณ์ของคุณจะทำงานตามปกติ"</string>
+    <string name="description_title_txt">หมายเหตุ!</string>
+    <string name="low_battery_mode_description_msg_txt">"เปิดใช้งานโหมดแบตเตอรี่ต่ำเพื่อปิดคุณลักษณะและการตั้งค่าที่เปลืองพลังงานเมื่อแบตเตอรี่ต่ำกว่าระดับที่ตั้งไว้ แตะโหมดแบตเตอรี่ต่ำเพื่อเปลี่ยนการตั้งค่า
+"</string>
+    <string name="activate_txt">เปิดใช้งาน</string>
+    <string name="cancel_txt">ยกเลิก</string>
+    <string name="xssm_blocker_detector_title">เคล็ดลับการจัดการพลังงาน</string>
+    <string name="xssm_blocker_detector_msg">%s กำลังขัดขวางไม่ให้โหมด STAMINA ประหยัดพลังงานขณะเตรียมพร้อม</string>
+    <string name="xssm_blocker_detector_long_msg">"หากคุณใช้แอปพลิเคชันนี้บ่อยครั้ง ไม่ต้อง
+สนใจคำเตือนนี้ หากไม่ได้ใช้บ่อยครั้ง 
+ให้ยกเลิกการติดตั้งหรือบังคับหยุด
+แอปพลิเคชันนี้"</string>
+    <string name="xssm_blocker_detector_ignore">เข้าใจแล้ว ไม่ต้องแสดงอีก</string>
+    <string name="network_detector_msg">%s กำลังส่งและรับข้อมูลในขณะที่หน้าจอปิดอยู่ และเป็นสาเหตุให้แบตเตอรี่ถูกใช้มากขึ้น</string>
+    <string name="network_detector_long_msg">การถอนการติดตั้งอาจทำให้อุปกรณ์ทำงานได้ดีขึ้นและยืดอายุแบตเตอรี่</string>
+    <string name="wakelock_detector_msg">%s ไม่มีการใช้เป็นเวลาหลายสัปดาห์</string>
+    <string name="wakelock_detector_long_msg">อาจทำให้อุปกรณ์ออกจากโหมดสแตนด์บาย การถอนการติดตั้งอาจทำให้อุปกรณ์ทำงานได้ดีขึ้นและยิดอายุแบตเตอรี่</string>
+    <string name="notification_title_xssm">เคล็ดลับการจัดการพลังงาน</string>
+    <string name="notification_text_xssm">เปิดใช้งานโหมด STAMINA</string>
+    <string name="notification_descr_xssm">"อุปกรณ์ของคุณเข้าสู่โหมดเตรียมพร้อมบ่อยครั้ง ให้ยืดเวลาการใช้งานแบตเตอรี่โดยการ
+เปิดใช้งานโหมด STAMINA"</string>
+    <string name="notification_dont_show_again">เข้าใจแล้ว ไม่ต้องแสดงอีก</string>
+    <string name="notification_title_ps">เคล็ดลับการจัดการพลังงาน</string>
+    <string name="notification_text_ps">เปิดใช้งานโหมดแบตเตอรี่อ่อน</string>
+    <string name="notification_descr_ps">"โหมดแบตเตอรี่อ่อนสามารถยืดอายุการใช้งาน
+แบตเตอรี่ได้ เช่น โดยการปิด Wi-Fi หรือการลด
+ความสว่างหน้าจอเมื่อแบตเตอรี่อ่อน"</string>
+    <string name="notification_title_lbw">เคล็ดลับการจัดการพลังงาน</string>
+    <string name="notification_text_lbw">เปิดใช้งาน Wi-Fi ตามตำแหน่งที่ตั้ง</string>
+    <string name="notification_descr_lbw">Wi-Fi เปิดอยู่แต่ไม่ได้ใช้งานสักพักแล้ว ให้ประหยัดพลังงานโดยการเปิดใช้งาน Wi-Fi ตามตำแหน่งที่ตั้ง</string>
+    <string name="unused_application_title">เคล็ดลับการจัดการพลังงาน</string>
+    <string name="unused_application_msg">%s ไม่ได้ใช้งานมาระยะหนึ่งแล้ว</string>
+    <string name="unused_application_long_msg">หากคุณต้องการเก็บแอปพลิเคชันนี้ไว้ ไม่ต้องสนใจคำเตือนนี้ แต่หากไม่ต้องการ ให้ยกเลิกการติดตั้งแอปพลิเคชันนี้</string>
+    <string name="unused_application_ignore">เข้าใจแล้ว ไม่ต้องแสดงอีก</string>
+    <string name="drain_dialog_title_txt">ไม่ได้กำลังชาร์จแบตเตอรี่</string>
+    <string name="drain_dialog_text_usb_txt">แหล่งพลังงานที่เชื่อมต่ออยู่มีกำลังไฟไม่เพียงพอ แบตเตอรี่กำลังจ่ายไฟรวดเร็วกว่าที่กำลังชาร์จไฟ โปรดเปลี่ยนไปใช้เครื่องชาร์จ AC ของคุณ</string>
+    <string name="drain_dialog_text_wallcharger_txt">แหล่งพลังงานที่เชื่อมต่ออยู่มีกำลังไฟไม่เพียงพอ แบตเตอรี่กำลังจ่ายไฟรวดเร็วกว่าที่กำลังชาร์จไฟ โปรดลดการใช้อุปกรณ์ของคุณขณะที่กำลังชาร์จ</string>
+    <string name="extend_battery_tip_dialog_headar">เคล็ดลับการประหยัดพลังงาน</string>
+    <string name="location_based_wifi_tip_dialog">เปิด Wi-Fi แต่ไม่ได้ใช้งานในขณะนี้ คุณสามารถประหยัดพลังงานได้โดยเปิด Wi-Fi ตามตำแหน่งที่ตั้ง ตั้งค่า Wi-Fi ตามตำแหน่งที่ตั้ง?</string>
+    <string name="low_battery_mode_tip_dialog">โหมดแบตเตอรี่อ่อนช่วยให้คุณใช้งานแบตเตอรี่ได้นานขึ้น เช่น ปิด Wi-Fi หรือลดความสว่างหน้าจอเมื่อแบตเตอรี่อ่อน ตั้งค่าโหมดแบตเตอรี่อ่อน?</string>
+    <string name="stamina_mode_tip_dialog">อุปกรณ์ของคุณอยู่ในโหมดสแตนด์บายเป็นส่วนใหญ่ คุณสามารถใช้แบตเตอรี่ได้นานขึ้นเมื่อเปิดโหมด STAMINA ตั้งค่าโหมด STAMINA?</string>
+    <string name="bad_app_notification">แอพต่อไปนี้สิ้นเปลืองแบตเตอรี่มาก:</string>
+    <string name="bad_standby_app_dialog">%s ป้องกันไม่ให้โหมด STAMINA ประหยัดพลังงานในโหมดสแตนด์บาย หากคุณใช้แอพพลิเคชันนี้บ่อยครั้ง ข้ามการเตือนนี้ หากไม่ แตะปุ่มข้อมูลแอพ และถอนการติดตั้งหรือบังคับหยุดใช้งานแอพพลิเคชัน</string>
+    <string name="ignore_dialog_action">ปฏิเสธ</string>
+    <string name="app_info_dialog_action">ข้อมูลแอปพลิเคฃัน</string>
+    <string name="stamina_activation_notification">เปิดใช้งานโหมด STAMINA</string>
+    <string name="lowbattery_trigger_level_notification">ระดับแบตเตอรี่ต่ำกว่า %d%%</string>
+    <string name="lowbattery_activated_notification">เปิดใช้งานโหมดแบตเตอรี่อ่อน</string>
+    <string name="app_not_used_notification">แอพนี้ไม่ถูกใช้งานมาระยะเวลาหนึ่ง:</string>
+    <string name="app_not_used_tip_dialog">%s ไม่ถูกใช้งานมาระยะเวลาหนึ่ง ขอแนะนำให้คุณถอนการติดตั้งแอพพลิเคชันเพื่อประหยัดพลังงาน</string>
+    <string name="no_action_dialog">ไม่</string>
+    <string name="yes_action_dialog">ใช่</string>
+    <string name="widget_remaining_battery_time">เวลาใช้งานแบตเตอรี่โดยประมาณ</string>
+    <string name="widget_name">โหมด STAMINA</string>
+</resources>

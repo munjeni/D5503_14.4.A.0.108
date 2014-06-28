@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controllo modalità Eco</string>
+    <string name="dont_ask_me_again_txt">Non visualizzare più il messaggio</string>
+    <string name="description_msg_txt">"Quando lo schermo non è attivato, il Wi-Fi e il traffico dati verranno momentaneamente disattivati e la maggior parte delle applicazioni saranno inattive. Si continuerà a ricevere telefonate, messaggi SMS/MMS e le suonerie allarme e le notifiche del calendario Sony™. Il lettore musicale e la radio FM funzioneranno e le operazioni di download e di caricamento in corso verranno fatte finire.
+
+
+
+Quando lo schermo è attivato, il telefono funzionerà normalmente.
+"</string>
+    <string name="description_msg_no_telephony_but_sms_txt">"Quando lo schermo è disattivato, il traffico dati e Wi-Fi sono temporaneamente disattivati e molte applicazioni non saranno attive. I messaggi SMS/MMS, le notifiche del calendario Sony™ e le suonerie allarme Sony™ verranno comunque ricevuti. Il riproduttore musicale e la radio FM funzioneranno e sarà possibile terminare i download e gli upload in corso.
+
+Quando lo schermo è attivo, il dispositivo funziona normalmente."</string>
+    <string name="description_msg_no_telephony_txt">"Quando lo schermo è disattivato, i dati Wi-Fi sono temporaneamente disattivati e molte applicazioni non saranno attive. Le notifiche del calendario Sony™ e le suonerie allarme Sony™ verranno comunque ricevuti. Il riproduttore musicale e la radio FM funzioneranno e sarà possibile terminare i download e gli upload in corso.
+
+Quando lo schermo è attivo, il dispositivo funziona normalmente."</string>
+    <string name="description_title_txt">Nota!</string>
+    <string name="low_battery_mode_description_msg_txt">"Attivare la modalità risparmio energetico per diminuire il consumo energetico delle impostazioni e delle funzionalità quando il livello della batteria è al di sotto del livello prestabilito. Tocca sulla modalità risparmio energetico per modificare le impostazioni.
+"</string>
+    <string name="activate_txt">Attiva</string>
+    <string name="cancel_txt">Annulla</string>
+    <string name="xssm_blocker_detector_title">Sugger. gest. alimentaz.</string>
+    <string name="xssm_blocker_detector_msg">%s impedisce alla modalità STAMINA di risparmiare energia in standby</string>
+    <string name="xssm_blocker_detector_long_msg">"Se utilizzi spesso questa applicazione, ignora l'avviso. In caso contrario, disinstalla o termina l'applicazione."</string>
+    <string name="xssm_blocker_detector_ignore">"Fatto. Non mostrare più l'avviso."</string>
+    <string name="network_detector_msg">%s sta inviando e ricevendo dati mentre lo schermo non è attivo consumando la carica della batteria.</string>
+    <string name="network_detector_long_msg">Disinstallando questa applicazione è possibile migliorare le prestazioni del dispositivo e prolungare la durata della batteria.</string>
+    <string name="wakelock_detector_msg">%s non viene stato utilizzata da diverse settimane.</string>
+    <string name="wakelock_detector_long_msg">Potrebbe attivare il dispositivo dalla modalità di standby. Disinstallandola è possibile migliorare le prestazioni del dispositivo e prolungare la durata della batteria.</string>
+    <string name="notification_title_xssm">Sugger. gest. alimentaz.</string>
+    <string name="notification_text_xssm">Attiva la modalità STAMINA</string>
+    <string name="notification_descr_xssm">Il tuo dispositivo è spesso in modalità di standby. Aumenta la durata della batteria attivando la modalità STAMINA.</string>
+    <string name="notification_dont_show_again">"Fatto. Non mostrare più l'avviso."</string>
+    <string name="notification_title_ps">Sugger. gest. alimentaz.</string>
+    <string name="notification_text_ps">Attiva la modalità risparmio energetico</string>
+    <string name="notification_descr_ps">La modalità risparmio energetico può aumentare la durata della batteria disattivando il Wi-Fi o riducendo la luminosità dello schermo quando la batteria è scarica.</string>
+    <string name="notification_title_lbw">Sugger. gest. alimentaz.</string>
+    <string name="notification_text_lbw">Attiva il Wi-Fi basato su posizione</string>
+    <string name="notification_descr_lbw">Il Wi-Fi è attivo ma non è stato utilizzato per diverso tempo. Risparmia energia attivando il Wi-Fi basato su posizione.</string>
+    <string name="unused_application_title">Sugg. gest. aliment.</string>
+    <string name="unused_application_msg">%s non viene utilizzato da tempo</string>
+    <string name="unused_application_long_msg">"Se si desidera mantenere questa applicazione, ignorare l'avviso. In caso contrario, disinstallare l'applicazione."</string>
+    <string name="unused_application_ignore">Fatto. Non visualizzare più.</string>
+    <string name="drain_dialog_title_txt">Batteria non in carica</string>
+    <string name="drain_dialog_text_usb_txt">La fonte di alimentazione collegata non è sufficiente. La batteria consuma più della carica. Cambiare caricatore CA.</string>
+    <string name="drain_dialog_text_wallcharger_txt">"La fonte di alimentazione connessa non è sufficiente. La batteria consuma più della carica. Ridurre l'utilizzo del dispositivo durante la carica."</string>
+    <string name="extend_battery_tip_dialog_headar">Suggerimento per la gestione accensione</string>
+    <string name="location_based_wifi_tip_dialog">"Il Wi-Fi è attivo ma non viene utilizzato da un po' di tempo. È possibile risparmiare energia attivando il Wi-Fi basato sull'ubicazione. Configurare il Wi-Fi basato sull'ubicazione?"</string>
+    <string name="low_battery_mode_tip_dialog">La modalità risparmio energetico consente di prolungare la durata della batteria, ad esempio disattivando il Wi-Fi o riducendo la luminosità dello schermo in caso di carica scarsa. Configurare la modalità Batteria scarica?</string>
+    <string name="stamina_mode_tip_dialog">Il dispositivo è spesso in modalità standby. Prolungare la durata della batteria attivando la modalità STAMINA. Configurare la modalità STAMINA?</string>
+    <string name="bad_app_notification">La seguente app sta scaricando la batteria:</string>
+    <string name="bad_standby_app_dialog">"%s sta impedendo il risparmio di energia in standby tramite la modalità STAMINA. Se si utilizza spesso questa applicazione, ignorare questa avvertenza. In caso contrario, toccare il pulsante Informazioni app e disinstallare o forzare l'arresto dell'applicazione."</string>
+    <string name="ignore_dialog_action">Ignora</string>
+    <string name="app_info_dialog_action">"Informazioni sull'app"</string>
+    <string name="stamina_activation_notification">Modalità STAMINA attivata</string>
+    <string name="lowbattery_trigger_level_notification">Livello batteria inferiore a %d%%</string>
+    <string name="lowbattery_activated_notification">Mod. risparmio energetico attiv.</string>
+    <string name="app_not_used_notification">Questa app non viene utilizzata da tempo:</string>
+    <string name="app_not_used_tip_dialog">"%s non viene utilizzata da un po' di tempo. Si consiglia di disinstallare l'applicazione per risparmiare energia."</string>
+    <string name="no_action_dialog">No</string>
+    <string name="yes_action_dialog">Sì</string>
+    <string name="widget_remaining_battery_time">Durata della batteria stimata</string>
+    <string name="widget_name">Modalità STAMINA</string>
+</resources>

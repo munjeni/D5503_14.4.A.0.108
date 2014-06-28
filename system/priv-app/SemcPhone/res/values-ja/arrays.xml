@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>ネットワーク既定</item>
+        <item>番号を非通知</item>
+        <item>番号を通知</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>グローバル</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EV-DOのみ</item>
+        <item>CDMA（EV-DO非準拠）</item>
+        <item>CDMA/EvDo自動</item>
+        <item>GSM/WCDMA自動</item>
+        <item>WCDMAのみ</item>
+        <item>GSMのみ</item>
+        <item>GSM/WCDMA優先</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>英語</item>
+        <item>フランス語</item>
+        <item>スペイン語</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>中国語</item>
+        <item>ヘブライ語</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA(自動ﾓｰﾄﾞ)</item>
+        <item>WCDMAのみ</item>
+        <item>GSMのみ</item>
+        <item>GSM/WCDMA（WCDMA優先）</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ホームのみ</item>
+        <item>自動</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>ホームネットワークのみ</item>
+        <item>提携ネットワーク</item>
+        <item>すべてのネットワーク</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EV-DO</item>
+        <item>CDMAのみ</item>
+        <item>EV-DOのみ</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY OFF</item>
+        <item>TTYフル</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>標準</item>
+        <item>長め</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="incall_screen_contact_picture_height">320.0dip</dimen>
+    <dimen name="incall_screen_conference_right_pane_width">0.0dip</dimen>
+    <dimen name="incall_screen_conference_right_pane_height">0.0dip</dimen>
+</resources>
