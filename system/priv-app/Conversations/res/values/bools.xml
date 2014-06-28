@@ -5,7 +5,7 @@
     <bool name="enable_composer_attachment_preview">true</bool>
     <bool name="enable_save_draft_dialog">false</bool>
     <bool name="mimetype_from_file_extension">false</bool>
-    <bool name="use_sc_timestamp">false</bool>
+    <bool name="use_sc_timestamp">true</bool>
     <bool name="delivery_report">true</bool>
     <bool name="delivery_report_visibility">true</bool>
     <bool name="mms_auto_retrieval">true</bool>
