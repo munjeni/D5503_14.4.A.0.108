@@ -47,9 +47,9 @@
     <bool name="enable_call_ended_screen">true</bool>
     <bool name="emergency_call_convert_enabled">false</bool>
     <bool name="enable_sound_enhancement">true</bool>
-    <bool name="enable_speaker_voice_enhancement">false</bool>
+    <bool name="enable_speaker_voice_enhancement">true</bool>
     <bool name="slow_talk_default_value">false</bool>
-    <bool name="enable_call_recording">false</bool>
+    <bool name="enable_call_recording">true</bool>
     <bool name="enable_acceleration_sensor_to_set_transmit_power">false</bool>
     <bool name="enable_voicemail_number_editing">true</bool>
     <bool name="config_enable_answering_machine">true</bool>
