@@ -1124,7 +1124,7 @@
     :pswitch_1
     iget-object v5, p0, Lcom/sonymobile/superstamina/xssm/Xssm;->mService:Lcom/sonymobile/superstamina/XperiaPowerService;
 
-    invoke-virtual {v5, v8}, Lcom/sonymobile/superstamina/XperiaPowerService;->enableLedsOverride(Z)V
+    invoke-virtual {v5, v7}, Lcom/sonymobile/superstamina/XperiaPowerService;->enableLedsOverride(Z)V
 
     .line 465
     sget-object v5, Lcom/sonymobile/superstamina/xssm/PowerState;->POWER_STATE_1:Lcom/sonymobile/superstamina/xssm/PowerState;
