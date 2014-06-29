@@ -189,6 +189,7 @@ set_perm(0, 0, 0644, "/system/app/white-balance.apk");
 set_perm(0, 0, 0644, "/system/app/xperia-keyboard-dictionaries.apk");
 set_perm(0, 2000, 0755, "/system/bin/PktRspTest");
 set_perm(0, 2000, 0755, "/system/bin/StoreKeybox");
+set_perm(0, 2000, 0755, "/system/bin/strace");
 set_perm(0, 2000, 0755, "/system/bin/adb");
 set_perm(0, 2000, 0755, "/system/bin/adsprpcd");
 set_perm(0, 2000, 0755, "/system/bin/am");
