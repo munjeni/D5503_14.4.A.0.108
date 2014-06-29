@@ -32,7 +32,7 @@
     .locals 0
 
     .prologue
-    .line 88
+    .line 93
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void
@@ -45,7 +45,7 @@
     .param p1, "source"    # Landroid/os/Parcel;
 
     .prologue
-    .line 90
+    .line 95
     new-instance v0, Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     invoke-direct {v0, p1}, Lcom/android/settings/applications/AppOpsState$OpsTemplate;-><init>(Landroid/os/Parcel;)V
@@ -58,7 +58,7 @@
     .param p1, "x0"    # Landroid/os/Parcel;
 
     .prologue
-    .line 88
+    .line 93
     invoke-virtual {p0, p1}, Lcom/android/settings/applications/AppOpsState$OpsTemplate$1;->createFromParcel(Landroid/os/Parcel;)Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     move-result-object v0
@@ -71,7 +71,7 @@
     .param p1, "size"    # I
 
     .prologue
-    .line 94
+    .line 99
     new-array v0, p1, [Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     return-object v0
@@ -82,7 +82,7 @@
     .param p1, "x0"    # I
 
     .prologue
-    .line 88
+    .line 93
     invoke-virtual {p0, p1}, Lcom/android/settings/applications/AppOpsState$OpsTemplate$1;->newArray(I)[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     move-result-object v0

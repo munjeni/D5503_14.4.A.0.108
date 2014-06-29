@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/privacy_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/privacy_guard_manager_title" android:key="privacy_guard_manager" android:summary="@string/privacy_guard_manager_summary" android:fragment="com.android.settings.munjeni.privacyguard.PrivacyGuardManager" />
+    <Preference android:title="@string/blacklist_title" android:summary="@string/blacklist_summary">
+        <intent android:targetPackage="com.borqs.scimitar.blacklist" android:targetClass="com.borqs.scimitar.blacklist.BlacklistManager" />
+    </Preference>
+</PreferenceScreen>

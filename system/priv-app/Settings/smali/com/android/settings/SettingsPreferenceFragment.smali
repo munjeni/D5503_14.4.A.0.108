@@ -195,6 +195,52 @@
     return v0
 .end method
 
+.method public isPackageInstalled(Ljava/lang/String;)Z
+    .locals 5
+    .param p1, "packageName"    # Ljava/lang/String;
+
+    .prologue
+    const/4 v2, 0x0
+
+    if-eqz p1, :cond_0
+
+    :try_start_0
+    invoke-virtual {p0}, Lcom/android/settings/SettingsPreferenceFragment;->getPackageManager()Landroid/content/pm/PackageManager;
+
+    move-result-object v3
+
+    const/4 v4, 0x0
+
+    invoke-virtual {v3, p1, v4}, Landroid/content/pm/PackageManager;->getPackageInfo(Ljava/lang/String;I)Landroid/content/pm/PackageInfo;
+
+    move-result-object v1
+
+    .local v1, "pi":Landroid/content/pm/PackageInfo;
+    iget-object v3, v1, Landroid/content/pm/PackageInfo;->applicationInfo:Landroid/content/pm/ApplicationInfo;
+
+    iget-boolean v3, v3, Landroid/content/pm/ApplicationInfo;->enabled:Z
+    :try_end_0
+    .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_0
+
+    if-nez v3, :cond_0
+
+    .end local v1    # "pi":Landroid/content/pm/PackageInfo;
+    :goto_0
+    return v2
+
+    :catch_0
+    move-exception v0
+
+    .local v0, "e":Landroid/content/pm/PackageManager$NameNotFoundException;
+    goto :goto_0
+
+    .end local v0    # "e":Landroid/content/pm/PackageManager$NameNotFoundException;
+    :cond_0
+    const/4 v2, 0x1
+
+    goto :goto_0
+.end method
+
 .method public onActivityCreated(Landroid/os/Bundle;)V
     .locals 1
     .param p1, "savedInstanceState"    # Landroid/os/Bundle;

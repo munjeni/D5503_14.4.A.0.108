@@ -56,7 +56,7 @@
     .line 99
     iget-object v2, p0, Lcom/android/settings/applications/AppOpsCategory$PackageIntentReceiver;->mLoader:Lcom/android/settings/applications/AppOpsCategory$AppListLoader;
 
-    invoke-virtual {v2}, Landroid/content/Loader;->getContext()Landroid/content/Context;
+    invoke-virtual {v2}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->getContext()Landroid/content/Context;
 
     move-result-object v2
 
@@ -81,7 +81,7 @@
     .line 104
     iget-object v2, p0, Lcom/android/settings/applications/AppOpsCategory$PackageIntentReceiver;->mLoader:Lcom/android/settings/applications/AppOpsCategory$AppListLoader;
 
-    invoke-virtual {v2}, Landroid/content/Loader;->getContext()Landroid/content/Context;
+    invoke-virtual {v2}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->getContext()Landroid/content/Context;
 
     move-result-object v2
 
@@ -102,7 +102,7 @@
     .line 109
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsCategory$PackageIntentReceiver;->mLoader:Lcom/android/settings/applications/AppOpsCategory$AppListLoader;
 
-    invoke-virtual {v0}, Landroid/content/Loader;->onContentChanged()V
+    invoke-virtual {v0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->onContentChanged()V
 
     .line 110
     return-void

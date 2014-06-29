@@ -65,6 +65,7 @@
     <uses-permission android:name="android.permission.MANAGE_DEVICE_ADMINS"/>
     <uses-permission android:name="com.sonyericsson.r2r.client.permission.START_R2R"/>
     <uses-permission android:name="com.sonyericsson.permission.IDD"/>
+    <uses-permission android:name="android.permission.CHANGE_PRIVACY_GUARD_STATE"/>
     <protected-broadcast android:name="com.sonyericsson.action.APN_RESET_TO_DEFAULT"/>
     <application android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher_settings" android:label="@string/settings_label" android:requiredForAllUsers="true" android:supportsRtl="true" android:taskAffinity="" android:theme="@style/Theme.Settings">
         <uses-library android:name="com.sonyericsson.idd"/>
@@ -493,7 +494,7 @@
             </intent-filter>
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS" android:value="com.android.settings.NotificationStation"/>
         </activity>
-        <activity android:enabled="false" android:excludeFromRecents="true" android:label="@string/app_ops_settings" android:name="Settings$AppOpsSummaryActivity" android:taskAffinity="">
+        <activity android:excludeFromRecents="true" android:label="@string/app_ops_settings" android:name="Settings$AppOpsSummaryActivity" android:taskAffinity="">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <action android:name="android.settings.APP_OPS_SETTINGS"/>
@@ -1082,6 +1083,8 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+        <activity android:name=".munjeni.PrivacySettings"/>
+        <activity android:name=".munjeni.notificationlight.NotificationLightSettings"/>
         <receiver android:enabled="@bool/has_powercontrol_widget" android:exported="false" android:label="@string/gadget_title" android:name=".widget.SettingsAppWidgetProvider">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>

@@ -105,7 +105,7 @@
     .prologue
     .line 140
     .local p1, "apps":Ljava/util/List;, "Ljava/util/List<Lcom/android/settings/applications/AppOpsState$AppOpEntry;>;"
-    invoke-virtual {p0}, Landroid/content/Loader;->isReset()Z
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->isReset()Z
 
     move-result v1
 
@@ -126,14 +126,14 @@
     iput-object p1, p0, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->mApps:Ljava/util/List;
 
     .line 150
-    invoke-virtual {p0}, Landroid/content/Loader;->isStarted()Z
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->isStarted()Z
 
     move-result v1
 
     if-eqz v1, :cond_1
 
     .line 153
-    invoke-super {p0, p1}, Landroid/content/Loader;->deliverResult(Ljava/lang/Object;)V
+    invoke-super {p0, p1}, Landroid/content/AsyncTaskLoader;->deliverResult(Ljava/lang/Object;)V
 
     .line 159
     :cond_1
@@ -247,7 +247,7 @@
     const/4 v2, 0x0
 
     .line 217
-    invoke-super {p0}, Landroid/content/Loader;->onReset()V
+    invoke-super {p0}, Landroid/content/AsyncTaskLoader;->onReset()V
 
     .line 220
     invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->onStopLoading()V
@@ -272,7 +272,7 @@
     if-eqz v0, :cond_1
 
     .line 231
-    invoke-virtual {p0}, Landroid/content/Loader;->getContext()Landroid/content/Context;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->getContext()Landroid/content/Context;
 
     move-result-object v0
 
@@ -293,7 +293,7 @@
 
     .prologue
     .line 170
-    invoke-virtual {p0}, Landroid/content/Loader;->onContentChanged()V
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->onContentChanged()V
 
     .line 172
     iget-object v1, p0, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->mApps:Ljava/util/List;
@@ -322,7 +322,7 @@
     :cond_1
     iget-object v1, p0, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->mLastConfig:Lcom/android/settings/applications/AppOpsCategory$InterestingConfigChanges;
 
-    invoke-virtual {p0}, Landroid/content/Loader;->getContext()Landroid/content/Context;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->getContext()Landroid/content/Context;
 
     move-result-object v2
 
@@ -336,7 +336,7 @@
 
     .line 187
     .local v0, "configChange":Z
-    invoke-virtual {p0}, Landroid/content/Loader;->takeContentChanged()Z
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->takeContentChanged()Z
 
     move-result v1
 
@@ -350,7 +350,7 @@
 
     .line 190
     :cond_2
-    invoke-virtual {p0}, Landroid/content/Loader;->forceLoad()V
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->forceLoad()V
 
     .line 192
     :cond_3
@@ -362,7 +362,7 @@
 
     .prologue
     .line 199
-    invoke-virtual {p0}, Landroid/content/Loader;->cancelLoad()Z
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;->cancelLoad()Z
 
     .line 200
     return-void

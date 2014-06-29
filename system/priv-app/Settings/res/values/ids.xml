@@ -598,4 +598,32 @@
     <item type="id" name="vpn_create">false</item>
     <item type="id" name="vpn_lockdown">false</item>
     <item type="id" name="wifi_wps">false</item>
+    <item type="id" name="privacy_settings_munjeni">false</item>
+    <item type="id" name="show_system_apps">false</item>
+    <item type="id" name="reset">false</item>
+    <item type="id" name="advanced">false</item>
+    <item type="id" name="apps_list">false</item>
+    <item type="id" name="help">false</item>
+    <item type="id" name="privacy_guard_prefs">false</item>
+    <item type="id" name="app_title">false</item>
+    <item type="id" name="app_privacy_guard_icon">false</item>
+    <item type="id" name="op_counts">false</item>
+    <item type="id" name="spinnerWidget">false</item>
+    <item type="id" name="show_user_apps">false</item>
+    <item type="id" name="reset_counters">false</item>
+    <item type="id" name="privacy_guard_switch">false</item>
+    <item type="id" name="textViewName">false</item>
+    <item type="id" name="light_color">false</item>
+    <item type="id" name="textViewTimeOffValue">false</item>
+    <item type="id" name="textViewTimeOnValue">false</item>
+    <item type="id" name="app_light_pref">false</item>
+    <item type="id" name="color_picker_view">false</item>
+    <item type="id" name="color_panel_view">false</item>
+    <item type="id" name="old_color_panel">false</item>
+    <item type="id" name="new_color_panel">false</item>
+    <item type="id" name="speed_title_view">false</item>
+    <item type="id" name="on_spinner">false</item>
+    <item type="id" name="off_spinner">false</item>
+    <item type="id" name="hex_color_input">false</item>
+    <item type="id" name="color_panel">false</item>
 </resources>

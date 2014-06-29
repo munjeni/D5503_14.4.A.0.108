@@ -52,4 +52,8 @@
         <item quantity="other">%d apps currently in list</item>
         <item quantity="one">%1$d app currently in list</item>
     </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d times</item>
+        <item quantity="one">once</item>
+    </plurals>
 </resources>

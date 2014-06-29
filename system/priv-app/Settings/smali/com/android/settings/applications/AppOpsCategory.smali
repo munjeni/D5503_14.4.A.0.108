@@ -69,7 +69,7 @@
     invoke-virtual {v0, v1, p1}, Landroid/os/Bundle;->putParcelable(Ljava/lang/String;Landroid/os/Parcelable;)V
 
     .line 63
-    invoke-virtual {p0, v0}, Landroid/app/Fragment;->setArguments(Landroid/os/Bundle;)V
+    invoke-virtual {p0, v0}, Lcom/android/settings/applications/AppOpsCategory;->setArguments(Landroid/os/Bundle;)V
 
     .line 64
     return-void
@@ -92,7 +92,7 @@
     invoke-virtual {v2, v0, v1}, Landroid/os/Bundle;->putString(Ljava/lang/String;Ljava/lang/String;)V
 
     .line 336
-    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getActivity()Landroid/app/Activity;
 
     move-result-object v0
 
@@ -129,22 +129,22 @@
     const/4 v3, 0x0
 
     .line 310
-    invoke-super {p0, p1}, Landroid/app/Fragment;->onActivityCreated(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Landroid/app/ListFragment;->onActivityCreated(Landroid/os/Bundle;)V
 
     .line 314
     const-string v0, "No applications"
 
-    invoke-virtual {p0, v0}, Landroid/app/ListFragment;->setEmptyText(Ljava/lang/CharSequence;)V
+    invoke-virtual {p0, v0}, Lcom/android/settings/applications/AppOpsCategory;->setEmptyText(Ljava/lang/CharSequence;)V
 
     .line 317
     const/4 v0, 0x1
 
-    invoke-virtual {p0, v0}, Landroid/app/Fragment;->setHasOptionsMenu(Z)V
+    invoke-virtual {p0, v0}, Lcom/android/settings/applications/AppOpsCategory;->setHasOptionsMenu(Z)V
 
     .line 320
     new-instance v0, Lcom/android/settings/applications/AppOpsCategory$AppListAdapter;
 
-    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
@@ -157,13 +157,13 @@
     .line 321
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsCategory;->mAdapter:Lcom/android/settings/applications/AppOpsCategory$AppListAdapter;
 
-    invoke-virtual {p0, v0}, Landroid/app/ListFragment;->setListAdapter(Landroid/widget/ListAdapter;)V
+    invoke-virtual {p0, v0}, Lcom/android/settings/applications/AppOpsCategory;->setListAdapter(Landroid/widget/ListAdapter;)V
 
     .line 324
-    invoke-virtual {p0, v3}, Landroid/app/ListFragment;->setListShown(Z)V
+    invoke-virtual {p0, v3}, Lcom/android/settings/applications/AppOpsCategory;->setListShown(Z)V
 
     .line 327
-    invoke-virtual {p0}, Landroid/app/Fragment;->getLoaderManager()Landroid/app/LoaderManager;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getLoaderManager()Landroid/app/LoaderManager;
 
     move-result-object v0
 
@@ -181,12 +181,12 @@
 
     .prologue
     .line 305
-    invoke-super {p0, p1}, Landroid/app/Fragment;->onCreate(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Landroid/app/ListFragment;->onCreate(Landroid/os/Bundle;)V
 
     .line 306
     new-instance v0, Lcom/android/settings/applications/AppOpsState;
 
-    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getActivity()Landroid/app/Activity;
 
     move-result-object v1
 
@@ -218,7 +218,7 @@
 
     .prologue
     .line 350
-    invoke-virtual {p0}, Landroid/app/Fragment;->getArguments()Landroid/os/Bundle;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getArguments()Landroid/os/Bundle;
 
     move-result-object v0
 
@@ -245,7 +245,7 @@
     :cond_0
     new-instance v2, Lcom/android/settings/applications/AppOpsCategory$AppListLoader;
 
-    invoke-virtual {p0}, Landroid/app/Fragment;->getActivity()Landroid/app/Activity;
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->getActivity()Landroid/app/Activity;
 
     move-result-object v3
 
@@ -284,7 +284,7 @@
 
     move-result-object v1
 
-    iget-object v1, v1, Landroid/content/pm/PackageItemInfo;->packageName:Ljava/lang/String;
+    iget-object v1, v1, Landroid/content/pm/ApplicationInfo;->packageName:Ljava/lang/String;
 
     iput-object v1, p0, Lcom/android/settings/applications/AppOpsCategory;->mCurrentPkgName:Ljava/lang/String;
 
@@ -340,14 +340,14 @@
     invoke-virtual {v0, p2}, Lcom/android/settings/applications/AppOpsCategory$AppListAdapter;->setData(Ljava/util/List;)V
 
     .line 363
-    invoke-virtual {p0}, Landroid/app/Fragment;->isResumed()Z
+    invoke-virtual {p0}, Lcom/android/settings/applications/AppOpsCategory;->isResumed()Z
 
     move-result v0
 
     if-eqz v0, :cond_0
 
     .line 364
-    invoke-virtual {p0, v1}, Landroid/app/ListFragment;->setListShown(Z)V
+    invoke-virtual {p0, v1}, Lcom/android/settings/applications/AppOpsCategory;->setListShown(Z)V
 
     .line 368
     :goto_0
@@ -355,7 +355,7 @@
 
     .line 366
     :cond_0
-    invoke-virtual {p0, v1}, Landroid/app/ListFragment;->setListShownNoAnimation(Z)V
+    invoke-virtual {p0, v1}, Lcom/android/settings/applications/AppOpsCategory;->setListShownNoAnimation(Z)V
 
     goto :goto_0
 .end method
