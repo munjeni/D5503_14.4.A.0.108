@@ -449,13 +449,7 @@
     .local v0, "shouldPersist":Z
     if-eqz v0, :cond_0
 
-    invoke-virtual {p0}, Landroid/preference/Preference;->getSharedPreferences()Landroid/content/SharedPreferences;
-
-    move-result-object v1
-
-    iget-object v2, p0, Landroid/preference/Preference;->mKey:Ljava/lang/String;
-
-    invoke-interface {v1, v2}, Landroid/content/SharedPreferences;->contains(Ljava/lang/String;)Z
+    invoke-virtual {p0}, Landroid/preference/Preference;->isPersisted()Z
 
     move-result v1
 
@@ -1622,6 +1616,23 @@
     const/4 v0, 0x0
 
     goto :goto_0
+.end method
+
+.method protected isPersisted()Z
+    .locals 2
+
+    .prologue
+    invoke-virtual {p0}, Landroid/preference/Preference;->getSharedPreferences()Landroid/content/SharedPreferences;
+
+    move-result-object v0
+
+    iget-object v1, p0, Landroid/preference/Preference;->mKey:Ljava/lang/String;
+
+    invoke-interface {v0, v1}, Landroid/content/SharedPreferences;->contains(Ljava/lang/String;)Z
+
+    move-result v0
+
+    return v0
 .end method
 
 .method public isPersistent()Z

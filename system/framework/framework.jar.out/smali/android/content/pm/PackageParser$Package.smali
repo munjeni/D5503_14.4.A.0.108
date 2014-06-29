@@ -80,6 +80,8 @@
 
 .field public mExtras:Ljava/lang/Object;
 
+.field public mIsThemeApk:Z
+
 .field public mKeySetMapping:Ljava/util/Map;
     .annotation system Ldalvik/annotation/Signature;
         value = {
@@ -401,6 +403,8 @@
 
     .line 3549
     iput v2, p0, Landroid/content/pm/PackageParser$Package;->mPreferredOrder:I
+
+    iput-boolean v2, p0, Landroid/content/pm/PackageParser$Package;->mIsThemeApk:Z
 
     .line 3573
     new-instance v0, Ljava/util/ArrayList;

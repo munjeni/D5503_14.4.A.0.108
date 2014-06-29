@@ -41,6 +41,8 @@
 
 .field public static final EXTRA_AS_HEADS_UP:Ljava/lang/String; = "headsup"
 
+.field public static final EXTRA_FORCE_SHOW_LIGHTS:Ljava/lang/String; = "android.forceShowLights"
+
 .field public static final EXTRA_INFO_TEXT:Ljava/lang/String; = "android.infoText"
 
 .field public static final EXTRA_LARGE_ICON:Ljava/lang/String; = "android.largeIcon"
@@ -78,6 +80,8 @@
 .field public static final EXTRA_TITLE_BIG:Ljava/lang/String; = "android.title.big"
 
 .field public static final FLAG_AUTO_CANCEL:I = 0x10
+
+.field public static final FLAG_FORCE_LED_SCREEN_OFF:I = 0x100
 
 .field public static final FLAG_FOREGROUND_SERVICE:I = 0x40
 
