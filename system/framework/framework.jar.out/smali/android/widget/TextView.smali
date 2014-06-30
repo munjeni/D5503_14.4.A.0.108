@@ -22448,16 +22448,7 @@
 
     iput-object v0, p0, Landroid/widget/TextView;->mTextDir:Landroid/text/TextDirectionHeuristic;
 
-    .line 8696
-    iget-object v0, p0, Landroid/widget/TextView;->mLayout:Landroid/text/Layout;
-
-    if-eqz v0, :cond_0
-
-    .line 8697
-    invoke-direct {p0}, Landroid/widget/TextView;->checkForRelayout()V
-
     .line 8699
-    :cond_0
     return-void
 .end method
 
