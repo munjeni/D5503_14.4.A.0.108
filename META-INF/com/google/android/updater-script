@@ -4019,6 +4019,7 @@ set_perm(0, 0, 0644, "/system/lib/modules/lgdt3305.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/lgdt330x.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/lgs8gl5.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/lgs8gxx.ko");
+set_perm(0, 0, 0644, "/system/lib/modules/cpufreq_lionheart.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/lnbp21.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/lnbp22.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/m88rs2000.ko");
