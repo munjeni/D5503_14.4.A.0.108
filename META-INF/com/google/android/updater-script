@@ -139,7 +139,6 @@ set_perm(0, 0, 0644, "/system/app/SomcAutoPairing.apk");
 set_perm(0, 0, 0644, "/system/app/SomcCameraFaceRegistration.apk");
 set_perm(0, 0, 0644, "/system/app/SomcCameraWidget.apk");
 set_perm(0, 0, 0644, "/system/app/SomcDlna.apk");
-set_perm(0, 0, 0644, "/system/app/SomcChinaPhotoEditor.apk");
 set_perm(0, 0, 0644, "/system/app/SomcSketch.apk");
 set_perm(0, 0, 0644, "/system/app/SonyEntrance.apk");
 set_perm(0, 0, 0644, "/system/app/SonySelectWidget.apk");
