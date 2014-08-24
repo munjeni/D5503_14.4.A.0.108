@@ -43,7 +43,7 @@
     <dimen name="preference_screen_bottom_margin">0.0dip</dimen>
     <dimen name="preference_widget_width">48.0dip</dimen>
     <dimen name="preference_fragment_padding_bottom">0.0dip</dimen>
-    <dimen name="preference_fragment_padding_side">16.0dip</dimen>
+    <dimen name="preference_fragment_padding_side">0.0dip</dimen>
     <dimen name="preference_breadcrumb_paddingLeft">0.0dip</dimen>
     <dimen name="preference_breadcrumb_paddingRight">0.0dip</dimen>
     <dimen name="preference_icon_minWidth">0.0dip</dimen>
@@ -52,7 +52,7 @@
     <item type="dimen" name="dialog_fixed_height_major">79.99999%</item>
     <item type="dimen" name="dialog_fixed_height_minor">100.0%</item>
     <dimen name="preference_screen_header_vertical_padding">0.0dip</dimen>
-    <dimen name="preference_screen_header_padding_side">16.0dip</dimen>
+    <dimen name="preference_screen_header_padding_side">0.0dip</dimen>
     <dimen name="preference_item_padding_side">8.0dip</dimen>
     <dimen name="preference_item_padding_inner">8.0dip</dimen>
     <dimen name="preference_child_padding_side">16.0dip</dimen>
