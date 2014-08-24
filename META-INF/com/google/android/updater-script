@@ -2962,6 +2962,8 @@ set_perm(0, 0, 0644, "/system/etc/product/applications/officesuitepro.apk");
 set_perm(0, 0, 0644, "/system/etc/product/applications/pixlr-express.apk");
 set_perm(0, 0, 0644, "/system/etc/product/applications/smallbrowser.apk");
 set_perm(0, 0, 0644, "/system/etc/product/applications/trackid.apk");
+set_perm(0, 0, 0644, "/system/etc/product/applications/com.sonyericsson.androidapp.torchapp.apk");
+set_perm(0, 0, 0644, "/system/etc/product/applications/compass.apk");
 set_perm(0, 0, 0644, "/system/etc/product/applications/wisepilot.apk");
 set_perm(0, 0, 0644, "/system/etc/product/content/demo_video_D55xx_en.mp4");
 set_perm(0, 0, 0644, "/system/etc/product/content/playlist_20131115090900.xml");
