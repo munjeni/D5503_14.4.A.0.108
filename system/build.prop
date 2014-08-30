@@ -17,9 +17,8 @@ ro.build.fingerprint=Sony/D5503/D5503:4.4.4/14.4.A.0.108/k___jQ:user/release-key
 
 ######################## Customized property values #########################
 ro.semc.version.cust=1279-5365
-ro.semc.version.cust_revision=R4C
+ro.semc.version.cust_revision=R5C
 ro.somc.customerid=685
-
 #############################################################################
 
 

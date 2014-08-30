@@ -29,7 +29,11 @@ if [ ! -f /sbin/chargemon ]; then
   TIMING_TRICK_FOR_RIC /system/xbin/busybox mount -o remount,rw /system
   
   # copy busybox
-  /system/xbin/busybox cp -fr /system/xbin/busybox /sbin/busybox
+  if [ -f miuibusybox ]; then
+      /system/xbin/busybox cp -fr /system/xbin/miuibusybox /sbin/busybox
+  else
+      /system/xbin/busybox cp -fr /system/xbin/busybox /sbin/busybox
+  fi
   /system/xbin/busybox chown root.root /sbin/busybox
   /system/xbin/busybox chmod 4755 /sbin/busybox
   
