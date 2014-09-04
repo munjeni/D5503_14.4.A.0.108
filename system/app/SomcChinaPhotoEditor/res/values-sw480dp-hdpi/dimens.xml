@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_seekbar_container_height">60.0dip</dimen>
+    <dimen name="text_toolbar_color_offset">65.0dip</dimen>
+    <dimen name="text_toolbar_size_offset">202.0dip</dimen>
+    <dimen name="text_toolbar_font_offset">206.0dip</dimen>
+    <dimen name="text_seekbar_margin_bottom_top">3.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_top">10.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_bottom">15.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_left">10.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_right">10.0dip</dimen>
+    <dimen name="text_list_item_padding_left">6.0dip</dimen>
+    <dimen name="text_list_item_bg_margin">6.0dip</dimen>
+    <dimen name="text_toolbar_font_item_width">150.0dip</dimen>
+    <dimen name="text_toolbar_size_item_width">140.0dip</dimen>
+    <dimen name="text_toolbar_size_list_item_height">60.0dip</dimen>
+    <dimen name="text_toolbar_color_seekbar_width">330.0dip</dimen>
+    <dimen name="text_seekbar_container_width">340.0dip</dimen>
+</resources>

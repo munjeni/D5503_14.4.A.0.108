@@ -1,0 +1,1 @@
+deb-debug -Dinvoked-from=app-off -Dsdk.url=c2d://seld.dev/p:semcsdk/l:19.0.1.A.0.88 -Dgit.tag=2.0.A.0.13 -Dofficial.build=true -Ddeb.targetdir=/home/hudsonslave/root/workspace/Application_official_build/./appoff/china-photo-editor/debian-out

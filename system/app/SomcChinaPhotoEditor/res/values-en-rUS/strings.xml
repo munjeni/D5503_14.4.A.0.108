@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_storage">No storage</string>
+    <string name="drm_not_allowed_usage">File with limited usage license. Cannot select.</string>
+    <string name="wbalance">Autocolor</string>
+    <string name="style_menu_pixy">Pixy</string>
+    <string name="style_menu_kurt">Kurt</string>
+    <string name="style_menu_jaida">Jaida</string>
+    <string name="style_menu_daily">Daily</string>
+    <string name="style_menu_youth">Youth</string>
+    <string name="style_menu_club">Club</string>
+</resources>

@@ -1,0 +1,1710 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/raw/collage_free_6_1.svg
+SHA1-Digest: Qe/7DQhjDsLlsym8SbniJCExOY4=
+
+Name: res/drawable-hdpi/cam_text_fontsize_top_icon.9.png
+SHA1-Digest: zC2qvBEF4Zt57aE13JLyoCGZ0eE=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait.png
+SHA1-Digest: LANMKhX6lCOF6b84eFhhyKbULbE=
+
+Name: res/drawable-hdpi/border6.9.png
+SHA1-Digest: x6Zzt7Jwdf+8XXWuJbaCT521BQM=
+
+Name: res/drawable/menu_undo.xml
+SHA1-Digest: Q638/q8r5oSQ6TH8nO3banNx4t8=
+
+Name: res/drawable-hdpi/frame_boarder_1.png
+SHA1-Digest: nW73FUzCBgJrsQg93W8/9nYWnSM=
+
+Name: res/drawable-hdpi/collage_free_2_4.png
+SHA1-Digest: wpWPaN1nToTHQJ6bI/YQpA5gp08=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape_brazil.png
+SHA1-Digest: hxr4HDuqS1e8dsRgPjt+fZDYoHc=
+
+Name: res/layout/crop_cropimage.xml
+SHA1-Digest: eFCuCX7LLxQ8w1HxcleB2vnuynE=
+
+Name: res/drawable-hdpi/frame_boarder_8.png
+SHA1-Digest: 0eBV0OOEWtf+Us7DafI5xbvwYWY=
+
+Name: res/drawable-nodpi/filter_10_add.png
+SHA1-Digest: BeZ6HDrvVtIsqkbHLSALvV1bI8Q=
+
+Name: res/drawable-xhdpi/ic_photoeditor_effects.png
+SHA1-Digest: S6COfRx6hor/kTySVCaxYQn9JFw=
+
+Name: res/drawable-hdpi/frame_boarder_6.png
+SHA1-Digest: Tl2JP8QIYLX3e5FHbusfxZqhDeQ=
+
+Name: res/drawable-xhdpi/ic_photoeditor_color.png
+SHA1-Digest: igkfZyTfa6R1/vklpAIjaQEZa44=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait_apac.png
+SHA1-Digest: gJ22t0ectiSE5NCYQxMSQIyPy2o=
+
+Name: res/layout/text_font_picker.xml
+SHA1-Digest: jqm1gsD7KOytoG8C6LI2AJuw/fI=
+
+Name: res/drawable-hdpi/cam_style_icon.png
+SHA1-Digest: r7FzJSHKT4R5jN7OHaUvRALZGHE=
+
+Name: res/drawable-hdpi/cam_collage_full_background_19_icon.png
+SHA1-Digest: FKJLXBsQVmWc1rx8YYk9Mw80G50=
+
+Name: res/raw/shadow_office.raw
+SHA1-Digest: 4F1QL6neEK3ohOBxDgqYlJDG4J8=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait_china.png
+SHA1-Digest: /XDwFZnlnBqdMLAr/Z0TNgwcXI4=
+
+Name: res/drawable-hdpi/cam_sticker_shark.png
+SHA1-Digest: 62zZnHqjpOXUE6TNxwR3OyGbA/s=
+
+Name: res/drawable-hdpi/cam_collage_background_8_icon.png
+SHA1-Digest: evtKaWX9MjEbqQR/LjOPst67kCA=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait_euro.png
+SHA1-Digest: TR46hPNPk4IVCDBWsBKD+3ANNLY=
+
+Name: res/drawable-hdpi/cam_history_flip_h_icon.png
+SHA1-Digest: W547DRM4cbU0EG75ePrSsm9WZro=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape_euro.png
+SHA1-Digest: /bKSEOQT51nVlR8mzrzqfecHWsk=
+
+Name: res/drawable-hdpi/collage_delete.png
+SHA1-Digest: LViH2hlhQegSrFhAVaIRbg5A73I=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_9_icon.png
+SHA1-Digest: 5nTFmvO0/tt5gN52wb+KSXdvCsM=
+
+Name: res/drawable-hdpi/border2.png
+SHA1-Digest: 34KkxaV5pShX9Y2imgH0r5OGHi0=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape_india.png
+SHA1-Digest: VUkrI0RYL4rONh0iKvwHCb7HKEo=
+
+Name: res/drawable-hdpi/sticker_big_love.png
+SHA1-Digest: nqP7S7Jwdq5nqfWTmgM1O5YJ/eE=
+
+Name: res/raw/shadow_daily.raw
+SHA1-Digest: daR530cZSD3aPtDeX+D+VsTFxDw=
+
+Name: res/drawable-hdpi/collage_free_4_3.png
+SHA1-Digest: JyxRCWVLiJJ0G/hYfNH9NRIZXf8=
+
+Name: res/raw/collage_free_3_4.svg
+SHA1-Digest: QcMZ4X07GK15drKxL0zDhjbBJRk=
+
+Name: res/drawable-hdpi/cam_edit_crop_icon.png
+SHA1-Digest: tKEhow+83LXpv+VC2gNhO60oeB8=
+
+Name: res/drawable/filtershow_button_colors_sharpen.png
+SHA1-Digest: RPEOJpjetXz/VjvKoh9JViMj5oc=
+
+Name: res/raw/collage_free_3_2.svg
+SHA1-Digest: ZkTXey8vnlxBOlUAAKEa74It6iM=
+
+Name: res/drawable-hdpi/cam_crop_icon.png
+SHA1-Digest: lujIud1VRRV5Be68YkuOiYFRUZk=
+
+Name: res/drawable-hdpi/cam_collage_grid_4pic_1_icon.png
+SHA1-Digest: EPNCCZBvyWLO+paDxhdpymF0vaM=
+
+Name: res/drawable/filtershow_button_geometry_flip.png
+SHA1-Digest: mpHM5pRlUSWirxxBxGq5tPhLtTE=
+
+Name: res/drawable-hdpi/frame_boarder_9.png
+SHA1-Digest: tsGC+jinWiIk+1NMcLiB1jtUtDg=
+
+Name: res/drawable-hdpi/cam_border_icon.png
+SHA1-Digest: DDeK+6Ob7ap39vedrOncvNsPn1o=
+
+Name: res/raw/eyelash_club.raw
+SHA1-Digest: Gwj7g/9OgoapD1zUabasxRF5BZ8=
+
+Name: res/drawable/horizontal_progress.xml
+SHA1-Digest: B8YDeDdT/eQ0b8CMeC8o9LgNHpI=
+
+Name: res/drawable-hdpi/cam_collage_grid_2pic_1_icon.png
+SHA1-Digest: Jh7r9qrUKfO+2pGkckHDeECu4IU=
+
+Name: res/drawable-xhdpi/cam_text_field_bg.9.png
+SHA1-Digest: QuDrELeSLYcFEcCVZI65yhz5pMU=
+
+Name: res/drawable-hdpi/sticker_big_party.png
+SHA1-Digest: XaU/HMH6+BpYP0Ctj66V83n++OE=
+
+Name: res/layout/filtershow_actionbar.xml
+SHA1-Digest: 97NjR4WyIlqVdqhquDsU5/dkMf0=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait_euro.png
+SHA1-Digest: 71PS1nZ8IFZXtA03fnV/fT2jGIg=
+
+Name: res/menu/filtershow_menu_crop.xml
+SHA1-Digest: V38LFvuLUT/0W4O/el1oJZKr5sY=
+
+Name: res/drawable/filtershow_button_colors_curve.png
+SHA1-Digest: nCNujbIegfuCTto+x6U1/ZB0W5s=
+
+Name: res/drawable-xhdpi/cam_text_fontsize_left_bottom_icon.9.png
+SHA1-Digest: f9X01iEm7gAbaJKL7m4JJO+vvrI=
+
+Name: res/drawable/filtershow_button_selected_background.9.png
+SHA1-Digest: AyG8m65oS4wPOybtFPshxWTEU4o=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait_apac.png
+SHA1-Digest: NvRDdrbGxkbDKqypW4hk7Jl6dW4=
+
+Name: res/drawable-hdpi/border5.9.png
+SHA1-Digest: xjl6QC+zM+rywK3zPgpJ/T7bDWI=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait_apac.png
+SHA1-Digest: qL0vW0uF1N1sG0qJsitTzKeyRK4=
+
+Name: res/drawable/photoeditor_toggle_button_background.xml
+SHA1-Digest: 6X6L6k7SGOb5BO8KWIi1dA/yoeU=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait_india.png
+SHA1-Digest: QtYeDV4AQnLLVVflleKAoy0R2ZY=
+
+Name: res/drawable-hdpi/photoeditor_redo_disable.png
+SHA1-Digest: 8x17PJ10ojj3h7jPtHqGMMUm7jc=
+
+Name: res/drawable-hdpi/frame_boarder_5.png
+SHA1-Digest: mdO8IkX1SYol9nFRoCrN9HA07pA=
+
+Name: res/drawable-hdpi/ic_style_none_temp_landscape.png
+SHA1-Digest: 3ABYLP7+Y+lkccMo6FcqFDSDgaM=
+
+Name: res/drawable-hdpi/photoeditor_redo.png
+SHA1-Digest: ZzeBmvcvdNkXAHYHhHMh6wWBVhQ=
+
+Name: res/drawable/cam_border_icon_bg.xml
+SHA1-Digest: /UGvLt7mwJmwj8eT0CWmf3WKaoc=
+
+Name: res/raw/upper_suntan.raw
+SHA1-Digest: sCIANync1hRtasXHz943GJawI5c=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait_china.png
+SHA1-Digest: qG3HabRlVffqoaTlZxLcLeQA0uo=
+
+Name: res/drawable-hdpi/cam_collage_full_background_15_icon.png
+SHA1-Digest: gYcBoZ4KKXLx+azH3u8cMbWYSdo=
+
+Name: res/drawable/filtershow_button_operations.png
+SHA1-Digest: iMI895eJtScUPBZIY3L3C9sBzHs=
+
+Name: res/drawable-hdpi/cam_collage_full_background_9_icon.png
+SHA1-Digest: Y93YSTb/Pv9jjIpF4LNzcQ2OiUg=
+
+Name: res/drawable-hdpi/collage_default_background_l.png
+SHA1-Digest: C7NZvcXQvxmm8CsgBpUBpVKgA/0=
+
+Name: res/raw/blush_office.raw
+SHA1-Digest: ZwGQFV+zW8AmQwS6xqQeBOCUE+E=
+
+Name: res/drawable-hdpi/cam_text_icon.png
+SHA1-Digest: ljAVNJzdbAZ2jNi2jmqAZIRSLqs=
+
+Name: res/drawable-xhdpi/ic_photoeditor_border.png
+SHA1-Digest: LM4D++XTwEYpAK3XTW8Xcw5e+Vw=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape_india.png
+SHA1-Digest: QV0bzCzflId15KLiM2mgwVIlaEw=
+
+Name: lib/armeabi-v7a/libjni_photoeditor.so
+SHA1-Digest: xlDOsClvD0EYlnR07QAP4i4ta78=
+
+Name: res/raw/upper_youth.raw
+SHA1-Digest: iondEFuVgcCzCc6zPX4kXOdioic=
+
+Name: res/drawable-hdpi/cam_txt_fontsize_smalll_icon.png
+SHA1-Digest: KIw7/FRx8qL9C5wsXHsADsToPcY=
+
+Name: res/drawable-hdpi/cam_edit_sthaithen_icon.png
+SHA1-Digest: 6ICyLrr3P4j9CNIX2553vgi0Q7s=
+
+Name: res/drawable-hdpi/cam_collage_background_icon.png
+SHA1-Digest: ysPC9DlYo03OxjcjM3seMZU6GL8=
+
+Name: res/drawable-hdpi/coffee_l.png
+SHA1-Digest: qVKyzzenpELlbLu61PSiI0qOKuI=
+
+Name: res/drawable-hdpi/cam_collage_background_album_icon.png
+SHA1-Digest: onfVR7QuEYTN9btO7IcgK1XjXtQ=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_8_icon.png
+SHA1-Digest: DYe4KA8kHiLSIj8eFqZ3QDtYyPc=
+
+Name: res/raw/shadow_natural.raw
+SHA1-Digest: daR530cZSD3aPtDeX+D+VsTFxDw=
+
+Name: res/drawable-hdpi/cam_collage_background_19_icon.png
+SHA1-Digest: VyxG5zeS27wOWWhHvSIRa+vyeEY=
+
+Name: res/drawable-hdpi/collage_free_4_2.png
+SHA1-Digest: SeUiPFXQGZiqI8l6X5HsmNx0EsU=
+
+Name: res/drawable-hdpi/cam_history_crop_icon.png
+SHA1-Digest: eik2KFa3Sa4qbKSr2zGVBw3pUeU=
+
+Name: res/drawable-hdpi/cam_collage_grid_5pic_2_icon.png
+SHA1-Digest: HLPt4c2MUBkrC4bEXGwNBCsyBzc=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait_india.png
+SHA1-Digest: 7kiqTneAXoLcfr+6DBxK/WE3+uo=
+
+Name: res/raw/collage_free_3_1.svg
+SHA1-Digest: 5gcq99SCqgzV/Oa8F63VbYhHprk=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape_apac.png
+SHA1-Digest: xxmFVX3GIZtjAHwI8R3fL/aHCbU=
+
+Name: res/drawable-hdpi/border3.9.png
+SHA1-Digest: WzjigUHen0PqfQTnPkjHjyfijpw=
+
+Name: res/drawable-hdpi/cam_sticker_diamond.png
+SHA1-Digest: 3mhm5ysUrxng7KKhLMxmzIyp9qI=
+
+Name: res/drawable-hdpi/cam_collage_grid_2pic_5_icon.png
+SHA1-Digest: UIFo6TY1SOuZg23v5oSIyHoCIUI=
+
+Name: res/drawable-hdpi/cam_text_fontsize_left_bottom_icon.9.png
+SHA1-Digest: f9X01iEm7gAbaJKL7m4JJO+vvrI=
+
+Name: res/drawable-hdpi/collage_plus.png
+SHA1-Digest: np9y3XgQSo4BH3OHmaDqCRhiwOM=
+
+Name: res/drawable-hdpi/cam_sticker_ear.png
+SHA1-Digest: P7bGNIBVaKcL7/VsoBKEl+n4++E=
+
+Name: res/drawable-hdpi/cam_sticker_crown.png
+SHA1-Digest: psiZd/SFtfbr0js+J922Nuqndx0=
+
+Name: res/drawable-hdpi/cam_text_fontsize_triangle_icon.png
+SHA1-Digest: jlhDUWfzXayOJfXaeylyIsYRaJA=
+
+Name: res/drawable-hdpi/cam_collage_full_background_16_icon.png
+SHA1-Digest: JFOi368YfT09Rx+AGMklToylGac=
+
+Name: res/drawable/cam_doodle_icon_select.xml
+SHA1-Digest: /2AdJbI9Dz2T4lsB6aQd7fvCdIQ=
+
+Name: res/drawable-hdpi/cam_collage_background_18_icon.png
+SHA1-Digest: 6aWPrIx1zxR6n1IrNU7POBQW6OU=
+
+Name: res/raw/eye.raw
+SHA1-Digest: DjaexesxGslxH0grHoytMGpixjQ=
+
+Name: res/drawable/filtershow_button_geometry_crop.png
+SHA1-Digest: doMAKaQpH/+EE0P742rrW/kvxsE=
+
+Name: res/drawable/filtershow_button_origin.png
+SHA1-Digest: TxRG9dmcGrBGPgn1catBuKnh1DA=
+
+Name: res/drawable-nodpi/filter_9_add.png
+SHA1-Digest: M2RXSzeWztK55KfOxDIv1JB4E3A=
+
+Name: res/drawable-hdpi/ic_menu_savephoto.png
+SHA1-Digest: 2gnhC3o4uefVMhletj+K1tp5LKU=
+
+Name: res/drawable/collage_highlight.9.png
+SHA1-Digest: Es/oAOEkN4MVnEadEKGUvCMpMDA=
+
+Name: res/drawable-hdpi/sticker_big_mustache.png
+SHA1-Digest: d2uRTVWdigiNdrMuQtI1wyQatRc=
+
+Name: res/drawable-hdpi/cam_history_flip_v_icon.png
+SHA1-Digest: ail73B1a7XfLWzcVwARw4Wfxajk=
+
+Name: res/raw/upper_party.raw
+SHA1-Digest: QURgfs89sEK63J//kyMTex327sg=
+
+Name: res/drawable-mdpi/ic_photoeditor_border.png
+SHA1-Digest: 2yCZwTzTekWNPdijUJw9IgzpuSc=
+
+Name: res/raw/shadow_cute.raw
+SHA1-Digest: OKrw4xUfnc+VGElWsFo6bMKtMDU=
+
+Name: res/raw/eyelash_natural.raw
+SHA1-Digest: tMKvzkLEdkrU7h3HHqnTrWBip+A=
+
+Name: res/drawable-hdpi/frame_boarder_null.png
+SHA1-Digest: 5e43Dk8kVmGJ/h0t8hbv9M402yU=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait_brazil.png
+SHA1-Digest: zhX9GwkLf6As4+TOC1XySPCIc5c=
+
+Name: res/raw/lower_daily.raw
+SHA1-Digest: s+u3UqeG95W1rTVsR9rujx3UsIM=
+
+Name: res/drawable/cam_text_icon_select.xml
+SHA1-Digest: TWZoga9WKfBks0z3GbVTSdaT4tI=
+
+Name: res/raw/grid_3_1.svg
+SHA1-Digest: LtuQ+QVVCJnmkWDRyQfvc6rf7c4=
+
+Name: res/drawable-hdpi/camera_crop.png
+SHA1-Digest: +sl7/xk2lSUpJzd/vSTpHmhs+z0=
+
+Name: res/drawable-xhdpi/cam_txt_fontsize_normal_icon.png
+SHA1-Digest: 4/4oL9Q8csHol4ywSKav4BNcTH4=
+
+Name: res/raw/collage_free_5_1.svg
+SHA1-Digest: SGNHjXrDfdObo0lIRiXIMwoA46M=
+
+Name: res/raw/grid_2_3.svg
+SHA1-Digest: 9qoQgLD++4qIIYS3L/dDauB0coI=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape_euro.png
+SHA1-Digest: Jm9Xt4pkjSfjFw2VFSrRODx3lto=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape_brazil.png
+SHA1-Digest: 0tYowoTf2KDUGeyMTIqgXTqrh5c=
+
+Name: res/drawable-hdpi/cam_collage_background_17_icon.png
+SHA1-Digest: J9Zi4N83x/CyZm6f6bOWgu0Cz4M=
+
+Name: res/drawable-hdpi/cam_txt_fontsize_big_icon.png
+SHA1-Digest: UMfEeoYBpGjJZDXTu3G23MqprBc=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait_brazil.png
+SHA1-Digest: uFFpPzMDEyIPrQLHHbv1zZ98rWk=
+
+Name: lib/armeabi-v7a/libjni_filtershow_filters.so
+SHA1-Digest: dyl/45Y74ISIEFCxFeJN55fEeIA=
+
+Name: res/layout/filtershow_activity.xml
+SHA1-Digest: wQ6t+btlaZuVzYmSWzIQNVHNKGc=
+
+Name: res/layout/collage_launch_activity.xml
+SHA1-Digest: jz75kYZFkoshNXjYxlV7OQVgitA=
+
+Name: res/drawable-hdpi/collage_free_3_4.png
+SHA1-Digest: Svf2uPhSp5VGIT1XMf5iZRfAXk0=
+
+Name: res/raw/shadow_party.raw
+SHA1-Digest: A7OhMa96BteEvnoYnfrTec6aRx0=
+
+Name: res/drawable-hdpi/actionbar_translucent.9.png
+SHA1-Digest: BFSxZd/GUUYJtb28XgzGa0lmRgc=
+
+Name: res/drawable-hdpi/cam_sticker_hat.png
+SHA1-Digest: SE62oWfwpE71e/lMBTPKwXVS+a8=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait_euro.png
+SHA1-Digest: QFEKkr/xCzR612GngMRSt/xpqQ4=
+
+Name: res/raw/lower_youth.raw
+SHA1-Digest: s+u3UqeG95W1rTVsR9rujx3UsIM=
+
+Name: res/drawable-hdpi/cam_crop_3_4_icon.png
+SHA1-Digest: 9tUrNKrIoFPQ+VY430fKLWrBYN8=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape_china.png
+SHA1-Digest: NAxJxaFeEipn3sXrcPTmjz6RewE=
+
+Name: res/drawable/cam_text_icon_bg.xml
+SHA1-Digest: pDd8zBDiFAv7Xi7Av7ncrIIXLU8=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait_euro.png
+SHA1-Digest: s6Sn4lu6OUwHjBpAfg4wnM4aA9Y=
+
+Name: res/menu/filtershow_menu_curves.xml
+SHA1-Digest: f7o8UHGH31Kzh8cGwwWdzeXm668=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_10_icon.png
+SHA1-Digest: 2Xx7VmTyZqxN5As7MnaKxqckouM=
+
+Name: res/raw/grid_6_3.svg
+SHA1-Digest: A4p4iTmj12JMmfFkHVFy/XFgTvM=
+
+Name: res/layout/grid_collage_view.xml
+SHA1-Digest: gYOjEGeZyuTGEXMWFLE1cgWu0TM=
+
+Name: res/drawable-hdpi/frame_border_3.png
+SHA1-Digest: mE0K+Edd5N9rTREnAqsSIWiDkyA=
+
+Name: res/raw/collage_free_5_2.svg
+SHA1-Digest: mZA7BeTbkjt1A7i7ABsbTZCH7Iw=
+
+Name: res/drawable-hdpi/cam_collage_background_11_icon.png
+SHA1-Digest: Q+PxObyo9wqqa7bkD+Re576a1/A=
+
+Name: res/raw/grid_4_1.svg
+SHA1-Digest: gwiJ+knzU33BpSeCwldMHFvxv/I=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape_apac.png
+SHA1-Digest: Ev99N7EH763Bktnko4mDmo++pG4=
+
+Name: res/layout/filtershow_history_operation_row.xml
+SHA1-Digest: 6ZSWC8C3ORUsbz1Fa+KysKHmLoA=
+
+Name: res/drawable-hdpi/cam_collage_icon.png
+SHA1-Digest: spJwUem8lSEt/1dy3Qa3HqDVPmA=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait_india.png
+SHA1-Digest: M2h93Sv7wBk0yuITijapzuLBR2E=
+
+Name: res/drawable-hdpi/cam_collage_full_background_11_icon.png
+SHA1-Digest: /igfkuyTcLc0QRIct8hSquoHvsM=
+
+Name: res/drawable-hdpi/sticker_big_crown.png
+SHA1-Digest: 5qmYG1E74hzj8h/fqtiyRMjArYA=
+
+Name: res/drawable/cam_collage_free_icon_select.xml
+SHA1-Digest: ZuPeOafLI8ZDaFuJnH50adjtQTI=
+
+Name: lib/armeabi-v7a/libdrmstreamics.so
+SHA1-Digest: j+4rSUAtYAWOSPRXJ5oo04VvEuQ=
+
+Name: res/raw/eyelash_vintage.raw
+SHA1-Digest: V94yDttzhKHMwcaRZnIvkt0F1p8=
+
+Name: res/drawable-hdpi/cam_sticker_wow.png
+SHA1-Digest: 27P8RTc70Y5NCVdOBqu3RVfhFOo=
+
+Name: res/raw/collage_free_4_3.svg
+SHA1-Digest: T9HaD4KWhBI4kUjJ6zswYRrUKlc=
+
+Name: res/drawable-hdpi/sticker_big_ear.png
+SHA1-Digest: y1gKWLODVuxnVco8HA/3deHLrYc=
+
+Name: res/drawable-hdpi/collage_free_4_1.png
+SHA1-Digest: ulZMNOirywKLlhBmXgLegWn26/Q=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait_euro.png
+SHA1-Digest: gxEiKk9cO+HfZjJ4liUmwKWlVeM=
+
+Name: res/drawable-hdpi/cam_history_rotate_left_icon.png
+SHA1-Digest: rVL5JQRbVbfPoWuKeIIymgUEyJI=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait_china.png
+SHA1-Digest: o49qWzIqSVlDwQx8+9NJxGIIjXE=
+
+Name: res/raw/blush_youth.raw
+SHA1-Digest: ZwGQFV+zW8AmQwS6xqQeBOCUE+E=
+
+Name: res/drawable/filtershow_button_colors_contrast.png
+SHA1-Digest: isl4oat9sAFLKBvzd4BkbbNHutA=
+
+Name: res/drawable-hdpi/cam_sticker_mouth.png
+SHA1-Digest: RE5IQxnMOLVG3uab1b6ROWUYPS0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: X+5gcw25GiE6QLDxBB4a6sBM0Lo=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait.png
+SHA1-Digest: 94q7+YOmvk+1jJPtMVr5YTuoGiE=
+
+Name: res/drawable-hdpi/collage_free_2_1.png
+SHA1-Digest: GTbhZ/+4+7iZGRvYkcvA42wXSWI=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape.png
+SHA1-Digest: ySiMbpvbxujd/aK/JoB3oFhWYWY=
+
+Name: res/drawable-hdpi/cam_sticker_party.png
+SHA1-Digest: mv1DIjonVWfpSXKy09P3d1sCRyI=
+
+Name: res/raw/grid_5_1.svg
+SHA1-Digest: 7d/m8yg6Bc5N8NX0isE6j4UHMjk=
+
+Name: res/drawable-hdpi/cam_collage_full_background_5_icon.png
+SHA1-Digest: DIbDtNqAL38jvau//8rOzU9F/9A=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape_china.png
+SHA1-Digest: b5dlclCjU66BdjTjWMOQsm+zksU=
+
+Name: res/drawable-hdpi/cam_collage_background_22_icon.png
+SHA1-Digest: H0P+gFsLI/iGhQBsr3QpW+Pj/FM=
+
+Name: res/raw/upper_sweetie.raw
+SHA1-Digest: Hl+O8mGFk1hsq6KTB6SPw8BD+k4=
+
+Name: res/drawable-hdpi/cam_history_straighen_icon.png
+SHA1-Digest: HyQOlTNIN7jXxELUOVx3RQ62M8k=
+
+Name: res/drawable/collage_button_background.xml
+SHA1-Digest: WgiFtmraZJDrSkvfXVeva/ulQOE=
+
+Name: res/drawable-hdpi/cam_collage_grid_6pic_2_icon.png
+SHA1-Digest: Ccl/ugIs7sHVFCuBS24VViPryEA=
+
+Name: res/drawable-hdpi/sticker_big_shark.png
+SHA1-Digest: AIjVyawllKOW8S5O8wWEDp1J+F4=
+
+Name: res/raw/grid_5_4.svg
+SHA1-Digest: j0GcrJDPh3bo9y6EPkAGDOrr1bk=
+
+Name: res/raw/blush_sweetie.raw
+SHA1-Digest: PPAXWGCNgh7o1zWlCaqwPtBoOQY=
+
+Name: res/drawable-hdpi/frame_boarder_10.png
+SHA1-Digest: zBu8MG5/7A/hjjH1FkPPs7uzu2c=
+
+Name: res/drawable-hdpi/cam_collage_background_9_icon.png
+SHA1-Digest: OibGbDXQtFBFJQhjDD4iIspsCMk=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait_apac.png
+SHA1-Digest: 8wFZTdZXRnJKikSbyC2vz3nTXh4=
+
+Name: res/raw/collage_free_6_3.svg
+SHA1-Digest: Mumipc4pHNtsd+1OUztFld4L77E=
+
+Name: classes.dex
+SHA1-Digest: CczxFfwbQtR86WvBWv4Hy4iPCKw=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait_india.png
+SHA1-Digest: UkaMAqU0xlPcat3Me5H8gPOyjag=
+
+Name: res/drawable-hdpi/frame_boarder_3.png
+SHA1-Digest: mE0K+Edd5N9rTREnAqsSIWiDkyA=
+
+Name: res/raw/lower_club.raw
+SHA1-Digest: kDpcBnM6PSMudN+zKgBusWg/B9c=
+
+Name: res/raw/upper_vintage.raw
+SHA1-Digest: w8/nnTT4lFDctNqXwqIb5iqOj7g=
+
+Name: res/raw/shadow_youth.raw
+SHA1-Digest: daR530cZSD3aPtDeX+D+VsTFxDw=
+
+Name: res/drawable-hdpi/collage_free_3_5.png
+SHA1-Digest: Gq1dg+uTsL+qqo8g02s0hKUURWI=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait_india.png
+SHA1-Digest: 1rB9wKhtqa90F6l6gB+tA6LNTVA=
+
+Name: res/raw/shakesound.wav
+SHA1-Digest: HrH49FQ3fEpGMd3rgmWM7FEDdgw=
+
+Name: res/raw/grid_4_4.svg
+SHA1-Digest: dJgwWJNywQJcfz9tiHeSBH5YzAc=
+
+Name: res/drawable-hdpi/camera_crop_holo.png
+SHA1-Digest: slhSI2SGp2omOt0vEoFjXgT6ZZw=
+
+Name: res/drawable-hdpi/sticker_big_mouth.png
+SHA1-Digest: c5Bmun850Qp7PacmOPnxwm7WeQ0=
+
+Name: res/raw/grid_2_2.svg
+SHA1-Digest: oFPpCsdR511hPGMBwipUE0opUHg=
+
+Name: res/drawable/cam_filter_icon_select.xml
+SHA1-Digest: 8jWg2EBM0AIBonmZOzueruZmOzc=
+
+Name: res/drawable-hdpi/cam_collage_full_background_8_icon.png
+SHA1-Digest: 9K8Ol2TV3/7weQLayNoZZgcZI5E=
+
+Name: res/drawable/filtershow_background.png
+SHA1-Digest: b641qpR3yxOxzfWc3oOvtKvHtgg=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape_india.png
+SHA1-Digest: gMIV88/I1SB0qUDhb7/S7GItO40=
+
+Name: res/drawable-hdpi/cam_collage_grid_3pic_5_icon.png
+SHA1-Digest: 1XTSRkfkdHkt5tbdR/M2TGzXqMY=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape_euro.png
+SHA1-Digest: JbtmQ4eRvWFKNRPNZzFJnImbQm4=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait_india.png
+SHA1-Digest: JuJhCdCsCCF8VwFV2LxUd4sG74c=
+
+Name: res/raw/blush_vintage.raw
+SHA1-Digest: NkCLx+Fkc8yFtgJ5M+9VG0yG5Ag=
+
+Name: res/drawable-hdpi/cam_edit_highlight_icon.9.png
+SHA1-Digest: J6ZH34q8FhKDsqgt6Ua+VGBtRhs=
+
+Name: res/drawable-xhdpi/camera_crop.png
+SHA1-Digest: kw1nJ28f363LMiSz/3B5516eYAY=
+
+Name: res/raw/collage_free_2_3.svg
+SHA1-Digest: Y9tO0h4QoyGmPdl81nP6xczjE7g=
+
+Name: res/drawable-xhdpi/cam_edit_font_highlight_icon.9.png
+SHA1-Digest: l1RVK378yY6TJ+Q9m2vkP9Uu/u4=
+
+Name: res/drawable-hdpi/cam_crop_4_3_icon.png
+SHA1-Digest: 9HXbYsS+kxOa3hPycpEqanMQuIc=
+
+Name: res/raw/grid_6_5.svg
+SHA1-Digest: kKv3B09G8Lh0aYc2k1BVm70TQe0=
+
+Name: res/raw/grid_5_3.svg
+SHA1-Digest: Jv3E9fN64lHVqQrW1J397Ulf66U=
+
+Name: res/drawable-hdpi/cam_history_rotate_right_icon.png
+SHA1-Digest: dvsl7KByj6fT4A4U/gu7Yrjpsmw=
+
+Name: res/drawable-hdpi/cam_collage_free_icon.png
+SHA1-Digest: qAnQseBFn2+ZRY87RlGzXMkbzLE=
+
+Name: res/drawable/cam_collage_background_icon_select.xml
+SHA1-Digest: idnN4dPfAVmssy6FxzztzODGHY8=
+
+Name: res/raw/grid_3_2.svg
+SHA1-Digest: hdIuS/DMcj9HCXhnFDCfrzLLM00=
+
+Name: res/raw/eyelash_cute.raw
+SHA1-Digest: fl4eEKoJqHYMVagGjNmspLDCHLg=
+
+Name: res/drawable/cam_collage_grid_icon_bg.xml
+SHA1-Digest: sqj4cXri5zRnz7aDrEIw5yqNX/4=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape_euro.png
+SHA1-Digest: SXPRLmTI4Wo8H4mvLaOTG9Hv/SI=
+
+Name: res/menu/crop.xml
+SHA1-Digest: ggKQg0c1NHlaFIZLho/DNKROOyU=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape_china.png
+SHA1-Digest: Us6SoBDcMz/hUnEe4zMjebtqBOc=
+
+Name: res/raw/lower_party.raw
+SHA1-Digest: kssmtDEga+Pp0Xml+szwvZfB0EU=
+
+Name: res/drawable-hdpi/ic_apply_button.png
+SHA1-Digest: acZBkvdcPJn3hQapcHAqyRkyGkc=
+
+Name: res/raw/shadow_sweetie.raw
+SHA1-Digest: afpB/zLd7IA2A/gbp0yxwg/U62E=
+
+Name: res/raw/blush_daily.raw
+SHA1-Digest: ZwGQFV+zW8AmQwS6xqQeBOCUE+E=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape_apac.png
+SHA1-Digest: OP4x0JugOPfafHtekLx9NgJb5zs=
+
+Name: res/drawable-hdpi/ic_photoeditor_stamp.png
+SHA1-Digest: Gfqe5B/RPQj1i2w3aQ8PfKVPjfM=
+
+Name: res/drawable-hdpi/cam_sticker_nose.png
+SHA1-Digest: vJfrddjNdnzQ618u2nWkP7QLLSw=
+
+Name: res/drawable-hdpi/cam_sticker_candy.png
+SHA1-Digest: 7ai577dhsb8T9ISrhlw2b8FbP0o=
+
+Name: res/raw/lower_cute.raw
+SHA1-Digest: +s8ZcNKBi5qoyfBDiPrVX3vnHA4=
+
+Name: res/drawable-hdpi/cam_edit_crop_original_icon.png
+SHA1-Digest: k5GZyyST4OhfMCV8nI2KIa/VPmo=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_4_icon.png
+SHA1-Digest: j3TVD1HTiX3Cv1seAue2rSea9tw=
+
+Name: res/drawable-hdpi/cam_collage_grid_5pic_4_icon.png
+SHA1-Digest: y34cGAXedbLFk8xBsghXKn9au/Q=
+
+Name: res/drawable-hdpi/collage_free_2_3.png
+SHA1-Digest: 0O9eH57ZAfrACtSGcRE9yiajAZY=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait_china.png
+SHA1-Digest: O3dKnOfXOctQfqKS6gnx860ELu8=
+
+Name: res/drawable/filtershow_button_geometry_straighten.png
+SHA1-Digest: wDtDGdIMW+A0dwTUee5miNgiC6w=
+
+Name: semcbuild-command.txt
+SHA1-Digest: iMJSepN8q0+bB8ox2wnGE/5p1WA=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait_euro.png
+SHA1-Digest: KeVUHfXS5lVNRZuylz2N3x5di9Q=
+
+Name: res/drawable/cam_sticker_icon_bg.xml
+SHA1-Digest: 4er0TA0q8lJ232VC2+Ct/qm6ILA=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape_brazil.png
+SHA1-Digest: o1HshwtmU63m2sP9Svmv/OJ4Oao=
+
+Name: res/drawable-hdpi/divider_vertical.9.png
+SHA1-Digest: SHvE0+e3aRaVaV5x0895sO15XMc=
+
+Name: res/drawable-hdpi/border7.9.png
+SHA1-Digest: IcedcIv0f+P/mCOVkxf/zAfRnwk=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape_euro.png
+SHA1-Digest: EgMBrSHIrq3I+KPyfyWBlJQ4bJM=
+
+Name: res/drawable-hdpi/photoeditor_undo.png
+SHA1-Digest: J+Pkovbl2ISoQ4BhvI4Jipn6Zow=
+
+Name: res/drawable-hdpi/cam_collage_background_1_icon.png
+SHA1-Digest: fJY1P8wucdZYeNeZ0Xz5GN4DIbU=
+
+Name: res/raw/collage_free_4_2.svg
+SHA1-Digest: ohoeO1oljFJ29k817HuddjnIwDc=
+
+Name: res/drawable-hdpi/cam_collage_background_16_icon.png
+SHA1-Digest: Wtw1IG9n5wbW3w2QLpX2rh4ZvaI=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait_india.png
+SHA1-Digest: G5c1j+D/pivlkl+PdyMCI7P2DeU=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait_china.png
+SHA1-Digest: I0HtFsRqoo/k5GLzDLLt64DtIhk=
+
+Name: res/drawable-hdpi/collage_free_6_2.png
+SHA1-Digest: UxJHcWGOsne1woakvUm37EGcdIU=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape_india.png
+SHA1-Digest: EmUg8UlUacOVJf5ZCIQGLPDxuow=
+
+Name: res/drawable-hdpi/cam_sticker_rainbow.png
+SHA1-Digest: SiehNMu/tGDGVKT5Regn0T6iOM0=
+
+Name: res/raw/shadow_suntan.raw
+SHA1-Digest: iZ/wlH8+Qb5B55vrgve5dGHoYcQ=
+
+Name: res/raw/lower_suntan.raw
+SHA1-Digest: bjU7WOShw0OB2iI/DLd5GZ1i22o=
+
+Name: res/raw/grid_6_2.svg
+SHA1-Digest: lPOcvJkJkV8GgcI8b2WBocw0mT8=
+
+Name: res/drawable/face_unselected.9.png
+SHA1-Digest: RGiE/U9PmImVZd4Z/TwT4/rirxA=
+
+Name: res/drawable-hdpi/cam_collage_grid_6pic_1_icon.png
+SHA1-Digest: D4o8U8h6kWDqVEJvtg1pWgWndPg=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape_apac.png
+SHA1-Digest: bTx8I5FqSgPqV3CaddBlogN6jww=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait_brazil.png
+SHA1-Digest: sxXJq3a26uGOksANtQ/aqYradPU=
+
+Name: res/drawable-hdpi/cam_edit_crop_free_icon.png
+SHA1-Digest: 7KHPyrP+7oRm/LK+vhsSAzMQmjc=
+
+Name: res/raw/eyelash_suntan.raw
+SHA1-Digest: dqh9ddoqFVzYD7ZMaZjPPq2EJko=
+
+Name: res/drawable-hdpi/cam_collage_background_2_icon.png
+SHA1-Digest: EzP3mHHXcjS/AKbm/j1lfa2pa0I=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape_china.png
+SHA1-Digest: PiM+TmvF4qPktsi5hsZQt+6/dY4=
+
+Name: res/drawable-hdpi/cam_sticker_icon.png
+SHA1-Digest: K7UIJHqDFpKdecAZTxGtNnSw1y4=
+
+Name: res/drawable/filtershow_button_background.xml
+SHA1-Digest: WgiFtmraZJDrSkvfXVeva/ulQOE=
+
+Name: res/layout/filtershow_imagestate_row.xml
+SHA1-Digest: 4ecO83wdB8id1pxVnqdBd0fDvPE=
+
+Name: res/drawable-hdpi/collage_free_3_2.png
+SHA1-Digest: skvml8lm/2Eb5VCGsr9clvXK8Tk=
+
+Name: res/raw/lower_vintage.raw
+SHA1-Digest: fDRDy/NX3RGajEb1zHllBX9QOKY=
+
+Name: res/raw/blush_suntan.raw
+SHA1-Digest: CbiX55ZIK8CErZXwSeFRXLGmhSg=
+
+Name: res/layout/photoeditor_text_constitutor.xml
+SHA1-Digest: 7OP6Tsq8PnVu0AeV0FTFIRaJhIk=
+
+Name: res/drawable/cam_border_icon_select.xml
+SHA1-Digest: XWguty1rdDRT9U7WnC3Ux0L+b8U=
+
+Name: res/layout/text_color_picker.xml
+SHA1-Digest: YX7QQ6wqBmuInX+AjcWrUAXvFx8=
+
+Name: res/drawable-hdpi/sticker_big_wow.png
+SHA1-Digest: Y7+7a0i0zB7fiSUfY+EWGUOAGN8=
+
+Name: res/drawable/collage_detail_button_background.xml
+SHA1-Digest: HFfIhhfcM+YJXC65mFPynmQ378o=
+
+Name: lib/armeabi-v7a/libdrmstreamjb.so
+SHA1-Digest: n1dyCakq9exPMJt2kdC5u3hVeLg=
+
+Name: res/drawable-hdpi/coffee.png
+SHA1-Digest: XG4lCB/TyXBP3yWns6KHBYGfJ5k=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape_euro.png
+SHA1-Digest: Avy39BKp24KSf9I0Cv0Nnupygug=
+
+Name: res/drawable/cam_face_select_icon.xml
+SHA1-Digest: qM96GE5hV6adhd+n4iAd4CVhvOY=
+
+Name: lib/armeabi-v7a/libDuoTone.so
+SHA1-Digest: F+mhumNI9h6z3oI3gF8M8s7vFt0=
+
+Name: res/drawable/cam_doodle_icon_bg.xml
+SHA1-Digest: N4maD/T3KLCzGwZpnORtsGv1tcw=
+
+Name: res/drawable-hdpi/collage_free_3_1.png
+SHA1-Digest: 9Z3S+GK+kPUs29SjWKePrTMuYcA=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait.png
+SHA1-Digest: kMHkjnlXVRGJlIJNnzeazL9DERs=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape.png
+SHA1-Digest: zZ85mlRxVPY8XWOEIX1tSU42UCQ=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape_india.png
+SHA1-Digest: baRkVFIs0K8CaPeBM49ITfLuPOk=
+
+Name: res/drawable-mdpi/actionbar_translucent.9.png
+SHA1-Digest: xhUBLID7+WzdIs9u4IuAryFk1Jc=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape.png
+SHA1-Digest: UYmsNzZRUWxBZGCeNrBZWxd+Y4o=
+
+Name: res/raw/eyelash_party.raw
+SHA1-Digest: D3lpT5GjQJG22YHlV2v6y70vg8o=
+
+Name: res/raw/collage_free_5_3.svg
+SHA1-Digest: 8qiuc/UzsSYWKR/yyUN8V7IZLpE=
+
+Name: res/drawable-hdpi/cam_collage_full_background_13_icon.png
+SHA1-Digest: jrfWx75yoq75COW91xssQ0whjgs=
+
+Name: res/drawable-hdpi/ic_straighten_right.png
+SHA1-Digest: 2w+K4nd3kPfvjd9hzQt21MvpvMQ=
+
+Name: res/layout/text_size_picker.xml
+SHA1-Digest: y+Clwp8qSOY6mwSSmZS+y4Q+7Oo=
+
+Name: res/drawable-hdpi/cam_collage_background_5_icon.png
+SHA1-Digest: ofHmr86pt352X6WyESrxRFycAGc=
+
+Name: res/drawable-hdpi/cam_collage_full_background_2_icon.png
+SHA1-Digest: W/XfmHKEn42Tq8Z75cToyzybThU=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape_india.png
+SHA1-Digest: Ny1/BHVbWli/FBkymOUrpLuHRDY=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape_china.png
+SHA1-Digest: /h+ZEHSul48ugzSmEKmdLafJx04=
+
+Name: res/drawable-hdpi/cam_multi_face_edit_add_icon.png
+SHA1-Digest: 3JFHXcXpb+W1ejz79pt2ZpVVj5g=
+
+Name: res/drawable-hdpi/cam_edit_rotate_left_icon.png
+SHA1-Digest: A96dIcKIzpdl8jmUDzeVDKjK7Hk=
+
+Name: res/drawable-hdpi/cam_collage_background_13_icon.png
+SHA1-Digest: IPfgkow3GkId6iP2rLQwD6lT6zo=
+
+Name: res/drawable-hdpi/cam_collage_full_background_22_icon.png
+SHA1-Digest: sf6Ugm9eFaKKQr87vkzoPwvnxUk=
+
+Name: res/drawable-hdpi/cam_sticker_love.png
+SHA1-Digest: xLwwQlXqld7ky6PFaXR61oDK7Ms=
+
+Name: res/drawable-hdpi/frame_border_5.png
+SHA1-Digest: mdO8IkX1SYol9nFRoCrN9HA07pA=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape.png
+SHA1-Digest: 70G7HxYIkIY1WCwDtbPITbhfIOM=
+
+Name: res/drawable-hdpi/image_selection_corner.9.png
+SHA1-Digest: Z9flOvjdyA+Rsb3A6ek3YK+0nrE=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait.png
+SHA1-Digest: OTSod7mG/GKTPMZlRAXvQct+TaA=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait_india.png
+SHA1-Digest: oBmyXbNRIVDH/GtSi29tyV9RWd0=
+
+Name: res/raw/lower_sweetie.raw
+SHA1-Digest: 5QWCkrKiWiHEgLV2bou83A5plmM=
+
+Name: res/drawable-xhdpi/cam_text_fontsize_triangle_icon.png
+SHA1-Digest: jlhDUWfzXayOJfXaeylyIsYRaJA=
+
+Name: res/drawable-hdpi/cam_text_field_bg.9.png
+SHA1-Digest: QuDrELeSLYcFEcCVZI65yhz5pMU=
+
+Name: res/menu/collage_options.xml
+SHA1-Digest: Qgcix44uZZ/njr8b0EYKWy/PY6o=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape_apac.png
+SHA1-Digest: fm+yj+7w3u3Kz3kCt3aB3/1kHPM=
+
+Name: res/drawable/filtershow_button_geometry_rotate.png
+SHA1-Digest: vRsFOQ2iD4S+xdqQknoJQxhi7Dk=
+
+Name: res/raw/eyelash_office.raw
+SHA1-Digest: 2HEP8zE6BzRK1MTKFo4w+RfG0K8=
+
+Name: res/drawable-hdpi/cam_collage_full_background_3_icon.png
+SHA1-Digest: CJYzHqvnbUP6P1JnKjtaQes+XR4=
+
+Name: res/drawable-hdpi/collage_free_4_4.png
+SHA1-Digest: akEUXu884zhcneQ+otVPHvu2LK8=
+
+Name: res/drawable-hdpi/cam_collage_grid_icon.png
+SHA1-Digest: KdxfGpiWLCFaySxGUzalPonQR9U=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait_euro.png
+SHA1-Digest: VMSeR0Scp11r2QhY307MSZ9MldE=
+
+Name: res/raw/grid_6_4.svg
+SHA1-Digest: UOl9BdYtGl+ABLHs7EdXCj60T7Q=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait.png
+SHA1-Digest: GWGzMXMJUiC6vnSgNJN+T6fpspU=
+
+Name: res/drawable/face_selected.9.png
+SHA1-Digest: QZrT2M2fo5qyQEVzEYe00G0kNwo=
+
+Name: res/drawable-hdpi/collage_free_5_1.png
+SHA1-Digest: as1d6hi8479mIN7ny5OnIA/36dI=
+
+Name: res/drawable-hdpi/frame_border_10.png
+SHA1-Digest: zBu8MG5/7A/hjjH1FkPPs7uzu2c=
+
+Name: res/drawable-xhdpi/ic_photoeditor_fix.png
+SHA1-Digest: lryLry6j9gxLIZ4Scq1BivQwMXo=
+
+Name: res/drawable-hdpi/cam_collage_grid_4pic_4_icon.png
+SHA1-Digest: bR77ZRFnyokvVDug/BzrzybiRTU=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait_apac.png
+SHA1-Digest: uvf+SGZVDiXMNTD/rgqfSP+4hWg=
+
+Name: res/drawable-hdpi/cam_collage_background_4_icon.png
+SHA1-Digest: 0I9mLoVuy08Y3+BCbLkyiqlU3Bg=
+
+Name: res/raw/blush_club.raw
+SHA1-Digest: Cr2zfPA3VoNr6Ir8jkJat/oETpY=
+
+Name: res/drawable-hdpi/cam_collage_grid_4pic_2_icon.png
+SHA1-Digest: W98OZ6y4AZzqyfOLgPfF5IepyeE=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait_apac.png
+SHA1-Digest: WT1aNju3py7qOLLBVLtzwYXnPqo=
+
+Name: res/drawable-nodpi/filter_3_add.png
+SHA1-Digest: 7vq4OjhyO77nd76fkzb+oY1NDPA=
+
+Name: res/drawable/cam_crop_icon_select.xml
+SHA1-Digest: aJClqPmpdkdfJqpZSjnqk320bwo=
+
+Name: res/drawable-hdpi/cam_text_fontsize_right_bottom_icon.9.png
+SHA1-Digest: 6IZTV9xSwKRwRUmgOZ9GzRn3Rig=
+
+Name: res/raw/upper_daily.raw
+SHA1-Digest: iondEFuVgcCzCc6zPX4kXOdioic=
+
+Name: res/drawable/cam_sticker_icon_select.xml
+SHA1-Digest: OQ5LFL9TCTuXvAsGLFhk5cIgRHg=
+
+Name: res/drawable-hdpi/ic_photoeditor_style.png
+SHA1-Digest: 0yDBQ1/uNGYMJAIEH+0cjWISk6M=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape_euro.png
+SHA1-Digest: TgfYb/N2yFv9MtPoqOopuCC0rmU=
+
+Name: res/drawable-hdpi/ic_straighten_left.png
+SHA1-Digest: Wkw3muW0Pp/0zCAQ/nAyAsYLoQ0=
+
+Name: res/drawable-hdpi/cam_sticker_flash.png
+SHA1-Digest: PfAdQRXl8NJk6V2sSz9sRrYBvxA=
+
+Name: res/drawable-hdpi/cam_sticker_arrow.png
+SHA1-Digest: YaxDlUFfh2Jav7QvoPkLcjLLxPk=
+
+Name: res/raw/grid_3_4.svg
+SHA1-Digest: FFRKBh4jyvUScYgD07STS2XsSAU=
+
+Name: res/drawable/cam_collage_icon_select.xml
+SHA1-Digest: nq859zaKa1NAnHb6q8lTvDKfByg=
+
+Name: res/drawable-nodpi/filter_7_add.png
+SHA1-Digest: tHdQs2GKK+hjN+epZsdjQbQmlrw=
+
+Name: res/raw/grid_3_5.svg
+SHA1-Digest: SSHBYfBwJ8+J57RKh71WAl2BbcE=
+
+Name: res/drawable-xhdpi/cam_text_fontsize_right_bottom_icon.9.png
+SHA1-Digest: 6IZTV9xSwKRwRUmgOZ9GzRn3Rig=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape_china.png
+SHA1-Digest: J5Ia6dtXSb8eeCTo/7OUTXnPD98=
+
+Name: res/drawable-mdpi/ic_photoeditor_color.png
+SHA1-Digest: 2Kz7M508t2aohZ0DfN5YZAxrQ8A=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_3_icon.png
+SHA1-Digest: Kud91a8BdZ7UTkJBBSfkinSxSuU=
+
+Name: res/raw/lower_natural.raw
+SHA1-Digest: s+u3UqeG95W1rTVsR9rujx3UsIM=
+
+Name: res/drawable-hdpi/sticker_big_diamond.png
+SHA1-Digest: HQ/CSGW5C5rqEizpE4WBHJ9pP2I=
+
+Name: res/drawable-hdpi/ic_photoeditor_color.png
+SHA1-Digest: 5GqzFVJtyKc0BSQAfwPAJwH7ZrA=
+
+Name: res/drawable-hdpi/cam_collage_full_background_10_icon.png
+SHA1-Digest: MzNiSQwCHN2aA7rTZiYXrIXM63M=
+
+Name: res/raw/eyelash_youth.raw
+SHA1-Digest: tMKvzkLEdkrU7h3HHqnTrWBip+A=
+
+Name: res/drawable-nodpi/filter_style_quentin.png
+SHA1-Digest: GCperlQZk2InRpXvvOIkkUMLQqs=
+
+Name: res/drawable-hdpi/sticker_big_candy.png
+SHA1-Digest: t94fObAALbsd0AMJ2Rx0yCatx/4=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait_apac.png
+SHA1-Digest: 0fm1yK68Ihb8NcThARLhUcGwFVM=
+
+Name: res/drawable-hdpi/frame_border_4.png
+SHA1-Digest: wTmpMLNmesF7+gsogPKMr4F6ZKE=
+
+Name: res/drawable-hdpi/cam_txt_fontsize_normal_icon.png
+SHA1-Digest: 4/4oL9Q8csHol4ywSKav4BNcTH4=
+
+Name: res/drawable-hdpi/cam_filter_icon.png
+SHA1-Digest: 3KpXJYTYuYmvWVU7C3G/4FYBPYM=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait_apac.png
+SHA1-Digest: GX5cF4blMqS2/aoJNePapeLIhVM=
+
+Name: res/drawable-hdpi/frame_border_9.png
+SHA1-Digest: tsGC+jinWiIk+1NMcLiB1jtUtDg=
+
+Name: res/drawable-hdpi/sticker_big_hat.png
+SHA1-Digest: xJxRTHofgEWCw3HhAKLrO93qQQ0=
+
+Name: res/drawable/collage_normal.9.png
+SHA1-Digest: +r0FrXCLEDbCxawwUTE2xA4wy9E=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape_china.png
+SHA1-Digest: VISY6JO4IjXgkDmm/Y0F0DSvlXE=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait.png
+SHA1-Digest: bgI8RB3EOkEJ6iNg840jqkkDc04=
+
+Name: res/drawable-hdpi/cam_txt_fontsize_divider_icon.9.png
+SHA1-Digest: 17sY9eI8b7/PIYkS7JojbXK3K7E=
+
+Name: res/drawable-hdpi/ic_photoeditor_effects.png
+SHA1-Digest: S6COfRx6hor/kTySVCaxYQn9JFw=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait_china.png
+SHA1-Digest: ipxTZiGB65tVBJK2etX7Ht2thr8=
+
+Name: res/layout/arbitrarylayout.xml
+SHA1-Digest: uKBXQM/09eimiYXJJqrPFVgTkDE=
+
+Name: res/raw/grid_2_5.svg
+SHA1-Digest: hU/tKfbOAOkpYBN8NAa8XbWrSJ0=
+
+Name: res/drawable-hdpi/border10.png
+SHA1-Digest: rvHyIqx+Ed2YMQhxcO6C/z1KECw=
+
+Name: res/layout/free_collage_fragment.xml
+SHA1-Digest: lX//ZptLAHmi+6TtXghRqcL8G+M=
+
+Name: res/drawable-hdpi/collage_default_background_p.png
+SHA1-Digest: BGiJl838V3+cN39dBx8YeEqzZYg=
+
+Name: res/drawable/cam_photoeditor_select_bg.xml
+SHA1-Digest: gxoie8JQ9TWrHTtzBR0yxYFhNnk=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape_apac.png
+SHA1-Digest: T2FFIqbDa6zdQoNn5n+pApGW0p4=
+
+Name: res/raw/grid_4_3.svg
+SHA1-Digest: 4Mf75buT8oU/bcRBueFmm0T4yoA=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape_apac.png
+SHA1-Digest: 3N5ud8Oblnjgm+RdlkxqcTwy3/c=
+
+Name: res/drawable-hdpi/photoeditor_undo_disable.png
+SHA1-Digest: /UWHsl0aexKhAfmjJOIb6u9EC4s=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait_brazil.png
+SHA1-Digest: 1pFGbhD/GV76PIiqLmB2sBfLL4U=
+
+Name: res/drawable-xhdpi/cam_doodle_color_border_icon.9.png
+SHA1-Digest: jzeolJSofTkUtpNpFKkcfLzeorU=
+
+Name: res/drawable-hdpi/cam_edit_remove_style_icon.png
+SHA1-Digest: nqw2YqI3Rycx6/CvBjEMR2OvtY8=
+
+Name: res/drawable-mdpi/ic_photoeditor_fix.png
+SHA1-Digest: JChSfIAkktzxOQoEHMv6piM1OIk=
+
+Name: res/drawable/filtershow_button_colors_vignette.png
+SHA1-Digest: Z1qxiwNXvBx5JtXEOG85TBnV2rk=
+
+Name: res/drawable-xhdpi/cam_txt_fontsize_smalll_icon.png
+SHA1-Digest: KIw7/FRx8qL9C5wsXHsADsToPcY=
+
+Name: res/drawable/menu_redo.xml
+SHA1-Digest: qdcgadnkCQhELh6Wq08/GzT6Ib0=
+
+Name: res/drawable-mdpi/app_icon.png
+SHA1-Digest: z8gTSWXrFkdoO30wFB2SciAG4RE=
+
+Name: res/raw/collage_free_4_4.svg
+SHA1-Digest: UxQnlSUhq4rhg0BJw1yMUnI0eMY=
+
+Name: res/drawable-hdpi/cam_collage_full_background_1_icon.png
+SHA1-Digest: UiRbhcGYJGj5FsWd5VRLsjaWCi8=
+
+Name: res/drawable-hdpi/cam_collage_background_12_icon.png
+SHA1-Digest: C612b0+CzOxKotSi92NpK6avPf0=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape_apac.png
+SHA1-Digest: jfsQ0QzvZt9j3bHVT9LNh7U5eNs=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait.png
+SHA1-Digest: OTSod7mG/GKTPMZlRAXvQct+TaA=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait_china.png
+SHA1-Digest: Hh4KAmbMZIaRQnIUtJ9zww0NBJo=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_portrait_euro.png
+SHA1-Digest: M1QeuxrCQMzN0VUj09jroWjewg0=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape.png
+SHA1-Digest: 6uZzG/doKay/IWfNg3WbECALaIs=
+
+Name: res/drawable-xhdpi/camera_crop_holo.png
+SHA1-Digest: lL9YrvfGhlJe7EeAkrS4d2LEXcU=
+
+Name: res/drawable-xhdpi/cam_doodle_color_highlight_icon.9.png
+SHA1-Digest: 0Cfsflk+gxNSOFrhqFcrl43MHuA=
+
+Name: res/drawable-xhdpi/cam_txt_fontsize_big_icon.png
+SHA1-Digest: UMfEeoYBpGjJZDXTu3G23MqprBc=
+
+Name: res/raw/grid_5_5.svg
+SHA1-Digest: OtoZUkmc0oSjffCsIWMfRYtPpGI=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape.png
+SHA1-Digest: ySWPx7V7j+bxi3DL/getZjf8Z9s=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape.png
+SHA1-Digest: gD3jGxSPmId12BG0Ue4iuPw32O4=
+
+Name: res/raw/upper_cute.raw
+SHA1-Digest: WI/hckbVuptWF7eFVtOjr2o1+W4=
+
+Name: res/drawable-hdpi/frame_boarder_7.png
+SHA1-Digest: dUuvkBsTrEPttba/zoXUPHq+gKE=
+
+Name: res/drawable-hdpi/cam_sticker_eye.png
+SHA1-Digest: 4GBw2Ujx02kc4n/ZFw8HADgAqCU=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait_apac.png
+SHA1-Digest: LsuvYhgEz4irPVnakQUGjZH5DZA=
+
+Name: res/drawable-hdpi/cam_collage_grid_pic_bg_icon.png
+SHA1-Digest: C4RS/gXt+drVQboFonsld6niiKQ=
+
+Name: res/drawable-hdpi/cam_straighten_degree_scale_num_icon.png
+SHA1-Digest: jWR3uHG6VvN5BpqKDQceroLj+Fw=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape_china.png
+SHA1-Digest: U3vboiJC1BOEKMcl79e1fX6+iaE=
+
+Name: res/drawable-hdpi/cam_straighten_indicator_icon.png
+SHA1-Digest: j7NhIxLbx7nFor7iW6eFKA3J7H4=
+
+Name: res/drawable/cam_filter_icon_bg.xml
+SHA1-Digest: VVbnR5eyJvVdtSvE49n1vynMpNI=
+
+Name: res/drawable/cam_collage_grid_icon_select.xml
+SHA1-Digest: xmy8zfWYQooTy7U6h7a7zmwHjEc=
+
+Name: res/drawable-hdpi/cam_crop_1_1_icon.png
+SHA1-Digest: 6Ako7U23Y8i1Drf94HkCcF6PfLU=
+
+Name: res/drawable-hdpi/frame_border_2.png
+SHA1-Digest: He8kQ5Hd2AO1o7Q9cYNAunyK7CU=
+
+Name: res/drawable-hdpi/cam_crop_16_9_icon.png
+SHA1-Digest: Pt8/kwdIG3qm3qnTgr/pgINNQ70=
+
+Name: res/drawable-hdpi/cam_collage_full_background_18_icon.png
+SHA1-Digest: caMi9iT9d4nOx1ncfkwcU5WZGQ8=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape_euro.png
+SHA1-Digest: NYk2URVlkH72w5Cqi8OEBKpiGy8=
+
+Name: res/raw/blush_natural.raw
+SHA1-Digest: ZwGQFV+zW8AmQwS6xqQeBOCUE+E=
+
+Name: res/drawable/cam_style_icon_bg.xml
+SHA1-Digest: 4k1SH3EFP4XLaOVccUCttRY6OjY=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape_brazil.png
+SHA1-Digest: JrpJPk+Q0niAkdaa/0q17vXf27M=
+
+Name: res/drawable-hdpi/cam_collage_background_10_icon.png
+SHA1-Digest: HoHlpAiIknzs+rVxaNiIsI3xDM8=
+
+Name: res/drawable-hdpi/cam_collage_full_background_17_icon.png
+SHA1-Digest: KqFtLOixaFH+BaUTpbVgIcU7YpY=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait_india.png
+SHA1-Digest: 43rhBiFut55koTdc1ZQxxfsKu1A=
+
+Name: res/raw/eyelash_daily.raw
+SHA1-Digest: tMKvzkLEdkrU7h3HHqnTrWBip+A=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait_china.png
+SHA1-Digest: aYCHWDQQL/drOHiecvA3ex6jNpo=
+
+Name: res/drawable/cam_collage_recent_icon_bg.xml
+SHA1-Digest: wqjQ7x+CBsakdVSmf66T2DzMM3E=
+
+Name: res/drawable-hdpi/cam_tab_pressed_icon.9.png
+SHA1-Digest: xmn3azm4KUjmKgAaQRfQpxp1wYo=
+
+Name: res/drawable-hdpi/collage_free_6_3.png
+SHA1-Digest: GjJrThKwcp5oWbr4HuhORMSBkLg=
+
+Name: res/drawable-hdpi/cam_collage_grid_2pic_4_icon.png
+SHA1-Digest: c09A6qJMjhDI5+bevuEFGw0n778=
+
+Name: res/drawable-hdpi/cam_crop_9_16_icon.png
+SHA1-Digest: ekfqDkp/9Ekd9atcuLrZfGQ5KHE=
+
+Name: res/drawable-hdpi/cam_collage_grid_2pic_2_icon.png
+SHA1-Digest: yPUC6dOHYXrD2fX9A+cLBQ7gvbQ=
+
+Name: res/raw/blush_party.raw
+SHA1-Digest: io+OCnxkNxb0+QPMLdk68k2nyo0=
+
+Name: res/drawable-xhdpi/cam_edit_highlight_icon.9.png
+SHA1-Digest: J6ZH34q8FhKDsqgt6Ua+VGBtRhs=
+
+Name: res/drawable-hdpi/border1.png
+SHA1-Digest: 9D2HZObyIyrcL0NQiqfKK1AIxrM=
+
+Name: res/drawable-mdpi/ic_menu_savephoto.png
+SHA1-Digest: hiDAC2vUAn27N2dh6rCEjbtjdGw=
+
+Name: res/drawable/cam_collage_free_icon_bg.xml
+SHA1-Digest: IrxgaUkdPEpTdpOh3c181CRGTe4=
+
+Name: res/raw/collage_free_3_3.svg
+SHA1-Digest: wXemvlAqw9T//qB+e7Ds/RLx7z4=
+
+Name: res/raw/shadow_vintage.raw
+SHA1-Digest: E16+GtY2hsYM0AtxKT46h2YVAac=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait_brazil.png
+SHA1-Digest: NurMfRHIW/z2SlRgd2NqflrQ3QA=
+
+Name: res/drawable-mdpi/ic_photoeditor_effects.png
+SHA1-Digest: zli4aGclAWoGicBOE9rFEoLlTk0=
+
+Name: res/drawable-hdpi/sticker_big_arrow.png
+SHA1-Digest: t8T2sfWiBeNp06JHDydJXxmd1a0=
+
+Name: res/drawable-hdpi/cam_collage_recent_icon.png
+SHA1-Digest: XAZ1w31txDT7D1oBvLDFsvJGf4c=
+
+Name: res/drawable-nodpi/filter_style_sandy.png
+SHA1-Digest: ThJ+cjoNKoqQ319x5/mfmmw8+jw=
+
+Name: res/drawable-hdpi/border8.9.png
+SHA1-Digest: 2M3ETT1QpD2KKKab+DGoxV+xyI8=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape_brazil.png
+SHA1-Digest: WY5DVzT91VoNyrMD6wKkG7rDn0U=
+
+Name: res/drawable-hdpi/cam_collage_full_background_4_icon.png
+SHA1-Digest: 4FgTEb+ETsLCuKoJQ3bJdOmQLtI=
+
+Name: resources.arsc
+SHA1-Digest: cdlUS8r9m0m6X2q8tnOu2HESY0Y=
+
+Name: res/drawable-hdpi/cam_collage_grid_3pic_1_icon.png
+SHA1-Digest: robdhoA3DRp5wqIvIFYlKPAoSOg=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_landscape_apac.png
+SHA1-Digest: 1aHFBuwKmb7XuvDcZtKLlhucC6Y=
+
+Name: res/drawable-hdpi/coffee_t
+SHA1-Digest: wyWdzy+kSpnwwRZdVBR42lmAOVk=
+
+Name: res/drawable-nodpi/filter_6_add.png
+SHA1-Digest: SdVrfoKj6Cpi2zcp1IsXwoiG9wY=
+
+Name: res/drawable-hdpi/ic_menu_recent_history.png
+SHA1-Digest: 2MltvAFmnvDcPl1IJnydBebZjIE=
+
+Name: res/drawable-hdpi/cam_collage_full_background_21_icon.png
+SHA1-Digest: pfBo++sRLMQ0N0RhFCpqFYkU31Y=
+
+Name: res/drawable-hdpi/border9.9.png
+SHA1-Digest: czuT9ZdhXpUSO+hiJbK9x2rR/D8=
+
+Name: res/drawable-hdpi/ic_style_cute_temp_portrait_brazil.png
+SHA1-Digest: y01+u9WQ2xYB29W5gR/aPRkEGNA=
+
+Name: res/drawable-hdpi/cam_collage_grid_3pic_4_icon.png
+SHA1-Digest: TOwLWrrZNTwJuXesKAT2UyhIaHs=
+
+Name: res/raw/eyelash_sweetie.raw
+SHA1-Digest: OFnyP9wdc4RI5F5+schjuw72+Zo=
+
+Name: res/drawable-hdpi/cam_multi_face_edit_remove_icon.png
+SHA1-Digest: jC8tf5VedD9Ph9aUPfrSuQS09eQ=
+
+Name: res/drawable-hdpi/frame_border_6.png
+SHA1-Digest: Tl2JP8QIYLX3e5FHbusfxZqhDeQ=
+
+Name: res/drawable-hdpi/sticker_big_eyes.png
+SHA1-Digest: P/nvz0JwoF92IMoGC7qfjuNo7Io=
+
+Name: res/drawable/cam_collage_recent_icon_select.xml
+SHA1-Digest: eOkQEoap6VxAWFS15pP4pGXIIVE=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape.png
+SHA1-Digest: vvdhCapA5z+xw73Wty3+dX2XQJM=
+
+Name: res/drawable-hdpi/sticker_big_flash.png
+SHA1-Digest: hxex9/oPTVZyDWIiauEVF1vdTbQ=
+
+Name: res/drawable-hdpi/border4.9.png
+SHA1-Digest: CqP99oKmtWswCns0086x2Ad6QUo=
+
+Name: build.xml
+SHA1-Digest: 0FqEylGKUFTnF5aKu+wcAgXOFIs=
+
+Name: res/drawable-hdpi/frame_border_7.png
+SHA1-Digest: dUuvkBsTrEPttba/zoXUPHq+gKE=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait.png
+SHA1-Digest: N9hg1wH9/p/BRGpC73fTJK0o0So=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_portrait_apac.png
+SHA1-Digest: F2MTNpubDg2ZcHh0x0Br3BbWgS8=
+
+Name: res/drawable-hdpi/ic_style_none_temp_portrait.png
+SHA1-Digest: 7qqORmAxnTaZr7f6/pl5t1mki7c=
+
+Name: res/raw/collage_free_4_1.svg
+SHA1-Digest: xwaS5tQvaNvXKULO//Sks3DoFtg=
+
+Name: res/drawable-hdpi/cam_collage_grid_6pic_5_icon.png
+SHA1-Digest: Xrl/bVcVJsMCeZoG1Y9j2WWp+o8=
+
+Name: res/drawable/photoeditor_effect_redeye.png
+SHA1-Digest: 6z+sajfF6Ts3bu0DSKg9X0MfoWo=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_11_icon.png
+SHA1-Digest: c/VSbu5RoMKC3wM9LZ1bh/tRsRA=
+
+Name: res/drawable-hdpi/cam_collage_background_white_icon.png
+SHA1-Digest: v33Szdj2xUm+newO+rfT2cymcMY=
+
+Name: res/drawable-hdpi/cam_collage_grid_4pic_3_icon.png
+SHA1-Digest: xTYO3zFVWw4aSQD/bufej5kaNX8=
+
+Name: res/drawable-hdpi/collage_free_5_3.png
+SHA1-Digest: W/29wHicUewBBtIDVPRFRrX5xMo=
+
+Name: res/drawable/cam_collage_icon_bg.xml
+SHA1-Digest: iOpgtBDfdBE7RupQf8y8mljTOQQ=
+
+Name: res/drawable-hdpi/frame_border_8.png
+SHA1-Digest: 0eBV0OOEWtf+Us7DafI5xbvwYWY=
+
+Name: res/drawable-hdpi/cam_edit_rotate_flip_v_icon.png
+SHA1-Digest: +/ph6MoD/ZG626pBkIA1OudxPZQ=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait_china.png
+SHA1-Digest: Am8GNR/IbnN9oX7T8LGIepjqOhQ=
+
+Name: res/drawable-hdpi/cam_collage_background_15_icon.png
+SHA1-Digest: 9sMJU02lk3/DX0MAouMbgsAaUos=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape_apac.png
+SHA1-Digest: 2IglTVg88VtKgkO6xObn5AIqEvk=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape_india.png
+SHA1-Digest: hWcZCNZKlVRwuHyjst/+OV3QtOI=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: SnzW4Udypo2x7zRQS1mN225C0kY=
+
+Name: res/drawable-hdpi/sticker_big_rainbow.png
+SHA1-Digest: +nYZ4cbaYTMQXvsLk/eQeAhpOjQ=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape_brazil.png
+SHA1-Digest: Kx2cK0ZbfWA99yWP1C+V8+lFWVo=
+
+Name: res/raw/shadow_club.raw
+SHA1-Digest: WIRhNW9NqHhOiCATaWvqbE3wzIY=
+
+Name: res/drawable-xhdpi/ic_menu_savephoto.png
+SHA1-Digest: Y5RetxVEI+LrbsfvKZp875I6W6M=
+
+Name: res/drawable-hdpi/cam_straighten_degree_scale_icon.png
+SHA1-Digest: n43FftzGBFAyvAPtWO6wZkFIlO0=
+
+Name: res/drawable/filtershow_fx_0006_x_process.png
+SHA1-Digest: k654nJu8mPRlE13JOlg5y0Ltcs8=
+
+Name: res/drawable-hdpi/ic_style_party_temp_landscape_brazil.png
+SHA1-Digest: 8mSH7rxxAfiqE5Gi91QKSwj4JbI=
+
+Name: res/drawable-hdpi/ic_photoeditor_fix.png
+SHA1-Digest: sQb6dVzNBiF0TW5XOYycA29GJEo=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_portrait_india.png
+SHA1-Digest: 6OozwIzcgiQUEc+h6ORMMyCFLRk=
+
+Name: res/raw/lower_office.raw
+SHA1-Digest: CTpU1uNcomfG0NMPG21SkPTgEXQ=
+
+Name: res/drawable-hdpi/frame_border_1.png
+SHA1-Digest: nW73FUzCBgJrsQg93W8/9nYWnSM=
+
+Name: res/drawable-hdpi/cam_text_color_border_icon.9.png
+SHA1-Digest: owpqLCgdN2h4poPo3j+Qb4fNgd8=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape_india.png
+SHA1-Digest: mGbB8B1TVcOIm2Sfa/GZGd2k94o=
+
+Name: res/drawable-hdpi/cam_collage_grid_2pic_3_icon.png
+SHA1-Digest: 714n7y/QNt+fq5vMg5GCL928AE8=
+
+Name: res/drawable-hdpi/frame_boarder_4.png
+SHA1-Digest: wTmpMLNmesF7+gsogPKMr4F6ZKE=
+
+Name: res/raw/blush_cute.raw
+SHA1-Digest: PPAXWGCNgh7o1zWlCaqwPtBoOQY=
+
+Name: lib/armeabi-v7a/libbeautyface.so
+SHA1-Digest: 6Sf2Q94LATjQXDCbweEAwro8okY=
+
+Name: res/drawable-hdpi/cam_collage_grid_5pic_3_icon.png
+SHA1-Digest: 8p2LXrdOXW/UKzTgAKHsbRbdZzM=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape_euro.png
+SHA1-Digest: r/FCvP/2QsHPg1YrJCeIAtuEK1I=
+
+Name: res/drawable-hdpi/collage_free_3_3.png
+SHA1-Digest: T903SCN/PwrMCfSp548TPOyyiVU=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape_india.png
+SHA1-Digest: X0GEeR0dEes9cm8jxLxUjHTJzfc=
+
+Name: res/raw/collage_free_2_4.svg
+SHA1-Digest: BP4HLuS/HvPPWoJk6uHziYMi5As=
+
+Name: res/drawable-hdpi/cam_collage_full_background_12_icon.png
+SHA1-Digest: ZCHbcHxHFSw+PjD5TjBpg1+x9l4=
+
+Name: res/drawable-hdpi/ic_style_natural_temp_landscape.png
+SHA1-Digest: UYmsNzZRUWxBZGCeNrBZWxd+Y4o=
+
+Name: res/raw/grid_2_1.svg
+SHA1-Digest: ABL57NBfnUWF+A7PEBx1p8o2mEg=
+
+Name: res/drawable-hdpi/cam_collage_background_3_icon.png
+SHA1-Digest: 8N8YFPFs/bR5ZvEDWFkF3PgsXRQ=
+
+Name: res/raw/collage_free_6_2.svg
+SHA1-Digest: FCPiyESJbGMSWLcpCLdySaTtdlA=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape_euro.png
+SHA1-Digest: /6zB5xJjrtEd8vHsfvryT9DeRks=
+
+Name: res/drawable/cam_style_icon_select.xml
+SHA1-Digest: bruxRgwrCwLrBiI4REQ8fiq4AQ4=
+
+Name: res/raw/upper_natural.raw
+SHA1-Digest: iondEFuVgcCzCc6zPX4kXOdioic=
+
+Name: res/raw/upper_club.raw
+SHA1-Digest: ztCxKzU6jwCO5RoSps92iywkq/I=
+
+Name: res/raw/convolve3x3.bc
+SHA1-Digest: W2YoA7oSXAp3ObXVSj/Y3EwUpgU=
+
+Name: res/drawable-hdpi/cam_collage_grid_4pic_5_icon.png
+SHA1-Digest: TcVI4DCzxb+/8f60o67qWGGbRrw=
+
+Name: res/raw/grid_4_5.svg
+SHA1-Digest: FaNRNxQbgOJE5OikMFVAjSyiaUA=
+
+Name: res/drawable-hdpi/cam_collage_grid_6pic_4_icon.png
+SHA1-Digest: aJpqQgz66/w0n4+6pNbzbsVnuVk=
+
+Name: res/drawable-hdpi/frame_border_null.png
+SHA1-Digest: 5e43Dk8kVmGJ/h0t8hbv9M402yU=
+
+Name: res/drawable-xhdpi/app_icon.png
+SHA1-Digest: 4kCtphTzcZ+ogYIc+I1E3Xouftk=
+
+Name: res/drawable-hdpi/ic_photoeditor_border.png
+SHA1-Digest: LM4D++XTwEYpAK3XTW8Xcw5e+Vw=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait_brazil.png
+SHA1-Digest: LPxm405hPvZjvvV5eznqZKEZBCM=
+
+Name: res/drawable-hdpi/cam_collage_grid_5pic_1_icon.png
+SHA1-Digest: 4BlI8mVqZLnNLmzK/LG8eyQj5sc=
+
+Name: res/drawable-hdpi/cam_collage_grid_5pic_5_icon.png
+SHA1-Digest: IPosFXS3IYpeDblZGhSYh+dkghc=
+
+Name: res/drawable-hdpi/cam_collage_grid_3pic_3_icon.png
+SHA1-Digest: sOkbZaFM5A3CrmhQfWEdVXyhei0=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait.png
+SHA1-Digest: ZoEc5raWiJ/+m7K2KQL7+vWWjYg=
+
+Name: res/drawable-hdpi/cam_collage_background_21_icon.png
+SHA1-Digest: mBRn82M8t4WDNYf1mYT6QfOeEEo=
+
+Name: res/raw/collage_free_3_5.svg
+SHA1-Digest: 1TiAMw75YszCM9RGI99kTB6ehpw=
+
+Name: res/drawable-hdpi/collage_free_5_2.png
+SHA1-Digest: 25pC3rQr46/SFvT3e7KnsteSx80=
+
+Name: res/drawable-hdpi/cam_doodle_icon.png
+SHA1-Digest: EG3foPIuw/woGyIYPiUR8HR8mlA=
+
+Name: res/drawable-xhdpi/actionbar_translucent.9.png
+SHA1-Digest: PHqFaSRb9FKdWkJoOhmVl2LG2xs=
+
+Name: res/drawable-xhdpi/cam_text_color_border_icon.9.png
+SHA1-Digest: owpqLCgdN2h4poPo3j+Qb4fNgd8=
+
+Name: res/drawable-hdpi/cam_collage_full_background_land_12_icon.png
+SHA1-Digest: IdWrjNYR/zBD4r1SZIEQyWVUzzQ=
+
+Name: res/drawable-hdpi/cam_edit_rotate_icon.png
+SHA1-Digest: MuiecE6QIrtXjNBgdp0ipeOCb1I=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_portrait_china.png
+SHA1-Digest: IOe+jN6xzU8rTdajTGitNUtCDVQ=
+
+Name: res/drawable-hdpi/sticker_big_nose.png
+SHA1-Digest: eH5DXcrrtI3qboretydIF9wR0yI=
+
+Name: res/drawable-hdpi/ic_style_sweetie_temp_landscape_china.png
+SHA1-Digest: jlGBU6olOO+DmU5SS27AVzZ4mXo=
+
+Name: res/drawable-hdpi/ic_style_vintage_temp_landscape_india.png
+SHA1-Digest: I+RK4244iuqo852AEfWhEfjRgPg=
+
+Name: res/raw/grid_5_2.svg
+SHA1-Digest: +Vt3KE/Cu+LsG/8DrrHw2XsG8aY=
+
+Name: res/drawable-hdpi/cam_edit_rotate_flip_h_icon.png
+SHA1-Digest: aIClQm12BicNjquD3ueGpiR3+0s=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait_euro.png
+SHA1-Digest: eFGw8ThA+w54RFICuL7vs0bG8DI=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_landscape_brazil.png
+SHA1-Digest: HYQKtELg5aFhToeE525Od81Y4zU=
+
+Name: res/drawable-hdpi/ic_style_youth_temp_portrait_brazil.png
+SHA1-Digest: TN27ZdnlWk1DsM4vbAviO9h0Qf8=
+
+Name: res/drawable-hdpi/ic_style_daily_temp_landscape.png
+SHA1-Digest: zysXrApxWrQ/zXn6pkOxNmfDx4c=
+
+Name: res/raw/grid_6_1.svg
+SHA1-Digest: my03iuzb51WePDmK2EQtI9dAw/g=
+
+Name: res/drawable-hdpi/ic_style_club_temp_landscape_brazil.png
+SHA1-Digest: kXviy7bqpuEiaug0of/Pp5gCbvw=
+
+Name: res/raw/grid_3_3.svg
+SHA1-Digest: ogCn96VR3NE0xnHnEoRd0aW7tAc=
+
+Name: res/drawable-hdpi/collage_free_6_1.png
+SHA1-Digest: qFSNsGfAebrQtyaBosscayCsDUk=
+
+Name: res/drawable-xhdpi/cam_text_fontsize_top_icon.9.png
+SHA1-Digest: zC2qvBEF4Zt57aE13JLyoCGZ0eE=
+
+Name: res/drawable-hdpi/ic_style_club_temp_portrait_euro.png
+SHA1-Digest: UXjigzhkMDb4S3GWkP8h1S0q0Nw=
+
+Name: res/drawable-xhdpi/cam_txt_fontsize_divider_icon.9.png
+SHA1-Digest: 17sY9eI8b7/PIYkS7JojbXK3K7E=
+
+Name: res/drawable-nodpi/filter_5_add.png
+SHA1-Digest: KR105UeAReH2hjAx/RmXYZU/hjo=
+
+Name: res/drawable-hdpi/frame_boarder_2.png
+SHA1-Digest: He8kQ5Hd2AO1o7Q9cYNAunyK7CU=
+
+Name: res/drawable-hdpi/collage_free_2_2.png
+SHA1-Digest: QzGxP+O3pYOB9Qkv79MKw6OS960=
+
+Name: res/raw/grid_2_4.svg
+SHA1-Digest: 1DLG3Qsi7jUsNokx/V69MEb7qBk=
+
+Name: res/raw/collage_free_2_1.svg
+SHA1-Digest: KF3t1b8wrcDl3LfF8KU3+jRj5Gk=
+
+Name: res/drawable-hdpi/cam_sticker_mustache.png
+SHA1-Digest: 0Yj/g9NRBbBtdT0nRW+2Grllkt8=
+
+Name: res/drawable-hdpi/ic_style_office_temp_landscape_brazil.png
+SHA1-Digest: uM30h4ZCnvLX+qlQ4q1AxhKOSEQ=
+
+Name: res/drawable-hdpi/cam_collage_grid_3pic_2_icon.png
+SHA1-Digest: mW1puosfNWwy35ex8/ba0Wr6fBM=
+
+Name: res/drawable-hdpi/cam_collage_grid_6pic_3_icon.png
+SHA1-Digest: aEgI1+hW/XSdv4rfVXtZm1DlVAI=
+
+Name: res/drawable-mdpi/camera_crop.png
+SHA1-Digest: JxMrCXFhijx/Q0ol/tRAHKZ1yyQ=
+
+Name: res/raw/upper_office.raw
+SHA1-Digest: AV6bmSkpyV07wzKPHHRYQFD2lX4=
+
+Name: res/drawable-hdpi/ic_style_party_temp_portrait.png
+SHA1-Digest: 5JtxPApi6KQsLgq56XQCrRHFW9E=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_portrait_brazil.png
+SHA1-Digest: aFeMepBmDZI4k5isgUQeo4SNGPw=
+
+Name: res/drawable-hdpi/ic_style_suntan_temp_landscape_china.png
+SHA1-Digest: UxsboFJO/YoR0JouERYMujf893Y=
+
+Name: res/raw/collage_free_2_2.svg
+SHA1-Digest: gFZ5s90+ZFk3zZNn1uUMBs2dzT8=
+
+Name: res/drawable/cam_crop_icon_bg.xml
+SHA1-Digest: fa5qbkkrrQaYT8LjKMZBCWcp8RE=
+
+Name: res/drawable-mdpi/camera_crop_holo.png
+SHA1-Digest: taf02IG0e0MxNkM2BkuKyzNQxWU=
+
+Name: res/raw/grid_4_2.svg
+SHA1-Digest: 21F2MkiYPCB8Q276ngGioH03//k=
+
+Name: res/drawable-hdpi/ic_style_office_temp_portrait_brazil.png
+SHA1-Digest: Yd9HtqLN8eUAdVi/3kso8HUZsNI=
+
+Name: res/drawable/cam_collage_background_icon_bg.xml
+SHA1-Digest: BPmRFKFeAd3+D2YYboXkqOqktFk=
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.sonymobile.china.photoeditor">
+    <original-package android:name="com.sonymobile.china.photoeditor"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+    <uses-permission android:name="android.permission.ACCESS_DRM"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="false"/>
+    <application android:allowBackup="true" android:hardwareAccelerated="true" android:icon="@drawable/app_icon" android:label="@string/photoeditor_app_name_txt" android:largeHeap="true" android:name="com.sonymobile.china.photoeditor.PhotoEditorApplication" android:supportsRtl="true">
+        <uses-library android:name="com.google.android.media.effects" android:required="false"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/photoeditor_app_name_txt" android:launchMode="singleTop" android:name="com.sonymobile.china.photoeditor.filtershow.FilterShowActivity" android:screenOrientation="portrait" android:theme="@style/Theme.FilterShow">
+            <intent-filter>
+                <action android:name="android.intent.action.EDIT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="action_nextgen_edit"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <intent-filter android:label="@string/crop_label">
+                <action android:name="com.android.camera.action.EDITOR_CROP"/>
+                <data android:scheme="http"/>
+                <data android:scheme="https"/>
+                <data android:scheme="content"/>
+                <data android:scheme="file"/>
+                <data android:scheme=""/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.ALTERNATIVE"/>
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/crop_label" android:name="com.sonymobile.china.photoeditor.crop.CropImage" android:theme="@style/Crop">
+            <intent-filter android:label="@string/crop_label">
+                <action android:name="com.android.camera.action.CROP"/>
+                <data android:scheme="http"/>
+                <data android:scheme="https"/>
+                <data android:scheme="content"/>
+                <data android:scheme="file"/>
+                <data android:scheme=""/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.ALTERNATIVE"/>
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="locale|keyboard|keyboardHidden|navigation|screenLayout|fontScale" android:exported="true" android:name="com.sonymobile.china.collage.CollageLaunchActivity" android:screenOrientation="nosensor" android:theme="@style/Theme.FilterShow">
+            <intent-filter>
+                <action android:name="com.sonymobile.photoeditor.action.CREATE_COLLAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="locale|keyboard|keyboardHidden|navigation|screenLayout|fontScale" android:exported="false" android:name="com.sonymobile.china.photoeditor.TestActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.MONKEY"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.sonymobile.china.photoeditor.gifmaker.GifMakerActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="com.sonymobile.photoeditor.action.CREATE_ANIMATION"/>
+                <data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.china.photoeditor.filtershow.text.TextEditView android:gravity="left|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:enabled="true" android:gravity="start|center" android:id="@id/edit_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/text_item_min_width" android:minLines="1" android:scrollHorizontally="false" android:singleLine="false" />
+</com.sonymobile.china.photoeditor.filtershow.text.TextEditView>

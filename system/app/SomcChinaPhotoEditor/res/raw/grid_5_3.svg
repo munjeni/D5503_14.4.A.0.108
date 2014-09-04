@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="800px" viewBox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve">
+<g id="grid5_x5F_3">
+	<path fill="#FF0000" stroke="#FFFFFF" stroke-miterlimit="10" d="M36.437,18.459h238.985c10.191,0,18.454,8.262,18.454,18.455
+		V374.63c0,10.192-8.263,18.454-18.454,18.454H36.437c-10.191,0-18.454-8.262-18.454-18.454V36.914
+		C17.982,26.721,26.245,18.459,36.437,18.459z"/>
+	<path fill="#0000FF" stroke="#FFFFFF" stroke-miterlimit="10" d="M323.875,18.459H562.86c10.192,0,18.454,8.262,18.454,18.455
+		v207.612c0,10.192-8.262,18.455-18.454,18.455H323.875c-10.191,0-18.454-8.263-18.454-18.455V36.914
+		C305.421,26.721,313.684,18.459,323.875,18.459z"/>
+	<path fill="#00FF00" stroke="#FFFFFF" stroke-miterlimit="10" d="M36.437,403.689h238.985c10.191,0,18.454,8.264,18.454,18.455
+		v337.717c0,10.191-8.263,18.455-18.454,18.455H36.437c-10.191,0-18.454-8.264-18.454-18.455V422.146
+		C17.982,411.953,26.245,403.689,36.437,403.689z"/>
+	<path fill="#FF00FF" stroke="#FFFFFF" stroke-miterlimit="10" d="M323.875,533.795H562.86c10.192,0,18.454,8.262,18.454,18.454
+		v207.612c0,10.191-8.262,18.455-18.454,18.455H323.875c-10.191,0-18.454-8.264-18.454-18.455V552.249
+		C305.421,542.057,313.684,533.795,323.875,533.795z"/>
+	<path fill="#FFFF00" stroke="#FFFFFF" stroke-miterlimit="10" d="M323.875,274.048H562.86c10.192,0,18.454,8.262,18.454,18.455
+		v207.612c0,10.191-8.262,18.454-18.454,18.454H323.875c-10.191,0-18.454-8.263-18.454-18.454V292.503
+		C305.421,282.311,313.684,274.048,323.875,274.048z"/>
+	<rect x="427.367" y="124.72" fill="#0000EE" width="32" height="32"/>
+	<rect x="536" y="33.83" fill="#0000DD" width="32" height="32"/>
+	<rect x="427.367" y="640.056" fill="#EE00EE" width="32" height="32"/>
+	<rect x="536" y="548" fill="#DD00DD" width="32" height="32"/>
+	<rect x="427.366" y="380.309" fill="#EEEE00" width="32" height="32"/>
+	<rect x="536" y="287.83" fill="#DDDD00" width="32" height="32"/>
+	<rect x="139.929" y="189.771" fill="#EE0000" width="32" height="32"/>
+	<rect x="248.395" y="33.83" fill="#DD0000" width="32" height="32"/>
+	<rect x="139.929" y="575.004" fill="#00EE00" width="32" height="32"/>
+	<rect x="248.395" y="418.521" fill="#00DD00" width="32" height="32"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center" android:orientation="vertical" android:paddingBottom="@dimen/text_size_picker_container_padding_bottom" android:layout_width="@dimen/text_toolbar_size_item_width" android:layout_height="@dimen/text_toolbar_size_list_height" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/text_toolbar_size_list_small" android:id="@id/small_size" android:layout_marginTop="@dimen/text_list_first_item_margin_top" android:text="@string/text_size_small" style="@style/TextSizeDialog" />
+    <View android:background="@drawable/cam_txt_fontsize_divider_icon" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/text_list_item_divider_margin_left_right" android:layout_marginRight="@dimen/text_list_item_divider_margin_left_right" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/text_toolbar_size_list_medium" android:id="@id/normal_size" android:text="@string/text_size_normal" style="@style/TextSizeDialog" />
+    <View android:background="@drawable/cam_txt_fontsize_divider_icon" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/text_list_item_divider_margin_left_right" android:layout_marginRight="@dimen/text_list_item_divider_margin_left_right" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/text_toolbar_size_list_large" android:id="@id/large_size" android:text="@string/text_size_large" style="@style/TextSizeDialog" />
+</LinearLayout>

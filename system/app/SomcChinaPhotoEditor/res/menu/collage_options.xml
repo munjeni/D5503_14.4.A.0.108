@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@null" android:id="@id/free_cancel" android:title="@string/cancel_button" android:showAsAction="always|withText" />
+    <item android:icon="@null" android:id="@id/free_apply" android:title="@string/apply_button" android:showAsAction="always|withText" />
+</menu>

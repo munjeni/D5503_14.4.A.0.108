@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbnail_size">128.0dip</dimen>
+    <dimen name="thumbnail_margin">3.0dip</dimen>
+    <dimen name="crop_indicator_size">43.0dip</dimen>
+</resources>

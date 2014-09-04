@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_view_width">360.0dip</dimen>
+    <dimen name="photo_view_height">384.0dip</dimen>
+    <dimen name="photo_view_port_width">360.0dip</dimen>
+    <dimen name="photo_view_port_height">384.0dip</dimen>
+    <dimen name="photo_view_land_width">598.0dip</dimen>
+    <dimen name="photo_view_land_height">164.0dip</dimen>
+    <dimen name="text_seekbar_container_height">60.0dip</dimen>
+    <dimen name="text_toolbar_color_offset">70.0dip</dimen>
+    <dimen name="text_toolbar_size_offset">173.0dip</dimen>
+    <dimen name="text_toolbar_font_offset">127.0dip</dimen>
+    <dimen name="text_seekbar_margin_bottom_top">3.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_top">0.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_bottom">15.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_left">5.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_right">5.0dip</dimen>
+    <dimen name="text_list_item_padding_left">12.0dip</dimen>
+    <dimen name="text_list_item_bg_margin">6.0dip</dimen>
+    <dimen name="effect_doodle_container_padding_left">4.0dip</dimen>
+    <dimen name="effect_doodle_container_padding_right">3.0dip</dimen>
+    <dimen name="text_toolbar_item_width">100.0dip</dimen>
+</resources>

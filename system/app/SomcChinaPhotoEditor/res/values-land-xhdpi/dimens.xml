@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_view_width">598.0dip</dimen>
+    <dimen name="photo_view_height">164.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_top">0.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_bottom">17.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_left">5.0dip</dimen>
+    <dimen name="text_color_picker_container_padding_right">5.0dip</dimen>
+</resources>
