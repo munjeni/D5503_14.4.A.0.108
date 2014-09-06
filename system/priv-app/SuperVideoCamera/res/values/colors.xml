@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_finder_cover_col">#99000000</color>
+    <color name="default_text_col">#fffafafa</color>
+    <color name="grayout_text_col">#ff909090</color>
+</resources>

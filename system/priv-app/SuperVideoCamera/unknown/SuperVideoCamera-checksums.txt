@@ -1,0 +1,2 @@
+SuperVideoCamera git://review.sonyericsson.net/platform/vendor/semc/packages/apps/camera-addons 8a98c797404ea2c932ed0db625a1c380df7e8812:NOBRANCH:SHINANO-1.0-PLUS-FREEZE-140226-1037
+CommonComponents git://review.sonyericsson.net/platform/vendor/semc/packages/apps/camera-addons 8a98c797404ea2c932ed0db625a1c380df7e8812:NOBRANCH:SHINANO-1.0-PLUS-FREEZE-140226-1037

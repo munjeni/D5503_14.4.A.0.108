@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.sonymobile.android.addoncamera.supervideo">
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="com.sonyericsson.permission.CAMERA_EXTENDED"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="com.sonymobile.permission.SOMC_CAMERA"/>
+    <uses-permission android:name="com.sonymobile.permission.SOMC_AUTO_UPLOADER"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_ADDON"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_ADDON_DATA_WRITE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_STATUS_PROVIDER"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_ADDON_NOTIFY_GA"/>
+    <uses-permission android:name="com.sonymobile.permission.IMAGE_PROCESSOR"/>
+    <uses-feature android:glEsVersion="0x20000" android:required="true"/>
+    <uses-permission android:name="com.sonymobile.permission.SYSTEM_UI_VISIBILITY_EXTENSIONS"/>
+    <application android:icon="@drawable/cam_application_icn" android:label="@string/cam_strings_video_application_name_txt" android:largeHeap="true" android:supportsRtl="true">
+        <!--activity android:configChanges="mcc|mnc|keyboardHidden|orientation|uiMode|screenSize" android:icon="@drawable/cam_cap_mode_4k2k_video_icn" android:label="@string/cam_strings_capturing_mode_4k2k_txt" android:launchMode="singleTask" android:name="HighResolutionVideoActivity" android:screenOrientation="landscape" android:taskAffinity="com.sonymobile.android.addoncamera.supervideo.highresolution" android:theme="@style/SomcCameraTheme" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.camera.addon.action.REGISTER_MODE"/>
+            </intent-filter>
+            <meta-data android:name="com.sonymobile.camera.addon.MODE_ATTRIBUTES" android:resource="@xml/mode_attributes_4k"/>
+        </activity-->
+        <activity android:configChanges="mcc|mnc|keyboardHidden|orientation|uiMode|screenSize" android:icon="@drawable/cam_cap_mode_high_frame_rate_icn" android:label="@string/cam_strings_capturing_mode_high_frame_rate_txt" android:launchMode="singleTask" android:name="HighFrameRateVideoActivity" android:screenOrientation="landscape" android:taskAffinity="com.sonymobile.android.addoncamera.supervideo.highframerate" android:theme="@style/SomcCameraTheme" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.camera.addon.action.REGISTER_MODE"/>
+            </intent-filter>
+            <meta-data android:name="com.sonymobile.camera.addon.MODE_ATTRIBUTES" android:resource="@xml/mode_attributes_timeshift"/>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|uiMode|screenSize" android:name="com.sonyericsson.cameracommon.launcher.AlbumLauncher" android:screenOrientation="behind" android:theme="@android:style/Theme.NoDisplay" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <receiver android:name="MasterResetReceiver" android:permission="android.permission.MASTER_CLEAR">
+            <intent-filter>
+                <action android:name="com.sonyericsson.settings.MASTERRESET"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.sonymobile.android.addoncamera.supervideo.addon.CameraAddonReceiver">
+            <intent-filter>
+                <action android:name="com.sonymobile.camera.addon.action.REQUEST_REGISTER"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation|uiMode|screenSize" android:exported="false" android:icon="@drawable/cam_application_icn_common" android:label="@string/cam_strings_auto_upload_all_txt" android:name="com.sonyericsson.cameracommon.autoupload.AutoUploadPluginListActivity" android:theme="@android:style/Theme.DeviceDefault" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <uses-library android:name="com.sonymobile.camera.addon.api"/>
+        <uses-library android:name="com.sonyericsson.cameraextension.api"/>
+        <uses-library android:name="com.sonyericsson.privateapis_1p"/>
+        <uses-library android:name="com.sonyericsson.navigationbar" android:required="false"/>
+    </application>
+</manifest>

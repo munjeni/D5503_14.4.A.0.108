@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_smile_shutter_title_cy_txt">ფუნქცია Smile Shutter</string>
+    <string name="cam_strings_movie_steadyshot_title_cy_txt">ფილმი SteadyShot™</string>
+    <string name="cam_strings_use_of_camera_not_authorized_txt">კამერის გამოყენება შეზღუდულია უსაფრთხოების მიზეზების გამო</string>
+    <string name="cam_strings_video_smile_shutter_txt">Smile Shutter (ვიდეო)</string>
+    <string name="cam_strings_term_of_use_data_charge_txt">ამ სერვისის გამოყენებამ, თქვენი სატარიფო გეგმის შესაბამისად, შეიძლება გამოიწვიოს დამატებითი ხარჯები.</string>
+    <string name="cam_strings_video_explanatory_txt">"სტაბილური ვიდეო ჩაწერისთვის, გირჩევთ შეცვალოთ შენახვის ადგილმდებარეობა შიდა მეხსიერებით. გსურთ შეცვალოთ ახლა? 
+
+თუ გააგრძელებთ შენახვას SD ბარათზე, დარწმუნდით, რომ იყენებთ მაღალი სიჩქარის SD ბარათს."</string>
+    <string name="cam_strings_video_explanatory_4k2k_setting_txt">სტაბილური 4K ვიდეო ჩაწერისთვის, თქვენ არ უნდა შეცვალოთ ეს პარამეტრი, თუ არ იყენებთ მაღალი სიჩქარის SD ბარათს. მაინც შევცვალოთ?</string>
+    <string name="cam_strings_video_explanatory_high_frame_rate_setting_txt">სტაბილური დროში გადაწეული ვიდეო ჩაწერისთვის, თქვენ არ უნდა შეცვალოთ ეს პარამეტრი, თუ არ იყენებთ მაღალი სიჩქარის SD ბარათს. მაინც შევცვალოთ?</string>
+    <string name="cam_strings_captureframeshape_txt">ფორმ. თავსებ.</string>
+    <string name="cam_strings_captureframeshape_title_txt">ფორმ. თავს.</string>
+    <string name="cam_strings_change_save_destination_high_frame_rate_title_txt">გადაწ. ვიდეო</string>
+    <string name="photoanalyzer_strings_selected_facelist_title_txt">სახის რეგისტრაცია</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_txt">აარჩიეთ 5-მდე სახე კამერის ფოკუსირებისთვის</string>
+    <string name="photoanalyzer_strings_selected_facelist_divider_prifaces_txt">პრიორიტეტული სახეები</string>
+    <string name="photoanalyzer_strings_selected_facelist_toast_maxnum_txt">თქვენ არ შეგიძლიათ 5-ზე მეტი სახის დაყენება</string>
+    <string name="photoanalyzer_strings_selected_facelist_actbtn_goto_unnamedfaces_txt">უსახელო სახეები</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_noface_txt">"ნაპოვნის მხოლოდ უსახელო სახეები.
+ფოტოებზე სახელების დამატებისათვის, გადადით ალბომში და აირჩიეთ სახეები."</string>
+    <string name="photoanalyzer_strings_selected_facelist_btn_goto_album_txt">ალბ. გადასვ.</string>
+</resources>

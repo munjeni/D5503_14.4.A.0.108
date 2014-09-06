@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<validation-set-list>
+    <validation-set>
+        <check-condition>
+            <key-value-set key="focus-mode" value="continuous-video" />
+        </check-condition>
+    </validation-set>
+    <validation-set>
+        <check-condition>
+            <key-value-set key="sony-metering-mode" value="center-weighted" />
+        </check-condition>
+    </validation-set>
+    <validation-set>
+        <base-condition>
+            <key-value-set key="sony-vs-type" value="steady-shot" />
+            <key-value-set key="picture-size" value="1920x1080" />
+        </base-condition>
+        <check-condition>
+            <key-value-set key="sony-vs" value="off" />
+        </check-condition>
+    </validation-set>
+</validation-set-list>

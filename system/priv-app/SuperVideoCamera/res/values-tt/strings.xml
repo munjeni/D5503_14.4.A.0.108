@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_smile_shutter_title_cy_txt">Елмаюны тоту</string>
+    <string name="cam_strings_movie_steadyshot_title_cy_txt">SteadyShot™ фильмы</string>
+    <string name="cam_strings_use_of_camera_not_authorized_txt">Иминлек сәбәбендә, камераны куллану чикләнә</string>
+    <string name="cam_strings_video_smile_shutter_txt">Елмаюны тоту (видео)</string>
+    <string name="cam_strings_term_of_use_data_charge_txt">Бу хезмәтне куллану өчен, мәгълүмат планыгызга каратып, мобиль мәгълүмат бәяләре салынырга мөмкин.</string>
+    <string name="cam_strings_video_explanatory_txt">"Стабиль видео яздыру өчен, саклау урының эчке саклагычка күчерергә тәкъдим итәбез. Аны хәзер күчерергә телисезме?
+
+SD картаны саклагыч итеп куллануны дәвам итсәгез, SD картагыз югары-тизлекле булырга тиеш."</string>
+    <string name="cam_strings_video_explanatory_4k2k_setting_txt">Стабиль 4K видео яздыру өчен, югары-тизлекле SD картаны кулланганчы, бу параметрны үзгәртми торыгыз. Барыбер үзгәртергәме?</string>
+    <string name="cam_strings_video_explanatory_high_frame_rate_setting_txt">Стабиль Timeshift видео яздыру өчен, югары-тизлекле SD картаны кулланганчы, бу параметрны үзгәртми торыгыз. Барыбер үзгәртергәме?</string>
+    <string name="cam_strings_captureframeshape_txt">Аспект нисбәте</string>
+    <string name="cam_strings_captureframeshape_title_txt">Аспект нисбәте</string>
+    <string name="cam_strings_change_save_destination_high_frame_rate_title_txt">Timeshift видео</string>
+    <string name="photoanalyzer_strings_selected_facelist_title_txt">Йөз теркәү</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_txt">Камерага, фокуслау өчен, 5 йөзгә кадәр тамгалагыз</string>
+    <string name="photoanalyzer_strings_selected_facelist_divider_prifaces_txt">Өстенлекле йөзләр</string>
+    <string name="photoanalyzer_strings_selected_facelist_toast_maxnum_txt">5-тән күп йөз көйләргә ярамый</string>
+    <string name="photoanalyzer_strings_selected_facelist_actbtn_goto_unnamedfaces_txt">Исемсез йөзләр</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_noface_txt">"Исемсез йөзләр генә табылды.
+Фотоларга исем тәгләрен өстәү өчен, Альбом'га үтеп Йөзләр тамгалагыз."</string>
+    <string name="photoanalyzer_strings_selected_facelist_btn_goto_album_txt">"Альбом'га үтү"</string>
+</resources>

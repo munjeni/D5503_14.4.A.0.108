@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="attr" name="focus_indicator_animation_mag_single">1.2</item>
+</resources>

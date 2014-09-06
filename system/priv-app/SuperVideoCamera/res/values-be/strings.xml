@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_smile_shutter_title_cy_txt">Здымка пасля ўсмешкі</string>
+    <string name="cam_strings_movie_steadyshot_title_cy_txt">Bідэа SteadyShot™</string>
+    <string name="cam_strings_use_of_camera_not_authorized_txt">Выкарыстанне камеры забаронена з-за небяспекі</string>
+    <string name="cam_strings_video_smile_shutter_txt">Здымка пасля ўсмешкі (відэа)</string>
+    <string name="cam_strings_term_of_use_data_charge_txt">Выкарыстанне дадзенага сэрвіса можа быць прычынай выдаткаў на мабільныя дадзеныя, у залежнасці ад вашага плана перадачы дадзеных.</string>
+    <string name="cam_strings_video_explanatory_txt">"Для стабільнага запісу відэа мы рэкамендуем вам змяніць месца захоўвання на ўнутраную памяць. Хочаце змяніць цяпер?
+
+Калі вы будзеце працягваць выкарыстоўваць карту памяці ў якасці сховішча дадзеных, не забудзьцеся выкарыстоўваць высакахуткасную SD-карту."</string>
+    <string name="cam_strings_video_explanatory_4k2k_setting_txt">Для стабільнага запісу 4K-відэа вы не павінны змяняць гэты параметр, акрамя выпадку, калі вы выкарыстоўваеце высакахуткасную SD-карту. Змяніць усё роўна?</string>
+    <string name="cam_strings_video_explanatory_high_frame_rate_setting_txt">Для стабільнага запісу Timeshift-відэа вы не павінны змяняць гэты параметр, акрамя выпадку, калі вы выкарыстоўваеце высакахуткасную SD-карту. Змяніць усё роўна?</string>
+    <string name="cam_strings_captureframeshape_txt">Суадносіны бакоў</string>
+    <string name="cam_strings_captureframeshape_title_txt">Суадносіны бакоў</string>
+    <string name="cam_strings_change_save_destination_high_frame_rate_title_txt">Timeshift-відэа</string>
+    <string name="photoanalyzer_strings_selected_facelist_title_txt">Рэгістрацыя твараў</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_txt">Выберыце да 5 твараў, на якіх павінна сфакусіравацца камера</string>
+    <string name="photoanalyzer_strings_selected_facelist_divider_prifaces_txt">Прыарытэтныя твары</string>
+    <string name="photoanalyzer_strings_selected_facelist_toast_maxnum_txt">Вы не можаце ўстанавіць больш за 5 твараў</string>
+    <string name="photoanalyzer_strings_selected_facelist_actbtn_goto_unnamedfaces_txt">Неназваныя асобы</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_noface_txt">"Знойдзеныя толькі неназваныя асобы.
+Каб дадаць тэгі імён да фатаграфій, перайдзіце да Альбома і выберыце Твары."</string>
+    <string name="photoanalyzer_strings_selected_facelist_btn_goto_album_txt">Да Альбома</string>
+</resources>

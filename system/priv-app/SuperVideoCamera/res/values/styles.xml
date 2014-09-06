@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SomcCameraTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:typeface">sst</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/default_text_col</item>
+        <item name="android:alertDialogTheme">@style/Theme.SomcCamera.AlertDialog</item>
+        <item name="android:buttonBarStyle">@android:style/Holo.ButtonBar</item>
+        <item name="android:buttonBarButtonStyle">?android:borderlessButtonStyle</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="Theme.SomcCamera.AlertDialog" parent="@android:style/Theme.DeviceDefault.Dialog.MinWidth">
+        <item name="android:textAppearanceMedium">@style/TextAppearance.SomcCamera.Dialog.Medium</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/TextAppearance.SomcCamera.Dialog.Title</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.Dialog.Title" parent="@android:style/TextAppearance.DialogWindowTitle">
+        <item name="android:textSize">22.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.Dialog.Medium" parent="@android:style/TextAppearance.DeviceDefault.Medium">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.BallonTipsStyleSmall" parent="@style/BallonTipsStyle">
+        <item name="android:textSize">12.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.BallonTipsStyleMedium" parent="@style/BallonTipsStyle">
+        <item name="android:textSize">14.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.BallonTipsStyleLarge" parent="@style/BallonTipsStyle">
+        <item name="android:textSize">16.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.Small" parent="@style/OnScreenTextDropShadow">
+        <item name="android:textSize">12.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.Medium" parent="@style/OnScreenTextDropShadow">
+        <item name="android:textSize">14.0dip</item>
+    </style>
+    <style name="TextAppearance.SomcCamera.Large" parent="@style/OnScreenTextDropShadow">
+        <item name="android:textSize">16.0dip</item>
+    </style>
+    <style name="WindowAnimationDeviceDefaultDialogPortrait">
+        <item name="android:windowEnterAnimation">@animator/somc_dialog_popup_enter</item>
+        <item name="android:windowExitAnimation">@animator/somc_dialog_popup_exit_portrait</item>
+    </style>
+    <style name="BallonTipsStyle">
+        <item name="android:shadowColor">#aa000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">0.0</item>
+    </style>
+    <style name="OnScreenTextDropShadow">
+        <item name="android:shadowColor">#aa000000</item>
+        <item name="android:shadowDx">1.5</item>
+        <item name="android:shadowDy">1.5</item>
+        <item name="android:shadowRadius">0.1</item>
+    </style>
+</resources>

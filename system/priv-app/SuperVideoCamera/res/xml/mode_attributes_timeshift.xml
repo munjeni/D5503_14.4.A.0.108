@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modes
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <mode name="record_mode_timeshift" selectorIcon="@drawable/cam_app_shortcut_high_frame_rate_icn" selectorLabel="@string/cam_strings_capturing_mode_high_frame_rate_txt" descriptionLabel="@string/cam_strings_description_high_frame_rate_txt" shortcutIcon="@drawable/cam_cap_mode_high_frame_rate_icn" shortcutLabel="@string/cam_strings_capturing_mode_high_frame_rate_txt" />
+</modes>

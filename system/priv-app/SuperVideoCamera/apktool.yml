@@ -1,0 +1,17 @@
+version: 2.0.0-a7b06f-SNAPSHOT
+apkFileName: SuperVideoCamera.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '17'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
+compressionType: false
+unknownFiles:
+  SuperVideoCamera-checksums.txt: '8'

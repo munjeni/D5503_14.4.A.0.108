@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="focus_indicator_animation_focusin_duration">70</integer>
+    <integer name="focus_indicator_animation_fadeout_duration">70</integer>
+    <integer name="acceptable_burst_shot_fps_x1000">10000</integer>
+    <integer name="ga_dispatchPeriod">1800</integer>
+    <integer name="setting_fadeduration">1000</integer>
+    <integer name="setting_defaultdelaybeforefade">1000</integer>
+    <integer name="shortcut_icon_count">5</integer>
+</resources>

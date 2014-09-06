@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_smile_shutter_title_cy_txt">Təbəssümü çəkən</string>
+    <string name="cam_strings_movie_steadyshot_title_cy_txt">Film SteadyShot™</string>
+    <string name="cam_strings_use_of_camera_not_authorized_txt">Kameradan istifadə təhlükəsizlik məqsədləri üçün məhdudlaşdırılmışdır</string>
+    <string name="cam_strings_video_smile_shutter_txt">Təbəssümü çəkən (video)</string>
+    <string name="cam_strings_term_of_use_data_charge_txt">Sizin bu xidmətdən istifadəniz tarif planınızdan asılı olaraq mobil tarif xərclərinin dəyişməsinə səbəb ola bilər.</string>
+    <string name="cam_strings_video_explanatory_txt">"Sabit video yazıyaalma üçün biz daxili yaddaşınızın yerini dəyişməyinizi tövsiyyə edirik. İndi dəyişmək istərdinizmi?
+
+Məlumat yaddaşı kimi SD kartdan istifadə etməyə davam etsəniz, yüksək sürətli SD kartdan istifadə etdiyinizdən əmin olun."</string>
+    <string name="cam_strings_video_explanatory_4k2k_setting_txt">Yüksək sürətli 4K video yazıyaalması üçün yüksək sürətli SD kartdan istifadə etmədiyinizdə bu parametri dəyişməməlisiniz. Buna baxmayaraq dəyişdirilsin?</string>
+    <string name="cam_strings_video_explanatory_high_frame_rate_setting_txt">Sabit Timeshift video yazıyaalması üçün yüksək sürətli SD kartdan istifadə etmədiyinizdə bu parametri dəyişməməlisiniz. Buna baxmayaraq dəyişdirilsin?</string>
+    <string name="cam_strings_captureframeshape_txt">Ölçü əmsalı</string>
+    <string name="cam_strings_captureframeshape_title_txt">Ölçü əmsalı</string>
+    <string name="cam_strings_change_save_destination_high_frame_rate_title_txt">Timeshift video</string>
+    <string name="photoanalyzer_strings_selected_facelist_title_txt">Üzün qeydiyyatı</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_txt">Kameranın fokusa alması üçün 5-ə qədər üz seçin</string>
+    <string name="photoanalyzer_strings_selected_facelist_divider_prifaces_txt">Üstünlük verilən üzlər</string>
+    <string name="photoanalyzer_strings_selected_facelist_toast_maxnum_txt">5-dən artıq üz seçə bilməzsiniz</string>
+    <string name="photoanalyzer_strings_selected_facelist_actbtn_goto_unnamedfaces_txt">Adlandırılmamış üzlər</string>
+    <string name="photoanalyzer_strings_selected_facelist_desc_noface_txt">"Yalnız adlandırılmamış üzlər tapıldı.
+Fotolara ad etiketləri əlavə etmək üçün Alboma keç və Üzlər seç."</string>
+    <string name="photoanalyzer_strings_selected_facelist_btn_goto_album_txt">Alboma keç</string>
+</resources>

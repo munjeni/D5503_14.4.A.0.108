@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_resolution_2mp_4x3_txt">2MP 4:3</string>
+    <string name="cam_strings_resolution_2mp_16x9_txt">2MP 16:9</string>
+    <string name="cam_strings_resolution_3mp_16x9_txt">3MP 16:9</string>
+    <string name="cam_strings_resolution_5mp_4x3_txt">5MP 4:3</string>
+    <string name="cam_strings_resolution_6mp_16x9_txt">6MP 16:9</string>
+    <string name="cam_strings_resolution_8mp_4x3_txt">8MP 4:3</string>
+    <string name="cam_strings_self_timer_2_txt">On (2 s.)</string>
+    <string name="cam_strings_self_timer_10_txt">On (10 s.)</string>
+    <string name="cam_strings_focus_mode_single_af_txt">Single auto focus</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">Multi auto focus</string>
+    <string name="cam_strings_exposure_level_pm0_txt">EV ±0.0</string>
+    <string name="cam_strings_photometry_center_txt">Centre</string>
+    <string name="cam_strings_image_stabilizer_txt">Image stabiliser</string>
+    <string name="cam_strings_show_popup_again_txt">To show this dialogue, go to Settings > Apps.</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Multi Angle also</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">3D file also</string>
+    <string name="cam_3d_strings_creating_but_too_quick_txt">Could not complete capturing. Please pan more slowly.</string>
+    <string name="cam_3d_strings_creating_but_too_slow_txt">Could not complete capturing. Please pan faster.</string>
+    <string name="cam_3d_strings_creating_but_incorrect_direction_txt">Could not complete capturing. Please pan in the correct direction.</string>
+    <string name="cam_3d_strings_dialog_processing_include_black_area_txt">"Processing...
+This image contains a grey area"</string>
+    <string name="cam_3d_strings_dialog_multi_angle_processing_include_black_area_txt">"Creating the following files:
+- Multi Angle image
+- 3D image
+Note: These files contain a grey area."</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">To view this file in 3D, use a 3D-supported device.</string>
+    <string name="cam_strings_error_memory_ims_read_only_txt">Memory write protected. Could not edit files.</string>
+    <string name="cam_strings_fast_capturing_activated_txt">Quick launch mode</string>
+    <string name="cam_strings_image_stabilizer_title_txt">Image stabiliser</string>
+    <string name="cam_strings_effect_partical_color_txt">Partial colour</string>
+    <string name="cam_strings_accessibility_1_of_5_recent_photo_txt">The most recent photo</string>
+    <string name="cam_strings_art_filter_polaroid_warm_txt">Warm colour</string>
+    <string name="cam_strings_art_filter_polaroid_cold_txt">Cool colour</string>
+    <string name="cam_strings_art_filter_guesture_guide_tap_txt">Tap the portion you want to colour</string>
+    <string name="cam_strings_art_filter_guesture_guide_toggle_txt">Tap the screen to toggle colour</string>
+    <string name="cam_strings_resolution_13mp_4x3_txt">"13 MP  4:3"</string>
+    <string name="cam_strings_resolution_10mp_16x9_txt">"10 MP  16:9"</string>
+    <string name="cam_strings_hdr_resolution_to_12mp_txt">Resolution changed to 12 MP with HDR On</string>
+    <string name="cam_strings_hdr_resolution_to_9mp_txt">Resolution changed to 9 MP with HDR On</string>
+    <string name="cam_strings_hdr_resolution_to_7mp_txt">Resolution changed to 7 MP with HDR On</string>
+    <string name="cam_strings_hdr_resolution_to_5mp_txt">Resolution changed to 5 MP with HDR On</string>
+    <string name="cam_strings_hdr_resolution_to_13mp_txt">Resolution changed to 13 MP with HDR Off</string>
+    <string name="cam_strings_hdr_resolution_to_10mp_txt">Resolution changed to 10 MP with HDR Off</string>
+    <string name="cam_strings_hdr_resolution_to_8mp_txt">Resolution changed to 8 MP with HDR Off</string>
+    <string name="cam_strings_hdr_resolution_to_6mp_txt">Resolution changed to 6 MP with HDR Off</string>
+    <string name="cam_3d_strings_sweep_multi_angle_cy_txt">Sweep Multi-Angle</string>
+    <string name="cam_strings_metering_center_cy_txt">Centre</string>
+    <string name="cam_strings_movie_steadyshot_title_cy_txt">Video SteadyShot™</string>
+    <string name="cam_strings_movie_steadyshot_cy_txt">Video SteadyShot™</string>
+    <string name="cam_strings_movie_size_title_cy_txt">Video Size</string>
+    <string name="cam_strings_movie_size_cy_txt">Video Size</string>
+    <string name="cam_strings_shortcut_front_movie_cy_txt">Front video</string>
+    <string name="cam_strings_shortcut_normal_movie_cy_txt">Normal (video)</string>
+    <string name="cam_strings_shortcut_movie_camera_cy_txt">Video camera</string>
+    <string name="cam_3d_strings_shortcut_sweep_multi_angle_cy_txt">Sweep Multi-Angle</string>
+    <string name="cam_strings_accessibility_switch_to_movie_cy_txt">Switched to video</string>
+    <string name="cam_strings_error_high_temp_shutting_down_cy_txt">Shutting down camera due to high temperature. Your recorded videos will be saved. Please wait for your phone to cool down before restarting the camera.</string>
+    <string name="cam_strings_error_rec_size_limit_cy_txt">Could not record video. Not enough memory.</string>
+    <string name="cam_strings_touch_capture_guide_movie_cy_txt">Touch the screen to record a video</string>
+    <string name="cam_strings_advanced_setting_geo_tag_both_off_cy_txt">To add location information to your photos or videos, you have to enable GPS and/or wireless networks. Enable now?</string>
+    <string name="cam_strings_hdr_image_size_to_10mp_cy_txt">Still Image Size changed to 10 MP with HDR Off</string>
+    <string name="cam_strings_hdr_image_size_to_12mp_cy_txt">Still Image Size changed to 12 MP with HDR On</string>
+    <string name="cam_strings_hdr_image_size_to_13mp_cy_txt">Still Image Size changed to 13 MP with HDR Off</string>
+    <string name="cam_strings_hdr_image_size_to_5mp_cy_txt">Still Image Size changed to 5 MP with HDR On</string>
+    <string name="cam_strings_hdr_image_size_to_6mp_cy_txt">Still Image Size changed to 6 MP with HDR Off</string>
+    <string name="cam_strings_hdr_image_size_to_7mp_cy_txt">Still Image Size changed to 7 MP with HDR On</string>
+    <string name="cam_strings_hdr_image_size_to_8mp_cy_txt">Still Image Size changed to 8 MP with HDR Off</string>
+    <string name="cam_strings_hdr_image_size_to_9mp_cy_txt">Still Image Size changed to 9 MP with HDR On</string>
+    <string name="cam_strings_hdr_image_size_to_10mp_cap_mode_cy_txt">Still Image Size changed to 10 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_12mp_cap_mode_cy_txt">Still Image Size changed to 12 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_13mp_cap_mode_cy_txt">Still Image Size changed to 13 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_5mp_cap_mode_cy_txt">Still Image Size changed to 5 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_6mp_cap_mode_cy_txt">Still Image Size changed to 6 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_7mp_cap_mode_cy_txt">Still Image Size changed to 7 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_8mp_cap_mode_cy_txt">Still Image Size changed to 8 MP upon mode change</string>
+    <string name="cam_strings_hdr_image_size_to_9mp_cap_mode_cy_txt">Still Image Size changed to 9 MP upon mode change</string>
+    <string name="cam_strings_effect_partical_color_cy_txt">"Partial Colour "</string>
+    <string name="cam_strings_scenes_soft_skin_cy_txt">Soft Skin</string>
+    <string name="cam_strings_soft_skin_effect_cy_txt">Soft Skin Effect</string>
+    <string name="cam_strings_burst_shooting_explanatory_txt">"Set save location to internal storage or insert SD card with high write speed 
+for stable, continuous shooting with higher resolution"</string>
+    <string name="cam_strings_burst_shooting_low_2mp_txt">Low speed (2 MP)</string>
+    <string name="cam_strings_burst_shooting_low_3mp_txt">Low speed (3 MP)</string>
+    <string name="cam_strings_burst_shooting_mid_8mp_txt">Middle speed (8 MP)</string>
+    <string name="cam_strings_burst_shooting_mid_13mp_txt">Middle speed (13 MP)</string>
+    <string name="cam_strings_burst_shooting_hi_10mp_txt">High speed (10 MP)</string>
+    <string name="cam_strings_burst_shooting_hi_9mp_txt">High speed (9 MP)</string>
+    <string name="cam_strings_burst_shooting_hi_6mp_txt">High speed (6 MP)</string>
+    <string name="cam_strings_burst_shooting_hi_5mp_txt">High speed (5 MP)</string>
+    <string name="cam_strings_hdr_resolution_to_1mp_txt">Resolution changed to 1 MP with HDR On</string>
+    <string name="cam_strings_hdr_resolution_to_12mp_cap_mode_txt">Resolution changed to 12 MP upon mode change</string>
+    <string name="cam_strings_hdr_resolution_to_7mp_cap_mode_txt">Resolution changed to 7 MP upon mode change</string>
+    <string name="cam_strings_hdr_resolution_to_1mp_cap_mode_txt">Resolution changed to 1 MP upon mode change</string>
+    <string name="cam_strings_hdr_resolution_to_1_8mp_txt">Resolution changed to 1.8 MP with HDR On</string>
+    <string name="cam_strings_accessibility_picture_effect_colored_pencil_txt">Changed to coloured pencil sketch</string>
+    <string name="cam_strings_accessibility_picture_effect_nostalgic_warm_txt">Changed to warm colour</string>
+    <string name="cam_strings_accessibility_picture_effect_nostalgic_cold_txt">Changed to cold colour</string>
+    <string name="cam_strings_flash_torch_txt">Torch</string>
+    <string name="cam_strings_long_press_burst_txt">Burst with long press</string>
+    <string name="cam_strings_accessibility_switch_to_front_txt">Double-tap to switch to front camera</string>
+    <string name="cam_strings_accessibility_switch_to_main_txt">Double-tap to switch to rear camera</string>
+    <string name="cam_strings_video_stabilizer_txt">Video stabiliser</string>
+    <string name="cam_strings_description_superior_auto_txt">Take photos and videos with automatically optimised settings</string>
+    <string name="cam_strings_description_pic_effect_txt">Select an artistic effect to apply to photos</string>
+    <string name="cam_strings_change_storage_to_sd_txt">SD card inserted. Change default save location to SD card?</string>
+    <string name="cam_strings_dependency_resolution_txt">To configure this setting, change the resolution.</string>
+    <string name="cam_strings_dependency_image_stabilizer_off_txt">Image stabiliser turned off.</string>
+    <string name="cam_strings_dependency_video_resolution_txt">To configure this setting, change the resolution.</string>
+    <string name="cam_strings_accessibility_creative_effect_color_picker_loupe_txt">Colour options</string>
+    <string name="cam_strings_description_high_frame_rate_txt">Record high frame-rate video and apply slow motion effects</string>
+    <string name="cam_strings_effect_color_pencil_txt">Colour sketch</string>
+    <string name="cam_strings_video_explanatory_txt">"For stable video recording, we recommend that you change the save location to internal storage. Would you like to change this now?
+
+If you continue to use the SD card for data storage, make sure you use a high-speed SD card."</string>
+</resources>
