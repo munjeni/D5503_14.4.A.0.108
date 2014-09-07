@@ -183,6 +183,7 @@ set_perm(0, 0, 0644, "/system/app/shutdownlistener.apk");
 set_perm(0, 0, 0644, "/system/app/skin-core.apk");
 set_perm(0, 0, 0644, "/system/app/sneiaccountmanager.apk");
 set_perm(0, 0, 0644, "/system/app/socialife.apk");
+set_perm(0, 0, 0644, "/system/app/SomcMovieCreator.apk");
 set_perm(0, 0, 0644, "/system/app/talkback.apk");
 set_perm(0, 0, 0644, "/system/app/textinput-tng.apk");
 set_perm(0, 0, 0644, "/system/app/theme-manager.apk");

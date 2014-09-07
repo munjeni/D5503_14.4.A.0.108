@@ -6,8 +6,8 @@
     <color name="transparent">#00000000</color>
     <color name="background_dark">#ff000000</color>
     <color name="background_light">#ffffffff</color>
-    <color name="holo_blue_light">#ff2197f2</color>
-    <color name="holo_blue_dark">#ff2197f2</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
     <color name="holo_green_light">#ff99cc00</color>
     <color name="holo_green_dark">#ff669900</color>
     <color name="holo_red_light">#ffff4444</color>
@@ -15,7 +15,7 @@
     <color name="holo_orange_light">#ffffbb33</color>
     <color name="holo_orange_dark">#ffff8800</color>
     <color name="holo_purple">#ffaa66cc</color>
-    <color name="holo_blue_bright">#ff2197f2</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
     <color name="safe_mode_text">#80ffffff</color>
     <color name="bright_foreground_dark">@color/background_light</color>
     <color name="bright_foreground_light">@color/background_dark</color>

@@ -3673,7 +3673,7 @@
     </style>
     <style name="TextAppearance.Holo.Widget.ActionMode" parent="@style/TextAppearance.Holo.Widget" />
     <style name="TextAppearance.Holo.Widget.Switch" parent="@style/TextAppearance.Holo.Small">
-        <item name="textColor">#00000000</item>
+        <item name="textColor">@color/secondary_text_holo_dark</item>
     </style>
     <style name="TextAppearance.Holo.Light.Widget.Switch" parent="@style/TextAppearance.Holo.Small">
         <item name="textColor">@color/primary_text_holo_dark</item>

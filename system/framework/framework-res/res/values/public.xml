@@ -4797,6 +4797,15 @@
     <public type="string" name="tethered_notification_title_wifi" id="0x01040803" />
     <public type="string" name="somc_btn_on" id="0x01040806" />
     <public type="string" name="somc_btn_off" id="0x01040807" />
+    <public type="string" name="global_action_reboot_title" id="0x01040808" />
+    <public type="string" name="global_action_reboot_normal" id="0x01040809" />
+    <public type="string" name="global_action_reboot_softreboot" id="0x0104080a" />
+    <public type="string" name="global_action_reboot_recovery" id="0x0104080b" />
+    <public type="string" name="global_action_reboot_bootloader" id="0x0104080c" />
+    <public type="string" name="global_action_reboot_flashmode" id="0x0104080d" />
+    <public type="string" name="global_action_reboot_emergency_download" id="0x0104080e" />
+    <public type="string" name="reboot_system" id="0x0104080f" />
+    <public type="string" name="reboot_progress" id="0x01040810" />
     <public type="string" name="month_long_standalone_january" id="0x010406e2" />
     <public type="string" name="month_long_standalone_february" id="0x010406e3" />
     <public type="string" name="month_long_standalone_march" id="0x010406e4" />
@@ -4983,15 +4992,6 @@
     <public type="string" name="lockscreen_sim_error_message" id="0x01040805" />
     <public type="string" name="APKTOOL_DUMMY_06a6" id="0x010406a6" />
     <public type="string" name="APKTOOL_DUMMY_06a7" id="0x010406a7" />
-    <public type="string" name="global_action_reboot_title" id="0x01040808" />
-    <public type="string" name="global_action_reboot_normal" id="0x01040809" />
-    <public type="string" name="global_action_reboot_softreboot" id="0x0104080a" />
-    <public type="string" name="global_action_reboot_recovery" id="0x0104080b" />
-    <public type="string" name="global_action_reboot_bootloader" id="0x0104080c" />
-    <public type="string" name="global_action_reboot_flashmode" id="0x0104080d" />
-    <public type="string" name="global_action_reboot_emergency_download" id="0x0104080e" />
-    <public type="string" name="reboot_system" id="0x0104080f" />
-    <public type="string" name="reboot_progress" id="0x01040810" />
     <public type="dimen" name="app_icon_size" id="0x01050000" />
     <public type="dimen" name="thumbnail_height" id="0x01050001" />
     <public type="dimen" name="thumbnail_width" id="0x01050002" />
@@ -7629,6 +7629,7 @@
     <public type="drawable" name="stat_sys_battery_charge_anim3" id="0x0108085b" />
     <public type="drawable" name="stat_sys_battery_charge_anim4" id="0x0108085c" />
     <public type="drawable" name="stat_sys_battery_charge_anim5" id="0x0108085e" />
+    <public type="drawable" name="ic_lock_reboot" id="0x01080952" />
     <public type="drawable" name="ic_contact_picture_180_holo_dark" id="0x010802da" />
     <public type="drawable" name="ic_contact_picture_180_holo_light" id="0x010802db" />
     <public type="drawable" name="ic_contact_picture_holo_dark" id="0x010802de" />
@@ -7733,7 +7734,6 @@
     <public type="drawable" name="spinner_disabled_holo" id="0x01080822" />
     <public type="drawable" name="spinner_normal_holo" id="0x0108082e" />
     <public type="drawable" name="switch_thumb_holo_light_v2" id="0x010808b0" />
-    <public type="drawable" name="ic_lock_reboot" id="0x01080952" />
     <public type="layout" name="activity_list_item" id="0x01090000" />
     <public type="layout" name="expandable_list_content" id="0x01090001" />
     <public type="layout" name="preference_category" id="0x01090002" />
