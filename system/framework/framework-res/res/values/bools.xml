@@ -74,7 +74,7 @@
     <bool name="config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="config_wimaxEnabled">false</bool>
     <bool name="config_dreamsSupported">true</bool>
-    <bool name="config_dreamsEnabledByDefault">false</bool>
+    <bool name="config_dreamsEnabledByDefault">true</bool>
     <bool name="config_dreamsActivatedOnDockByDefault">true</bool>
     <bool name="config_dreamsActivatedOnSleepByDefault">false</bool>
     <bool name="config_cellBroadcastAppLinks">true</bool>
